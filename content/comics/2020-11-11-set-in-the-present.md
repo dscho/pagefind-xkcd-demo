@@ -1,0 +1,19 @@
+---
+date: 2020-11-11
+title: "Set in the Present"
+num: 2384
+alt: >-
+  She referenced Billie Eilish, so this must be getting pretty close to the pandemic. But we've seen the last two years in-universe, so if it's set in the future, they must be in at least 2023 by now. [*adds thumbtacks and string to wall*]
+img: https://imgs.xkcd.com/comics/set_in_the_present.png
+---
+[Cueball is standing and watching a presumed typical wall mounted flat-screen television. There is no background, nor other physical features, just Cueball and the obliquely aligned screen positioned to also let us view its foreshortened image. In this, Megan and Ponytail are seen talking face to face with hands almost or actually in contact. Their faces are sociably close together and they are not shown as wearing masks. In the background of the scene are several other Cueball-like figures, not notably masked up or distanced from each other, and two may be holding hands. Cueball himself is given a large thought bubble above him, within which is written his current, distracted train of thoughts:]
+
+Cueball: Okay, they're hugging, and no one has masks, but she has a modern phone. Is this story set in 2019?
+
+Cueball: Or is this a post-vaccine future? Or an alternate no-COVID timeline?
+
+Cueball: Or are we supposed to think these characters are irresponsible?
+
+[Caption below the panel:]
+
+Movies and shows that are vaguely set in "the present" will be awkward for a while.

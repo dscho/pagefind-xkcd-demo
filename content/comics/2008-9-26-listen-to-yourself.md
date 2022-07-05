@@ -1,0 +1,38 @@
+---
+date: 2008-09-26
+title: "Listen to Yourself"
+num: 481
+alt: >-
+  Man, I just wanted to know how babby was formed.
+img: https://imgs.xkcd.com/comics/listen_to_yourself.png
+---
+[[Man in Hat approaches a girl tying at a computer]]
+
+Man in Hat: What are you writing?
+
+Girl: Virus.
+
+Man in Hat: What's it do?
+
+Girl: When someone tries to post a YouTube comment, it first reads it aloud back to them.
+
+Narrator: Soon everywhere:
+
+[[A person is commenting on YouTube]]
+
+<<type>><<type>><<type>>
+
+[[Youtube comment is read back]]
+
+Commenter: ...I'm a moron.
+
+[[Commenter leaves desk]]
+
+[[Commenter is seen sitting on steps, depressed]]
+
+[[Commenter has head in hands]]
+
+Commenter: I...
+
+Commenter: I didn't know.
+

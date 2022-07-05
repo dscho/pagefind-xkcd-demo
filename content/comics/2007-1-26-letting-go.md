@@ -1,0 +1,18 @@
+---
+date: 2007-01-26
+title: "Letting Go"
+num: 215
+alt: >-
+  At least I never gave her the root password.
+img: https://imgs.xkcd.com/comics/letting_go.png
+---
+[[A picture of a man and a woman in a heart is being held by someone, it has been ripped down the middle, separating the two people]]
+
+[[Man sits at computer, looking at the picture]]
+
+[[It is night, man still sits at computer with the picture in front of him and his head drooped]]
+
+[[It is day again, man types on computer]]
+
+Text from computer: root@homebox:~# userdel megan
+

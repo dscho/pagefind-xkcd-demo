@@ -1,0 +1,30 @@
+---
+date: 2009-04-03
+title: "Crossbows"
+num: 564
+alt: >-
+  I hate being the slowest guy in the lab.
+img: https://imgs.xkcd.com/comics/crossbows.png
+---
+[[Man 1 is pulling a crossbow out of a desk]]
+
+Man 1: Why do you have a crossbow in your desk?
+
+Woman (off-screen): You _don't_?
+
+[[Woman is on panel]]
+
+Man 1 (off-screen): No -- why would...
+
+Woman: You _are_ studying the consequences of Higgs excitation, aren't you?  Like the rest of the lab?
+
+[[Two men, both holding crossbows, joing the woman on panel]]
+
+Man 1: Yes, but why--
+
+Man 2: Maybe he's slow with the math.
+
+Woman: Well, he has until Tuesday.
+
+Man 2: Poor guy.
+

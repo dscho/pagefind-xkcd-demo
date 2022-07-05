@@ -1,0 +1,25 @@
+---
+date: 2021-02-10
+title: "Project Orion"
+num: 2423
+alt: >-
+  If you tune out again, when you tune back in you'll be hearing about dusty plasma fission fragment rockets.
+img: https://imgs.xkcd.com/comics/project_orion.png
+---
+[Cueball is raising his arm, holding the hand tilted down with palm up towards White Hat. Above them is the words Cueball says (without a speech line showing this). The first three lines are in normal font, but then successive lines fade to lighter and lighter gray and finally in the fourth line, just above their heads, the text is almost white. The overall effect is that Cueball's words gradually become background noise to White Hat.]
+
+Cueball: Our garden grew really well last year, so we think we might put a second raised bed along the garage, if we can find a...
+
+[Only White Hat is shown, without text, as he stares away from where Cueball must be off the edge of the panel.]
+
+[Only White Hat again, who now seems to look straight out of the panel.]
+
+[Back to the original setting. Cueball has lifted both hands up in front of him. He once again has the attention of White Hat. The text above begins with a line half hidden under the top of the panel, almost white font, and then the text fades back to black font over the next three lines, with the next, and last, line in his first paragraph all in black. And then a small gap and connecting line between this and the last two lines of text in his second paragraph. This time there is also with a speech line down to Cueball. The text from "..." to the first comma is difficult to read as only bottom half is shown, and in very faded font.]
+
+Cueball: ...thanks to X ray ablation, the pusher plate would absorb the nuclear blast, recoil, and then return to position for the next bomb.
+
+Cueball: Such a wild idea! Probably good that it was abandoned.
+
+[Caption below the panel:]
+
+If you temporarily tune out while a physicist is talking, when you tune back in they'll be talking about Project Orion.

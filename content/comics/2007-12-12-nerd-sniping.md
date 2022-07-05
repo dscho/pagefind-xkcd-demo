@@ -1,0 +1,34 @@
+---
+date: 2007-12-12
+title: "Nerd Sniping"
+num: 356
+alt: >-
+  I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun.
+img: https://imgs.xkcd.com/comics/nerd_sniping.png
+---
+[[Hat Guy is sitting on a chair, the Normal Guy is standing next to him. Across the street another man is coming from a building.]]
+
+Hat Guy: There's a certain type of brain that's easily disabled. If you show it an interesting problem, it involuntarily drops everything else to work on it.
+
+[[The man across the street is about to enter a crosswalk]]
+
+Hat Guy: This has led me to invent a new sport: nerd sniping. See that physicist crossing the road?
+
+[[Hat Guy holds up a sign]]
+
+Hat Guy: HEY!
+
+[[There is an image of a grid with resistors on every connection, two nodes a knight's move apart are marked with red circles.]]
+
+The sign reads: On this infinite grid of ideal one-ohm resistors, what's the equivalent resistance between the two marked nodes?
+
+Physicist on the street: It's... Hmm. Interesting. Maybe if you start with... No. Wait. Hmm... You could--
+
+[[A truck is zooming past, apparently where the physicist just stood]]
+
+<<FOOOOM>>
+
+Normal guy: I will have not part in this.
+
+Hat Guy: C'mon, make a sign. It's fun! Physicists are two points, mathematicians three.
+

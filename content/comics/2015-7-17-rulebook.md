@@ -1,0 +1,12 @@
+---
+date: 2015-07-17
+title: "Rulebook"
+num: 1552
+alt: >-
+  It's definitely an intentional foul, but we've decided it's worth it.
+img: https://imgs.xkcd.com/comics/rulebook.png
+---
+[[Two people are standing on the left, with a dog in a vest with a '9' on its side. Two other people are facing them on the right, one is holding a clipboard.]]
+
+Clipboard: There's nothing in the rulebook that says we can't kill and eat your dog.
+

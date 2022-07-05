@@ -1,0 +1,22 @@
+---
+date: 2015-06-03
+title: "Antique Factory"
+num: 1533
+alt: >-
+  WARNING: This item was aged by the same inexorable passage of time that also processes nuts.
+img: https://imgs.xkcd.com/comics/antique_factory.png
+---
+[[White Beret Guy is walking off, carrying a briefcase.]]
+
+WBG: Gotta go - I'm late for work.
+
+Off-screen: Oh, where are you working now?
+
+WBG: Antique factory!
+
+[[White Beret Guy arrives at his office, where he pulls out his chair from his desk.]]
+
+[[He sits at his table and waits.]]
+
+[[And waits.]]
+

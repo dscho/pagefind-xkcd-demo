@@ -1,0 +1,34 @@
+---
+date: 2009-01-30
+title: "Ducklings"
+num: 537
+alt: >-
+  DUCKLOOP'D?
+img: https://imgs.xkcd.com/comics/ducklings.png
+---
+(Ducklings follow mother duck in procession)
+
+Chick: Ready?
+
+Dude: Ready.
+
+(Dude and chick regard duck procession.)
+
+(Diagram of duck procession showing linear west-to-east motion)
+
+Dude: (on right side of duck procession) Roar! Boo!
+
+(Mother duck is alarmed.)
+
+(Mother duck proceeds south, then west. Ducklings follow.)
+
+(Chick seizes mother duck, lifts upwards.)
+
+Yoink!
+
+Mother duck: Quack
+
+(First ducking begins to follow final duckling, such that ducklings form a loop, rotating clockwise.)
+
+Operation: Duckling Loop
+

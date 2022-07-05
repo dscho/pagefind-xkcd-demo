@@ -1,0 +1,16 @@
+---
+date: 2013-12-27
+title: "Infinite Scrolling"
+num: 1309
+alt: >-
+  Maybe we should give up on the whole idea of a 'back' button. 'Show me that thing I was looking at a moment ago' might just be too complicated an idea for the modern web.
+img: https://imgs.xkcd.com/comics/infinite_scrolling.png
+---
+[[A woman stands at a desk, reading a book, touching it very gingerly. Another figure is standing behind her.]]
+
+Figure: Why are you turning the pages like that? 
+
+Woman: If I touch the wrong thing, I'll lose my place and have to start over.
+
+If books worked like infinite-scrolling webpages
+

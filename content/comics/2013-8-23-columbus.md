@@ -1,0 +1,24 @@
+---
+date: 2013-08-23
+title: "Columbus"
+num: 1255
+alt: >-
+  And thus was smallpox introduced into the previously Undying Lands.
+img: https://imgs.xkcd.com/comics/columbus.png
+---
+[[A figure in a hat is talking to two small children who are sitting cross-legged on the floor. A woman is off-panel.]]
+
+Figure in hat: Everyone said the world was flat, but Columbus knew it was round. 
+
+Woman: <<Sigh>> No, no, no. 
+
+[[The woman walks into frame. The children turn to look.]]
+
+Woman: So he took his ships and sailed west in a line tangent to the surface. The sea fell away, and he landed in *Valinor*. 
+
+Woman: A Silmaril on his brow, he wanders the heavens as the morning star, still believing he reached India. 
+
+Figure in hat: Stop making stuff up. 
+
+Woman: You first. 
+

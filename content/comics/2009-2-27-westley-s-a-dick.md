@@ -1,0 +1,31 @@
+---
+date: 2009-02-27
+title: "Westley's a Dick"
+num: 549
+alt: >-
+  Inigo/Buttercup 4eva <3
+img: https://imgs.xkcd.com/comics/westleys_a_dick.png
+---
+Buttercup: Oh, my sweet Westley!
+
+Buttercup: Why did you let me think you were dead?
+
+Westley: You shacked up with the prince!
+
+Buttercup: After years of mourning! The worst pain of my life!
+
+Buttercup: And now you ... kill people?
+
+Westley: I'd hardly be a dread pirate if I didn't.
+
+Buttercup: How lovable.
+
+Westley: It was for the sake of the narrative!
+
+Buttercup: Fuck the narrative. I'm going to go see if that Spaniard's single.
+
+Westley: ... As you wish.
+
+{{Alt text: Inigo
+
+Buttercup 4eva <3}}

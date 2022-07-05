@@ -1,0 +1,20 @@
+---
+date: 2006-08-09
+title: "I Have Owned Two Electric Skateboards"
+num: 139
+alt: >-
+  Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.
+img: https://imgs.xkcd.com/comics/electric_skateboards.png
+---
+{{How Electric Skateboards Work}}
+
+[[A person is standing on a skateboard, next to a sign that says "Point A," and pushes a button.]]
+
+<<click>>
+
+[[He skates.]]
+
+<<whirrr>>
+
+[[He stops, with a sign saying "Point B" to his right and a group of chicks (labeled "chicks") to his left.]]
+

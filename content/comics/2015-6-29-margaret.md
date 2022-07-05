@@ -1,0 +1,28 @@
+---
+date: 2015-06-29
+title: "Margaret"
+num: 1544
+alt: >-
+  Otherwise known as Margaret the Destroyer, I will bring pain to the the Great One. Then again, maybe I won't.
+img: https://imgs.xkcd.com/comics/margaret.png
+---
+[[A single woman, MARGARET, speaks alone, in the darkness.]]
+
+Margaret: Are you there, god? It's me, Margaret.
+
+Margaret: I know you're listening.
+
+[[Margaret appears larger.]]
+
+Margaret: Are you scared, god?
+
+Margaret: Are you?
+
+[[Only her head face is seen now. The lack of expression on her ovoid countenance is truly horrifying.]]
+
+Margaret: You should be.
+
+[[Silhouetted against the darkness, Margaret stands alone.]]
+
+Margaret: MARGARET IS COMING FOR YOU.
+

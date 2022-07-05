@@ -1,0 +1,22 @@
+---
+date: 2014-09-19
+title: "Conversation"
+num: 1423
+alt: >-
+  Later, at home: 'Dear diary: Still can't figure out what to write here ...'
+img: https://imgs.xkcd.com/comics/conversation.png
+---
+[[A figure and a woman sit facing each other at a dining table with glasses of wine and a candle on it.]]
+
+Figure: So, what do you do in your free time? 
+
+[[We see the woman in close-up.]]
+
+Woman: Mostly I sit around worrying someone will ask me that, and try to think of a good answer. 
+
+[[We see both at the table again. The woman gets up to go.]]
+
+Figure: That's not a bad answer. 
+
+Woman: It's all I've got. Now that it's done, I should go. Bye!
+

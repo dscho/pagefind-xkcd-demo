@@ -1,0 +1,15 @@
+---
+date: 2007-01-03
+title: "Candy Button Paper"
+num: 205
+alt: >-
+  Nonrewritable tape?
+img: https://imgs.xkcd.com/comics/candy_button_paper.png
+---
+When it came to eating strips of candy buttons, there were two main strategies.  Some kids carefully removed each bead, checking closely for paper residue before eating.
+
+Others tore the candy off haphazardly, swallowing large scraps of paper as they ate.
+
+Then there were the lonely few of us who moved back and forth on the strip, eating rows of beads here and there, pretending we were Turing machines.
+
+{Title text: Nonrewritable tape?}

@@ -1,0 +1,14 @@
+{{ define "main" }}
+    <h1>This is xkcd, indexed by Pagefind.</h1>
+
+    <ul>
+	{{ range sort (where .Site.Pages "Section" "comics") ".Params.num" }}
+        {{ if .Params.title }}
+            <li>
+                <h2><a href="{{ .Permalink | relURL }}">#{{ .Params.num }}: {{ .Params.title }}</a></h2>
+                <p class="date">{{ time.Format "January 2, 2006" .Params.date }}</p>
+            </li>
+        {{ end }}
+	{{ end }}
+    </ul>
+{{ end }}

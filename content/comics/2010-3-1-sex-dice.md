@@ -1,0 +1,34 @@
+---
+date: 2010-03-01
+title: "Sex Dice"
+num: 708
+alt: >-
+  You roll for initiative, and ... [roll] ... wow, do you ever take it.
+img: https://imgs.xkcd.com/comics/sex_dice.png
+---
+[[A man and a woman kneel on a bed, the man is shaking a cup of dice.]]
+
+Man: All right, baby. Get ready for...
+
+<<Shake shake shake roll>>
+
+((Between the first two panels.))
+
+[[Two dice have been rolled, the first has five dots, the second says "BREASTS".]]
+
+[[The man and woman, stare at the dice.]]
+
+Man: I really need to organize the game cupboard.
+
+Woman: Wait, so where's the other sex die?
+
+[[Two men and two women are sitting on the floor around a game.]]
+
+Man #1: I... 
+
+fondle
+
+ the castle guard? That doesn't seem right.
+
+Woman #1: It did 6 damage, though.
+

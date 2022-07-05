@@ -1,0 +1,24 @@
+---
+date: 2013-11-29
+title: "Oort Cloud"
+num: 1297
+alt: >-
+  ... I wanna try.  Hang on, be right back.
+img: https://imgs.xkcd.com/comics/oort_cloud.png
+---
+[[3 asteroids are talking.]]
+
+Asteroid 1: Have you noticed that bright dot in the distance? 
+
+Asteroid 2: Yeah. What's the deal with it? 
+
+[[Asteroid 1 scoots off-panel.]]
+
+Asteroid 1: Dunno. I'm gonna go check it out. 
+
+[[Asteroids 2 and 3 sit and wait.]]
+
+[[Asteroid 1 has returned, as pieces of rubble and dust.]]
+
+Asteroid 1: Wow. Do not go over there.
+

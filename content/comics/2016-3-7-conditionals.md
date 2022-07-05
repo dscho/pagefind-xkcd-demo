@@ -1,0 +1,36 @@
+---
+date: 2016-03-07
+title: "Conditionals"
+num: 1652
+alt: >-
+  'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'
+img: https://imgs.xkcd.com/comics/conditionals.png
+---
+[[A person is confronted with a couple, holding their newborn baby. They think a series of thoughts, each of which are crossed out in the thought bubble.]]
+
+Person (thinking): Wow, it's getting so big! Unlike most babies, which stay the same size forever.
+
+Hi! I'm talking to a baby!
+
+What brand is it?
+
+Wow, definitely much smaller than a regular person!
+
+You sure did make that.
+
+4
+
+5 stars, Great baby.
+
+It doesn't really look like you since you're not a baby.
+
+So do they learn words one at a tie alphabetically or can you pick the order or what?
+
+I hope it does a good job.
+
+Person (says aloud): Wow, that's a really cool baby!
+
+Person (thinks): Dammit.
+
+I can never figure out what to say to babies.
+

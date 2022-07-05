@@ -1,0 +1,26 @@
+---
+date: 2007-04-13
+title: "Hypotheticals"
+num: 248
+alt: >-
+  What if someone broke out of a hypothetical situation in your room right now?
+img: https://imgs.xkcd.com/comics/hypotheticals.png
+---
+Beret Guy: What if I had some ice cream? Wouldn't that be awesome?
+
+Person: No, stop--
+
+Beret Guy (thinking):
+
+        Person: Great, you've trapped us in a a hypothetical situation!
+
+        Beret Guy (holding ice cream): Mm, ice cream.
+
+        Person: Maybe if I had a knife I could cut our way free . . .
+
+        Person (thinking):
+
+                Beret Guy: Mmm, ice cream!
+
+                Person (reaching back into previous thought bubble): Here, take this one.
+

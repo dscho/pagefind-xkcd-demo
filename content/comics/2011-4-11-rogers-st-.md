@@ -1,0 +1,24 @@
+---
+date: 2011-04-11
+title: "Rogers St."
+num: 884
+alt: >-
+  'We can also use middle names in place of first pet's names, but yours is something incomprehensible about dropping tables.'
+img: https://imgs.xkcd.com/comics/rogers_st.png
+---
+[[Someone with curly hair is standing in front of a sign labeled 'Auditions'.  A judge of some sort speaks from off-panel.]]
+
+Judge: 
+
+Seriously?
+
+Judge: Sorry, no, that's a huge mood killer.
+
+Judge: 
+
+Next!
+
+Before I have a kid, I'm moving to Rogers Street in Cambridge, MA, and then getting a cat named "Mister"
+
+Just to guarantee the kid will never go into porn.
+

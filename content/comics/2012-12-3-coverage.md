@@ -1,0 +1,22 @@
+---
+date: 2012-12-03
+title: "Coverage"
+num: 1142
+alt: >-
+  My resonant tunneling diode phone has limited range but a short enough wavelength to penetrate even the densest cages. This gives me a major combat advantage, hopefully.
+img: https://imgs.xkcd.com/comics/coverage.png
+---
+((An inset panel inside the main panel.))
+
+[[A close-up on a man holding a cellphone.]]
+
+Man: Man, the coverage in here is 
+
+awfu-
+
+((The main panel.))
+
+[[The man is interrupted by another man punching him in the face, and he drops his phone to the ground.]]
+
+FARADAY CAGEMATCH
+

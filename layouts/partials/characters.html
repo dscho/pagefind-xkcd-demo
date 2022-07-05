@@ -1,0 +1,8 @@
+<ul class="tags">
+{{ $comic := . }}
+{{ range site.Data.characters }}
+    {{ if in .comics $comic }}
+        <li class="tag" >{{ .character }}</li>
+    {{ end }}
+{{ end }}
+</ul>

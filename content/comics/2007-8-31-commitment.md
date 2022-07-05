@@ -1,0 +1,23 @@
+---
+date: 2007-08-31
+title: "Commitment"
+num: 310
+alt: >-
+  Could be worse.  The last guy in that situation fell for one of the transient trumpeting angels.
+img: https://imgs.xkcd.com/comics/commitment.png
+---
+[[Guy proposing to girl on his knee]]
+
+Narrator: I understand now. There's no choir of angels when you meet the right person. It's about growing out of your fears to realize what you have is what you want.
+
+Guy: I do.
+
+Girl: I do.
+
+[[A cloud with trumpeting angels appears]]
+
+Girl 2: Hi.
+
+Narrator: Well, shit.
+
+{{Could be worse. The last guy in that situation fell for one of the transient trumpeting angels.}}

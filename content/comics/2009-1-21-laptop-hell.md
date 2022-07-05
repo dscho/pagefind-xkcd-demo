@@ -1,0 +1,38 @@
+---
+date: 2009-01-21
+title: "Laptop Hell"
+num: 533
+alt: >-
+  The xkcd.com sysadmin has a Q2010, and I can attest that it can handle a fall down several flight of concrete steps.  Relatedly, he's upset with me -- I hope he doesn't take revenge by messing with my site's contenDISREGARD THAT I SUCK COCKS
+img: https://imgs.xkcd.com/comics/laptop_hell.png
+---
+Mephistopheles: Welcome to Hell. Here's-
+
+Mephistopheles: Wait. I know you. 
+
+Mephistopheles: You're the Fujitsu exec who killed the Q-series. 
+
+Fujitsu Exec: ...Yes?
+
+Mephistopheles: The Q2010 was the perfect laptop!
+
+Mephistopheles: Powerful, durable, had every feature, and made the Air look <u>bulky<
+
+u> And that was back in 2006!
+
+Fujitsu Exec: But noone bought it!
+
+Mephistopheles: Then you marketed it wrong!
+
+Fujitsu Exec: Wait. Don't you <i>encourage<
+
+i> evil acts down here? 
+
+Mephistopheles: In theory, yes, but we need laptops too!
+
+Mephistopheles: Although it's moot, since we have an exclusive deal with Sony. 
+
+Fujitsu Exec: I <i>knew<
+
+i> it!
+

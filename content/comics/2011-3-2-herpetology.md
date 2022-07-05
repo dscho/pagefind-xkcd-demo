@@ -1,0 +1,20 @@
+---
+date: 2011-03-02
+title: "Herpetology"
+num: 867
+alt: >-
+  Birds are Aves, which is part of the clade Theropoda, which is in Saurischia, which is in Dinosauria. Those birds outside our windows are dinosaurs. We can clear out the rest of our brains because we now have the best fact.
+img: https://imgs.xkcd.com/comics/herpetology.png
+---
+Ornithology conference:
+
+[[graph showing a large tree split between amphibians and reptiles]]
+
+Ornithologist: As you can see, herpetology is a silly field; reptiles are actually more closely related to birds and mammals than to amphibians.It should really be broken up, with lizards folded into ornithology.
+
+Herpetology conference:
+
+[[graph showing a large tree split between nice people and ornithologists]]
+
+Herpetologist: As you can see, ornithologists are actually assholes.
+

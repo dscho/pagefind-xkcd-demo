@@ -1,0 +1,31 @@
+---
+date: 2014-10-22
+title: "Higgs Boson"
+num: 1437
+alt: >-
+  'Can't you just use the LHC you already built to find it again?' 'We MAY have disassembled it to build a death ray.' 'Just one, though.' 'Nothing you should worry about.' 'The death isn't even very serious.'
+img: https://imgs.xkcd.com/comics/higgs_boson.png
+---
+
+
+[[Woman standing at a podium with man behind her]]
+
+Person off scene: Tell us about your proposal.
+
+Woman: We're requesting $3 billion in funding to find the Higgs Boson.
+
+Person off scene: ... wait.  Didn't you already find it a year or two ago?
+
+Man: Yes, well, um.
+
+[[Zoom into woman]]
+
+Woman: ... ok, this is embarrassing.
+
+Man off scene: See, the thing is---
+
+[[Zoom out to original scene]]
+
+Person off scene: Don't tell us you lost it already.
+
+Woman: Look.  In our defense it's really small.

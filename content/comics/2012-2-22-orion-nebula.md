@@ -1,0 +1,24 @@
+---
+date: 2012-02-22
+title: "Orion Nebula"
+num: 1020
+alt: >-
+  Also on the agenda: what's with his hips?
+img: https://imgs.xkcd.com/comics/orion_nebula.png
+---
+[[Opening speaker stands behind a lectern decorated with the indicators of the International Astronomical Union]]
+
+Speaker: Welcome to IAU Symposium #279.
+
+Speaker: We are no strangers to controversy, and we will not shy away from the tough issues.  Which brings us to the subject at hand.
+
+[[An anatomically uncensored projection of the Constellation Orion appears before the speaker]]
+
+Speaker: It's time to talk about the fact that Orion clearly has a dong.  
+
+Attendee in crowd #1: It's hard to miss.
+
+Attendee #2: we could keep telling people it's a sword.
+
+Attendee #3: C'mon, no one's buying that anymore.
+

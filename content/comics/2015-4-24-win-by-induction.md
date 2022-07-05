@@ -1,0 +1,16 @@
+---
+date: 2015-04-24
+title: "Win by Induction"
+num: 1516
+alt: >-
+  This would be bad enough, but every 30th or 40th pokéball has TWO of them inside.
+img: https://imgs.xkcd.com/comics/win_by_induction.png
+---
+[[This will not make sense if you do not know what Pokemon is.]]
+
+[[A seemingly infite row of Pikachu stands, each next to an open pokéball. The pokemon on the end of the row, nearest to the trainers, has a closed pokéball.]]
+
+Pikachu: Pikachu, I choose YOU!
+
+[[There are two trainers. One has an open pokéball. The other is staring at their watch.]]
+

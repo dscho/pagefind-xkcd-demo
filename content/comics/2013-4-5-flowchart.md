@@ -1,0 +1,12 @@
+---
+date: 2013-04-05
+title: "Flowchart"
+num: 1195
+alt: >-
+  The way out is to use the marker you have to add a box that says 'get a marker' to the line between you and 'start', then add a 'no' line from the trap box to 'end'.
+img: https://imgs.xkcd.com/comics/flowchart.png
+---
+[[A flowchart. The first box is rectangular and says "START" and has an arrow leading to a larger diamond-shaped box that reads, "Hey, wait, this flowchart is a trap!". There is an arrow labeled 'YES' leading from this box back to itself.]]
+
+ 
+

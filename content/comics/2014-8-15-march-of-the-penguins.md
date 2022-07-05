@@ -1,0 +1,24 @@
+---
+date: 2014-08-15
+title: "March of the Penguins"
+num: 1408
+alt: >-
+  You ARE getting older, though.
+img: https://imgs.xkcd.com/comics/march_of_the_penguins.png
+---
+[[Black hat guy walks up to a woman seated at a desk with a laptop.]]
+
+Black hat guy: All the birds from "March of the Penguins" are now dead. 
+
+[[We just see the woman at her laptop; black hat guy is off-panel.]]
+
+Woman: OK, I *get* it. We're all aging. 
+
+Black hat guy: What? No.
+
+[[The woman has turned around in her seat to look at black hat guy.]]
+
+Black hat guy: I'm not trying to make you feel old. They were alive last night. I'm trying to apologize.
+
+Woman: Oh God
+

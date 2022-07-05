@@ -1,0 +1,16 @@
+---
+date: 2006-06-30
+title: "Quirky Girls"
+num: 122
+alt: >-
+  Romantic comedy heroines, I'm talking to you.
+img: https://imgs.xkcd.com/comics/quirky_girls.png
+---
+[[ Man and woman talking, looking at a group of 2 men and a woman standing further away.  The woman is on a table and the 2 men are looking at her ]]
+
+Man: I love that girl.  She's not afraid to be quirky and different.
+
+Woman: You know, I'm active in street theatre and I collect and paint Asian dolls.
+
+Man: ...Okay, I didn't actually mean be different.  I just want silly and entertaining on command now and then.
+

@@ -1,0 +1,26 @@
+---
+date: 2011-06-27
+title: "Hofstadter"
+num: 917
+alt: >-
+  "This is the reference implementation of the self-referential joke."
+img: https://imgs.xkcd.com/comics/hofstadter.png
+---
+[[A man sits at a desk, working on a laptop. A woman approaches the desk and picks up a tiny book.]]
+
+Woman: What's this? 
+
+Man: Douglas Hofstadter's six-word autobiography. After all those 700-page tomes, I guess he wanted to try for brevity.
+
+Woman: Huh. Let's see...
+
+[[Close up of woman, reading the tiny book.]]
+
+Book: I'm So Meta, Even This Acronym
+
+[[Full shot of man and woman again. The woman looks down at the tiny book in her hand.]]
+
+Woman: ...whoa.
+
+Man: I think he nailed it.
+

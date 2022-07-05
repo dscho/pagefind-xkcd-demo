@@ -1,0 +1,26 @@
+---
+date: 2016-01-04
+title: "Substitutions 2"
+num: 1625
+alt: >-
+  Within a few minutes, our roads will be full of uncontrollably-swerving cars and our skies full of Amazon delivery dogs.
+img: https://imgs.xkcd.com/comics/substitutions_2.png
+---
+((This is like a flowchart. The first line has arrows pointing to all the subsequent lines.))
+
+It's 2016 - where's my...
+
+Flying car â They're called "Helicopters" 
+
+Jetpack â Turns out people are huge wimps about crashing
+
+Moon colony â No one has put up the cash
+
+Self-driving car â Coming surprisingly soon
+
+Floating sky city â Turns out cities are heavy
+
+Hoverboard â This question is now ambiguous thanks to a new scooter thing (and will lead to an argument about the meaning of "hoverboard" which is way less interesting than either kind of hoverboard)
+
+Robot butler â He was called "Jeeves" and he wasn't that great
+

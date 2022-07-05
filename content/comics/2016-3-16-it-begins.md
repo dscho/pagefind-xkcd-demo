@@ -1,0 +1,55 @@
+---
+date: 2016-03-16
+title: "It Begins"
+num: 1656
+alt: >-
+  You can also try 'Yikes.'
+img: https://imgs.xkcd.com/comics/it_begins.png
+---
+install.sh
+
+#!
+
+bin
+
+bash
+
+pip install "$1" & 
+
+easy_install "$1" &
+
+brew install "$1" & 
+
+npm install "$1" & 
+
+yum install "$1" & dnf install "$1" & 
+
+docker run "$1" & 
+
+pkg install "$1" & 
+
+apt-get install "$1" & 
+
+sudo apt-get install "$1" & 
+
+steamcmd +app_update "$1" validate & 
+
+git clone https:
+
+github.com
+
+"$1"
+
+"$1" & 
+
+cd "$1";.
+
+configure;make;make install & 
+
+curl "$1" | bash &
+
+{{Title text: The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>
+
+dev
+
+null' are recommended additions.)}}

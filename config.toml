@@ -1,0 +1,3 @@
+baseURL = 'https://xkcd.pagefind.app/'
+languageCode = 'en-us'
+title = 'Pagefind XKCD'

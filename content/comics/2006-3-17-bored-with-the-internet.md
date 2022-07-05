@@ -1,0 +1,22 @@
+---
+date: 2006-03-17
+title: "Bored with the Internet"
+num: 77
+alt: >-
+  I used to do this all the time.
+img: https://imgs.xkcd.com/comics/bored_with_the_internet.jpg
+---
+[[Two men are talking in a room with a computer on. One is wearing a black hat.]]
+
+First man: I feel like I'm wasting my life on the internet. Let's walk around the world.
+
+Man with the black hat: Sounds good.
+
+[[The two men are shown walking through trees.]]
+
+[[The two men are shown walking on flat stretch, with mountains in the distance.]]
+
+[[The two men are shown in a magnificent canyon. They stand, silently looking at the scene.]]
+
+First man: And yet all I can think is, "This will make for a great LiveJournal entry."
+

@@ -1,0 +1,20 @@
+---
+date: 2006-08-11
+title: "Delicious"
+num: 140
+alt: >-
+  I'm currently in the I Have Cheese phase of this cycle.
+img: https://imgs.xkcd.com/comics/delicious.png
+---
+[[Frame is split by a diagonal]]
+
+[[First half: guy in front of open fridge]]
+
+Caption: I have leftover cheese. I should get chips and make nachos.
+
+[[Second half: guy with bag of chips]]
+
+Caption: I have leftover chips. I should get cheese and make nachos.
+
+Large Caption: A delicious cycle
+

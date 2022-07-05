@@ -1,0 +1,16 @@
+---
+date: 2006-01-01
+title: "Blown apart"
+num: 5
+alt: >-
+  Blown into prime factors
+img: https://imgs.xkcd.com/comics/blownapart_color.jpg
+---
+[[A black number 70 sees a red package.]]
+
+70: hey, a package!
+
+[[The package explodes with a <<BOOM>> and a red cloud of smoke.]]
+
+[[There are a red 7, a green 5 and a blue 2 lying near a scorched mark on the floor.]]
+

@@ -1,0 +1,22 @@
+---
+date: 2013-01-16
+title: "Hand Sanitizer"
+num: 1161
+alt: >-
+  Hipster CDC Reports Flu Epidemic Peaked Years Ago
+img: https://imgs.xkcd.com/comics/hand_sanitizer.png
+---
+[[A man stands in front of a poster with a bottle in his hand.]]
+
+Poster: An invisible sneeze droplet can contain *200 million* germs! 
+
+[[The man looks at the bottle.]]
+
+Bottle: Our hand sanitizer kills 99.99% of germs! 
+
+[[The man taps a calculator.]]
+
+200000000 x 0.01% = 
+
+Man: Ew. 
+

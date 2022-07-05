@@ -2,7 +2,7 @@
 {{ $comic := . }}
 {{ range site.Data.characters }}
     {{ if in .comics $comic }}
-        <li class="tag" >{{ .character }}</li>
+        <li class="tag" data-pagefind-filter="character">{{ .character }}</li>
     {{ end }}
 {{ end }}
 </ul>

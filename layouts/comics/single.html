@@ -1,11 +1,11 @@
 {{ define "main" }}
     <a href="/">← Back</a>
-    <div class="comic">
-        <p class="comic-date">{{ time.Format "January 2, 2006" .Params.date }}</p>
+    <div class="comic" data-pagefind-body>
+        <p data-pagefind-meta="date" class="comic-date">{{ time.Format "January 2, 2006" .Params.date }}</p>
         {{ partial "characters.html" .Params.num }}
 
         <h1 class="comic-title">#{{ .Params.num }}: {{ .Params.title }}</h1>
-        <img src="{{ .Params.img }}" title="{{ .Params.alt }}" alt="{{ .Params.title }}" />
+        <img data-pagefind-index-attrs="title" src="{{ .Params.img }}" title="{{ .Params.alt }}" alt="{{ .Params.title }}" />
         <p>
             {{ .Content }}
         </p>

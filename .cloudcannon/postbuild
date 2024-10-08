@@ -1,1 +1,1 @@
-npx -y pagefind@beta --site public
+npx -y pagefind --site public

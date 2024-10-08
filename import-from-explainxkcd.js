@@ -41,6 +41,8 @@ if (`${d.getFullYear()}` == 'NaN') throw new Error(`NaN for date ${date}, ${d}`)
     terminal: false
   })
 
+  const characters = {}
+
   let page = {}
   const chunks = []
   let text = false
@@ -150,8 +152,30 @@ if (`${d.getFullYear()}` == 'NaN') throw new Error(`NaN for date ${date}, ${d}`)
         ].join('\n')
 
         fs.writeFileSync(page.filePath, page.fileContent)
+
+	for (const character of page.text
+	    .replace(/[‏‎]/g, '')
+	    .split(/\[\[Category:Comics featuring +((?!Ado)[^\];'!]+?) *\]\]/gi)
+	    .filter((_, i) => (i % 2) === 1)) {
+	  const key = character.toLowerCase().replace(/ /g, '_')
+          if (!characters[key]) characters[key] = {
+	    character,
+	    comics: []
+	  }
+	  characters[key].comics.push(Number.parseInt(page.infobox.number))
+	}
       }
     } else if (!end && tag === 'title') page.title = content
+  }
+
+  for (const key of Object.keys(characters).sort()) {
+    const value = characters[key]
+    const q = value.character.match(/^[A-Za-z ]+$/) ? '' : '"'
+    fs.writeFileSync(`data/characters/${key}.yml`, [
+      `character: ${q}${value.character}${q}`,
+      'comics:',
+      ...value.comics.sort((a, b) => a - b).map(e => `  - ${e}`)
+    ].join('\n'))
   }
 })().catch(e => {
   process.stderr.write(`${e.stack}\n`)

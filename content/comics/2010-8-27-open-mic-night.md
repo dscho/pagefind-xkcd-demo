@@ -6,31 +6,34 @@ alt: >-
   Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?
 img: https://imgs.xkcd.com/comics/open_mic_night.png
 ---
-[[Woman on stage, holding microphone, hip-hop stance.]]
+[Megan on stage, holding microphone, hip-hop stance.]
 
-Woman: Yo, I'm M.C. Aphasia and I'm here to say that, I... uh... um... hi?
+Megan: Yo, I'm M.C. Aphasia and I'm here to say that, I... Uh...
 
-[[Hat man on stage, holding microphone.]]
+Megan: ...Um...
 
-Hat man: So I... oh? Does she? Well, when 
+Megan: ...Hi?
 
-yo
+[Black Hat on stage, holding microphone.]
 
- mama sits around the house, she finds herself wishing she'd finished her degree instead of having kids right away, maybe started that business. Then she might have created something she's 
+Black Hat: So I... oh? Does she? Well, when *yo* mama sits around the house, she finds herself wishing she'd finished her degree instead of having kids right away, maybe started that business. Then she might have created something she's *proud* of.
 
-proud
+[Cueball on stage, holding microphone, fist pumping toward audience.]
 
- of.
+Cueball:
 
-[[Man on stage, holding microphone, fist pumping toward audience.]]
+Yo, I'm M.C. Quine
 
-Man: Yo, I'm M.C. Quine and I'm here to say, "Yo, I'm M.C. Quine and I'm here to say!"
+and I'm here to say,
 
-[[Beret man on stage, holding microphone.]]
+"Yo, I'm M.C. Quine
 
-Beret man: Ever notice how men go to the restroom alone, while women go in hordes ten thousand strong, clad all in sable armor and bristling with swords and spears?
+and I'm here to say!"
 
-Audience member: Those are orcs.
+[Beret Guy on stage, holding microphone.]
 
-Beret man: Oh.
+Beret Guy: Ever notice how men go to the restroom alone, while women go in hordes ten thousand strong, clad all in sable armor and bristling with swords and spears?
 
+Audience member (off-screen): Those are orcs.
+
+Beret Guy: Oh.

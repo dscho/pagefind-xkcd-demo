@@ -8,13 +8,13 @@ img: https://imgs.xkcd.com/comics/thorough_analysis.png
 ---
 [The comic panel consists of the beginning of a research paper written in gray, with the last line being slightly cut at the bottom by the panels frame indicating that the text continues below.]
 
-1. Introduction
+<span style="color:gray">1. Introduction</span>
 
-The December 1811 earthquake near New Madrid, Missouri reportedly caused church bells to ring in Charleston, South Carolina.
+<span style="color:gray">The December 1811 earthquake near New Madrid, Missouri reportedly caused church bells to ring in Charleston, South Carolina.</span>
 
-But did it?
+<span style="color:gray">But did it?</span>
 
-The original bell tower has been lost, but a computer model of the church building was created from archival plans and forensic masonry analysis. Genetic testing of the timber from local trees related to those used in the bell tower shows a weakness in the
+<span style="color:gray">The original bell tower has been lost, but a computer model of the church building was created from archival plans and forensic masonry analysis. Genetic testing of the timber from local trees related to those used in the bell tower shows a weakness in the</span>
 
 [Caption below the panel:]
 

@@ -10,9 +10,9 @@ From the makers of the Blogosphere, Blogocube, and Blogodrome comes
 
 the Blogofractal
 
-[[A large rectangle subdivided into rectangles in a fractal pattern, most with a phrase or word inside]]
+[A large rectangle subdivided into rectangles in a fractal pattern, most with a phrase or word inside. Some subdivisions cannot be seen, as they are too small.]
 
-[[Mostly left to right from top-left corner]]
+[Mostly left to right from top-left corner.]
 
 TripMaster Monkey says
 
@@ -30,11 +30,7 @@ FLICKR
 
 They're saying on Kos that
 
-http:
-
-slashdot.org
-
-articl
+https://slashdot.org/articl
 
 tagCloud
 
@@ -56,9 +52,9 @@ Comments (0)
 
 Blogotesseract
 
-Â¡play games!
+¡play games!
 
-[[RSS icon]]
+[RSS icon.]
 
 is AYB retro yet?
 
@@ -66,7 +62,7 @@ Google Google Google Apple Google Goog
 
 Cheney totally shot a dude!!!
 
-Watch this doddler get owned by a squirrel!!!
+Watch this toddler get owned by a squirrel!!!
 
 Developers
 
@@ -84,7 +80,7 @@ Check out this vid of Jon Stewart
 
 Web 7.1
 
-Kryptoniteâ¢ locks vulnerable to "keys!"
+Kryptonite™ locks vulnerable to "keys!"
 
 Interesting post!  Check out my blog, it has useful info on CARBON MONOXIDE LITIGATION
 
@@ -114,7 +110,7 @@ We should elect this dude!
 
 Google Maps is da best!!
 
-Moderation:  +1 Sassy
+Moderation: +1 Sassy
 
 RSS!
 
@@ -122,7 +118,7 @@ A-list
 
 <3
 
-Trackable URL?
+Trackback URL?
 
 I shot a man in Reno check it out on YouTube!
 
@@ -189,4 +185,3 @@ del.icio.us!
 o.O
 
 Don't slam the source when you close it.
-

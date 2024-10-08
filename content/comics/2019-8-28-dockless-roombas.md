@@ -24,4 +24,4 @@ Roomba: Unlock
 
 [Beret Guy is squatting down on the Roomba as it drives him away, while Cueball and Megan turns to stare after him,]
 
-Roomba: Whirrrr
+Roomba: *Whirrrr*

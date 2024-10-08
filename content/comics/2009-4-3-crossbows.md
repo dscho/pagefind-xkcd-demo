@@ -6,25 +6,26 @@ alt: >-
   I hate being the slowest guy in the lab.
 img: https://imgs.xkcd.com/comics/crossbows.png
 ---
-[[Man 1 is pulling a crossbow out of a desk]]
+[Cueball is pulling a crossbow out of a desk.]
 
-Man 1: Why do you have a crossbow in your desk?
+Cueball: Why do you have a crossbow in your desk?
 
-Woman (off-screen): You _don't_?
+Megan (off-screen): You *don't*?
 
-[[Woman is on panel]]
+[Pan to Megan who looks towards Cueball who is off-screen to the left.]
 
-Man 1 (off-screen): No -- why would...
+Cueball (off-screen): No—why would—
 
-Woman: You _are_ studying the consequences of Higgs excitation, aren't you?  Like the rest of the lab?
+Megan: You *are* studying the consequences of Higgs excitation, aren't you?
 
-[[Two men, both holding crossbows, joing the woman on panel]]
+Megan: Like the rest of the lab?
 
-Man 1: Yes, but why--
+[Cueball, now carying Megan's crossbow joins her as the panel extends to include another Cueball-like guy to her right, he also carries a crossbow.]
 
-Man 2: Maybe he's slow with the math.
+Cueball: Yes, but why—
 
-Woman: Well, he has until Tuesday.
+Guy: Maybe he's slow with the math.
 
-Man 2: Poor guy.
+Megan: Well, he has until Tuesday.
 
+Guy: Poor guy.

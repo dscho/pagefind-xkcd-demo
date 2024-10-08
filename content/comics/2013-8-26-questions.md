@@ -6,7 +6,7 @@ alt: >-
   To whoever typed 'why is arwen dying': GOOD. FUCKING. QUESTION.
 img: https://imgs.xkcd.com/comics/questions.png
 ---
-((This strip is a rectangular word cloud, titled 'Questions found in Google autocomplete'. Embedded in the cloud are 5 single panels, with illustrated questions. These are described at the end. Questions are given in roughly columnar order. None of the questions have question marks.))
+[This strip is a rectangular word cloud, titled 'Questions found in Google autocomplete'. Embedded in the cloud are five single panels, with illustrated questions. These are described at the end. Questions are given in roughly columnar order. None of the questions have question marks.]
 
 Questions found in Google Autocomplete
 
@@ -30,7 +30,7 @@ Why are there doors on the freeway
 
 Why are there so many svchost.exe running
 
-Why aren't there any countries in antarctica 
+Why aren't there any countries in antarctica
 
 Why are there scary sounds in Minecraft
 
@@ -88,7 +88,7 @@ Why do trees die
 
 Why is there no sound on CNN
 
-Why aren't Pokemon real 
+Why aren't Pokemon real
 
 Why aren't bullets sharp
 
@@ -270,23 +270,22 @@ Why are dogs afraid of fireworks
 
 Why is there no king in England
 
-[[We see a figure from the torso up, with arms outstretched.]]
+[We see Cueball from the torso up, with arms outstretched.]
 
-Figure: Why aren't my arms growing
+Cueball: Why aren't my arms growing
 
-[[A woman stands with a grey ghost on either side of her.]]
+[Megan stands with a grey ghost on either side of her.]
 
-Woman: Why are there ghosts
+Megan: Why are there ghosts
 
-[[Beret guy stands, looking at a squirrel.]]
+[Beret Guy stands, looking at a squirrel.]
 
-Beret guy: Why are there squirrels
+Beret Guy: Why are there squirrels
 
-[[A figure stands.]]
+[Cueball stands.]
 
-Figure: Why is sex so important.]]
+Cueball: Why is sex so important.
 
-[[We see a woman from the torso up.]]
+[We see Ponytail from the torso up.]
 
-Woman: Why aren't there guns in Harry Potter
-
+Ponytail: Why aren't there guns in Harry Potter

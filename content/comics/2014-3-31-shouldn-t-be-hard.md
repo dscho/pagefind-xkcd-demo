@@ -6,27 +6,18 @@ alt: >-
   (six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!
 img: https://imgs.xkcd.com/comics/shouldnt_be_hard.png
 ---
-[[A person is sitting at a desk, typing on a laptop.]]
+[Cueball is typing on a laptop.]
 
-Person: What I'm trying to do is really simple. It shouldn't be hard.
+Cueball: What I'm trying to do is really simple.
 
-[[Someone off-screen speaks.]]
+Cueball: It shouldn't be hard.
 
-Off-screen: All computers are just carefully organized sand. 
+Offscreen: All computers are just carefully organized sand. ***Everything*** is hard until someone makes it easy.
 
-Everything
+[Cueball sits back and pauses.]
 
- is hard until someone makes it easy.
+[Cueball picks up and examines the laptop.]
 
-[[The person leans back in their chair.]]
+Cueball: Maybe I should turn this one ***back*** into sand.
 
-[[The person lifts the laptop off the desk, examining it like a book.]]
-
-Person: Maybe I should turn this one 
-
-back
-
- into sand.
-
-Off-screen: I'll find a blowtorch.
-
+Offscreen: I'll find a blowtorch.

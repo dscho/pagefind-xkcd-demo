@@ -6,27 +6,22 @@ alt: >-
   It gets worse! You know that wizened old monk with the gypsy wife whose voodoo shop we smash up every day after school?
 img: https://imgs.xkcd.com/comics/desecration.png
 ---
-[[A woman runs up to a man.]]
+[Megan is running towards Rob.]
 
-Woman: Rob! Rob!
+Megan: *Rob! Rob!*
 
-Man: You look terrified! What's wrong?
+Rob: You look terrified! What's wrong?
 
-Woman: We've made a huge mistake!
+Megan: We've made a huge mistake!
 
-[[The woman and man stand facing each other.]]
+[In a frame-less panel Megan holds her hands up in an explaining gesture in front of Rob.]
 
-Woman: Remember last week when we dug up all those Indian bones and made puppets out of them?
+Megan: Remember last week when we dug up all those Indian bones and made puppets out of them?
 
-Man: Sure...
+Rob: Sure...
 
-[[The woman holds her arms out for emphasis, the man puts his hands to his face in horror.]]
+[Megan is throwing her arms out to the sides while Rob holds both hands to his mouth.]
 
-Woman: It turns out they were buried over an 
+Megan: It turns out they were buried over an *ancient Indian burial ground!*
 
-ancient Indian burial ground!
-
-Man: 
-
-Oh my God!
-
+Rob: *Oh my God!*

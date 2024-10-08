@@ -3,48 +3,43 @@ date: 2009-02-09
 title: "TED Talk"
 num: 541
 alt: >-
-  The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident.
+  The IAU ban came after the 'redefinition of the 'planet' to include the IAU president's mom' incident.
 img: https://imgs.xkcd.com/comics/ted_talk.png
 ---
-[[Randall Monroe on stage]]
+[Randall, drawn as Cueball, on stage.]
 
-Randall - Hi. I'm Randall. Welcome to my TED talk.
+Randall: Hi. I'm Randall. Welcome to my TED talk.
 
-Randall - it's an honor to speak to you, some of the brightest innovators from so many fields, about a problem in desperate need of your attention:
+Randall: It's an honor to speak to you, some of the brightest innovators from so many fields, about a problem in desperate need of your attention:
 
-Randall - How DO you end parenthetical statements with emoticons? I can't figure out a good way.
+Randall: How DO you end parenthetical statements with emoticons? I can't figure out a good way.
 
-[[Screen next to him shows two statements, both crossed out in red]]
+[Screen next to him shows two statements, both crossed out in red.]
 
-Screen - "Linux (or BSD :) would..."
+"Linux (or BSD :) would..." looks mismatched
 
- (in red) "looks mismatched"
+"Linux (or BSD :)) would..." looks mismatched and weird
 
-"Linux (or BSD :)) would..."
+[Randall writing on a desk.]
 
- (in red) "looks mismatched and weird"
+[Randall's List] Conferences I'm banned from:
 
-[[Randall writing on a desk]]
+Siggraph
 
-Randall's List - Conferences I'm banned from:
+Eurocrypt
 
-Siggraph 
+Defcon
 
- Eurocrypt 
+Pycon
 
- Defcon 
+International Astronomical Union
 
- Pycon 
+Canadian Paleontology Conference
 
- International Astronomical Union
+Every American Furry Convention
 
- Canadian Paleontology Conference 
+American Baking Society
 
- Every American Furry Convention 
+Asian Dolphin-Training Conference
 
- American Baking Society 
-
- Asian Dolphin-Training Conference 
-
- TED
-
+<u>TED</u>

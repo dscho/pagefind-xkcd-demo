@@ -8,27 +8,27 @@ img: https://imgs.xkcd.com/comics/boathouses_and_houseboats.png
 ---
 [A chart with three rows and three columns is shown, both with the same heading "car", "house", and "boat". On the top left a text with the word "this" two times embedded in a bubble and an arrow respectively pointing to the row and column heading reads:]
 
-A this that holds this
+A **this** that holds **this**
 
 [Most entries have the common word in black, but crossed out in red with another word below also in red. Two entries remain in green.]
 
-A Car that holds a Car: Tow truck Carcar
+A Car that holds a Car: <s>Tow truck</s> Carcar
 
-A House that holds a Car: Garage Carhouse
+A House that holds a Car: <s>Garage</s> Carhouse
 
-A Boat that holds a Car: Car ferry Carboat
+A Boat that holds a Car: <s>Car ferry</s> Carboat
 
-A Car that holds a House: Mobile home Housecar
+A Car that holds a House: <s>Mobile home</s> Housecar
 
-A House that holds a House: Apartment Househouse
+A House that holds a House: <s>Apartment</s> Househouse
 
 A Boat that holds a House: Houseboat (green text)
 
-A Car that holds a Boat: Boat trailer Boatcar
+A Car that holds a Boat: <s>Boat trailer</s> Boatcar
 
 A House that holds a Boat: Boathouse (green text)
 
-A Boat that holds a Boat: Lifeboat Boatboat
+A Boat that holds a Boat: <s>Lifeboat</s> Boatboat
 
 [Caption below the frame:]
 

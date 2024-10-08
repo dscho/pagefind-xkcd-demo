@@ -14,4 +14,4 @@ Cueball: I just thought of a bad opinion someone could have, and now I'm searchi
 
 Offscreen voice: Sounds like you have a healthy relationship with the internet.
 
-Cueball: Hey, at least I'm not this guy I just found!
+Cueball: Hey, at least I'm not *this* guy I just found!

@@ -6,15 +6,22 @@ alt: >-
   Every few months, I think about sex every seven seconds and how weird and implausible it would be.
 img: https://imgs.xkcd.com/comics/every_seven_seconds.png
 ---
-[[A single figure plods along alone, deep in thought.]]
+[Cueball is walking with four thought bubbles above him.]
 
-Thought: There's no way that's true.
+Cueball (thinking):
 
-Thought: It would interfere with basic cognition.
+There’s no way that’s true.
 
-Thought: Such a ridiculous view of masculinity.
+It would interfere with basic cognition.
 
-Thought: How would you even STUDY that?
+Such a ridiculous view of masculinity.
 
-Caption: Every seven seconds, sociologists think about that made-up statistic about how often men think about sex.
+How would you even *study* that?
 
+[Caption below the panel:]
+
+Every seven seconds, sociologists
+
+think about that made-up statistic
+
+about how often men think about sex.

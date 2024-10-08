@@ -6,13 +6,12 @@ alt: >-
   If you actually do this, what really happens is Douglas Hofstadter appears and talks to you for eight hours about strange loops.
 img: https://imgs.xkcd.com/comics/two_mirrors.png
 ---
-[[A girl sets up a full mirror adjacent to a bathroom-counter mirror]]
+[Megan sets up a full mirror facing a bathroom-counter mirror.]
 
-[[The girl looks through the bathroom-counter mirror to see the infinite reflections]]
+[Megan looks through the bathroom counter mirror to see the infinite reflections.]
 
-Girl: Bloody Mary, Bloody Mary, Bloody Mary.
+Megan: Bloody Mary, Bloody Mary, Bloody Mary.
 
-<<RAAGHHHHH>>
+[Megan ducks as the infinite Bloody Marys pop out between the two mirrors above her head.]
 
-[[Girl ducks as the infinite Bloody Marys pop out between the two mirrors above her head]]
-
+Bloody Marys: RAAGHHHHH

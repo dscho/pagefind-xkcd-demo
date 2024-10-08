@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/evangelism.png
 ---
 [A chart is shown with a line drawn from left to right with five markers on it. Each marker has a line going to it from a labeled below the main line. Above this there is a title and right below that a label above an arrow pointing to the right.]
 
-People by intensity of evangelism
+<big>People by intensity of evangelism</big>
 
 More intense
 

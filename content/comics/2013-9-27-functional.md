@@ -6,9 +6,8 @@ alt: >-
   Functional programming combines the flexibility and power of abstract mathematics with the intuitive clarity of abstract mathematics.
 img: https://imgs.xkcd.com/comics/functional.png
 ---
-[[A figure in a hat stands behind someone sitting at a desk, who is working on his laptop.]]
+[White Hat stands behind Cueball, who is sitting at a computer.]
 
-Hat figure: Why do you like functional programming so much? What does it actually *get* you? 
+White Hat: Why do you like functional programming so much? What does it actually *get* you?
 
-Sitting figure: Tail recursion is its own reward.
-
+Cueball: Tail recursion is its own reward.

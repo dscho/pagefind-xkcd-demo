@@ -6,27 +6,26 @@ alt: >-
   No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first.
 img: https://imgs.xkcd.com/comics/you_hang_up_first.png
 ---
-[[Man is sitting on a bed, on the phone.]]
+[Cueball is sitting on a bed, on the phone.]
 
-Man: You hang up first.
+Cueball: You hang up first.
 
-[[Women is lying on a bed, on the phone.]]
+[Megan is lying on a bed, on the phone.]
 
-Woman: No, *you* hang up first.
+Megan: No, *you* hang up first.
 
-Man: No, *you* hang up first.
+Cueball: No, *you* hang up first.
 
-Woman: No, *you* fucking hang up first!
+Megan: No, *you* fucking hang up first!
 
-Man: You hang up first, or we're OVER!
+Cueball: You hang up first, or we're *OVER!*
 
-Woman: Then I guess we're fucking OVER!
+Megan: Then I guess we're fucking *OVER!*
 
-Man: FINE!
+Cueball: FINE!
 
-Woman: ...
+Megan: ...
 
-Man: ...
+Cueball: ...
 
-Woman: *You* move on and find somebody else first.
-
+Megan: *You* move on and find somebody else first.

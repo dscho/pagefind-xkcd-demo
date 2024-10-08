@@ -6,7 +6,6 @@ alt: >-
   It's definitely an intentional foul, but we've decided it's worth it.
 img: https://imgs.xkcd.com/comics/rulebook.png
 ---
-[[Two people are standing on the left, with a dog in a vest with a '9' on its side. Two other people are facing them on the right, one is holding a clipboard.]]
+[Cueball and Megan are standing with a dog wearing jersey number 9, Ponytail and Hairy are facing them holding a rulebook. The horizon is visible behind them.]
 
-Clipboard: There's nothing in the rulebook that says we can't kill and eat your dog.
-
+Ponytail: There's nothing in the rulebook that says we can't kill and eat your dog.

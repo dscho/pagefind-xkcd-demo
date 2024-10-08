@@ -6,8 +6,6 @@ alt: >-
   "Symbolic integration" is when you theatrically go through the motions of finding integrals, but the actual result you get doesn't matter because it's purely symbolic.
 img: https://imgs.xkcd.com/comics/differentiation_and_integration.png
 ---
-
-
 [Two flow charts are shown.]
 
 [The first flow chart has four steps in simple order, one with multiple recommendations.]

@@ -3,16 +3,19 @@ date: 2006-03-22
 title: "Iambic Pentameter"
 num: 79
 alt: >-
-  Of course, you don't wanna limit yourself to the strict forms of the meter.  That could get pretty difficult.
+  Of course, you don't wanna limit yourself to the strict forms of the meter. That could get pretty difficult.
 img: https://imgs.xkcd.com/comics/iambic_pentameter.jpg
 ---
-Person 1: What time can you pick Michael up?
+[Two identical Cueballs are having a conversation. The latter is identified as Cueball, since he represents Randall who has the Hobby.]
 
-Person 2: Well, I can meet the plane at ten of six.
+Friend: What time can you pick Michael up?
 
-Person 1: Do you know where to find him?
+Cueball: Well, I can meet the plane at ten of six.
 
-Person 2: I'll meet him at the stairs before the gate.
+Friend: Do you know where to find him?
 
-{{My hobby: answering casual questions in iambic pentameter.}}
+Cueball: I'll meet him at the stairs before the gate.
 
+[Below the two Cueballs are the following text:]
+
+My hobby: answering casual questions in iambic pentameter.

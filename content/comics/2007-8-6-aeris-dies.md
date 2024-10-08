@@ -6,25 +6,24 @@ alt: >-
   It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.
 img: https://imgs.xkcd.com/comics/aeris_dies.png
 ---
-[[Two men are talking.  The second man is sitting on the ground, hugging his knees to his chest]]
+[Two men are talking. The second man is sitting on the ground, hugging his knees to his chest.]
 
-First Man: Maggie's gone. You can't bring her back.
+Cueball: Maggie's gone. You can't bring her back.
 
-Second Man: But I have to, she's a part of my life.
+Friend: But I have to, she's a part of my life.
 
-First Man: <<sigh>>
+Cueball: \*sigh\*
 
-First Man: Okay, let me put this in your terms.
+Cueball: Okay, let me put this in your terms.
 
-First Man: Remember when Aeris died in FFVII? It was sad, but you had to keep playing.
+Cueball: Remember when Aeris died in FFVII? It was sad, but you had to <u>keep</u> <u>playing</u>.
 
-Second Man: Actually, I downloaded a mod to add her back to my party. It changed other character's appearances and dialogue to hers so you didn't have to lose her.
+Friend: Actually, I downloaded a mod to add her back to my party. It changed other character's appearances and dialogue to hers so you didn't have to lose her.
 
-Second Man: Lots of gamers did it.
+Friend: Lots of gamers did it.
 
-[[The first man put his hand on his chin]]
+[Cueball puts his hand on his chin.]
 
-First Man: That is troubling on several levels.
+Cueball: That is troubling on several levels.
 
-Second Man: I wonder if Maggie's old dress would fit you.
-
+Friend: I wonder if Maggie's old dresses would fit you.

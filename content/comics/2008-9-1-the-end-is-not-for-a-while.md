@@ -6,11 +6,10 @@ alt: >-
   I THINK EVERYONE INVOLVED HERE IS CUTE.
 img: https://imgs.xkcd.com/comics/the_end_is_not_for_a_while.png
 ---
-[[Man with with two picket signs. Another woman with a picket sign stands partially out of the frame, staring at the man.]]
+[Cueball with two picket signs. Ponytail with a picket sign stands partially out of the frame, staring at Cueball.]
 
-Narrator: I get in trouble for showing up contented at protests.
+I get in trouble for showing up contented at protests.
 
 Sign 1: Things are pretty okay!
 
-Sign 2: Anyone up for scrabble later?
-
+Sign 2: Anyone for Scrabble later?

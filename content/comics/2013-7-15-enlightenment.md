@@ -6,25 +6,30 @@ alt: >-
   But the rules of writing are like magic spells. If you never acquire them, then not using them says nothing.
 img: https://imgs.xkcd.com/comics/enlightenment.png
 ---
+[The two Internet Bodhisattvas Ponytail and Cueball lecture Megan encircled by a wheel placed upon the ground.]
 
+Ponytail: To achieve **internet enlightenment**, you must free yourself from insecurity.
 
-[[Two Internet Bodhisattvas lecture a pupil encircled by a wheel placed upon the ground.]]
+Megan: But insecurity keeps me humble!
 
-Boddhisatva 1: To achieve *Internet Enlightenment*, you must free yourself from insecurity. 
+[Ponytail continues talking.]
 
-Novice: But insecurity keeps me humble!
+Ponytail: No. Insecurity leads to conceit. Conceit leads to judgment.
 
-Boddhisatva 1: No. Insecurity leads to conceit.  Conceit leads to judgment.  Judgment leads to being an asshole.
+Ponytail: Judgment leads to being an asshole.
 
-[[A laptop is placed on a stand in front of the student]]
+[A laptop is placed on a stand in front of Megan.]
 
-Novice: I'm ready, How do I begin?
+Megan: I'm ready. How do I begin?
 
-Boddhisatva 1: Type this sentence: "I heard you're idea's and their definately good"
+Ponytail: Type this sentence.
 
-[[The laptop has been smashed to the floor.  The circle, one full of hope and excitement, is now full of despair and no students]]
+[White text on black background.]
 
-Boddhisatva 1: She wasn't ready.
+I heard you're idea's and their definately good.
 
-Boddhisatva 2: Its a difficult road.
+[The laptop has been smashed to the floor. Megan is no longer in the circle.]
 
+Ponytail: She wasnt ready.
+
+Cueball: Its a difficult road.

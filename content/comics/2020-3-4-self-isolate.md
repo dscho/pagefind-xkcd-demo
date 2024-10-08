@@ -16,6 +16,6 @@ Voice from television: Experts are saying people may need to "self-isolate" to c
 
 Cueball: ... I've been practicing for this moment my whole life.
 
-Off-panel voice: I don't think that's—
+Off-panel voice: I don't think that's&mdash;
 
-Cueball: Quick, make plans and watch how fast I cancel!
+Cueball: *Quick, make plans and watch how fast I cancel!*

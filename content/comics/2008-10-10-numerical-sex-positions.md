@@ -6,37 +6,40 @@ alt: >-
   We didn't even get to the continued fractions!
 img: https://imgs.xkcd.com/comics/numerical_sex_positions.png
 ---
-Title text: XKCD presents a guide to numerical sex positions:
+[Caption above the panels]
 
-69 
+XKCD PRESENTS
 
-[[traditional sixty-nine position, mutual oral sex]]
+a guide to
 
-99 
+NUMERICAL SEX POSITIONS:
 
-[[sort of a standing doggy-style position]]
+Narrator: 69
 
-71 
+[Cueball and Megan perform a standing sixty-nine position i.e. mutual oral sex.]
 
-[[girl is bent over a table]]
+Narrator: 99
 
-34 
+[Cueball and Megan perform a standing spooning position.]
 
-Guy: Uh. 
+Narrator: 71
 
-[[guy and girl look confusedly at each other]]
+[Megan is bent over a table and Cueball takes her doggy-style.]
 
-8^(1
+Narrator: 34
 
-2) 
+[Cueball looks at Megan, who is standing on one leg with her arms out.]
 
-Narrator: Guys? 
+Cueball: Uh.
 
-[[guy and girl are staring blankly at each other]]
+Narrator: √<span style="text-decoration: overline">8</span>
 
-ln(2 pi) 
+[Cueball and Megan are staring at each other.]
 
-Narrator: Aww, c'mon... 
+Narrator: Guys?
 
-[[girl begins walking away]]
+Narrator: ln(2π)
 
+[Cueball just stands there while Megan is walking away.]
+
+Narrator: Aww, c'mon...

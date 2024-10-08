@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/unpopular_opinions.png
 ---
 [Ponytail, Cueball, and Megan are all looking at their cell phones. Cueball is in the middle, facing out, holding his phone in both hands, while the two women face towards him with only one hand on their phones. Ponytail is tapping on the phone as shown by small lines over her fingers. they talk to each other, but before that, there is the following text above them:]
 
-Unpopular positive opinion challenge:
+Unpopular *positive* opinion challenge:
 
 Name a movie that...
 
@@ -24,7 +24,7 @@ Cueball: ...Terminator Genisys?
 
 Megan: Seriously?!
 
-Cueball: I like time travel, OK??
+Cueball: *I like time travel, OK??*
 
 [Caption below the panel:]
 

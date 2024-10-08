@@ -3,36 +3,25 @@ date: 2014-04-09
 title: "Heartbleed"
 num: 1353
 alt: >-
-  I looked at some of the data dumps from vulnerable sites, and it was ... bad. I saw emails, passwords, password hints. SSL keys and session cookies. Important servers brimming with visitor IPs. Attack ships on fire off the shoulder of Orion, c-beams glittering in the dark near the Tannhäuser Gate. I should probably patch OpenSSL.
+  I looked at some of the data dumps from vulnerable sites, and it was... bad. I saw emails, passwords, password hints. SSL keys and session cookies. Important servers brimming with visitor IPs. Attack ships on fire off the shoulder of Orion, c-beams glittering in the dark near the Tannhäuser Gate. I should probably patch OpenSSL.
 img: https://imgs.xkcd.com/comics/heartbleed.png
 ---
-[[Two people are walking along, one is looking at her phone.]]
+Megan: Heartbleed must be the worst web security lapse ever.
 
-Person 1: Heartbleed must be the worst web security lapse ever.
+Cueball: Worst so far. Give us time.
 
-Person 2: Worst so far. Give us time.
+Megan: I mean, this bug isn't just broken encryption.
 
-[[Still walking, first person is now holding her phone at her side.]]
+Megan: It lets website visitors make a server dispense random memory contents.
 
-Person 1: I mean, this bg isn't just broken encryption. It lets website visitors make a server dispense random memory contents.
+Megan: It's not just keys. It's traffic data. Emails. Passwords. Erotic fanfiction.
 
-[[They stop walking and face each other.]]
+Cueball: Is ***everything*** compromised?
 
-Person 1: It's not just keys. It's traffic data. Emails. Passwords. Erotic fanfiction.
+Megan: Well, the attack is limited to data stored in computer memory.
 
-Person 2: Is 
+Cueball: So paper is safe. And clay tablets.
 
-everything
+Megan: Our imaginations, too.
 
- compromised?
-
-[[They begin walking again.]]
-
-Person 1: Well, the attack is limited to data stored in computer memory.
-
-Person 2: So paper is safe. And clay tablets.
-
-Person 1: Our imaginations, too.
-
-Person 2: See, we'll be fine.
-
+Cueball: See, we'll be fine.

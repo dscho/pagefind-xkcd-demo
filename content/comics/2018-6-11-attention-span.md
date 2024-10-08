@@ -12,13 +12,13 @@ Cueball: I haven't read any books in forever. I have no attention span anymore.
 
 [Zoom in on the faces of Cueball and Megan.]
 
-Megan: Didn't you literally just spend six hours obsessively reading about the theory that Thomas the Tank Engine is authoritarian propaganda depicting a post-apocalyptic fascist dystopia?
+Megan: Didn't you literally ***just*** spend six hours obsessively reading about the theory that *Thomas the Tank Engine* is authoritarian propaganda depicting a post-apocalyptic fascist dystopia?
 
 [Cueball still standing there. Megan begins pacing away.]
 
 Cueball: OK
 
-Cueball: I mean I have no attention span for anything good anymore.
+Cueball: I mean I have no attention span for anything ***good*** anymore.
 
 Megan: Let's check out your bookshelf, shall we?
 
@@ -28,6 +28,6 @@ Cueball: What are you-
 
 Off-panel: I see a dragon holding a sword in its teeth on the cover of a book that's thicker than it is wide.
 
-Cueball: And? That's a classic!
+Cueball: And? That's a ***classic!***
 
 Off-panel: Just saying, I don't think this is a new development.

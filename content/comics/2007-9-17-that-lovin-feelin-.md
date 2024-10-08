@@ -6,11 +6,10 @@ alt: >-
   Maybe there's no tenderness in her fingertips either, but at least SHE puts out.
 img: https://imgs.xkcd.com/comics/that_lovin_feelin.png
 ---
-[[Man is in the middle of the frame, talking]]
+Cueball: You never close your eyes anymore when I kiss your lips
 
-Man: You never close your eyes anymore when I kiss your lips and there's no tenderness like before in your fingertips.
+Cueball: And there's no tenderness like before in your fingertips.
 
-[[Man thoughtfully places his hand on his chin]]
+[Cueball thoughtfully places his hand on his chin.]
 
-Man: Maybe I should try your sister instead.
-
+Cueball: Maybe I should try your sister instead.

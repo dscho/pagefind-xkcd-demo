@@ -3,7 +3,7 @@ date: 2018-01-15
 title: "Memorable Quotes"
 num: 1942
 alt: >-
-  "Since there's no ending quote mark, everything after this is part of my quote. —Randall Munroe
+  "Since there's no ending quote mark, everything after this is part of my quote. &mdash;Randall Munroe
 img: https://imgs.xkcd.com/comics/memorable_quotes.png
 ---
 Looking for a quote for something?
@@ -34,9 +34,9 @@ They can be attributed to xkcd or Randall Munroe as needed.
 
 "If you're doing a text search in this document for the word 'butts,' the good news is that it's here, but the bad news is that it only appears in this unrelated quote."
 
-"Wait, what if these quote marks are inside out, so everything in the rest of the document is the quotation and this part isn't? Duuuuude."
+"Wait, what if these quote marks are inside out, so everything in the rest of the document is the quotation and *this* part isn't? *Duuuuude."
 
-"The editors of Bartlett's Familiar Quotations are a bunch of cowards who don't have the guts to print this."
+"The editors of *Bartlett's Familiar Quotations* are a bunch of cowards who don't have the guts to print this."
 
 "This quote only looks profound when it's in a script font over a sunset."
 

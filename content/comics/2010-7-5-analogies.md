@@ -6,35 +6,30 @@ alt: >-
   I just call all of them 'synecdoche'.
 img: https://imgs.xkcd.com/comics/analogies.png
 ---
-[[Two men sit in front of the TV, one on the couch, the other on the floor. A woman stands by the TV set.]]
+[Megan stands by a TV set and addresses Cueball in the couch and his Cueball-like friend who sits in front of the TV on the floor.]
 
-Woman: While I'm up, does anyone want a sandwich?
+Megan: While I'm up, does anyone want a sandwich?
 
-Man 1: Is "sandwich" a metaphor?
+Cueball: Is "sandwich" a metaphor?
 
-Woman: No, I'm bad at metaphors. But I could try a simile.
+[A frame-less panel with the same scene, without the TV. Cueball has taken a hand to his chin and the friend on the floor looks down.]
 
-Man 1: I guess that's 
+Megan: No, I'm bad at metaphors. But I could try a simile.
 
-like
+Cueball: I guess that's *like* a metaphor.
 
- a metaphor. Sure.
+Cueball: Sure.
 
-[[As the woman starts to walk away, the men continue to speak.]]
+[While Megan walks past them, Cueball leans forward and his friends looks back up at him as they continue to speak.]
 
-Man 2: Well, "a simile is like a metaphor" is a simile.
+Friend: Well, "a simile is like a metaphor" is a simile.
 
-Man 1: Is that simile itself a metaphor for something?
+Cueball: Is that simile itself a metaphor for something?
 
-Man 2: Maybe it's a metaphor for analogy.
+Friend: Maybe it's a metaphor for analogy.
 
-[[The two men are still sitting in the same place while the woman is out of the panel.]]
+[Cueball and his friend are still sitting and talking while Megan replies from off-panel.]
 
-Man 1: Similes 
+Cueball: Similes *are* like metaphors in that they're both analogies.
 
-are
-
- metaphors in that they're both analogies.
-
-Woman: Analogies are like sandwiches in that I'm making one now.
-
+Megan (off-panel): Analogies are like sandwiches in that I'm making one now.

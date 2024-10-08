@@ -6,11 +6,10 @@ alt: >-
   It's amazing what it does for YouTube comments.
 img: https://imgs.xkcd.com/comics/freemanic_paracusia.png
 ---
-[[A man is shown sitting behind a desk with a Computer]]
+[Cueball is sitting behind a desk with a computer.]
 
-Narrator: Freemanic Paracusia, A disorder wherein you hear everything you read in the comforting voice of Morgan Freeman.
+Freemanic Paracusia: A disorder wherein you hear everything you read in the comforting voice of Morgan Freeman.
 
-[[There is a thought bubble of the man's thoughts, within it is Morgan Freeman reading text]]
+[There is a thought bubble of Cueball's thoughts, within it is Morgan Freeman reading text.]
 
-Morgan Freeman: Why, you could enlarge your penis for cheap. My, my. Isn't that something?
-
+Morgan Freeman: Why, you could enlarge your penis for cheap. My, my. Isn't that *something.*

@@ -6,35 +6,34 @@ alt: >-
   Goldilocks' discovery of Newton's method for approximation required surprisingly few changes.
 img: https://imgs.xkcd.com/comics/fairy_tales.png
 ---
-[[Woman is sitting in an armchair, reading a book.]]
+[Megan sits in an armchair, reading a book looking over her shoulder at Cueball as he walks in.]
 
-Woman: Are there eigenvectors in Cinderella?
+Megan: Are there eigenvectors in *Cinderella?*
 
-Man: ... no?
+Cueball: ...No?
 
-Woman: The prince didn't use them to match the shoe to its owner?
+Megan: The prince didn't use them to match the shoe to its owner?
 
-Man: What are you TALKING about?
+Cueball: What are you *talking* about?
 
-Woman: Dammit.
+Megan: Dammit.
 
-[[Flashback. Girl is in bed, mom is sitting on the edge of the bed reading.]]
+[In this frame-less panel Megan is shown in a flashback as a little girl lying in bed, head on pillow and hands held on the edge of the blanket at her throat. Hairbun with glasses, as her mom, is sitting on the edge of the bed reading, while her head is hanging down. Above and below there are two frames with Megan's narration. Hairbun's reading text is smaller than the other text in this comic.]
 
-My mom is one of those people who falls asleep while reading, but keeps talking. She's a math professor, so she'd start rambling about her work.
+Megan (narrating): My mom is one of those people who falls asleep while reading, but keeps talking. She's a math professor, so she'd start rambling about her work.
 
-Mom: But while the ant gathered food ...
+Mom: <small>But while the ant gathered food ...</small>
 
-Mom: ... zzzz ...
+Mom: <small>...zzzz...</small>
 
-Mom: ... the grasshopper contracted to a point on a manifold that was NOT a 3-sphere ...
+Mom: <small>...the grasshopper contracted to a point on a manifold that was *not* a 3-sphere...</small>
 
-I'm still not sure which versions are real.
+Megan (narrating): I'm still not sure which versions are real.
 
-[[Present.]]
+[Cueball now stands in front of the arm chair. Megan has put the book away, and is leaning her head on her left arm which rests on the armrest of the chair.]
 
-Man: You didn't notice the drastic subject changes?
+Cueball: You didn't notice the drastic subject changes?
 
-Woman: Well, sometimes her versions were better. We loved Inductive White and the (N-1) Dwarfs.
+Megan: Well, sometimes her versions were better. We loved *Inductive White and the (n−1) Dwarfs*.
 
-Woman: I guess the LIM x->inf (x) little pigs did get a bit weird toward the end ...
-
+Megan: I guess *The lim<sub>x→∞</sub>(x) Little Pigs* did get a bit weird toward the end...

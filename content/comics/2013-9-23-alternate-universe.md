@@ -6,15 +6,18 @@ alt: >-
   As best as I can tell, I was transported here from Earth Prime sometime in the late 1990s. Your universe is identical in every way, except for the lobster thing and the thing where some of you occasionally change your clocks for some reason.
 img: https://imgs.xkcd.com/comics/alternate_universe.png
 ---
-Imagine you were transported to an alternate universe just like your own, except people occasionally ate spiders. 
+[Captions above the panel:]
 
-You can't convince anyone this is weird. 
+Imagine you were transported to an alternate universe just like your own, except people occasionally ate spiders.
 
-[[Two figures stand. A woman is holding a big spider. The other figure looks shocked. There is another spider on the floor.]]
+You can't convince anyone this is weird.
 
-Woman: Mmm...
+[Megan is holding a very large spider, with another similar spider before her on the ground, and Cueball is standing behind her, leaning away with his hands out to each side shocked, as shown with three small lines going out from his head.]
 
-Figure: No! What are you *doing*!?
+Megan: Mmm...
+
+Cueball: *No!* What are you *doing!?*
+
+[Caption below the panel:]
 
 This is how I feel about lobster.
-

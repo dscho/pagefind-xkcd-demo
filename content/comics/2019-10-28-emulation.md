@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/emulation.png
 
 Laptop: Loading... please insert disk into drive A:
 
-Cueball: *click* There you go.
+Cueball: \*click\* There you go.
 
 Laptop: Thank you. Wow, this disk is incredibly fast!
 

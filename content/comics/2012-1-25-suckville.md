@@ -6,27 +6,30 @@ alt: >-
   Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.
 img: https://imgs.xkcd.com/comics/suckville.png
 ---
-[[A girl is kneeling on the floor, playing a card game.]]
+[Megan is kneeling on the floor, playing a card game.]
 
-Girl: Hah! -- Welcome to Suckville - population: 
+Megan: Hah!
 
-you.
+Megan: Welcome to Suckville&ndash;population: *You*.
 
-[[A guy is sitting on the floor opposite her, also playing the game.]]
+[In a frame-less panel, Cueball is sitting on the floor opposite her, also playing the game.]
 
-Guy: Why are you using 2000 census data? -- That's an old figure.
+Cueball: Why are you using 2000 census data?
 
-[[The girl turns around from the game to look at her laptop, which is sitting on the floor behind her.]]
+Cueball: That's an old figure.
 
-Girl: I couldn't find Suckville in the 2010 census.
+[Megan turns around from the game to look at her laptop, which is sitting on the floor behind her.]
 
-Guy: Huh? It's right there in SF-1 table P1.
+Megan: I couldn't find Suckville in the 2010 census.
 
-Girl: Oh. So it is.
+Cueball: Huh? It's right there in SF-1 table P1.
 
-[[The girl turns back to the guy, who is looking at his cards.]]
+Megan: Oh. So it is.
 
-Girl: Well, then. Welcome to Suckville - population: 83.
+[Megan turns back to Cueball, who is looking at his cards.]
 
-Guy: Much better.
+Megan: Well, then.
 
+Megan: Welcome to Suckville&ndash;population: 83.
+
+Cueball: Much better.

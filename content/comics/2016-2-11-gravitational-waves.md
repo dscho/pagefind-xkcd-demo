@@ -6,27 +6,20 @@ alt: >-
   "That last LinkedIn request set a new record for the most energetic physical event ever observed. Maybe we should respond." "Nah."
 img: https://imgs.xkcd.com/comics/gravitational_waves.png
 ---
-[[Two friends stroll along chatting]]
+[Cueball, with arms up, is standing behind Megan who has her hands at her mouth, and who in turn is standing behind Ponytail, who is sitting in front of a large computer console with a screen, a keyboard, and several items on the side (presumably lights and labels). Three wires lead away from the console out of the image to the right.]
 
-Hatfriend: Did you watch the super bowl?
+Megan: The gravitational wave detector works! For the first time, we can listen in on the signals carried by ripples in the fabric of space itself!
 
-Otherfriend: Yes, like a third of the counry.
+[Larger panel with the same setting in the middle, but both Cueball and Megan have taken their arms down. More of the wires from the console can be seen to the right. The computer lists six events:]
 
-Otherfriend:A fraction which is INCREASING despite media fragmentation
+Computer: ***Event:*** Black hole merger in Carina (30 M<sub>☉</sub>, 30 M<sub>☉</sub>)
 
-Hatfriend: Can't we just talk without your weird need to give context for everything?
+Computer: ***Event:*** Zorlax the Mighty would like to connect on Linkedin
 
-Otherfriend: Sorry. I'll try.
+Computer: ***Event:*** Black hole merger in Orion (20 M<sub>☉</sub>, 50 M<sub>☉</sub>)
 
-Hatfriend: Sounds like Peyton Manning's probably going to retire.
+Computer: ***Event:*** Mortgage offer from Triangulum Galaxy
 
-Otherfriend: Yes, I.. it..
+Computer: ***Event:*** Zorlax the Mighty would like to connect on Linkedin
 
-Hatfriend: C'mon, you can do it!
-
-Otherfriend: He..
-
-Otherfriend: MAMMALS LIKE PEYTON AGE VIA A PROCESS TAHT INVOLVES BOTH THE ACCUMULATION OF DAMAGE AND POORLY-UNDERSTOOD TIMED FACTORS. YET THE CONCEPT OF RETIREMENT ITSELF IS SURPRISINGLY RECENT-
-
-Hatfriend: Okay, good try. Maybe next year.
-
+Computer: ***Event:*** Meet lonely singles in the local group tonight!

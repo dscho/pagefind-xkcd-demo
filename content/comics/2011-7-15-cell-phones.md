@@ -6,25 +6,20 @@ alt: >-
   He holds the laptop like that on purpose, to make you cringe.
 img: https://imgs.xkcd.com/comics/cell_phones.png
 ---
-[[A person is holding a cellphone.  The black hat guy is sitting at a desk with a laptop.]]
+[Cueball holds a cellphone. Black Hat is sitting at a desk with a laptop.]
 
-Person: Another huge study found no evidence that cell phones cause cancer.  What was the W.H.O. thinking?
+Cueball: Another huge study found no evidence that cell phones cause cancer. What was the W.H.O. thinking?
 
-Black Hat Guy: I think they just got it backward.
+Black Hat: I think they just got it backward.
 
-[[The black hat guy swivels in his chair, holding the laptop by the upper edge of the screen.]]
+[Black Hat turns towards Cueball in an unframed panel, holding the laptop with one hand by the upper edge of the screen. Cueball is not visible.]
 
-Person: Huh?
+Cueball: Huh?
 
-Black Hat Guy: Well, take a look.
+Black Hat: Well, take a look.
 
-[[There is a plot of total cancer incidence and cell phone users.  Cancer rises from 1970 to 1990, then stays relatively steady.  Cell phone use rises from 1980 to the present.]]
+[There is a plot of total cancer incidence and cell phone users. Cancer rises from 1970 to 1990, then stays relatively steady. Cell phone use rises from roughly 1984, and steeply after 1990, to the present.]
 
-Person: You're not... There are 
+Cueball: You're not... There are *so* many problems with that.
 
-so
-
- many problems with that.
-
-Black Hat Guy: Just to be safe, until I see more data I'm going to assume cancer causes cell phones.
-
+Black Hat: Just to be safe, until I see more data I'm going to assume cancer causes cell phones.

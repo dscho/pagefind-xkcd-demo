@@ -10,7 +10,41 @@ img: https://imgs.xkcd.com/comics/the_simpsons.png
 
 Fun Fact:
 
-1990 2018 Lisa 8 36 Bart 10 38 Homer & Marge 36-ish 64-ish
+{| class="wikitable"
+
+|-
+
+|
+
+| 1990
+
+| 2018
+
+|-
+
+| Lisa
+
+| 8
+
+| <strong>36</strong>
+
+|-
+
+| Bart
+
+| 10
+
+| <strong>38</strong>
+
+|-
+
+| Homer & Marge
+
+| <strong>36-ish</strong>
+
+| 64-ish
+
+|}
 
 [Caption below the panel:]
 

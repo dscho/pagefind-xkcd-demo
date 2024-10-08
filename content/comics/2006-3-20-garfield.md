@@ -3,24 +3,21 @@ date: 2006-03-20
 title: "Garfield"
 num: 78
 alt: >-
-  The use of the 'Garfield' character for the purposes of this parody qualifies as fair use under the Copyright Act of 1976, 17 U.S.C. sec. 107.  See Campbell v. Acuff-Rose Music (92-1292), 510 U.S. 569
+  The use of the 'Garfield' character for the purposes of this parody qualifies as fair use under the Copyright Act of 1976, 17 U.S.C. sec. 107. See Campbell v. Acuff-Rose Music (92-1292), 510 U.S. 569
 img: https://imgs.xkcd.com/comics/garfield.jpg
 ---
-I WANT TO SEE SOMETHING UNEXPECTED IN THE COMICS. JUST ONE STRIP COULD MAKE UP FOR IT ALL.
+I want to see something unexpected in comics. Just one strip could make up for it all.
 
-[[Garfield standing at side of panel]]
+[Garfield is standing on hind legs facing and looking directly at the camera. But is off-center in the frame, about 1/3 from the left, rotated very slightly clockwise.]
 
-[[Zoom in on Garfield]]
+[Zoom in on Garfield, still to the left, now rotated slightly counterclockwise.]
 
-[[Closeup on Garfield's face]]
+[Zoom in again on Garfield, now the frame clips off the left side of his face.]
 
-Garfield thought bubble: THE WORLD IS BURNING.
+Garfield thought bubble: The world is burning.
 
-[[Tighter closeup on Garfield's face]]
+[Final zoom in, the frame is ripped like a page, offset, and Garfield's eyes are half closed on the right half.]
 
-Garfield thought bubble: RUN.
+Garfield thought bubble: Run.
 
-JIM DAVIS, THROW OFF YOUR COMMERICIAL SHACKLES. CHALLENGE US. GO OUT IN A BLAZE OF DADAIST GLORY.
-
-THERE IS STILL TIME.
-
+Caption below the comic: Jim Davis, throw off your commercial shackles. Challenge us. Go out in a blaze of Dadaist glory. There is still time.

@@ -12,7 +12,7 @@ Hairy: Tech support, how can I help you?
 
 [Cueball is on his smartphone while looking at a small blinking panel on the wall in front of him.]
 
-Cueball: The little LCD on my thermostat says Error: Android system recovery: Unrecognized boot volume "/MONTHLY ENERGY REPORT (1).DOC"
+Cueball: The little LCD on my thermostat says <span style="font-size:90%">*Error: Android system recovery: Unrecognized boot volume "/MONTHLY ENERGY REPORT (1).DOC"</span>
 
 [In a frame-less beat panel Hairy just stares at his screen with his hands on his lap.]
 

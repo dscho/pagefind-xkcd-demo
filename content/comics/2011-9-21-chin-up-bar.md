@@ -6,35 +6,40 @@ alt: >-
   Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.
 img: https://imgs.xkcd.com/comics/chin_up_bar.png
 ---
-[[Hat man is standing on an escalator as it ascends. He is carrying a pole with what looks like a bracket on each end, resting on his shoulder. In front of him is a punk with spiked hair and a girl with her hair in a ponytail. Behind him is a featureless person and a man wearing glasses with a goatee standing next to someone with short hair.]]
+[Black Hat is in the middle of on an escalator with five other people as it ascends. He carries something like a pole.]
 
-[[The view closes on hat man and the person behind him. In the background a girl can be seen standing on the descending escalator.]]
+[Zoom in on Black Hat and Cueball.]
 
-Person: This is a long escalator.
+Cueball: This is a long escalator.
 
-Hat man: 70 meters. Longest in the country.
+Black Hat: 70 meters. Longest in the country.
 
-[[The view opens a bit wider. In the background the girl from the last panel has now passed the group and a few other people can be seen descending.]]
+[Black Hat goes upwards holding his pole.]
 
-Person: Why're you carrying a chin-up bar?
+[Cueball is still behind Black Hat.]
 
-Hat man: Why aren't you wearing a hat?
+Cueball: Why're you carrying a chin-up bar?
 
-[[The view opens up to show the same people in the first panel. They're near the top of the escalator now and the girl with the ponytail is beginning to step off.]]
+Black Hat: Why aren't you wearing a hat?
 
-Person: Seriously, why did you bring it?
+[The view returns to the original view only showing the six people ascending, only shifted so they are all a bit longer to the right.]
 
-Hat man: How should I know? I'm not a psychologist.
+Cueball: I'm not really a hat person.
 
-[[As hat man steps off the escalator he turns and installs the chin-up bar such that it blocks people from leaving the escalator. The person talking to him turns to observe what hat man is doing.]]
+Black Hat: And I'm not really a not-carrying-a-chin-up-bar person.
 
-<<Twist>>
+[Close up on Cueball on the escalator.]
 
-<<Click click>>
+[Zoom out. Black Hat still has the pole in his hands.]
 
-[[They get onto the descending escalator. The man with glasses and a goatee and his companion are blocked from leaving the escalator by the chin-up bar.]]
+Cueball: Seriously, why did you bring it?
 
-((The next panel is the size of 6 regular panels combined.))
+Black Hat: How should I know? I'm not a psychologist.
 
-[[The view shows an extended section of the escalator, the top right has become a pile of people all squished together and on top of each other. One person has grabbed another by the hair and is standing on a third person in an attempt to not fall. Someone is falling off the pile and another person is running down the escalator to avoid them. People closer to the bottom of the escalator are looking horrified at the scene ahead of them. In the background hat man and his companion are visible. Hat man is looking toward the bottom of the escalator, not caring or noticing the chaos unfolding. His companion looks back pensively.]]
+[Zoom in on the top of the escalator where Black Hat steps off and installs the chin-up bar on the exit of the escalator.]
 
+*Twist* *Click* *Click*
+
+[View from above towards both ascending and descending escalators. Black Hat and Cueball are on the descending escalator.]
+
+[The final panel takes up two entire rows and shows all people falling down.]

@@ -6,25 +6,22 @@ alt: >-
   If we get the doors open and plug up the dam on the Sirannon so the water rises a little, the pool will start draining into Moria. How do you think the Watcher would fare against a drenched Balrog?
 img: https://imgs.xkcd.com/comics/doors_of_durin.png
 ---
-[[Three people stand facing what we can assume are the Doors of Durin (not pictured). One has a hat, one has hair, the other has neither.]]
+[White Hat, Megan, and Cueball stand. Megan has her finger up.]
 
-Hair: I've got it! What's the Elvish word for friend?
+Megan: I've got it!
 
-Neither: 
+Megan: What's the elvish word for friend?
 
-Mellon.
+Cueball: *Mellon.*
 
-[[The three watch as the doors begin to open.]]
+[The trio stand. A off-panel door opens.]
 
-<<RUMBLE>>
+*RUMBLE*
 
-[[The one in the white hat poses a question.]]
+[White Hat has his palm out, while Cueball has his palm on his chin.]
 
-Hat: So what's the Elvish word for "frenemy"? 
+White Hat: So what's the elvish word for "frenemy"?
 
-Neither: ...
+Cueball: *...Mellogoth?*
 
-mellogoth?
-
-<<SLAM!!>>
-
+**SLAM!!**

@@ -6,75 +6,60 @@ alt: >-
   How many points do you get for dunking every basketball in existence at once?
 img: https://imgs.xkcd.com/comics/basketball_earth.png
 ---
-[[This comic consists of four rows of four panels each.]]
+[Cueball is standing next to a floating Basketball Earth indicating it with his left hand. The continents are clearly visible as seen from above the Atlantic Ocean. This remains the same all through the comic, except that the Basketball Earth rotates a bit from frame to frame.]
 
-[[First row.]]
+Cueball: If the Earth were the size of a basketball,
 
-[[A presenter gestures at a hovering model of our planet.]]
+[Cueball is now indicating, with his right hand, a small pockmarked moon (also floating), in the correct proportions (regarding size not for their distance) to the Basketball Earth, which is on his other side. Black Hat walks into the panel towards Earth.]
 
-Presenter: IF the earth were the size of a basketball,
+Cueball: The Moon would be—
 
-[[Presenter gestures at hovering model of earth's moon.]]
+Black Hat: Hey, cool!
 
-Presenter: The moon would be--
+[Black Hat is touching the Basketball Earth with a digit.]
 
-[[Blackhat enters]]
+Cueball: Um.
 
-Blackhat: Hey, cool!
+[In the next scene, we see a megatsunami on the verge of crashing down onto a coastal city with skyscrapers. The A's are cut off on each side of the panels frames, i.e. they begin outside and finish outside the frame.]
 
-[[Blackhat begins touching the earth]]
+**AAAAAAAA**
 
-Presenter: Um.
+[Back to Cueball standing with the Basketball Earth in the same position as the first panel.]
 
-[[A massive tsunami hundreds of feet tall dwarfs a coastal city. Screams are heard.]]
+Cueball: Let's try that again. If the Earth were the size of a basketball,
 
-The earth's inhabitants: AAAAAAAAAAAAAAAAAAAAAAA
+[Same situation as when Black Hat walked in, except now it is Megan that walks into the frame towards the Basketball Earth holding a sports water bottle.]
 
-[[Second row.]]
+Cueball: The Moon would be—
 
-[[Presenter gestures at a hovering model of our planet.]]
+[Megan squirts the Basketball Earth with the liquid in her water bottle while Cueball just stands watching with the Moon behind him].
 
-Presenter: Let's try that again. If the earth were the size of a basketball,
+[Megan just walks away while Cueball stares at his "water" Basketball Earth where the continents have disappeared completely beneath the liquid.]
 
-[[Presenter gestures at hovering model of earth's moon.]]
+[Back to Cueball standing with the Basketball Earth in the same position as the first panel.]
 
-Presenter: The moon would be--
+Cueball: If the Earth were the size of a basketball,
 
-[[Lady enters, carrying squirt bottle]]
+[Same situation as when Black Hat walked in, except now he spots a cat coming into the frame from the left.]
 
-[[Lady squirts earth model with water.]]
+Cueball: The Moon— would…
 
-[[The earth is completely covered in water, and very wet. The lady leaves.]]
+[While Cueball watches with the Moon behind him, the cat jumps at the Basketball Earth.]
 
-[[Third row]]
+Cat: Mrowl!
 
-[[Presenter gestures at a hovering model of our planet.]]
+[Cueball continues to watch while the cat rolls around playing with the Basketball Earth as if it was a ball of yarn.]
 
-Presenter: If the earth were the size of a basketball,
+Cat: Rrrrr
 
-[[Presenter gestures at hovering model of earth's moon.]]
+[Back to Cueball standing with the Basketball Earth in the same position as the first panel.]
 
-Presenter: The moon would...
+Cueball: If the Earth were the size of a basketball,
 
-[[A cat enters]]
+[Same situation as when Black Hat walked in, except this time it is Ponytail who enters the frame at a run coming from the left.]
 
-[[The cat leaps towards the earth]]
+Cueball: The Moon would, uh…
 
-[[The cat rolls away with the earth, purring]]
+[While Cueball watches with the Moon behind him, Ponytail has grabbed the Basketball Earth and is dribbling it out of the frame, still running.]
 
-[[Fourth row]]
-
-[[Presenter gestures at a hovering model of our planet.]]
-
-Presenter: If the earth were the size of a basketball,
-
-[[Presenter gestures at hovering model of earth's moon.]]
-
-Presenter: The moon would, uh...
-
-[[A basketball player enters]]
-
-[[The player grabs the earth model]]
-
-[[The player leaps towards a basketball hoop, clearly intending to dunk the earth.]]
-
+[Zoom out from Cueball who continues to watch while Ponytail reaches a basketball hoop and jumps towards it with the Basketball Earth, obviously in an attempt to make a slam dunk.]

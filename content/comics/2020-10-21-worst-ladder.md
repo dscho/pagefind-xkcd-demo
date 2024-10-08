@@ -18,7 +18,7 @@ Megan: No.
 
 [Zoomed in on Megan.]
 
-Megan: The Google Images search results for worst ladder.
+Megan: The Google Images search results for ***worst ladder***.
 
 Off-panel voice: Huh?
 
@@ -28,8 +28,8 @@ Off-panel voice: Let me see ...
 
 Ponytail: Yikes, look at this one! The stepladder is balanced on --
 
-Hairy: Wow, they tied a ladder to --
+Hairy: Wow, they *tied* a ladder to --
 
 Hairbun: Ooh, check out the --
 
-Megan: No!
+Megan: *No!*

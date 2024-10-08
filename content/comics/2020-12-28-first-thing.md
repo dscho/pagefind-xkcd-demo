@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/first_thing.png
 ---
 [Ponytail and Cueball are walking toward the right side of a single panel. Ponytail is gesturing with one arm.]
 
-Ponytail: The first thing I'm going to do after I get the vaccine?
+Ponytail: The *first* thing I'm going to do after I get the vaccine?
 
 Ponytail: Definitely make a bunch of spike proteins and engulf them with dendritic cells.
 

@@ -6,19 +6,18 @@ alt: >-
   ::PLOOOOSH:: Looks like you won't be making it to Vinland today, Leaf Erikson.
 img: https://imgs.xkcd.com/comics/throwing_rocks.png
 ---
-[[Dark Hair person and White Beret person stand at the edge of a body of water. White Beret person throws a stone into the water.]]
+[Beret Guy is throwing a rock in the water while talking to Megan who walks down to him.]
 
-WB: Every day I make a little leaf boat, then I throw rocks until it sinks or floats away.
+Beret Guy: Every day I make a little leaf boat, then throw rocks until it sinks or floats away.
 
-[[The stone lands in the water.]]
+[Rock lands in water, near a leaf boat.]
 
-<<plonk>>
+Rock: **Plunk**
 
-It's pointless, but at least it's relaxing.
+Beret Guy: It's pointless, but at least it's relaxing.
 
-[[Dark Hair picks up a stone and examines it.]]
+[Megan and Beret Guy are both holding rocks. Megan looks down at her rock.]
 
-DH: Every day, I read the comments on a news article.
+Megan: Every day, I read the comments on a news article.
 
-[[They both throw stones into the water.]]
-
+[The two throw their rocks.]

@@ -6,13 +6,22 @@ alt: >-
   That seems like an awful lot of hassle when all I wanted was a cool sword.
 img: https://imgs.xkcd.com/comics/sword_in_the_stone.png
 ---
-[[A figure approaches a sword sticking out of a rock. They grab it, tussle a bit, then successfully wrest it from its crevice. Angelic trumpets sound.]]
+[Megan walks up to a sword in a stone.]
 
-Aethereal voice from above: THE THRONE OF ENGLAND IS YOURS
+[Megan attempts to pull the sword out of the stone.]
 
-[[Figure pulls out smartphone]]
+[A beam of light and music plays as she removes the sword.]
 
-Smartphone: Wikipedia. England.
+[While standing with the swords a voice from the sky speaks in gray shaky letters:]
 
-[[Figure stares at smartphone a bit, pokes sword back into stone.]]
+Celestial voice: *The Throne of England is yours*
 
+[Megan takes out her smart phone and searches:]
+
+Wikipedia
+
+England
+
+[Megan reads on her phone.]
+
+[Megan, still reading from her phone, starts to replace the sword back into the stone.]

@@ -6,19 +6,18 @@ alt: >-
   Protip: Even without the red spiders, never have that conversation halfway through a balloon ride.
 img: https://imgs.xkcd.com/comics/bad_timing.png
 ---
-[[A couple, flying in a hot air balloon]] Man: I like you.  
+[Cueball and Megan, flying in a hot air balloon that takes up most of the panel.]
 
-I'm just not feeling the relationship.
+Cueball: I like you. I'm just not feeling the relationship.
 
-[[Floating further in distance]]
+[The hot air balloon is now further away, and a rough sketch of the ground below with possible shoreline features is shown.]
 
-Man: I'm sorry.
+Cueball: I'm sorry.
 
-[[Close up of basket]]
+[Only the basket of the hot air balloon is shown, with the rest being cut off by the edge of the panel.]
 
-Man: It's just bad timing. Me with my classes, you with your work, the spiders...
+Cueball: It's just bad timing. Me with my classes, you with your work, the spiders...
 
-Woman: The what?
+Megan: The what?
 
-[[Red Spiders crowding onto balloon, causing it to fall]]
-
+[Red Spiders crowd onto the balloon, causing it to begin to fall. Cueball and Megan look panicked.]

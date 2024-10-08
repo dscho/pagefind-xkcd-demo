@@ -8,9 +8,14 @@ img: https://imgs.xkcd.com/comics/tornado_safety_tips.png
 ---
 [Beneath a large caption there are two pictures above each other to the left and a bullet list with five points to the right of the pictures. The top picture shows a black tornado beneath a white cloud. It is destroying something on the ground. To the right of the debris is a house and to the left some trees. The picture below shows Black Hat from the waist and up.]
 
-Tornado Safety Tips
- * Avoid low-lying cool air
- * Keep your downdrafts and updrafts from mixing
- * Seek out warm and humid surface air layers
- * Don't let rain-cooled air choke off your circulation
- * Avoid letting your supercell merge with a squall line
+<big>**Tornado Safety Tips**</big>
+
+\* Avoid low-lying cool air
+
+\* Keep your downdrafts and updrafts from mixing
+
+\* Seek out warm and humid surface air layers
+
+\* Don't let rain-cooled air choke off your circulation
+
+\* Avoid letting your supercell merge with a squall line

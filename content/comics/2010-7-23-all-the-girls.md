@@ -6,13 +6,12 @@ alt: >-
   You know that I'll never leave you. Not as long as she's with someone.
 img: https://imgs.xkcd.com/comics/all_the_girls.png
 ---
-[[Guy and girl are standing together.]]
+[Cueball and Megan are standing together.]
 
-Guy: I'm so lucky to have you.
+Cueball: I'm so lucky to have you.
 
-Guy: I love you most out of all the girls in all the world
+Cueball: I love you most out of all the girls in all the world
 
-[[They embrace.]]
+[They embrace.]
 
-Guy: who love me back.
-
+Cueball: who love me back.

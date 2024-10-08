@@ -16,13 +16,13 @@ New home price ($/sqft) / Oil price ($/BBL) = $/area / $/volume = Length
 
 X-axis: 1980 1990 2000 2010 2020
 
-Y-axis label: OHI (feet)
+Y-axis label:  OHI (feet)
 
 Y-axis: 40 30 20 10 0
 
 [Above the line graph there is a caption:]
 
-Oily House Index: How deep you could fill the average new home if you converted its mortgage to crude oil
+**Oily House Index:** How deep you could fill the average new home if you converted its mortgage to crude oil
 
 [The graph begins around 15 before 1980, then dips below 10, rises slowly until about 1988 when it rises sharply. It stays high but has several peaks, and one deep valley until 1999 when there is a very high peak, which then drops fast. A few more peaks, and then a decline to the lowest point in 2008, which is followed by a small peak, and then another drop. From there it stays low until 2015 when it rises quite fast and has one very high peak. It then drops of, until 2020 when there is a really sharp peak. Above the top of the peak is a dotted line extending to the top of the graph (i.e. the top of the Y-axis, not the top of the panel). Then it drops down but not very low as it reaches the present.]
 

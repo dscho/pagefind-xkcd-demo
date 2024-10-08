@@ -12,10 +12,16 @@ Voice: I sent you the data.
 
 Cueball: Thanks!
 
-Cueball: …this is a Word document containing an embedded photo you took of your screen with the spreadsheet open.
+Cueball: &hellip;this is a Word document containing an embedded photo you took of your screen with the spreadsheet open.
 
 Voice: Yeah? Does your computer not support .NORM files? Maybe you need to update.
 
 [Caption below the panel:]
 
 Since everyone sends stuff this way anyway, we should just formalize it as a standard.
+
+[[Category:Comics featuring Cueball]]
+
+[[Category:Computers]]
+
+[[Category:Spreadsheets]]

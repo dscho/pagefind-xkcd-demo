@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/ai_research.png
 ---
 [Cueball, is gesturing, with his hands held out in front of him, towards a large computer console with several screens, buttons and unreadable text. They are talking. The computers reply is indicated to come from the console with a zigzag line, rather than the straight lines for Cueball.]
 
-Cueball: Then you say "More like fartificial intelligence!"
+Cueball: Then you say "More like *fart*ificial intelligence!"
 
 Computer: Understood.
 

@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/coronavirus_research.png
 ---
 [A very disheveled Megan, hair in disorder, walks up to Cueball.]
 
-Megan: Hi.
+Megan: <big>*Hi.*</big>
 
 Cueball: Hello. You look...fine.
 
@@ -26,8 +26,8 @@ Cueball: Mhmm...
 
 [Megan raises her left arm, with her index finger in the air in front of Cueball's face.]
 
-Megan: But it's a trap! You shouldn't let it.
+Megan: But it's a ***trap!*** You shouldn't let it.
 
 Cueball: I think we knew that.
 
-Megan: But now I know it with error bars!
+Megan: But now I know it with ***error bars!***

@@ -3,14 +3,17 @@ date: 2008-12-08
 title: "Simultaneous"
 num: 514
 alt: >-
-  I'm leaving you for your twin.  He's more mature than you by now.
+  I'm leaving you for your twin. He's more mature than you by now.
 img: https://imgs.xkcd.com/comics/simultaneous.png
 ---
-Male: "Mmm, simultaneous orgasms"
+[Cueball and Megan are in bed.]
 
-Female: "That wasn't simultaneous"
+Cueball: Mmm, simultaneous orgasms.
 
-Male: "Huh?  It totally was!"
+Megan: That wasn't simultaneous.
 
-A common disagreement when one of you is doing all the moving
+Cueball: Huh? It totally was!
 
+[Caption below the panel:]
+
+A common disagreement when one of you is doing all the moving.

@@ -16,13 +16,13 @@ White Hat: Seriously.
 
 Cueball: "Do you know any tricks for getting a good seal around the bridge of your nose?"
 
-Cueball: I do, and I want to stop knowing them.
+Cueball: I ***do,*** and I want to ***stop*** knowing them.
 
 [Cueball is walking away from White Hat with his hands raised above his head.]
 
 White Hat: You could always try talking about something else.
 
-Cueball: Honestly not sure I can!
+Cueball: ***Honestly not sure I can!***
 
 White Hat: Well.
 

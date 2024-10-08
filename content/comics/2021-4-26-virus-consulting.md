@@ -22,7 +22,7 @@ Ponytail: If you think that, you should see the reports from my colleagues who w
 
 [Close-up of Ponytail in a very narrow panel.]
 
-Off-screen voice: They work for who??
+Off-screen voice: They work for ***who??***
 
 Ponytail: Our firm has lots of clients.
 

@@ -6,17 +6,16 @@ alt: >-
   It can take a site a while to figure out that there's a problem with their 'report a bug' form.
 img: https://imgs.xkcd.com/comics/debugger.png
 ---
-[[Two characters are silhouetted on a hill. The first sits, the second is lying down.]]
+[Megan and Cueball are at the top of a grassy hill, rendered in silhouette. Megan is lying down on the grass while Cueball is sitting.]
 
-Character #1: I don't understand how my brain works. 
+Cueball: I don't understand how my brain works.
 
-[[The second sits up slightly to look at the first.]]
+[A close-up of the two characters. Megan lifts her head slightly.]
 
-Character #1: But my brain is what I rely on to understand how things work. 
+Cueball: But my brain is what I rely on to understand how things work.
 
-[[The second lies back down.]]
+[The shot zooms out again.]
 
-Character #2: Is that a problem? 
+Megan: Is that a problem?
 
-Character #1: I'm not sure how to tell. 
-
+Cueball: I'm not sure how to tell.

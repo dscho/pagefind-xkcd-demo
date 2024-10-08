@@ -6,23 +6,12 @@ alt: >-
   No, a hydroplane doesn't land on water--that's an aquaplane. A hydroplane is a plane that gets electric power from an onboard water reservoir with a tiny dam and turbines.
 img: https://imgs.xkcd.com/comics/planespotting.png
 ---
-[[A man sits on a medical examination table. He's wearing a headset with lot of wires attached to it, which lead to a complicated-looking device. A woman's operating the device.]]
+[Cueball and a man with a hat is seen in silhouette standing on the ground looking towards the sky. A fixed wing aircraft can be seen in the sky, also in silhouette.]
 
-Woman: Neural-digital link established. Ready to upload your consciousness to the computer? 
+Man with hat: What's That Airplane?
 
-Man: Sure, go for it. 
+Cueball:Oh, that's a Boeing Q404 twin-engine quad-band MIG-380 hybrid dual-wield Mk. IVII Turbodiesel 797 Hydroplane.
 
-[[She presses a button. The wires light up; the man looks shocked.]]
+[Caption below the panel:]
 
-<<Bzzzzzzt>>
-
-[[There's no more sparks; the woman taps on the computer's keyboard.]]
-
-Woman: ... hmm. 
-
-Man: What? 
-
-Woman: It's not responding - the whole system is frozen. I think the transfer failed.
-
-Man: No, that sounds right.
-
+I've always assumed I'm one of those people who knows a lot about planes, but I've never actually checked.

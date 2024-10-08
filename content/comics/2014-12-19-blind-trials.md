@@ -6,15 +6,10 @@ alt: >-
   Plus, you have to control for the fact that some people are into being blindfolded.
 img: https://imgs.xkcd.com/comics/blind_trials.png
 ---
-[[A human stands on a stage, pointing at a projected display.]]
+[Megan is pointing at charts hanging on the wall.]
 
-Human: We've designed a double-blind trial to test the effect of sexual activity on cardiovascular health.
+Megan: We've designed a double-blind trial to test the effect of sexual activity on cardiovascular health.
 
-Human: Both groups will 
-
-think
-
- they're having lots of sex, but one group will actually be getting sugar pills.
+Both groups will *think* they're having lots of sex, but one group will actually be getting sugar pills.
 
 The limitations of blind trials
-

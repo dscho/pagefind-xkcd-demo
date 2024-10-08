@@ -12,7 +12,7 @@ White Hat: Many people are mildly dehydrated. And don't realize it. You should d
 
 [A voice comes from off-panel to the left as Ponytail enters from the left and Black Hat from the right in this frameless panel.]
 
-Off-panel voice: No, eight glasses!
+Off-panel voice: No, *eight* glasses!
 
 Ponytail: I heard ten.
 
@@ -32,6 +32,6 @@ Megan: If you spend all day doing research and forget to eat or drink, you start
 
 Off-panel voice: I'll get some water.
 
-Megan: But how many glas - Whoa, feeling dizzy.
+Megan: *But how many glas* - Whoa, feeling dizzy.
 
 Cueball: Maybe you should just drink straight from the tap.

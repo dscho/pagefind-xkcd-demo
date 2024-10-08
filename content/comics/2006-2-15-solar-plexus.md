@@ -6,15 +6,14 @@ alt: >-
   It hurts to be hit there, you know
 img: https://imgs.xkcd.com/comics/solar_plexus.jpg
 ---
-[[Hat guy and man standing there talking]]
+[Black Hat and Cueball are talking to each other.]
 
-Hat guy: Asolarplexussayswhat?
+Black Hat: Asolarplexussayswhat?
 
-Man: What?
+Cueball: What?
 
-[[They continue to stand there]]
+[Beat panel.]
 
-[[They continue to stand there]]
+[Beat panel.]
 
-[[Hat guy punches the man in the chest]]
-
+[Black Hat punches Cueball in the solar plexus.]

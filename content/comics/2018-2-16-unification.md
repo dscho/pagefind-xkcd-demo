@@ -38,7 +38,7 @@ Gravity
 
 [All five arrows points to this:]
 
-???
+<big><big>???</big></big>
 
 [Caption below the panel:]
 

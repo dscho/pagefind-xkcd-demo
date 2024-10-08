@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/millennials.png
 ---
 [White Hat and Cueball facing each other.]
 
-White Hat: I'm just saying–
+White Hat: I'm just saying&ndash;
 
 White Hat: All these millennials will be in for a shock when they have to grow up and enter the real world.
 
@@ -24,6 +24,6 @@ Cueball: Which means that some millennials can't respond to your criticism becau
 
 [White Hat and Cueball facing each other.]
 
-White Hat: But ...no, millennials are college kids!
+White Hat: But ...no, millennials **are** college kids!
 
-Cueball: Maybe they're not the ones failing to grow and change over time here.
+Cueball: Maybe *they're* not the ones failing to grow and change over time here.

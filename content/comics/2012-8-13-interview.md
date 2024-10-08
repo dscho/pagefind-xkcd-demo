@@ -6,47 +6,56 @@ alt: >-
   Hey, before you go, can you explain to me what job I now have?
 img: https://imgs.xkcd.com/comics/interview.png
 ---
-[[Black Hat Man is interviewed for a job at an interviewer's desk]]
+[Black Hat is interviewed by Hairy.]
 
-Interviewer: ..but thank you for applying. We'll keep your résumé on file.
+Hairy: ...but thank you for applying. We'll keep your résumé on file.
 
-[[Black Hat Man places a briefcase onto the interviewer's desk]]
+[Black Hat pushes a suitcase over the table.]
 
-Black Hat Man: Perhaps *this* could change your mind?
+Black Hat: Perhaps *this* could change your mind?
 
-[[Interviewer opens the briefcase]]
+[Hairy opens the suitcase.]
 
-[[..the briefcase opens into a hole that extends below the desk]]
+*Click*
 
-[[The hole looks miles deep]]
+[Hairy lifts open the top.]
 
-[[The view falls into the hole]]
+[Camera pans over the suitcase to reveal a deep hole.]
 
-[[The interviewer falls down the hole]]
+[Camera zooms into the hole.]
 
-[[The interviewer lands on a chair with a briefcase]]
+[Hairy is falling into the hole.]
 
-[[The positions from the original scene have switched and Black Hat Man is now interviewing]]
+Hairy: AAAAAA
 
-Black Hat Man: ..but thank you for applying. We'll keep your résumé on file.
+[Hairy falls into a chair with the suitcase falling on his lap.]
 
-[[Interviewer looks confused]]
+*THUMP*
 
-[[Interviewer notices the briefcase]]
+[Hairy is dazed, and is being interviewed by Black Hat.]
 
-[[Interviewer places briefcase on the desk]]
+Black Hat: ...but thank you for applying. We'll keep your résumé on file.
 
-Interviewer: Perhaps *this* could change your mind?
+[Hairy looks confused.]
 
-[[Black Hat Man opens the briefcase]]
+Hairy: !??!
 
-[[Black Hat Man looks inside]]
+[Hairy looks at the suitcase.]
 
-[[Black Hat Man spins the briefcase around]]
+[Hairy pushes the suitcase over the table.]
 
-Black Hat Man: I'm sorry..
+Hairy: Perhaps *this* could change your mind?
 
-Black Hat Man: - that opening has been filled
+[Black Hat opens the suitcase.]
 
-[[briefcase contains the normal business elements of a briefcase]]
+*Click*
 
+[Black Hat looks inside.]
+
+[Black Hat turns the suitcase around.]
+
+Black Hat: I'm sorry—
+
+[The suitcase is now filled with paper.]
+
+Black Hat: —that opening has been filled.

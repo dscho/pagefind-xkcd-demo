@@ -12,4 +12,4 @@ Megan: I started the day with lots of problems.
 
 Megan: But now, after hours and hours of work,
 
-Megan: I have lots of problems in a spreadsheet.
+Megan: I have lots of problems in a ***spreadsheet***.

@@ -6,27 +6,26 @@ alt: >-
   Hey, why do YOU get to be the president of Tautology Clu-- wait, I can guess.
 img: https://imgs.xkcd.com/comics/honor_societies.png
 ---
-[[A student sits at a desk, while a teacher or counselor out of frame advises]]
+[Cueball sits at a desk, while someone off-screen answers his question.]
 
-Student: Wait. I should join this honor society to show colleges I'm honorable, and I'm honorable because I'm in an honor society?
+Cueball: Wait. I should join this honor society to show colleges I'm honorable, and I'm honorable because I'm in an honor society?
 
-Teacher: Basically, yes.
+Off-screen voice: Basically, yes.
 
-[[Tighter shot of student]]
+[Close up of Cueball.]
 
-Student: Sounds like I could save time by joining the Tautology Club directly.
+Cueball: Sounds like I could save time by joining the Tautology Club directly.
 
-Teacher: That's not a real club.
+Off-screen voice: That's not a real club.
 
-Student: Then I'm starting it.
+Cueball: Then I'm starting it.
 
-TAUTOLOGY CLUB
+[Inserted in a frame crossing the top of the third panel's frame is a caption. Cueball is standing on a podium in the right part of the panel speaking. From left to right we find Ponytail, a Cueball-like guy, a short guy with glasses, a buzz cut version of Hairy, Hairbun, and to the right of Cueball, a woman that looks like Megan although with an uncharacteristically white stripe in her hair.]
 
-[[Seven individuals appear: a blonde girl, a man, a shorter male with glasses that bears a striking resemblance to Jason Fox, a taller man with a buzz cut, a brunette woman with curly hair in a ponytail, a brunette woman with straight hair, and finally our student, standing on a box.]]
+Caption: Tautology Club:
 
-Blonde Girl: So how'd you learn about us?
+Ponytail: So how'd you learn about us?
 
-Man: From your Facebook group, "If 1,000,000 People Join This Group, It Will Have 1,000,000 People In It."
+Cueball-like guy: From your Facebook group, "If 1,000,000 People Join This Group, It Will Have 1,000,000 People In It."
 
-Student: LISTEN UP! The first rule of Tautology Club is the first rule of Tautology Club.
-
+Cueball: *Listen up!* The first rule of Tautology Club is the first rule of Tautology Club.

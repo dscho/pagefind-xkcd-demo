@@ -6,11 +6,8 @@ alt: >-
   100 years later, this story remains terrifying--not because it's the local network block, but because the killer is still on IPv4.
 img: https://imgs.xkcd.com/comics/campfire.png
 ---
-[[An adult stands in front of a campfire with three children listening intently. The adult holds a flashlight under his chin to create a menacing visage.]]
+[Cueball and three children are around a campfire at night. Cueball is standing up, with a flashlight under his face.]
 
-Adult: But when she traced the killer's IP address... It was in the 192.168
+Cueball: But when she traced the killer's IP address... it was in the 192.168/16 block!
 
-16 block!
-
-Children, together: GASP!
-
+Children: *Gasp!*

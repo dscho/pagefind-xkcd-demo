@@ -6,137 +6,115 @@ alt: >-
   Two tips: 1) 8675309 is not just prime, it's a twin prime, and 2) if you ever find yourself raising log(anything)^e or taking the pi-th root of anything, set down the marker and back away from the whiteboard; something has gone horribly wrong.
 img: https://imgs.xkcd.com/comics/approximations.png
 ---
-A table of slightly wrong equations and identities useful for approximations and
+**A table of slightly wrong equations and identities useful for approximations and/or trolling teachers.**
 
-or trolling teachers. (Found using a mix of trial-and-error, Mathematica, and Robert Munafo's Ries tool.)  All units are SI MKS unless otherwise noted.
+(Found using a mix of trial-and-error, *Mathematica*, and Robert Munafo's *Ries* tool.)
 
-Relation:
+ All units are SI MKS unless otherwise noted.
 
-One light year(m) ~= 
+{| class="wikitable"
 
-99^8
+|-
 
-Accurate to within: 
+|colspan="2" align="center" | Relation:
 
-one part in 40
+|align="center" | Accurate to within:
 
-Relation:
+|-
 
-Earth Surface(m^2) ~=
+|align="center" | One light-year(m)
 
-69^8
+|align="center" | 99<sup>8</sup>
 
-Accurate to within:
+|align="center" | one part in 40
 
-one part in 130
+|-
 
-Relation: 
+|align="center" | Earth Surface(m<sup>2</sup>)
 
-Ocean's volume(m^3) ~=
+|align="center" | 69<sup>8</sup>
 
-9^19
+|align="center" | one part in 130
 
-Accurate to within:
+|-
 
-one part in 70
+|align="center" | Oceans' volume(m<sup>3</sup>)
 
-Relation:
+|align="center" | 9<sup>19</sup>
 
-Seconds in a year ~=
+|align="center" | one part in 70
 
-75^4
+|-
 
-Accurate to within:
+|align="center" | Seconds in a year
 
-one part in 400
+|align="center" | 75<sup>4</sup>
 
-Relation:
+|align="center" | one part in 400
 
-Seconds in a year (rent method) ~=
+|-
 
-525,600 x 60
+|align="center" | Seconds in a year (*Rent* method)
 
-Accurate to within:
+|align="center" | 525,600 x 60
 
-one part in 1400
+|align="center" | one part in 1400
 
-Relation:
+|-
 
-Age of the universe (seconds) ~=
+|align="center" | Age of the universe (seconds)
 
-15^15
+|align="center" | 15<sup>15</sup>
 
-Accurate to within:
+|align="center" | one part in 70
 
-one part in 70
+|-
 
-Relation:
+|align="center" | Planck's constant
 
-Planck's constant ~=
+|align="center" | 1/(30<sup>π<sup>e</sup></sup>)
 
-1
+|align="center" | one part in 110
 
-(30^pi^e)
+|-
 
-Accurate to within:
+|align="center" | Fine structure constant
 
-one part in 110
+|align="center" | 1/140
 
-Relation:
+|align="center" | [I've had enough of this 137 crap]
 
-Fine structure constant ~=
+|-
 
-1
+|align="center" | Fundamental charge
 
-140
+|align="center" | 3/(14 \* π<sup>π<sup>π</sup></sup>)
 
-Accurate to within:
+|align="center" | one part in 500
 
-[I've had enough of this 137 crap]
+|-
 
-Relation:
+|align="center"|White House Switchboard
 
-Fundamental charge ~=
+|colspan="2" align="center"|1 / (e<sup><sup>π</sup>√(1 + <sup>(e-1)</sup>√8)</sup>)
 
-3
+|-
 
-(14 * pi^pi^pi)
+|align="center"|Jenny's Constant
 
-Accurate to within:
+|colspan="2" align="center"|(7<sup>(e/1 - 1/e)</sup> - 9) \* π<sup>2</sup>
 
-one part in 500
+|-
 
-Relation:
-
-White House Switchboard ~=
-
-1
-
-(e^((1+(8)^(1
-
-(e-1))^(1
-
-pi))
-
-Relation:
-
-Jenny's Constant ~=
-
-(7^(e
-
-1- 1
-
-e) - 9) * pi^2
-
-Intermission: World Population Estimate which should stay current for a decade or two:
+|colspan="3" align="center"|Intermission:<br /> World Population Estimate<br /> which should stay current<br /> for a decade or two:<br />
 
 Take the last two digits of the current year
 
-Example: 20[14] 
+Example: 20[14]
 
 Subtract the number of leap years since hurricane Katrina
 
-Example:14 (minus 2008 and 2012) is 12
+Example: 14 (minus 2008 and 2012) is 12
 
 Add a decimal point
 
@@ -146,7 +124,7 @@ Add 6
 
 Example: 6 + 1.2
 
-7.2 ~= World population in billions.
+7.2 = World population in billions.
 
 Version for US population:
 
@@ -164,235 +142,144 @@ Add 10
 
 Example: 3[22] million
 
-Relation:
+|-
 
-Electron rest energy ~=
+|align="center"|Electron rest energy
 
-e
+|align="center"|e/7<sup>16</sup> J
 
-7^16 Joules
+|align="center"|one part in 1000
 
-Accurate to within:
+|-
 
-one part in 1000
+|align="center"|Light-year(miles)
 
-Relation: 
+|align="center"|2<sup>(42.42)</sup>
 
-Light-year(miles) ~=
+|align="center"|one part in 1000
 
-2^42.42
+|-
 
-Accurate to within:
+|colspan="2" align="center"|sin(60°) = √3/2 = e/π
 
-one part in 1000
+|align="center"|one part in 1000
 
-Relation:
+|-
 
-sin(60 degrees) = (3^(1
+|colspan="2" align="center"|√3 = 2e/π
 
-2))
+|align="center"|one part in 1000
 
-2 ~= 
+|-
 
-e
+|align="center"|γ(Euler's gamma constant)
 
-pi
+|align="center"|1/√3
 
-Accurate to within:
+|align="center"|one part in 4000
 
-one part in 1000
+|-
 
-Relation:
+|align="center"|Feet in a meter
 
-(3)^(1
+|align="center"|5/(<sup>e</sup>√π)
 
-2) ~=
+|align="center"|one part in 4000
 
-2e
+|-
 
-pi
+|colspan="2" align="center"|√5 = 2/e + 3/2
 
-Accurate to within:
+|align="center"|one part in 7000
 
-one part in 1000
+|-
 
-Relation:
+|align="center"|Avogadro's number
 
-gamma(Euler's gamma constant) ~=
+|align="center"|69<sup>π<sup>√5</sup></sup>
 
-1
+|align="center"|one part in 25,000
 
-(3^(1
+|-
 
-2)) 
+|align="center"|Gravitational constant G
 
-Accurate to within:
+|align="center"|1 / e<sup>(π - 1)<sup>(π + 1)</sup></sup>
 
-One part in 4000
+|align="center"|one part in 25,000
 
-Relation:
+|-
 
-Feet in a meter ~=
+|align="center"|R (gas constant)
 
-5
+|align="center"|(e+1) √5
 
-(pi^(1
+|align="center"|one part in 50,000
 
-e))
+|-
 
-Accurate to within:
+|align="center"|Proton-electron mass ratio
 
-one part in 4000
+|align="center"|6\*π<sup>5</sup>
 
-Relation:
+|align="center"|one part in 50,000
 
-(5)^(1
+|-
 
-2) ~=
+|align="center"|Liters in a gallon
 
-2
+|align="center"|3 + π/4
 
-e + 3
+|align="center"|one part in 500,000
 
-2
+|-
 
-Accurate to within:
+|align="center"|g
 
-one part in 7000
+|align="center"|6 + ln(45)
 
-Relation:
+|align="center"|one part in 750,000
 
-Avogadro's number ~=
+|-
 
-69^pi^5^(1
+|align="center"|Proton-electron mass ratio
 
-2)
+|align="center"|(e<sup>8</sup> - 10) / ϕ
 
-Accurate to within:
+|align="center"|one part in 5,000,000
 
-one part in 25,000
+|-
 
-Relation:
+|align="center"|Ruby laser wavelength
 
-R(gas constant) ~=
+|align="center"|1 / (1200<sup>2</sup>)
 
-(e+1) * (5^(1
+|align="center"|[within actual variation]
 
-2)
+|-
 
-Accurate to within:
+|align="center"|Mean Earth Radius
 
-one part in 50,000
+|align="center"|(5<sup>8</sup>)\*6e
 
-Relation:
+|align="center"|[within actual variation]
 
-Proton-electron mass ratio ~=
+|-
 
-6*pi^5
+|colspan="3" align="center"|Protip - not all of these are wrong:
 
-Accurate to within:
+|-
 
-one part in 50,000
+|colspan="2" align="center"|√2 = 3/5 + π/(7-π)
 
-Relation:
+|align="center"|cos(π/7) + cos(3π/7) + cos(5π/7) = 1/2
 
-Liters in a gallon ~=
+|-
 
-3+pi
+|align="center"|γ(Euler's gamma constant) = e/3<sup>4</sup> + e/5
 
-4
+|align="center"|√5 = (13 + 4π) / (24 - 4π)
 
-Accurate to within:
+|align="center"|Σ 1/n<sup>n</sup> = ln(3)<sup>e</sup>
 
-one part in 500,000
-
-Relation:
-
-g ~=
-
-6+ln(45)
-
-Accurate to within:
-
-one part in 750,000
-
-Relation:
-
-Proton-electron mass ratio ~=
-
-(e^8 -10)
-
-phi
-
-Accurate to within:
-
-one part in 5,000,000
-
-Relation:
-
-Ruby laser wavelength ~=
-
-1
-
-1200^2
-
-Accurate to within:
-
-[within actual variation]
-
-Relation:
-
-Mean Earth Radius ~=
-
-(5^8)*6e
-
-Accurate to within:
-
-[within actual variation]
-
-Protip - not all of these are wrong:
-
-2^(1
-
-2) ~=
-
-3
-
-5+pi
-
-(7-pi)
-
-cos(pi
-
-7) + cos(3pi
-
-7) + cos(5pi
-
-7) ~=
-
-1
-
-2
-
-gamma(Euler's gamma constant) ~=
-
-e
-
-3^4 + e
-
-5
-
-5^(1
-
-2) ~=
-
-(13 + 4pi)
-
-(24 - 4pi)
-
-sigma(1
-
-n^n) ~=
-
-ln(3)^e
-
+|}

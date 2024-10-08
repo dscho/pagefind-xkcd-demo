@@ -6,47 +6,48 @@ alt: >-
   Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.
 img: https://imgs.xkcd.com/comics/real_programmers.png
 ---
-[[A man sits at a computer, programming. Another man behind him looks over his shoulder.]]
+[A Cueball-like man sits at a computer, programming. Cueball stands behind him and looks over his shoulder.]
 
-Man: nano? REAL programmers use Emacs.
+Cueball: <code>nano</code>? Real Programmers use <code>emacs</code>.
 
-[[A dark haired woman appears behind him.]]
+[Megan appears behind him.]
 
-Woman: Hey. REAL programmers use Vim.
+Megan: Hey. <u>Real</u> Programmers use <code>vim</code>.
 
-[[Another man appears behind her.]]
+[A second Cueball-like man appears behind her.]
 
-Man: Well, REAL programmers use ed.
+Ed Cueball: Well, <u>Real</u> Programmers use <code>ed</code>.
 
-[[Another man appears behind him.]]
+[A third Cueball-like man appears behind him.]
 
-Man: No, REAL programmers use cat.
+Cat Cueball: No, Real Programmers use <code>cat</code>.
 
-[[A woman with a bun appears behind him.]]
+[Hairbun appears behind him.]
 
-Woman: REAL programmers use a magnetized needle and a steady hand.
+Hairbun: <u>Real</u> Programmers use a magnetized needle and a steady hand.
 
-[[A man enters, facing them all.]]
+[A fourth Cueball-like man enters, facing them all. We see him facing the last two Cueball-like men and Hairbun.]
 
-Man: Excuse me, but REAL programmers use butterflies. 
+Butterfly Cueball: Excuse me, but <u>Real</u> Programmers use butterflies.
 
-[[Holding out a butterfly in front of the computer.]]
+[A Cueball-like programmer is standing much like Butterfly Cueball except for holding out a butterfly in front of his computer. The butterfly flaps its wings.]
 
-Man: They open their hands and let the delicate wings flap once.
+Butterfly Cueball (narration within the panel, not diegetic to the scene): They open their hands and let the delicate wings flap once.
 
-[[Diagrams of flowing currents.]]
+[The next two panels are smaller, and two sets of narrative text are written to span respectively above and below both panels. The first panel is the Cueball-like programmer with the butterfly and above him four curved arrows pointing up or down. The second panel shows the upper atmosphere, with large clouds far below and the earth even further down. Also here are shown seven of the same type of arrows.]
 
-Man: The disturbances ripple outward, changing the flow of the Eddy currents in the upper atmosphere. 
+Butterfly Cueball (narration above the panels): The disturbances ripple outward, changing the flow of the eddy currents in the upper atmosphere.
 
-These cause momentary pockets of higher-pressure air to form, ...
+Butterfly Cueball (narration below the panels):  These cause momentary pockets of higher-pressure air to form,
 
-Man: Which act as lenses that deflect incoming cosmic rays, focusing them to strike the drive platter and flip the desired bit.
+[The next two panels are also partial height, leaving room for narration spanning above both panels. The first panel shows the atmosphere, again with clouds, and four parallel lines coming from above, and then they begin to merge, getting quite close at the bottom of the panel. The second panel shows the four lines merging on a driver platter.]
 
-Emacs User: Nice. 'Course, there's an Emacs command to do that.
+Butterfly Cueball (narration above the panels):  Which act as lenses that deflect incoming cosmic rays, focusing them to strike the drive platter and flip the desired bit.
 
-cat User: Oh yeah! Good ol' C-x M-c M-butterfly...
+[All the programmers who have commented so far stand in the order they have commented facing the last Cueball-like man, who slaps his forehead.]
 
-[[Butterfly man slaps forehead.]]
+Cueball: Nice. 'Course, there's an emacs command to do that.
 
-Butterfly man: Dammit, Emacs.
+Cat Cueball: Oh yeah! Good ol' <code>C-x M-c M-butterfly</code>...
 
+Butterfly Cueball: Dammit, Emacs.

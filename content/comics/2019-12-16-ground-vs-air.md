@@ -44,4 +44,4 @@ Asthenosphere
 
 [In the bottom right corner of the comic with gray text is a reference:]
 
-Based mostly on Conrad and Lithgow-Bertelloni (2006) DOI.1029/2005GL025621
+<font color="gray">Based mostly on Conrad and Lithgow-Bertelloni (2006) DOI.1029/2005GL025621</font>

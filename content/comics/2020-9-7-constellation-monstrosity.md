@@ -6,25 +6,23 @@ alt: >-
   It's rare to get both astronomers and astrologers equally mad at you, but apparently I've messed up both a bunch of star location databases AND the will of the fates.
 img: https://imgs.xkcd.com/comics/constellation_monstrosity.png
 ---
-
-
 [Within a frame, a long title is written in a short arc above the drawn elements]
 
 Virgibrascorpleo
 
 [Upon a background of astrological imagery merged in accord, basic point-and-line astronomical/astrological representations of Scorpio, Libra, Virgo and Leo are illustrated.]
 
-[(Scorpio may be slightly rotated/translated for aesthetic reasons.)]
+[(Scorpio *may* be slightly rotated/translated for aesthetic reasons.)]
 
 [Red lines have been added to link stars in adjacent constellations.]
 
-[ Beta Scorpii [https://en.wikipedia.org/wiki/Beta_Scorpii] may be connected to Sigma Librae [https://en.wikipedia.org/wiki/Sigma_Librae] (once known as Gamma Scorpii)]
+[ {{w|Pi Scorpii}}(Bottom left connection) is connected to {{w|Upsilon Librae}}]
 
-[ ...also Pi Scorpii [https://en.wikipedia.org/wiki/Pi_Scorpii] may be connected to Tau Librae [https://en.wikipedia.org/wiki/Tau_Librae]]
+[...also {{w|Beta Scorpii}}(Top left connection) may be connected to {{w|Theta Librae}}]
 
-[ Beta Librae [https://en.wikipedia.org/wiki/Beta_Librae] may be connected to Mu Virginis [https://en.wikipedia.org/wiki/Mu_Virginis]]
+[ {{w|Alpha Librae}}(Middle connection) is connected to {{w|Mu Virginis}}]
 
-[ Nu Virginis [https://en.wikipedia.org/wiki/Nu_Virginis] may be connected to Beta Leonis (better known as Denebola [https://en.wikipedia.org/wiki/Denebola])]
+[ {{w|Nu Virginis}}(Right connection) is connected to Beta Leonis (better known as {{w|Denebola}})]
 
 [Caption below the frame]
 

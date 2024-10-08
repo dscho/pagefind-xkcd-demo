@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/super_bowl_watch_party.png
 
 Woman: Morning. How's the game?
 
-Cueball: Eagles got to the 26-yard line around midnight. They've been walking across the field since then. Just entered a huddle.
+Cueball: Eagles got to the 26-yard line around midnight.  They've been walking across the field since then.  Just entered a huddle.
 
 Megan: I bet the next frame will be a cut.
 
@@ -20,4 +20,4 @@ Ponytail: Do you think the first ads will come by the end of February?
 
 [Caption below the comic:]
 
-I'm at a year-round Super Bowl watch party. We're playing the stream at 1/2300x speed, so it will end just as next year's Super Bowl starts.
+I'm at a year-round Super Bowl watch party. We're playing the stream at <sup>1</sup>/<sub>2300x</sub> speed, so it will end just as next year's Super Bowl starts.

@@ -8,13 +8,13 @@ img: https://imgs.xkcd.com/comics/pulsar_analogy.png
 ---
 [Cueball and Ponytail are standing next to each other.]
 
-Cueball: Why do pulsars spin so fast?
+Cueball: Why do pulsars spin so *fast?*
 
 Ponytail: Hmm, let me think of an analogy...
 
 [A tape measure is retracting above Ponytail's head. To the right of her head, a tape measure is spinning rapidly.]
 
-Retracting tape measure: zzzzzzzzzzzzzzz
+Retracting tape measure: *zzzzzzzzzzzzzzz*
 
 Spinning tape measure: SNAP
 

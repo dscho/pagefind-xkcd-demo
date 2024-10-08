@@ -6,7 +6,7 @@ alt: >-
   What are all these less-than signs? What's an HREF? Look, we know you live in a fancy futuristic tech world, but not all of us have upgraded to the latest from Sun Microsystems.
 img: https://imgs.xkcd.com/comics/email_settings.png
 ---
-Email Settings
+**Email Settings**
 
 [A list of controls with radio buttons and checkboxes]
 
@@ -16,11 +16,11 @@ Default reply behavior
 
 ( ) Reply All
 
-(*) Forward to address book
+(\*) Forward to address book
 
 Vacation autoresponder
 
-(*) While on vacation
+(\*) While on vacation
 
 ( ) Always
 
@@ -30,13 +30,13 @@ Attachment limit
 
 ( ) 300 KB
 
-(*) 1.4 MB
+(\*) 1.4 MB
 
 ( ) 5 MB (Beta)
 
 Default email format
 
-(*) Plain text
+(\*) Plain text
 
 ( ) HTML
 
@@ -48,7 +48,7 @@ Character set
 
 ( ) ASCII (Unicode 0-127 only)
 
-(*) Non-ASCII (Unicode 128+ only)
+(\*) Non-ASCII (Unicode 128+ only)
 
 Smart autocomplete
 
@@ -56,22 +56,22 @@ Smart autocomplete
 
 ( ) Suggest replies
 
-(*) Automatically respond to all emails with suggested reply
+(\*) Automatically respond to all emails with suggested reply
 
 Important emails
 
-(*) Show
+(\*) Show
 
 ( ) Hide
 
 Show unread email count...
 
-(*) Now
+(\*) Now
 
 ( ) On my projected day of death
 
 Signature
 
-(*) "That's my email. Hope you liked it!"
+(\*) "That's my email. Hope you liked it!"
 
 ( ) None

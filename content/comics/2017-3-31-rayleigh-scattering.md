@@ -6,13 +6,13 @@ alt: >-
   If you ask "why are leaves green?" the usual answer is "because they're full of chlorophyll, and chlorophyll is green," even though "why does chlorophyll scatter green light?" is a great question too.
 img: https://imgs.xkcd.com/comics/rayleigh_scattering.png
 ---
-[Science Girl asks Blondie a question which she answers while lifting her arm towards Science Girl.]
+[Jill asks Blondie a question which she answers while lifting her arm towards Jill.]
 
-Science Girl: Why is the sky blue?
+Jill: Why is the sky blue?
 
 Blondie: Because air is blue.
 
-[Megan walks in from behind Science Girl.]
+[Megan walks in from behind Jill.]
 
 Megan: No, the sky is blue because of Rayleigh scattering–
 
@@ -22,26 +22,26 @@ Blondie: Nah, it's because air is blue. Blue light bounces off it and hits our e
 
 Blondie: It's why far-off mountains look blue – because of all the blue air in the way.
 
-[Zoom out to Megan standing longer from Science Girl than Blondie who has thrown her arms out. Science Girl is facing directly out towards the reader.]
+[Zoom out to Megan standing longer from Jill than Blondie who has thrown her arms out. Jill is facing directly out towards the reader.]
 
 Megan: There's a specific quantum mechanism by which–
 
-Blondie: Yeah but there's a physics mechanism for every color. You don't have to get all quantum right away.
+Blondie: Yeah but there's a physics mechanism for *every* color. You don't have to get all quantum right away.
 
-[Frameless panel with Science Girl looking up at Blondie who stands holding her hands on her sides. Megan speaks from off-panel.]
+[Frameless panel with Jill looking up at Blondie who stands holding her hands on her sides. Megan speaks from off-panel.]
 
 Megan (off-panel): ...OK, I guess.
 
 Blondie: Any other questions?
 
-Science Girl: How do planes stay up?
+Jill: How do planes stay up?
 
-[Blondie holds a finger up in front of Science Girl while Megan now is the one to throw out her arms.]
+[Blondie holds a finger up in front of Jill while Megan now is the one to throw out her arms.]
 
 Megan: Well, the airflow–
 
 Blondie: Tiny birds in the wings. Thousands. Flapping hard.
 
-Science Girl: WOW!
+Jill: WOW!
 
-Megan: NO!
+Megan: *NO!*

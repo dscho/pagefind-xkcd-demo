@@ -22,7 +22,7 @@ Ponytail: You could quash the revolt with the ruthless deployment of chemical an
 
 Cueball (off-screen): ...antibiotics?
 
-Ponytail: But certain victory comes only through the sword.
+Ponytail: But certain victory comes only through *the sword*.
 
 Cueball (off-screen): Surgery.
 
@@ -38,4 +38,4 @@ Ponytail: When the battle is won, we will salt your abdomen so no new organs can
 
 Cueball: Maybe I should get a second opinion.
 
-Ponytail: Only if you care what a weaker doctor would say.
+Ponytail: Only if you care what a *weaker* doctor would say.

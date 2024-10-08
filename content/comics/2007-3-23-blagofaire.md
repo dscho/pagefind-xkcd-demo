@@ -8,25 +8,24 @@ img: https://imgs.xkcd.com/comics/blagofaire.png
 ---
 Man in Red Cape and Goggles: Hey, it worked!
 
-Man: What? Who are you?
+Cueball: What? Who are you?
 
 Man in Red Cape and Goggles: I'm from the distant future.
 
-Man: Wow.  Hi!
+Cueball: Wow. Hi!
 
-Man in Red Cape and Goggles: Are you a blogger?  I play one of you at our festivals!
+Man in Red Cape and Goggles: Are you a blogger? I play one of you at our festivals!
 
-Man: Huh?
+Cueball: Huh?
 
-Man in Red Cape and Goggles: Like the ren faires of your time - I do reenactments.
+Man in Red Cape and Goggles: Like the Ren faires of your time — I do reenactments.
 
-Man in Red Cape and Goggles: We relive the days when the internet was new and free.  The days of risky sharing, slashdot, the myspace music renaissance.  The generation's finest minds meeting on comment threads, battling roving bands of trolls, and holding the great dialogues of the age!
+Man in Red Cape and Goggles: We relive the days when the internet was new and free. The days of risky sharing, Slashdot, the Myspace music renaissance. The generation's finest minds meeting on comment threads, battling roving bands of trolls, and holding the great dialogues of the age!
 
-Man: Is that how you -
+Cueball: Is that how you—
 
-Man in Red Cape and Goggles: We're fuzzy on some details.  Did bloggers really wear red capes and goggles and blog from high-altitude balloons?
+Man in Red Cape and Goggles: We're fuzzy on some details. Did bloggers really wear red capes and goggles and blog from high-altitude balloons?
 
-Man: No!
+Cueball: No!
 
-Man: Well, Cory Doctorow does.  But nobody else.
-
+Cueball: Well, Cory Doctorow does. But nobody else.

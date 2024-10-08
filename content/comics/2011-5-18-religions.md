@@ -3,26 +3,27 @@ date: 2011-05-18
 title: "Religions"
 num: 900
 alt: >-
-  But to us there is but one God, plus or minus one. --1 Corinthians 8:6±2.
+  But to us there is but one God, plus or minus one. —1 Corinthians 8:6±2.
 img: https://imgs.xkcd.com/comics/religions.png
 ---
-Woman: So are you worried about the rapture?
+[Cueball and Megan talking.]
 
-Man: No, unless it figures out how to open doors.
+Megan: So are you worried about the rapture?
 
-Woman: I said RAPTURE.
+Cueball: No, unless it figures out how to open doors.
 
-Man: Oh. I'm not really into that. I'm the kind of Christian who only goes to church on Christmas and Easter, and then spends the other 363 days at the Mosque.
+Megan: I said *rapture.*
 
-Woman: ... I don't think that's a thing.
+Cueball: Oh, I'm not really into that. I'm the kind of Christian who only goes to church on Christmas and Easter, and then spends the other 363 days at the mosque.
 
-Man: Our rabbi swears it's legit.
+Megan: ...I don't think that's a thing.
 
-Man: What religion are you?
+Cueball: <small>Our rabbi swears it's legit.</small>
 
-Woman: Experimentalist monotheism.
+Cueball: What religion are you?
 
-Man: Which is?
+Megan: Experimentalist Monotheism.
 
-Woman: We believe there's one god, but we're trying to find the error bars on that number.
+Cueball: Which is?
 
+Megan: We believe there's one god, but we're trying to find the error bars on that number.

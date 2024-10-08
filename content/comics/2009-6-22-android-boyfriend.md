@@ -6,29 +6,30 @@ alt: >-
   Which is, coincidentally, the most unsettling mantlepiece decoration in my house.
 img: https://imgs.xkcd.com/comics/android_boyfriend.png
 ---
-[[Two couples meet.]]
+[Ponytail enters from the right dragging Hairy along by his hand, as she moves towards Cueball who stands with Megan in his hand.]
 
-Woman #2: I thought your android girlfriend was cool so I got myself an android boyfriend.
+Ponytail: I thought your android girlfriend was cool so I got myself an android boyfriend.
 
-Woman #2: He's really great. I like how --
+[Suddenly the Megan android runs into the arms of the Hairy android, while Ponytail has let go of his hand. Ponytails head swirls around to follow her run by.]
 
-Woman #2: Uh.
+Ponytail: He's really great. I like how—
 
-[[Woman #1, the android girlfriend, rushes over to Man #2, the android boyfriend.]]
+Ponytail: Uh.
 
-<<Zip>>
+[Cueball and Ponytail look towards the two androids, but they are now outside this frame-less panel.]
 
-Voice: Mmmmm...
+Off-panel sound: *\*Zip\**
 
-[[Man #1 and Woman #2 look at something which is off the panel.]]
+Off-panel voice: *Mmmmm*
 
-Man #1: ... Huh.
+[Cueball and Ponytail still look at the scene off panel.]
 
-Woman #2: It's like somebody stuck a vibrator in a fleshlight.
+Cueball: ...Huh.
 
-<<Whirrr>
+Ponytail: It's like somebody stuck a vibrator in a fleshlight.
 
-Voice: Mmmm
+Off-panel sound: *Whirrr*
 
-<<Click>>
+Off-panel voice: *Mmmm*
 
+Off-panel sound: *Click*

@@ -6,50 +6,14 @@ alt: >-
   You can also try 'Yikes.'
 img: https://imgs.xkcd.com/comics/it_begins.png
 ---
-install.sh
+[A post in Megan's news feed on some social network platform is shown. Megan's head-shot profile image is shown in a frame to the left with two lines of unreadable text below. Her comment is to the right of this image, also with unreadable text above both in a black and gray font. This comment is above the news story she has posted below in a frame. Inside the frame there is another smaller frame to the left with a picture of Cueball on a beach, holding his hand out towards a seagull that flies away with his phone. Two other seagulls can be seen in the air above the sea. There is a small heading at the top, and then a larger one below this. Below that again there is two lines of unreadable text:]
 
-#!
+It Begins
 
-bin
+<small>*Local News*</small>
 
-bash
+Seagull Steals Phone, Drops it in Ocean
 
-pip install "$1" & 
+[Caption below the panel:]
 
-easy_install "$1" &
-
-brew install "$1" & 
-
-npm install "$1" & 
-
-yum install "$1" & dnf install "$1" & 
-
-docker run "$1" & 
-
-pkg install "$1" & 
-
-apt-get install "$1" & 
-
-sudo apt-get install "$1" & 
-
-steamcmd +app_update "$1" validate & 
-
-git clone https:
-
-github.com
-
-"$1"
-
-"$1" & 
-
-cd "$1";.
-
-configure;make;make install & 
-
-curl "$1" | bash &
-
-{{Title text: The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>
-
-dev
-
-null' are recommended additions.)}}
+Protip: To make your day more dramatic, post a random minor news story with the comment "it begins."

@@ -6,21 +6,20 @@ alt: >-
   I favor approval voting or IRV chiefly because they mean we might get to bring back The Bull Moose party.
 img: https://imgs.xkcd.com/comics/two_party_system.png
 ---
-[[A girl stands at a podium, giving a speech.]]
+[Ponytail stands at a podium behind a lectern, giving a speech.]
 
-Girl: And if I'm elected, I'll try to fix some of these problems.
+Ponytail: And if I'm elected, I'll try to fix some of these problems.
 
-Boy, off-panel: Yeah, right!
+Billy, off-panel: Yeah, right!
 
-[[A boy in the audience is standing on his chair.]]
+[A boy in the audience is standing on his chair.]
 
-Boy: The REAL problem is the corporate-run two party system. Until we fix THAT, we'll have no real change!
+Billy: The *real* problem is the corporate-run two-party system. Until we fix *that*, we'll have no real change!
 
-Girl: Billy, I'm running for class president. We don't even have political parties.
+Ponytail: Billy, I'm running for class president. We don't even have political parties.
 
-Boy: That's because the two-praty, uh ... estab ... uh.
+Billy: That's because the two-party, uh... estab... uh.
 
-Girl: Billy, did you learn about politics from the internet?
+Ponytail: Billy, did you learn about politics from the internet?
 
-Boy: I thought that one reply was all I ever needed!
-
+Billy: I thought that one reply was all I ever needed!

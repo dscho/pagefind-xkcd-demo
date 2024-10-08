@@ -6,21 +6,16 @@ alt: >-
   If I get a Wii, it will be the first game console I've owned.
 img: https://imgs.xkcd.com/comics/console_lines.png
 ---
+Fans turning away latecomers to all-night game console campouts:
 
+[Two different lines, presumably leading to video game stores, are shown.]
 
-{{Sony
+[In the line labeled Sony/Microsoft:]
 
-Microsoft:}}
+Cueball: The line is full, asshole! Fuck off!
 
-[[Campers to new arrivals:]]
+[In the line labeled Nintendo:]
 
-The line is full, asshole!  Fuck off!
+Cueball: I'm so sorry, all the consoles are spoken for.
 
-{{Nintendo:}}
-
-[[Campers to new arrivals:]]
-
-I'm so sorry, all the consoles are spoken for.
-
-Do... Do you want a hug?
-
+Cueball: Do... do you want a hug?

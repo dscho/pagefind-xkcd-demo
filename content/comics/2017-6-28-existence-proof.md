@@ -18,7 +18,7 @@ Miss Lenhart: Somewhere out there, it exists.
 
 [Zoom-in on Miss Lenhart raising a fist.]
 
-Miss Lenhart: And we must find it... and destroy it.
+Miss Lenhart: And we must find it... and *destroy* it.
 
 [Miss Lenhart raises a sword.]
 

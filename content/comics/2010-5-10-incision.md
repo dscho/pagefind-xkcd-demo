@@ -6,15 +6,16 @@ alt: >-
   At one point, by force of childhood habit, the doctor accidentally removed three or four organs.
 img: https://imgs.xkcd.com/comics/incision.png
 ---
-[[Two doctors wearing surgical masks are standing over a prone patient.  One of them is poking the patient's chest.]]
+[Two doctors wearing surgical masks are standing over a prone patient. One of them is touching the patient's chest with a scalpel.]
 
-Doctor: I'm making the incision above the left - 
+Doctor: I'm making the incision above the left—
 
-<< BZZZZT! >>
+***BZZZZT!***
 
 Doctor: Augh!
 
+[Caption below the panel:]
+
 October 8th, 2004:
 
-A child swallows an 'operation' buzzer, leading to the single most difficult surgery ever performed.
-
+A child swallows an "Operation" buzzer, leading to the single most difficult surgery ever performed.

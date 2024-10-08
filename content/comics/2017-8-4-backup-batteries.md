@@ -17,3 +17,9 @@ Cueball: Then I worry—
 [Caption below the frame:]
 
 My bag is 90% backup batteries.
+
+[[Category:Comics featuring Cueball]]
+
+[[Category:Comics featuring White Hat]]
+
+[[Category:Smartphones]]

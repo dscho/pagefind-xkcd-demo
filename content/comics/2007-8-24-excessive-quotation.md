@@ -6,13 +6,10 @@ alt: >-
   Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.
 img: https://imgs.xkcd.com/comics/excessive_quotation.png
 ---
-[[Outside, under a crescent moon.]]
+[Outside, under a crescent moon. Megan holds Cueball up in the air by his neck à la Darth Vader using the force.]
 
-Woman: It's strange to stare at the moon and think about people walking on it.
+Megan: It's strange to stare at the moon and think about people walking on it.
 
-Man: That's no moon, it's aâ<<gack>>
+Cueball: That's no moon, it's a—*\*gack\**
 
-[[She holds him up in the air by his neck Ã  la Darth Vader using the force.]]
-
-Woman: I find your lack of original conversation disturbing.
-
+Megan: I find your lack of original conversation disturbing.

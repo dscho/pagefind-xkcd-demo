@@ -6,7 +6,7 @@ alt: >-
   My favorite thing to do at parties is to talk judgmentally about people who aren't there.
 img: https://imgs.xkcd.com/comics/overstimulated.png
 ---
-[[There is a group of people.  Three women and four men.  They are standing around a table with a drink on it.]]
+[There is a group of people. Three women and four men. They are standing around a table with a drink on it.]
 
 Man #3: Have you seen John lately?
 
@@ -16,27 +16,25 @@ Man #4: They do that a lot.
 
 Man #1: Yeah; I don't know what his problem is with hanging out lately.
 
-Man #3: He's like Katie - ever noticed how she only goes somewhere if Jeff's there?
+Man #3: He's like Katie—ever noticed how she only goes somewhere if Jeff's there?
 
-Somebody: It's so lame how s he hangs around him even when he's not single:
+[Cueball is cringing away from all the text; none of the text is attributed to specific people.]
 
-Somebody: HE LIKES IT. 
+Somebody: It's so lame how she hangs around him even when he's not single:
 
-Somebody: SOMEONE SERIOUSLY NEEDS TO DATE HER.
+Somebody: He likes it.
 
-Somebody: TOTALLY.
+Somebody: Someone seriously needs to date her.
+
+Somebody: Totally.
 
 Somebody: And honestly I feel like a jerk but I wouldn't mind if she hung around with us a little less. She needs other friends, you know!
 
-[[Man #2 is cringing away from all the text; none of the word is attributed to specific people.]]
+[Cueball peels a hole in the panel. The numbers '1', '2', and '3' are visible through the gap.]
 
-[[Man #2 peels a hole in the panel.  The numbers '1', '2', and '3' are visible through the gap.]]
+Somebody: Have you noticed how every dude she dates is a total druggie?
 
-Somebody: HAVE YOU 
-
-NOTICED
-
- HOW EVERY DUDE SHE DATES IS A TOTAL DRUGGIE?
+Somebody: Nope
 
 Somebody: I'm glad I'm not the only one who thought that was weird.
 
@@ -48,31 +46,31 @@ Somebody: And it's not like she smokes a lot.
 
 Somebody: Elaine is one of those girls who
 
-[[The previous panel's text appears again, but peeled back even further.  Man #2 looks up.]]
+[The previous panel's text appears again, but peeled back even further. Cueball looks up.]
 
 1 2 3 4 5 6 7 8 9 10 11 12
 
-[[The man starts taking down the prime numbers.]]
+Somebody: -noticed how -
 
-1     4   6   8 9 10    12    14 15
+Somebody: Nope
 
-  2 3   5   7        11    13
+Somebody: -es is a tota-
 
-[[The man grabs and squeezes the 2, so it is half as wide and twice as tall.]]
+Somebody: -t th- -ought
 
-[[A formula: \Sum_{i=1}^{\infty}{1
+[Cueball starts taking down the prime numbers.]
 
-P_i} = h]]
+1 4 6 8 9 10 12 14 15
 
-[[ie. The sum from 1 to infinity of the inverse of each prime.]]
+2 3 5 7 11 13
 
-[[The panel shows a 2 that is 2 units tall and 1
+[Cueball grabs and squeezes the 2, so it is half as wide and twice as tall.]
 
-2 wide, a 3 that is 3 units tall and 1
+[A formula: Sum with i from 1 to infinity of 1/P<sub>i</sub> = h - ie. the sum from 1 to infinity of the inverse of each prime.]
 
-3 wide, and so on.  The man is moving the 7.]]
+[The panel shows a 2 that is 2 units tall and 1/2 wide, a 3 that is 3 units tall and 1/3 wide, and so on. Cueball is moving the 7.]
 
-[[Man #2 writes h = infinity.  The numbers are piled on their side next to a scale.]]
+[Cueball writes h = ∞. The numbers are piled on their side next to a scale.]
 
 Voice: Don't you agree?
 
@@ -80,13 +78,12 @@ Voice: Hey, wake up.
 
 Man #1: You zoned out or something.
 
-Man #2: Sorry; I must be... tired.
+Cueball: Sorry; I must be... tired.
 
 Man #1: I don't blame you. All day cooped up working on papers.
 
 Man #3: Must be nice to get out and relax, huh?
 
-Man #2: Yeah.
+Cueball: Yeah.
 
-[[Girl #3 reaches for the glass on the table.]]
-
+[Girl #3 reaches for the glass on the table.]

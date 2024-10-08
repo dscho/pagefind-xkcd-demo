@@ -18,7 +18,7 @@ Hairy: Oh, hi!
 
 Normal human conversation
 
-----------------------------------------
+<hr width="150" style="background-color:black" align="left">
 
 1. Ask them about themselves
 
@@ -26,7 +26,7 @@ Normal human conversation
 
 Cueball: How many...apples...have you eaten?
 
-Hairy: ...Like, in my life?
+Hairy: ...like, in my life?
 
 Cueball: Yes.
 

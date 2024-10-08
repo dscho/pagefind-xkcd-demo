@@ -6,29 +6,32 @@ alt: >-
   The next day: 'What? Six bank robberies!? But I just vandalized the library!' 'Nice try. They saw your plate with all the 1's and I's.' 'That's impossible! I've been with my car the whole ti-- ... wait. Ok, wow, that was clever of her.'
 img: https://imgs.xkcd.com/comics/license_plate.png
 ---
-[[A guy walking toward the left, holding a car license plate in front of him.]]
+[Cueball is walking in from the right holding a license plate up with both hands for an off-panel Megan to see. It is possible to see the plate, but here it looks like all I's (or 1's).]
 
-Guy: Check out my personalized license plate!
+Cueball: Check out my personalized license plate!
 
-Girl (out of frame): "1I1-III1"?
+Megan (off-panel): "1I1-III1"?
 
-[[The girl is now in frame, sitting in an office chair, looking down at the license plate in her hands. The guy stands in front of her, rubbing his hands together with glee.]]
+Cueball: It's perfect!
 
-Guy: No one will be able to correctly record my plate number! I can commit any crime I want!
+Plate: III-IIII
 
-Girl: Sounds foolproof.
+[In this frame-less panel Megan is sitting in an office chair holding and looking at the plate while Cueball stand next to her rubbing his hands together in front of him.]
 
-SOON:
+Cueball: No one will be able to correctly record my plate number!
 
-[[A witness (a bald man in glasses) stands in front of yellow 'DO NOT CROSS' police tape, speaking to a pair of police officers. One officer is facing him, writing in a notepad, the other is turning to walk away.]]
+Cueball: I can commit any crime I want!
+
+Megan: Sounds foolproof.
+
+[A man with hair only around his neg and glasses holds out a hand towards a bald male police officer with a black peaked cap with white emblem on the front. The police man interviews their witness holding a notepad and a pen. Another likewise caped female officer is Ponytail who walks to the left arm pointing left. There is a line of yellow police tape behind them with text partially obscured by the characters. At the top left of the panel there is a small frame with a caption:]
+
+Soon:
 
 Witness: The thief's license plate was all "1"s or something.
 
-PO #1: Oh. 
+Police officer: Oh. *That* guy.
 
-That
+Ponytail: His address is on a post-it in the squad car.
 
- guy.
-
-PO #2: His address is on a post-it in the squad car.
-
+Yellow strip (text not visible in brackets): Poli[ce strip] do not cross [poli]ce stri[p do not] cross.

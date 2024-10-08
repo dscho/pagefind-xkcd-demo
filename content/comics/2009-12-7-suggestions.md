@@ -6,39 +6,38 @@ alt: >-
   An hour later: SUGGESTION: LICK HER NIPPLE MORE.
 img: https://imgs.xkcd.com/comics/suggestions.png
 ---
-[[A man is sitting at his computer. Facebook sidebar messages appear on the top of each panel, with a user photo and a few lines of text.]]
+[Cueball is sitting at his computer. Facebook sidebar messages appear on the top of each panel, with a user photo of Susie (looking like Megan leaning forward so her hair hangs down the sides of her face) and a few lines of text.]
 
-Facebook: Susie 
+Facebook: Susie
 
- Reconnect with her 
+Reconnect with her
 
- (phone icon) Send her a text
+[Phone icon] Send her a text
 
-Man: Come on, Facebook. I know I shouldn't.
+Cueball: Come on, Facebook. I know I shouldn't.
 
-Facebook: Susie 
+Facebook: Susie
 
- She'd come over 
+She'd come over
 
- (bed icon) You don't have to fall asleep alone.
+[Bed icon] You don't have to fall asleep alone.
 
-Man: It's been so hard to stop. But she's falling for me, and I can't keep getting her hopes up like this.
+Cueball: It's been so hard to stop. But she's falling for me, and I can't keep getting her hopes up like this.
 
-Facebook: Susie 
+Facebook: Susie
 
- Life is complicated 
+Life is complicated
 
- (icon of stick figures embracing) She's so warm against you. You both want it.
+[Icon of stick figures embracing] She's so warm against you. You both want it.
 
-Man: (pulling out phone) Maybe if I just make it clear it's not going to be a thing ...
+Cueball: (pulling out phone) Maybe if I just make it clear it's not going to be a thing...
 
-Man: Yeah, we'll just have a talk.
+Cueball: Yeah, we'll just have a talk.
 
-Facebook: Susie 
+Facebook: Susie
 
- Oh yeah. Mmm ... 
+Oh yeah. Mmm...
 
- (webcam icon) Leave your webcam on so I can watch.
+[Webcam icon] Leave your webcam on so I can watch.
 
-Man: Okay, this feature is getting creepier and creepier.
-
+Cueball: Okay, this feature is getting creepier and creepier.

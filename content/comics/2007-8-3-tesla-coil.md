@@ -6,27 +6,30 @@ alt: >-
   For scientists, this can be the hardest thing about dreams.
 img: https://imgs.xkcd.com/comics/tesla_coil.png
 ---
-[[Two figures, one wearing a hat stand near a tesla coil mounted on a table.]]
+[Cueball and Black Hat stand near a tesla coil mounted on a table.]
 
-No hat: I finally finished my Tesla Coil!
+Cueball: I finally finished my Tesla Coil!
 
-[[The room is dark; characters appear as faint blue outlines on black background. No hat turnss on the Tesla Coil <<click>> and it sparks white static electricity. <<gzzzzzz>>]]
+[The room is dark; the characters appear as faint blue outlines on black background. Cueball turns on the Tesla Coil and it sparks white static electricity.]
 
-Hat Man: Cool, but-
+*click*
 
-Hat Man: Check *this* out
+Black Hat: Cool, but—
 
-[[Lightning shoots out of Hat Man's hands <<gzzzzzz>>]]
+Black Hat: Check <u>this</u> out!
 
-[[The lights are back on]]
+[Lightning shoots out of Black Hat's hands, Cueball appears to be in shock <!-- get it --> and awe.]
 
-No Hat: How did you do that?
+[The lights are back on, Cueball's arms are raised in amazement.]
 
-Hat Man: The world doesn't actually make any sense. Science doesn't work. No one told you because you're so cute when you get into something.
+Cueball: How did you do that?
 
-Hat Man: [[Floting up the frame]] Still, neat toy.
+Black Hat: The world doesn't actually make any sense. Science doesn't work. No one told you because you're so cute when you get into something.
 
-No Hat: [[Pointing to Hat Man]] Now you're hovering!
+[Black Hat floats up the frame, and Cueball is pointing towards Black Hat.]
 
-Hat Man: I guess you're still not getting this.
+Black Hat: Still, neat toy.
 
+Cueball: Now you're hovering!
+
+Black Hat: I guess you're still not getting this.

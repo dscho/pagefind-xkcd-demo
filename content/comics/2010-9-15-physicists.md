@@ -6,15 +6,14 @@ alt: >-
   If you need some help with the math, let me know, but that should be enough to get you started! Huh? No, I don't need to read your thesis, I can imagine roughly what it says.
 img: https://imgs.xkcd.com/comics/physicists.png
 ---
-A man stands at a blackboard covered in equations and diagrams, an open laptop and scattered paper at his feet. His fists are balled in anger and there is a little angry squiggle over his head. A second man stands behind him, arms out in a shrug.
+[Cueball stands at a blackboard covered in equations and diagrams, an open laptop and scattered paper at his feet. His fists are balled in anger and there is a little angry squiggle over his head. A Cueball-like physicist stands behind him, arms out in a shrug.]
 
-((Words in <> are gray.))
+Physicist: You're trying to predict the behavior of <font color=gray><complicated system></font>? Just model it as a <font color=gray><simple object></font>, and then add some secondary terms to account for <font color=gray><complications I just thought of></font>.
 
-Second man: You're trying to predict the behavior of <complicated system>? Just model it as a <simple object>, and then add some secondary terms to account for <complications I just thought of>. -- Easy, right? -- So, why does <your field> need a whole journal, anyway?
+Physicist: Easy, right?
 
-Liberal-arts majors may be annoying sometimes, but there's 
+Physicist: So, why does <font color=gray><your field></font> need a whole journal, anyway?
 
-nothing
+[Caption below the panel:]
 
- more obnoxious than a physicist first encountering a new subject.
-
+Liberal-arts majors may be annoying sometimes, but there's *nothing* more obnoxious than a physicist first encountering a new subject.

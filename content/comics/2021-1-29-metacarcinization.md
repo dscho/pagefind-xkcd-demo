@@ -6,7 +6,7 @@ alt: >-
   Scientists still don't know how marine biologists manage to so consistently bring up whalefall ecosystems, when relevant conversational openings are so few and far between.
 img: https://imgs.xkcd.com/comics/metacarcinization.png
 ---
-[White Hat and Cueball are walking together. White Hat has his smartphone out in his hand.
+[White Hat and Cueball are walking together. White Hat has his smartphone out in his hand.]
 
 White Hat: Have you seen this video of a crow sledding on a roof?
 

@@ -52,11 +52,11 @@ Plymouth
 
 CO [Colorado]
 
-[An unlabelled dot, between text for Louisville, CO and Atlanta, NE; probably the actual Mesa, CO.]
+ [An unlabelled dot, between text for Louisville, CO and Atlanta, NE; likely Yuma, CO.]
 
 Louisville
 
-Mesa [Appears to be the incorrectly-labeled town of Orchard Mesa, CO.]
+Mesa
 
 CT [Connecticut]
 

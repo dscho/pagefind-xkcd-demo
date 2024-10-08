@@ -6,23 +6,24 @@ alt: >-
   Try our bottomless drinks and fall forever!
 img: https://imgs.xkcd.com/comics/tuesdays.png
 ---
-[[An unbuxom waitress begins to serve some customers at a table]]
+[Ponytail serves Beret Guy and somebody else at a table.]
 
-Waitress: ..and on Tuesdays we offer endless wings.
+Ponytail: ...and on Tuesdays we offer endless wings.
 
-White Beret Guy: Haha, cool.  i have those.
+Beret Guy: Haha, cool.
 
-Waitress: You what?
+Beret Guy: <small>i have those.</small>
 
-[[White Beret Guy sprouts a pair of wings]]
+Ponytail: You what?
 
-Waitress: AAAAA!!
+[Beret Guy sprouts a pair of wings.]
 
-[[White Beret Guy's wings start getting longer]]
+Ponytail: *AAAAA!!*
 
-Everyone: AAAAAAA
+[Beret Guy's wings start getting longer.]
 
-[[Wings start to extend into space out from the earth]]
+Ponytail and Other person beret guy is sitting with: *AAAAAAA*
 
-*Really* Everyone: AAAAAAAA
+[Wings start to extend into space out from the earth.]
 
+Everyone: *AAAAAAAA*

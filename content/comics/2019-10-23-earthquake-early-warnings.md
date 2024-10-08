@@ -20,6 +20,6 @@ Cueball: It ruins the experience of trying to recognize the p-waves before the o
 
 [Megan still looks at Cueball who has taken his arms down.]
 
-Megan: So you're mad about earthquake spoilers?
+Megan: So you're mad about earthquake *spoilers?*
 
-Cueball: I just want to experience the shaking the way the tectonic plate intended!
+Cueball: I just want to experience the shaking the way the tectonic plate *intended!*

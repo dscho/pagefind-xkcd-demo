@@ -30,8 +30,8 @@ Also siblings-in-law, I think?
 
 [All remaining figures left and right have similar arrows below and the text is:]
 
-Possible additional siblings-in-law???
+Possible *additional* siblings-in-law???
 
 [Caption below the frame:]
 
-People complain that “<X>th cousin <Y> times removed” is hard to understand, but to me the most confusing one is sibling-in-law, because it chains across both sibling and marriage links and I don't really know where it stops.
+People complain that “<X><sup>th</sup> cousin <Y> times removed” is hard to understand, but to me the most confusing one is sibling-in-law, because it chains across both sibling and marriage links and I don't really know where it stops.

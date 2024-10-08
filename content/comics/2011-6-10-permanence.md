@@ -6,33 +6,26 @@ alt: >-
   This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!
 img: https://imgs.xkcd.com/comics/permanence.png
 ---
-((A large panel the combined width of the four panels below it.))
+[A large panel the combined width of the four panels below it.]
 
-[[A blue Linux terminal installer screen with a grey box that is labeled "[!]CONFIGURE THE NETWORK" in red. Below, in black, it reads "Please enter the hostname for the system." Below is an empty blue entry box with a cursor and dashed underscore, and below this it says "<GO BACK>".]]
+[A blue Linux terminal installer screen with a grey box that is labeled "[!]CONFIGURE THE NETWORK" in red. Below, in black, it reads "Please enter the hostname for the system." Below is an empty blue entry box with a cursor and dashed underscore, and below this it says "<GO BACK>".]
 
-[[A man sits at his computer, a woman stands behind him.]]
+[Cueball sits at his computer, Megan stands behind him.]
 
-Woman: You've been staring at that screen a while.
+Megan: You've been staring at that screen a while.
 
-Man: Picking a good server name is important.
+Cueball: Picking a good server name is important.
 
-[[The woman stares at him.]]
+[Megan stares at him.]
 
-[[She continues to stare.]]
+[She continues to stare.]
 
-[[The man pushes his chair back, puts one elbow on the back of the chair and points with his other hand at the screen.]]
+[Cueball pushes his chair back, puts one elbow on the back of the chair and points with his other hand at the screen.]
 
-Woman: And yet you settled on "Caroline" for our daughter in like 15 seconds.
+Megan: And yet you settled on "Caroline" for our daughter in like 15 seconds.
 
-Man: But this is a 
+Cueball: But this is a *server!*
 
-server!
+Cueball: Besides, I had to—you were trying to name her "Epidural."
 
- -- Besides, I had to- you were trying to name her "epidural." 
-
-Woman: Those 
-
-were
-
- good drugs.
-
+Megan: Those *were* good drugs.

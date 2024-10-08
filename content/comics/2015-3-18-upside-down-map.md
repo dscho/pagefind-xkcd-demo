@@ -6,13 +6,60 @@ alt: >-
   Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.
 img: https://imgs.xkcd.com/comics/upside_down_map.png
 ---
-((A mercator projection of the world map is shown. All the continents have been rotated one hundred eighty degrees.))
+[Map of the world with all the landmasses rotated upside-down.]
 
-((Cuba  is next to alaska, and alaska is touching the tip of south america, which is all near the equator. Mexico is now friends with greenland.
+[Four oceans and all the visible continents have been named in large letters in a bold font. The Pacific has been named both to the left and right. Several islands (large and small) have been designated with name but in grey and in a much smaller normal font. For all continents the names are written on them. For the island the name is written in the ocean except for Greenland.]
 
-((Iceland, the UK, and asia are all close together. Japan and Taiwan haven't moved with the asian continent, and are technically European.))
+[Below the names on the map are given in the order they appear reading from left to right, first for the northern and then the southern hemisphere:]
 
-((Siberia is now equatorial. Africa is pretty temperate, except for the north bits which are somewhat antarctic.))
+[Northern hemisphere:]
 
-Caption: This upside-down map will change your perspective on the world!
+**North America**
 
+Cuba
+
+Greenland
+
+**Atlantic Ocean
+
+Iceland
+
+UK
+
+**Asia**
+
+Sri Lanka
+
+**Europe**
+
+**Arctic Ocean**
+
+Taiwan
+
+Japan
+
+**Pacific Ocean**
+
+[Southern hemisphere:]
+
+**Pacific Ocean**
+
+**South America**
+
+Tierra del Fuego
+
+**Africa**
+
+**Indian Ocean**
+
+Madagascar
+
+Indonesia
+
+**Australia**
+
+New Zealand
+
+[Below the main frame:]
+
+**This upside-down map will change your perspective on the world!**

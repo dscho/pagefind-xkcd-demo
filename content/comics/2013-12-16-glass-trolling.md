@@ -6,13 +6,18 @@ alt: >-
   Plus, when someone finally grabs your glasses and stomps on them, it costs way less than $1,500 to replace them.
 img: https://imgs.xkcd.com/comics/glass_trolling.png
 ---
-[[A figure wearing glasses is looking at his phone.]]
+[Caption above the panel:]
 
-My hobby: 
+My Hobby:
 
-Figure: OK, Glass, check tomorrow's weather. Ooh, snow! 
+[Cueball, wearing regular glasses, is holding his smartphone up in one hand while typing, as shown with two times two small movement lines on either side of the phone. A voice from off-panel right emanates from a starburst at the frame.]
 
-Off-panel figure: Oh my God, it's somehow even more annoying than if you had it. 
+Cueball: OK, Glass, check tomorrow's weather.
 
-Saying "OK, Glass" before everything while wearing regular glasses. 
+Cueball: Ooh, snow!
 
+Off-panel voice: Oh my god, it's somehow even *more* annoying than if you had it.
+
+[Caption below the panel:]
+
+Saying "OK, Glass" before everything while wearing regular glasses.

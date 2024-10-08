@@ -3,58 +3,77 @@ date: 2013-12-06
 title: "Galilean Moons"
 num: 1300
 alt: >-
-  I'm SO glad I escaped. They almost had me caught in their weird ... thing.
+  I'm SO glad I escaped. They almost had me caught in their weird ...thing.
 img: https://imgs.xkcd.com/comics/galilean_moons.png
 ---
-[[A woman walks on-panel, up to a figure standing still. She has 4 small moons orbiting her.]]
+[Megan, who is being orbited by four small floating balls, approaches Cueball.]
 
-Woman: Check it out! 
+Megan: Check it out!
 
-Figure: What? 
+Cueball: What?
 
-Woman: I've got Galilean moons! 
+Megan: I've got Galilean moons!
 
-[[Both figures stand still.]]
+[Io is at the point in its orbit closest to Cueball.]
 
-Moon 1: Hi! 
+Io: Hi!
 
-Moon 2: Hi! 
+[Io, which completes a full orbit in each panel, is again near Cueball, as is Europa this time.]
 
-Moon 1: What's your name? 
+Io: Hi!
 
-Moon 1: Hi! 
+Europa: What's your name?
 
-Moon 2: What's your-
+[Io alone again.]
 
-Moon 3: MOOOOOON!
+Io: Hi!
 
-Moon 1: Hi! 
+[Europa returns to its position near Cueball with Io, and Ganymede joins them.]
 
-Moon 2: What's your name? 
+Io: Hi!
 
-Moon 4: Ugh
+Europa: What's your—
 
-Moon 1: Hi! 
+Ganymede: ***MOOOOOON!***
 
-Moon 4: So annoying
+[Io alone again.]
 
-Moon 1: Hi! 
+Io: Hi!
 
-Moon 2: What's y-
+[Europa and Io again.]
 
-Moon 3: MOOOOOON.
+Io: Hi!
 
-[[Moon 4 is now halfway between the two figures.]]
+Europa: What's your name?
 
-Moon 1: Hi! 
+Callisto: [on the other side of Megan] *Ugh*.
 
-Moon 4: ...Almost... ...Almoooost...
+[Io alone again.]
 
-[[Moon 4 is now orbiting the figure.]]
+Io: Hi!
 
-Moon 1: Hi! 
+Callisto: *So annoying*.
 
-Moon 2: What's your name? 
+[Europa, Ganymede, and Io again.]
 
-Moon 4: Yessss!
+Io: Hi!
 
+Europa: What's y—
+
+Ganymede: ***MOOOOOON.***
+
+[Io alone again. Callisto nudges toward Cueball.]
+
+Io: Hi!
+
+Callisto: ...*almost*... ...*almoooost*...
+
+[Io and Europa again. Callisto enters an orbit around Cueball.]
+
+Io: Hi!
+
+Europa: What's your name?
+
+Callisto: *Yessss!*
+
+{{clear}}

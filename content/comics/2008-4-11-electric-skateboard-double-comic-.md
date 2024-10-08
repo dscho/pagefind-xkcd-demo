@@ -6,47 +6,46 @@ alt: >-
   Unsafe vehicles, hills, and philosophy go hand in hand.
 img: https://imgs.xkcd.com/comics/electric_skateboard_double_comic.png
 ---
-[[Guy showing off electric skateboard to girl reading something]]
+[Cueball showing off electric skateboard to Megan reading something.]
 
-Guy: Check it out! An electric longboard!
+Cueball: Check it out! An electric longboard!
 
-Girl: Sweet!
+Megan: Sweet!
 
-[[Guy riding longboard with girl sitting onboard -- people in background]]
+[Cueball riding longboard with Megan sitting onboard — people in background.]
 
-Longboard: <<RRRR>>
+Longboard: *RRRR*
 
-[[Girl turned around on longboard]]
+[Megan turned around on longboard.]
 
-Girl: I feel like we're missing something...
+Megan: I feel like we're missing something...
 
-Guy: Yeah...
+Cueball: Yeah...
 
-[[Guy throwing 3 green Koopa Troopa shells; girl throwing 1 red Koopa Troopa shell -- like Mario Kart]]
+[Cueball holding 3 green Koopa Troopa shells; Megan throwing 1 red Koopa Troopa shell - like Mario Kart.]
 
-<<Music Playing>>
+*Music Playing*
 
-Longboard: <<RRRR>>
+Longboard: *RRRR*
 
-[[Guy and girl still on longboard, going up an incline]]
+[Cueball and Megan still on longboard, going up an incline.]
 
-Guy: Skating uphill like this is amazing.  Years of gliding downhill and pushing uphill, and now suddenly it's gliding both ways.
+Cueball: Skating uphill like this is amazing. Years of gliding downhill and pushing uphill, and now suddenly it's gliding both ways.
 
-Longboard: <<RRRR>>
+Longboard: *RRRRRRR*
 
-[[Guy and girl after passing an S-curve and boulder]]
+[Cueball and Megan after passing an S-curve and boulder.]
 
-Guy: It's like going from C to Python.  You don't realize how much time you were spending on the boring parts until you don't have to do them anymore.
+Cueball: It's like going from C to Python. You don't realize how much time you were spending on the boring parts until you don't have to do them anymore.
 
-Girl: But coding C or assembly makes you a better programmer.  Maybe the boring parts build character.
+Megan: But coding C or assembly makes you a better programmer. Maybe the boring parts build character.
 
-[[Guy and girl on longboard...]]
+[Cueball and Megan on longboard.]
 
-Guy: Yeah... but it depends how you want to spend your life.  See, my philosophy is --
+Cueball: Yeah... but it depends how you want to spend your life. See, my philosophy is-
 
-[[Longboard get into an accident]]
+[Longboard gets into an accident.]
 
-<<*WHAM*>>
+**WHAM**
 
-[[Calvin and Hobbes laying down in the grass near the guy and girl laying down on the grass -- Calin and Hobbes's wagon is on the path, as is the longboard -- all characters seeing stars]]
-
+[Calvin and Hobbes lying down in the grass near Cueball and Megan lying down in the grass - Calvin and Hobbes's wagon is on the path, as is the longboard - all characters seeing stars.]

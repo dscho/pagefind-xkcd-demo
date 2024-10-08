@@ -8,9 +8,9 @@ img: https://imgs.xkcd.com/comics/conversational_dynamics.png
 ---
 [Cueball is sitting at a computer and pointing at the CRT monitor. White Hat is standing behind him.]
 
-Cueball: Check it out! My new system allows anyone on Earth to inject themselves into any conversation happening anywhere  at any time.
+Cueball: Check it out!  My new system allows anyone on Earth to inject themselves into any conversation happening anywhere&nbsp; at any time.
 
-White Hat: Cool! I bet this won't lead to any unhealthy dynamics!
+White Hat: Cool!  I bet this won't lead to any unhealthy dynamics!
 
 [Caption under the panel:]
 

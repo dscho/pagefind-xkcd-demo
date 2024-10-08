@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/4th_of_july.png
 ---
 [One single panel is shown. The header reads:]
 
-4th of July activities
+**4<sup>th</sup> of July activities**
 
 2014 - Watching fireworks
 

@@ -6,11 +6,11 @@ alt: >-
   It's time to draw the line.
 img: https://imgs.xkcd.com/comics/secretary_part_4.png
 ---
-[[The Ron Paul Revolution blimp floats]]
+[The Ron Paul Revolution blimp floats.]
 
 Pilot: Sir! The balloon is hailing us!
 
-[[Cory Doctorow's balloon appears]]
+[Cory Doctorow's balloon appears.]
 
 Cory: Ahoy.
 
@@ -24,71 +24,70 @@ Cory: Nay!
 
 Ron Paul: Very well. Battle stations!
 
-[[The Ron Paul Revolution blimp's gun takes aim]]
+[The Ron Paul Revolution blimp's gun takes aim.]
 
-<<Whirrr kachunk>>
+*Whirrr kachunk*
 
-[[Cory Doctorow's balloon's gun takes aim]]
+[Cory Doctorow's balloon's gun takes aim.]
 
-<<Whirrrr kachunk>>
+*Whirrrr kachunk*
 
-[[Both airships open fire]]
+[Both airships open fire.]
 
-<<Pew pew pew>>
+*Pew pew pew*
 
-<<Pew pew>>
+*Pew pew*
 
-<<Boing! Boing!>>
+*Boing! Boing!*
 
-[[Inside the Ron Paul Revolution blimp's control room]]
+[Inside the Ron Paul Revolution blimp's control room.]
 
-Pilot: We're taking damage!
+Ponytail: We're taking damage!
 
 Ron Paul: Keep firing!
 
-Pilot: No good! We're losing altitude!
+Ponytail: No good! We're losing altitude!
 
-[[Outside the Ron Paul Revolution blimp, it hangs smoking in the air]]
+[Outside the Ron Paul Revolution blimp, it hangs smoking in the air.]
 
 Ron Paul: All engines full! Pull up!
 
-Pilot: Can't, sir!
+Ponytail: Can't, sir!
 
-[[The Ron Paul Revolution blimp begins to sink, smoking more heavily]]
+[The Ron Paul Revolution blimp begins to sink, smoking more heavily.]
 
-[[The blimp sinks further]]
+[The blimp sinks further.]
 
-Pilot: Sir, maybe if we dropped all this gold...
+Ponytail: Sir, maybe if we dropped all this gold...
 
 Ron Paul: Never!
 
-[[Inside the control room, tilted slightly]]
+[Inside the control room, tilted slightly.]
 
-Pilot: We've lost, sir. We have to abort.
+Ponytail: We've lost, sir. We have to abort.
 
 Ron Paul: Not yet, we don't! Open the loading bay doors.
 
-[[Camera zooms out slightly]]
+[Camera zooms out slightly.]
 
 Ron Paul: You take the blimp and fall back.
 
-<<click>>
+*click*
 
 Ron Paul: I've got a message to deliver.
 
-<<Whirr>>
+*Whirr*
 
-[[Ron Paul tosses his cane aside]]
+[Ron Paul tosses his cane aside.]
 
-[[Ron Paul steadily transforms into Tron Paul]]
+[Ron Paul steadily transforms into Tron Paul.]
 
 Narrator: RON PAUL evolves into TRON PAUL
 
-[[Light cycle begins to form]]
+[Light cycle begins to form.]
 
-[[Tron Paul bends over the light cycle]]
+[Tron Paul bends over the light cycle.]
 
-[[Light cycle finishes its formation]]
+[Light cycle finishes its formation.]
 
-[[Light cycle speeds off, trailing an American flag]]
-
+[Light cycle speeds off, trailing an American flag.]

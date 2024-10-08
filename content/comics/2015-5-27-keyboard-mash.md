@@ -6,51 +6,46 @@ alt: >-
   WHY DON'T YOU COME HANG OUT INSIDE MY HOUSE. WE CAN COOK BREAD AND CHAT ABOUT OUR INTERNAL SKELETONS.
 img: https://imgs.xkcd.com/comics/keyboard_mash.png
 ---
-[[A person walks toward their computer desk as the screen indicates "new chat message."]]
+[Cueball approaches his desktop computer, which has emitted a message seemingly from White Hat as it displays a picture of him.]
 
-[[The screen shows a text conversation (where lines are contained in speech bubble boxes) between White Hat Guy and the first person.]]
+New chat message
 
-WHG: Can't sleep. Stupid dogs keep barking.
+[Below the chat log is shown with White Hat's comments on the left in gray frames and Cueball's comments to the right in white frames. The first post in a row from each person is labeled with their picture at the end of a small arrow in the frame]:
 
-          FJAFJKLDWSKF7JKFDJ
+White Hat: Can't sleep. Stupid dog keeps barking.
 
-FP: Ugh, I'm sorry. Maybe you could...
+White Hat: So frustrating. FJAFJKLDSKF7JKFDJ
 
-      ...OK, wait. I have to ask. 
+Cueball: Ugh, I'm sorry. Maybe you could...
 
-      How did you hit a "7" in the middle there?
+Cueball: ... Okay, wait. I have to ask.
 
-WHG: Huh?
+Cueball: How did you hit a "7" in the middle there?
 
-          I was just randomly keyboard mashing.
+White Hat: Huh?
 
-FP: Sorry, right.
+White Hat: I was just randomly keyboard mashing.
 
-WHG: Anyway,
+Cueball: Sorry, Right.
 
-FP: ...I know this is silly, but like... all your hands were clearly on the home row.
+White Hat: Anyway,
 
-     I don't get how one finger could have stretched up to the "7."
+Cueball: I know this is silly, but like... All your hands were clearly right on the home row.
 
-WHG: Why do you always fixate on these bizarre details?
+Cueball: I don't get how one finger could have stretched up to the "7".
 
-FG: I don't know.
+White Hat: Why do you always fixate on these bizarre details?
 
-      Sorry.
+Cueball: I don't know.
 
-WHG: It's weird, is all.
+Cueball: Sorry.
 
-         
+White Hat: It's weird, is all.
 
-[[A giant spider dangles from the ceiling, typing at a laptop on a desk, while White Hat Guy is suspended upside down, wrapped in spider thread. The chair lies on the floor on its side. The conversation continues on the computer.]]
+[Chat transcript continues above White Hat's laptop, as it started in the first panel over Cueball's computer. But now we see a human-sized spider suspended from the ceiling by web is using three of its legs to type on the laptop. Behind the spider, White Hat is suspended from the ceiling upside down, almost totally encased in spider web. He tries to speak. Between them, a chair has been knocked over onto its back.]
 
-Spider:I am a normal human typing with my human hands.
+Spider (as White Hat in the chat): I am a normal human typing with my human hands.
 
-FP: Yeah, of course. 
+Cueball (chat): Yeah, of course. I know.
 
-      I know.
-
-((MMM!! MMPH!!!))
-
- 
-
+White Hat (speaking): **Mmm!! Mmph!!!**

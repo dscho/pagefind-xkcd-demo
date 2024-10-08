@@ -28,13 +28,13 @@ Ponytail: I dunno, It's a common thing!
 
 Cueball: Is it? My kitchen is messy, but there aren't eggs lying around rotting.
 
-Ponytail: You must have smelled one at some point.
+Ponytail: You must have smelled one at *some* point.
 
 [Ponytail is now walking right off-panel, away from Cueball. She is clenching her hands and is evidently annoyed]
 
 Cueball: Are all chemists' houses full of random raw eggs? Do you toss them over your shoulder for good luck?
 
-Ponytail: My house is not full of eggs!
+Ponytail: ***My house is not full of eggs!***
 
 Cueball: What do you consider a normal amount of eggs in a house?
 

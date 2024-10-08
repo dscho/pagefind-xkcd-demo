@@ -6,53 +6,48 @@ alt: >-
   Hang on, I've heard this problem. We need to pour water into the duct until the phone floats up and ... wait, phones sink in water. Mercury. We need a vat of mercury to pour down the vent. That will definitely make this situation better and not worse.
 img: https://imgs.xkcd.com/comics/typical_morning_routine.png
 ---
-[[Darkness.]]
+[The panel is completely black, with white text. Small lines indicate from where the two voices are coming, and also from where the alarm goes off. A small broken square surrounds the first word spoken.]
 
-<<BLEEP BLEEP>>
+Alarm: **Bleep Bleep**
 
-Person 1: Urgh.
+Voice (right): Urgh
 
-Person 2: Your alarm is going off.
+Voice (left): Your alarm is going off
 
-Person 1: Huh?
+Voice (right): Huh?
 
-Person 2: Make it stop.
+Voice (left): Make it stop.
 
-Person 1: Urrgh.
+Voice (right) Urrgh
 
-[[Still darkness.]]
+[The panel is completely black, with white text. Small lines indicate from where the two voices are coming. Several small lines surrounds the last "sound" which is not spoken. The alarm noise is continued from the previous panel and continues over the top of the frame directly into the next panel.]
 
-<<BLEEPEEP BLEEP BLEEP B>>
+Alarm: **Bleep Bleep Bleep B**
 
-Person 2: Hit snooze.
+Voice (left): Hit snooze.
 
-Person 1: I'm 
+Voice (right): I'm *trying*. I closed the alarm app and I can't... I'll just pop out the battery.
 
-trying.
+Voice (right): Whoops!
 
- I closed the alarm app and I can't... I'll just pop out the battery. 
+Clang
 
-whoops!
+[The lights have turned on so it is now a white panel with black text. The voice to the right came from Hairy with morning hair. He is leaning over the side of the bed, looking down the air vent through which he has dropped the phone. The other person to the left is not shown. The alarm noise (now coming from the air vent as visualized by the lines coming out of the vent) still continues from the previous panel and continues over the top of the frame directly into the next panel.]
 
-<<CLANG>>
+Alarm: **eep Bleep Bleep Ble**
 
-[[The light is on. Person one looks over the edge of the bed to see the vent on the floor is open.]]
+Off-Screen voice: Make it stop!
 
-<<EEP BLEEP BLEEP BLE>>
+Hairy: It... fell down the vent.
 
-Person 2: Make it stop!
+[Hairy is sitting in his bed with a laptop. The person to the left is still off-screen. The alarm noise still continues from the previous panel and continues over the top of the frame out of the comic on the right.]
 
-Person 1: It... fell down the vent.
+Alarm: **ep Bleep Bleep Bleep Ble**
 
-[[Person 1 types on their laptop.]]
+Off-Screen voice: Can you brick it remotely?
 
-<<EP BLEEP BLEEP BLEEP BLE>>
+Hairy: Trying... I think I fumbled it into airplane mode?
 
-Person 2: Can you brick it remotely?
+Off-Screen voice: The battery could last for weeks.
 
-Person 1: Trying... I think I fumbled it into airplane mode?
-
-Person 2: The battery could last for weeks.
-
-Person 1: You know, maybe we should just move.
-
+Hairy: You know, maybe we should just move.

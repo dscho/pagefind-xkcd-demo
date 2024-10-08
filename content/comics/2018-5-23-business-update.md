@@ -30,7 +30,7 @@ Megan: Our biggest expense is our project to transmute it back.
 
 [Closeup on Beret Guy, facing right, offset to the left of the panel. Two characters speak from off-panel right.]
 
-Beret Guy: Lastly, any luck getting the girl from The Ring to stop showing up in our video conferences?
+Beret Guy: Lastly, any luck getting the girl from *The Ring* to stop showing up in our video conferences?
 
 Off-panel person 1: No, but honestly, she's made some good contributions.
 

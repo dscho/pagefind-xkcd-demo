@@ -6,6 +6,6 @@ alt: >-
   A leading expert characterized the situation as 'retarded'
 img: https://imgs.xkcd.com/comics/scientists.jpg
 ---
-In what scientists are calling "pretty gay," I can't find my shoes.
+[Cueball is staring at an empty box on the floor.]
 
-{{ alt: A leading expert characterized the situation as 'retarded' }}
+Cueball: In what scientists are calling "pretty gay", I can't find my shoes.

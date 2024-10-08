@@ -6,8 +6,6 @@ alt: >-
   Not to go all sentence fragment on you.
 img: https://imgs.xkcd.com/comics/language_nerd.png
 ---
+[Megan and Cueball are standing together, presumably during a conversation]
 
-
-[[Man and woman standing]]
-
-Woman:  I don't mean to go all language nerd on you, but I just legit adverbed "legit," verbed "adverb," and adjectived "language nerd."
+Megan: I don't mean to go all language nerd on you, but I just legit adverbed "legit", verbed "adverb", and adjectived "language nerd".

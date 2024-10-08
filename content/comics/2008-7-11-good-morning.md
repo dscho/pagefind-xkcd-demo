@@ -6,11 +6,10 @@ alt: >-
   As my standard, I use going to sleep at midnight and waking up at 8 AM.
 img: https://imgs.xkcd.com/comics/good_morning.png
 ---
-[[A drowsy man walks over to another man on a computer]]
+[A drowsy Hairy walks over to Cueball on a computer.]
 
-Man 1: *Yawn* Good morning from Taipei.
+Hairy: \*Yawn\* Good morning from Taipei.
 
-Man 2: You're drifting west. You were in Honolulu just yesterday.
+Cueball: You're drifting west. You were in Honolulu just yesterday.
 
-Narrator: Our sleep schedules are so messed up that's it's easiest to just refer where are internal clocks seem to be.
-
+Our sleep schedules are so messed up that's it's easiest to just refer to where our internal clocks seem to be.

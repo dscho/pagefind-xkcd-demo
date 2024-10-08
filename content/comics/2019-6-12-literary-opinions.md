@@ -16,7 +16,7 @@ Cueball: ...I see.
 
 [Megan puts down her hand.]
 
-Megan: Fear and Loathing in Las Vegas and Fight Club? Same book with different covers, I bet.
+Megan: *Fear and Loathing in Las Vegas* and *Fight Club*? Same book with different covers, I bet.
 
 Cueball: I have both. Want to open them and check?
 
@@ -30,4 +30,4 @@ Cueball: You should start a book club for discussing the books you refuse to rea
 
 Megan: --is that E.B. White and T.H. White are the same person.
 
-Cueball: Ok, that I believe.
+Cueball: Ok, *that* I believe.

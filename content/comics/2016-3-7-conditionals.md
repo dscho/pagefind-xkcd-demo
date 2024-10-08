@@ -6,31 +6,14 @@ alt: >-
   'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'
 img: https://imgs.xkcd.com/comics/conditionals.png
 ---
-[[A person is confronted with a couple, holding their newborn baby. They think a series of thoughts, each of which are crossed out in the thought bubble.]]
+[Cueball is shown texting on a phone with a friend. Above him in light gray rectangles with indentations pointing left are the two text messages from his friend, and between them in dark a gray rectangle with an indentation pointing right is Cueball's message.]
 
-Person (thinking): Wow, it's getting so big! Unlike most babies, which stay the same size forever.
+Friend (text): I'll be in your city tomorrow if you want to hang out.
 
-Hi! I'm talking to a baby!
+Cueball (text): But where will you be if I *don't* want to hang out?!
 
-What brand is it?
+Friend (text): You know, I just remembered I'm busy.
 
-Wow, definitely much smaller than a regular person!
+[Caption below the panel:]
 
-You sure did make that.
-
-4
-
-5 stars, Great baby.
-
-It doesn't really look like you since you're not a baby.
-
-So do they learn words one at a tie alphabetically or can you pick the order or what?
-
-I hope it does a good job.
-
-Person (says aloud): Wow, that's a really cool baby!
-
-Person (thinks): Dammit.
-
-I can never figure out what to say to babies.
-
+Why I try not to be pedantic about conditionals.

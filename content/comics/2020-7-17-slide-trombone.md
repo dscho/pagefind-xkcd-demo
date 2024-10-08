@@ -28,4 +28,4 @@ FX: Pshhhhh
 
 Offpanel voice #1: AUGH!
 
-Offpanel voice #2: So that's where my Super Soaker went.
+Offpanel voice #2: So *that's* where my Super Soaker went.

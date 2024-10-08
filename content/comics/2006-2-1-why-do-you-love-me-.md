@@ -6,15 +6,14 @@ alt: >-
   Opening dialogue by Scott
 img: https://imgs.xkcd.com/comics/why_do_you_love_me.jpg
 ---
-[[Man and Woman stand]]
+[Cueball and Megan are having a conversation. The same scene is shown for all panels.]
 
-Man: Why do you love me?
+Cueball: Why do you love me?
 
-Woman: I don't know; My heart never gave me a choice.
+Megan: I don't know; my heart never gave me a choice.
 
-Man: Aww.
+Cueball: Aww.
 
-[[No dialogue]]
+[Beat panel.]
 
-Woman: I wish it had.
-
+Megan: I wish it had.

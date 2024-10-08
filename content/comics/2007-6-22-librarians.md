@@ -3,34 +3,39 @@ date: 2007-06-22
 title: "Librarians"
 num: 280
 alt: >-
-  Don't expect any leniency on late fees, though.
+  Don't expect any leniencies on late fees, though.
 img: https://imgs.xkcd.com/comics/librarians.png
 ---
-{{Advantages to dating librarians}}
+[Caption at the top:]
 
-Librarian: We're stopping in Baltimore to visit my family, and that's final.
+Advantages to dating librarians.
 
-Boyfriend: Oh yeah?
+[Megan and Cueball are standing together; Cueball is reaching inside a paper bag:]
 
-[[Reaching inside paper bag.]]
+Megan: We're stopping in Baltimore to visit my family, and that's final.
 
-Boyfriend: Hey, look, it's a new hardback book!
+Cueball: Oh yeah?
 
-[[Holds book in hands]]
+[Cueball is upright and is holding a book.]
 
-Librarian Girlfriend: You wouldn't.
+Cueball: Hey, look, it's a new hardback book!
 
-[[The book is twisted and crinkled.]]
+Megan: You wouldn't.
 
-<<crinkle>>
+[Cueball bends the book backwards.]
 
-<<creak>>
+Book: *crinkle*
 
-[[Librarian Girlfriend twitches.]]
+[Cueball bends it back further.]
 
-<<crack>>
+Book: *creak*
 
-[[The book's spine is broken]]
+Megan: *twitch*
 
-Librarian Girlfriend: OKAY! You win!
+[Cueball bends the book back still further.]
 
+Book: *crack*
+
+Megan: OKAY!
+
+Megan: You win!

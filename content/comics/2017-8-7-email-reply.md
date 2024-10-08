@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/email_reply.png
 
 Dear Kevin,
 
-I'm sorry it's taken me two years to reply to your email. I've built up so much stress and anxiety around my email inbox; it's an unhealthy dynamic which is more psychological than technical. I've tried one magical solution after another, and as each one has failed, deep down I've grown more certain that the problem isn't email – it's me.
+I'm sorry it's taken me two years to reply to your email. I've built up so much stress and anxiety around my email inbox; it's an unhealthy dynamic which is more psychological than technical. I've tried one magical solution after another, and as each one has failed, deep down I've grown more certain that the problem isn't email &ndash; it's me.
 
 Regardless, these are my issues, not yours; you're my friend, and I owe you the basic courtesy of a response. I apologize for my neglect, and I hope you haven't been too hurt by my failure to reply.
 

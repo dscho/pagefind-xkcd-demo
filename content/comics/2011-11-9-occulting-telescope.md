@@ -6,37 +6,36 @@ alt: >-
   Type II Kardashev civilizations eventually completely enclose their planetary system in a Dyson sphere because space is way too big to look at all the time.
 img: https://imgs.xkcd.com/comics/occulting_telescope.png
 ---
-[[A person is giving a lecture in front of a white board, pointing to a diagram with a pointer.]]
+[Cueball is presenting his new telescope in front of a white board, pointing to the diagram of said telescope with a pointer. He is standing on a raised podium facing a crowd off-panel]
 
-Lecturer: The occulting observatory consists of two parts -- the telescome and the discs.
+Cueball: The occulting observatory consists of two parts—the telescope and the discs.
 
-When the telescope sees a star, a disc is carefully steered to block its light.
+[A frame-less panel with a black center with white drawings that shows the diagram from the white board in the first panel. It shows a satellite  with solar panels above and below the main body which has a front end that looks wider like a telescope. The satellite is labeled with a small arrow pointing at the front end. 11 light waves are indicated as coming towards it from the right, and below these they are labeled. Three of the waves is blocked in the middle by a small vertical line which is also labeled with a small arrow. Above and below the diagram outside the black area Cueball is narrating.]
 
-[[A diagram of a satellite (labeled "telescope") with waves going from it on the left, across to the other side of the diagram (labeled "light from star") on the right. In the middle is a small vertical line (labeled "disc"), stopping some of the light waves from the right traveling to the left of the diagram.]] 
+Cueball (narrating): When the telescope sees a star, a disc is carefully steered to block its light.
 
-This procedure is repeated until all stars are covered.
+Label: Telescope
 
-[[The lecturer looks down at a student.]]
+Label: Light from star
 
-Student (off screen): Wait, 
+Label: Disc
 
-all?
+Cueball (narrating): This procedure is repeated until all stars are covered.
 
- Why?
+[Back to Cueball on the podium who now looks down on the audience from where a question emanates at the top of the left frame.]
 
-Lecturer: I'll feel better.
+Person #1 (off screen): Wait, *all?* Why?
 
-[[Close-up on lecturer.]]
+Cueball: I'll feel better.
 
-Student (off-screen): I thought the point was to image extrasolar planets.
+[Close-up on Cueball. as two different persons talks to him, from the lower left frame.]
 
-Lecturer: The point is that there are 
+Person #2 (off-screen): I thought the point was to image extrasolar planets.
 
-too many stars.
+Cueball: The point is that there are *too many stars.*
 
- -- It's been freaking me out.
+Cueball: It's been freaking me out.
 
-Student: What?
+Person #2 (off-screen): What?
 
-Student#2 (in smaller letters): He has a point...
-
+Person #3 (off screen): <small>He has a point...</small>

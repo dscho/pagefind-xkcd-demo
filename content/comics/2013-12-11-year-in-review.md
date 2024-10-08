@@ -6,27 +6,44 @@ alt: >-
   All in all, I give this year a C-. There were no aurora visible from my house and that comet evaporated. They'd better not cancel the 2017 eclipse.
 img: https://imgs.xkcd.com/comics/year_in_review.png
 ---
-[[A newscaster sits in a studio, with an inset reporter on the scene.]]
+[Cueball is a news anchor sitting with his arms on a desk looking at Megan, a reporter shown in a feed on a screen to his right. There is a title below the feed.]
 
-Newscaster: We go live to our 2013: Year in review!
+Cueball: We go live to our *2013: Year in Review!*
 
-On-the-scene reporter: Thanks! In 2013, I didn't see an aurora.
+Megan: Thanks!
 
-Newscaster: I- what?
+Megan: In 2013, I didn't see an aurora.
 
-On-the-scene reporter: The northern lights. I thought this would finally be the year. But it didn't happen. 
+Cueball: I- what?
 
-Newscaster: Oh. Uh... what about the rest of the year? 
+Title: Year <small>in</small> Review
 
-On-the-scene reporter: What do you mean? 
+[Zoom to the top part of the screen with Megan. Her text is written above the screen without a frame around this segment of the comic.]
 
-Newscaster: Any big news stories? 
+Megan: The northern lights. I thought this would finally be the year.
 
-On-the-scene reporter: Oh yeah, tons. 
+Megan: But it didn't happen.
 
-[[The inset reporter looks off screen. The newscaster looks at her.]]
+[Back to the original view but Cueball has turned more towards Megan, with only one arm on the desk.]
 
-Newscaster: ... Well, that was 2013: Year in review.
+Cueball: Oh. Uh... What about the rest of the year?
 
-On-the-scene reporter: The sky's clearing up. I'll be outside. 
+Megan: What do you mean?
 
+Cueball: Any big news stories?
+
+Megan: Oh yeah, tons.
+
+Title: Year <small>in</small> Review
+
+[Same setting but Megan turns away from Cueball, who has taken both hands of the table. Megan is looking to her left at something off screen. Beat panel.]
+
+Title: Year <small>in</small> Review
+
+[Cueball turns back to face the viewers, both hands back on the desk, as Megan is leaving the screen, walking out to the right, her face already hidden by the frame of the feed.]
+
+Cueball: ...Well, that was *2013: Year in Review.*
+
+Megan: The sky's clearing up. I'll be outside.
+
+Title: Year <small>in</small> Review

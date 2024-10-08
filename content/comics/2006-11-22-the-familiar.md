@@ -6,11 +6,12 @@ alt: >-
   When I say we should do something sometime, I'm secretly hoping you'll say 'Why not now?'
 img: https://imgs.xkcd.com/comics/the_familiar.png
 ---
-[[One person sits at a computer, another is standing behind him]]
+[A guy is standing behind his friend who sits at a computer. Both look like Cueball.]
 
-Person standing up: Let's go see sunrise over the ocean.
+Guy: Let's go see sunrise over the ocean.
 
-Person at computer: That's a long drive, it's cold, I'm tired, and rationalizing the familiar is easy.
+[The friend turns and replies:]
 
-[[Person standing up leaves.  In the next two frames the man at the computer remains at his computer]]
+Friend: That's a long drive, it's cold, I'm tired, and rationalizing the familiar is easy.
 
+[The guy leaves, and in the next two frames, the friend remains at his computer alone.]

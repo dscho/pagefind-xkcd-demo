@@ -3,30 +3,29 @@ date: 2008-11-14
 title: "Legal Hacks"
 num: 504
 alt: >-
-  It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.
+  It's totally a reasonable modern analogue. Jefferson would have been all about crypto.
 img: https://imgs.xkcd.com/comics/legal_hacks.png
 ---
-[[A woman sits at her computer, a man standing behind her. The woman speaks first.]]
+[Megan sits at her computer, Cueball standing behind her.]
 
-Woman: Another ISP's filtering content.
+Megan: Another ISP's filtering content.
 
-Man: Thank God for Crypto.
+Cueball: Thank God for Crypto.
 
-[[The man stands alone; the woman is presumably off-panel left.]]
+[Cueball stands alone; Megan is presumably off-panel left.]
 
-Man: It wasn't that long ago that RSA was illegal to export. Classified a munition.
+Cueball: It wasn't that long ago that RSA was illegal to export. Classified a munition.
 
-[[The woman, sitting in her chair, is looking back towards the man, presumably off-panel right.]]
+[Megan, sitting in her chair, is looking back towards Cueball, presumably off-panel right.]
 
-Woman: You know, I think the crypto community took the wrong side in that fight. We should've lobbied to keep it counted as a weapon.
+Megan: You know, I think the crypto community took the wrong side in that fight. We should've lobbied to keep it counted as a weapon.
 
-Man: Why?
+Cueball: Why?
 
-[[She is now turned around in the chair looking at the man, who is in-panel again.]]
+[She is now turned around in the chair looking at Cueball, who is in-panel again.]
 
-Woman: Once they get complacent, we break out the second amendment.
+Megan: Once they get complacent, we break out the second amendment
 
-[[The man has his hand on his chin, contemplatively.]] 
+[Cueball has his hand on his chin, contemplatively.]
 
-Man: ...Damn.
-
+Cueball: ...Damn.

@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/dark_matter.png
 ---
 [Megan walks with Cueball. She is holding a hand out while telling Cueball something.]
 
-Megan: Dark matter density in the solar system is around 0.3 GeV/cm3
+Megan: Dark matter density in the solar system is around 0.3 GeV/cm<sup>3</sup>
 
 Cueball: Is... that a lot?
 
@@ -28,4 +28,4 @@ Megan: No, it's not literally-
 
 Cueball: Oh, that explains why they weigh enough to set off those spinning bird feeders!
 
-Megan: Dark matter isn't squirrels!
+Megan: ***Dark matter isn't squirrels!

@@ -4,7 +4,7 @@ title: "Scenario 4"
 num: 2289
 alt: >-
   Remember, models aren't for telling you facts, they're for exploring dynamics. This model apparently explores time travel.
-img: https://imgs.xkcd.com/comics/scenario_4.png
+img: https://imgs.xkcd.com/comics/sequence-four.png
 ---
 [Megan and Cueball are standing in front of a large graph, with "Time" along the horizontal axis and "Bad Stuff" along the vertical axis. The curve on the graph shows a generally shallow upward slope.]
 
@@ -24,6 +24,6 @@ Cueball: Scenario 3 would be pretty bad.
 
 Megan: Then there is scenario 4.
 
-Megan: We think it's a graphing error.
+Megan: We ***think*** it's a graphing error.
 
-Cueball: If not, we definitely want to avoid it.
+Cueball: If not, we ***definitely*** want to avoid it.

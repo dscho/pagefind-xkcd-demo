@@ -6,21 +6,20 @@ alt: >-
   Or so I hope?
 img: https://imgs.xkcd.com/comics/to_be_wanted.png
 ---
-[[Woman stands looking out on the bow of a ship]]
+[Megan stands looking out on the bow of a ship.]
 
-[[Scene backs up. More of the boat is shown]]
+[Scene backs up. More of the boat is shown.]
 
-[[Scene backs up.  The boat with the woman is within a thought bubble]]
+[Scene backs up. The boat with Megan is within a thought bubble.]
 
-[[Scene backs up. The thought bubble comes from a person sitting at a computer in an office]]
+[Scene backs up. The thought bubble comes from Cueball sitting at a computer in an office.]
 
-[[Scene repeated for the next frame]]
+[Scene repeated for the next frame.]
 
-[[Scene backs up.  Man with thought bubble is within yet another thought bubble]]
+[Scene backs up. Cueball is within yet another thought bubble.]
 
-[[Scene backs up.  The thought bubble with the man in it belongs to the woman at the bow of the ship]]
+[Scene backs up. The thought bubble with Cueball in it belongs to Megan at the bow of the ship.]
 
-[[The thought bubble disappears, showing only the woman in the boat]]
+[The thought bubble disappears, showing only Megan in the boat.]
 
-[[The boat sails out of view]]
-
+[The boat sails out of view.]

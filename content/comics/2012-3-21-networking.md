@@ -6,47 +6,42 @@ alt: >-
   Our company is agile and lean with a focus on the long tail. Ok, our company is actually a polecat I found in my backyard.
 img: https://imgs.xkcd.com/comics/networking.png
 ---
-[[A man approaches white beret man at a party and they extend arms to shake hands. WBM is holding a metal briefcase. There is a waitress in the background, carrying a tray with a wine glass on it.]]
+[A man approaches Beret Guy at a party and they extend arms to shake hands. Beret Guy is holding a metal briefcase. Ponytail is a waitress in the background, carrying a tray with a wine glass on it.]
 
-Man: I'm Connr Clark, CTO at Eusocial Median Ventures.
+Connr: I'm Connr Clark, CTO at Eusocial Media Ventures.
 
-White Beret: I'm a business professional! Earlier I photocopied a burrito!
+Beret Guy: I'm a business professional! Earlier I photocopied a burrito!
 
-[[The man man hands WBM a business card. WBM takes it and hands the man another business card. WBM has put his suitcase on the floor.]]
+[Connr hands Beret Guy a business card. Beret Guy takes it and hands Connr another business card. Beret Guy has put his suitcase on the floor.]
 
-Man: You should check us out! Here's my card.
+Connr: You should check us out! Here's my card.
 
-White Beret: Here's mine! -- Networking!
+Beret Guy: Here's mine!
 
-[[The man takes a closer look at the card, and WBM holds up his case.]]
+Beret Guy: Networking!
 
-Man: ...This just says "This is my business card!" 
+[Connr takes a closer look at the card, and Beret Guy holds up his case.]
 
-White Beret: Do you like it? I have more in my handlebox.
+Connr: ...this just says "This is my business card!"
 
-[[WBM puts his case on a table and opens it to reveal it is full of cash. The man looks on in shock.]]
+Beret Guy: Do you like it? I have more in my handlebox.
 
-Man: Uh, that's ok, I think I'll--
+[Beret Guy puts his case on a table and opens it to reveal it is full of cash. Connr looks on in shock.]
 
-White Beret: Here, have ten of them!
+Connr: Uh, that's ok, I think I'll—
 
-Man: --holy shit that thing is full of 
+Beret Guy: Here, have ten of them!
 
-cash!
+Connr: —holy shit that thing is full of *cash!*
 
-[[The man raises his arms in excitement. WBM turns to face him and chews on something.]]
+[Connr raises his arms in excitement. Beret Guy turns to face him and chews on Connr's business card.]
 
-Man: Where did you 
+Connr: Where did you *get* that?
 
-get
+Beret Guy: I am a business grown-up who makes business profits!
 
- that?
+Connr: That's like a quarter of a million dollars!
 
-White Beret: I am a business grown-up who makes business profits!
+Beret Guy: Yay! Business is fun!
 
-Man: That's like a quarter of a million dollars!
-
-White Beret: Yay! Business is fun! -- Do you have more of your cards? They're 
-
-delicious!
-
+Beret Guy: Do you have more of your cards? They're *delicious!*

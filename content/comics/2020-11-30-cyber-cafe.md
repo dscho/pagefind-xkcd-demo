@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/cyber_cafe.png
 ---
 Which word in the name "cyber cafe" sounds more dated?
 
-----------------------------------------
+----
 
 2015 - Cyber
 

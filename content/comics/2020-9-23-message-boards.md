@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/message_boards.png
 ---
 [Single panel showing a view of the "MopedPro" forum on a message board, with a caption below the panel.]
 
-Forum Tab: MopedPro Forum (Top Left) | (4 tabs with illegible writing on them. None of them appear to be selected) (Top Right)
+Forum Tab: ***MopedPro Forum*** (Top Left) | (4 tabs with illegible writing on them. None of them appear to be selected) (Top Right)
 
 NIN85 (posted December 5, 2000 - 13:01):
 

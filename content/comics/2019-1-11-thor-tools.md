@@ -24,7 +24,7 @@ Circular saw
 
 [Above, the winged helmet guy uses a circular saw:]
 
-Bzzzz zzzz
+*Bzzzz zzzz*
 
 Shovel
 
@@ -44,7 +44,7 @@ Staple gun
 
 [Above, the winged helmet guy fires staples into the ground in front of him:]
 
-Kachunk kachunk
+*Kachunk kachunk*
 
 Coping saw
 
@@ -62,6 +62,6 @@ Dremel
 
 [Above, the winged helmet guy shows a running Dremel to the left:]
 
-Bzzzzz
+*Bzzzzz*
 
 Plane

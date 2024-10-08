@@ -6,8 +6,6 @@ alt: >-
   "I [suspect] that we are throwing more and more of our resources, including the cream of our youth, into financial activities remote from the production of goods and services, into activities that generate high private rewards disproportionate to their social productivity. I suspect that the immense power of the computer is being harnessed to this 'paper economy', not to do the same transactions more economically but to balloon the quantity and variety of financial exchanges." --James Tobin, July 1984
 img: https://imgs.xkcd.com/comics/technical_analysis.png
 ---
-
-
 [A series of red and green box-and-whisker plots form a line that starts in the bottom left corner of the image and wiggles up to the top right corner, with a series of peaks and troughs that resemble a typical stock market diagram. The diagram is annotated with lines, arrows and text.]
 
 [Title in top left corner]

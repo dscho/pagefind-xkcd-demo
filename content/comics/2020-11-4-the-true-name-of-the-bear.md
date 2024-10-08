@@ -6,7 +6,7 @@ alt: >-
   Thank you to Gretchen McCulloch for fielding this question, and sorry that as a result the world's foremost internet linguist has been devoured by the brown one. She will be missed.
 img: https://imgs.xkcd.com/comics/the_true_name_of_the_bear.png
 ---
-[Megan walks in front the left, looking down at her phone. Cueball and Ponytail are standing next to each other.]
+[Megan walks in from the left, looking down at her phone. Cueball and Ponytail are standing next to each other.]
 
 Megan: Wow - according to the internet, we don't know the true name of the bear.
 
@@ -24,7 +24,7 @@ Ponytail: Gretchen, is this for real?
 
 Gretchen: Well, sort of
 
-Gretchen: The Proto-Indo-European root was *rkto-
+Gretchen: The Proto-Indo-European root was \*rkto-
 
 Gretchen: It was lost in the Germanic languages like English, but survived elsewhere, e.g. Greek "arktos" and Latin "ursus"
 
@@ -34,21 +34,21 @@ Megan: So could we figure out what the word would have been in English?
 
 Gretchen: Hmm. I mean, we'll never know, but given Germanic sound shifts, a reasonable guess might be "arth"?
 
-Ponytail: No!!
+Ponytail: *No!!*
 
 [The panel zooms in again to Gretchen.]
 
-Ponytail (off-panel): Stop! AAAAA!
+Ponytail (off-panel): *Stop! AAAAA!*
 
 Gretchen: What??
 
-Ponytail (off-panel): Don't say it!
+Ponytail (off-panel): Don't *say* it!
 
 [Ponytail is holding her palms out. Megan is no longer in the panel.]
 
-Ponytail: What have you done?
+Ponytail: What have you *done*?
 
-Off-panel noise: ROAR
+Off-panel noise: <big>***ROAR***</big>
 
 Gretchen: Oh
 

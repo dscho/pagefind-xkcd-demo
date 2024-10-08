@@ -6,31 +6,34 @@ alt: >-
   The fifth panel also applies to postmodernists.
 img: https://imgs.xkcd.com/comics/words_that_end_in_gry.png
 ---
-[[Hat Guy and Random Guy are standing next to each other.]]
+[Black Hat and Cueball are standing next to each other.]
 
-Random Guy: There are three words in the English language that end in "gry". "Angry" and "Hungry" are two. What's the third?
+Cueball: There are three words in the English language that end in "gry". "Angry" and "Hungry" are two. What's the third?
 
-Hat Guy: I don't think there is one, unless you cound really obscure words.
+Black Hat: I don't think there is one, unless you count really obscure words.
 
-Random Guy: Ha! It's "language"! I said there are three words in "the English--" 
+Cueball: Ha! It's "language"! I said there are three words in "the English--" Hey!
 
-[[Hat Guy grabs Random Guy's hand with a <<GRAB>>]]
+*GRAB*
 
-Random Guy: What th-AAAAAAAAAAAAAAA
+[Black Hat grabs Cueball's hand, with a knife in hand.]
 
-[[Hat Guy slices off Random Guy's hand with a knife.]]
+Cueball: What th--AAAAAAAAAA
 
-Hat Guy: Ok, listen carefully.
+*SLICE*
 
-Random Guy: AAAAAAAAAAAAAAAA
+[Black Hat slices off Cueball's hand with the knife.]
 
-[[Random Guy is bleeding profusely.]]
+[Cueball is bleeding profusely.]
 
-Hat Guy: Communicating badly then acting smug when you're misunderstood is not cleverness.
+Black Hat: Ok, listen carefully.
 
-Random Guy: AAAAAAAAAAAAAAAA
+Cueball: AAAAAAAAAAAAAAAAA
 
-Hat Guy: I hope we've learned something today.
+Black Hat: Communicating badly and then acting smug when you're misunderstood is not cleverness.
 
-Random Guy: AAAAAAAAAAAAAAAA
+Cueball: AAAAAAAAAAAAAAAAAAA
 
+Black Hat: I hope we've learned something today.
+
+Cueball: AAAAAAAAAAAAAAAAA

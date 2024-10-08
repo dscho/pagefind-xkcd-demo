@@ -26,19 +26,19 @@ Megan: ...Next question?
 
 Logo: CDC
 
-[In a frame-less panel there are two panels at the bottom, with Science Girl in the largest to the left and Megan in the smaller to the right, with the logo still visible, but unreadable still the lectern is shown.]
+[In a frame-less panel there are two panels at the bottom, with Jill in the largest to the left and Megan in the smaller to the right, with the logo still visible, but unreadable still the lectern is shown.]
 
-Science Girl: I'm fully vaccinated. Can I ride my bike in my sister-in-law's house?
+Jill: I'm fully vaccinated. Can I ride my bike in my sister-in-law's house?
 
-Megan: In her house?
+Megan: In her *house?*
 
-Science Girl: Like, down the stairs.
+ Jill: Like, down the stairs.
 
-Megan: I guess? You should at least wear a helmet.
+Megan: I guess? You should at ***least*** wear a helmet.
 
-Science Girl: Even if she's not high-risk?
+ Jill: Even if she's not high-risk?
 
-Megan: Any other questions?
+Megan: Any *other* questions?
 
 [White Hat is in a rectangular box at the bottom of the panel. Megan is replying from off-panel to the right from a star burst at the edge of the panel. At the bottom there is a message in a black rectangle with white text.]
 

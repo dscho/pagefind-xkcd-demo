@@ -12,9 +12,9 @@ Robot: ZAP
 
 Ponytail: Our robot floats using a helium sphere, which is highly charged and can induce lightning strikes.
 
-Ponytail: It moves using a grappling gun like the hook shot from Zelda.
+Ponytail: It moves using a grappling gun like the hook shot from *Zelda*.
 
-Off-screen voice: What is the robot for?
+Off-screen voice: What is the robot ***for***?
 
 Ponytail: Uh
 

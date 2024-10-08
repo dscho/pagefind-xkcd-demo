@@ -6,19 +6,18 @@ alt: >-
   Changing the names would be easier, but if you're not comfortable lying, try only making friends with people named Alice, Bob, Carol, etc.
 img: https://imgs.xkcd.com/comics/protocol.png
 ---
-[[A standing figure is conversing with another figure who is sitting on computer desk chair. Behind the sitting figure is a desk with a flat-panel monitor.]]
+[Cueball is telling a story to a Computer Scientist who is seated at his desk.]
 
-Standing figure: Alice sends a message to Bob saying to meet her somewhere.
+Cueball: Alice sends a message to Bob saying to meet her somewhere.
 
-Sitting figure: Uh huh.
+Computer Scientist: Uh huh.
 
-Standing figure: But Eve sees it, too, and goes to the place.
+Cueball: But Eve sees it, too, and goes to the place.
 
-Sitting figure: With you so far.
+Computer Scientist: With you so far.
 
-Standing figure: Bob is delayed, and Alice and Eve meet.
+Cueball: Bob is delayed, and Alice and Eve meet.
 
-Sitting figure: Yeah?
+Computer Scientist: Yeah?
 
-I've discovered a way to get computer scientists to listen to any boring story.
-
+CAPTION: I've discovered a way to get computer scientists to listen to any boring story.

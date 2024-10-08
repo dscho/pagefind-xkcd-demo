@@ -6,47 +6,40 @@ alt: >-
   I'm rubber. You're rubber. We contemplate the reality of our existence in mute, vulcanized horror.
 img: https://imgs.xkcd.com/comics/rubber_and_glue.png
 ---
-[[A playground.  The black hat is large on one child, who is sitting and reading.  Other children surround him.]]
+[Playground. Jill is balancing on a swing, two Cueball-like kids are swinging and two more kids, a young Cueball and a young Hairy are approaching a reading young Black Hat, whose hat is almost too big for his small head.]
 
-Kid A: Whatchya reading, hatboy?
+Hairy: Whatchya reading, Hatboy?
 
-Hatboy: The CRC Handbook of Chemistry and Physics.
+Black Hat: The CRC Handbook of Chemistry and Physics.
 
-Kid B: You are such a loser, it's 
+Cueball: You are such a loser, it's *painful*.
 
-painful
+Black Hat: I'm rubber, you're glue.
 
-.
+[In a frame-less panel Hairy and Cueball looks down on Black Hat sitting with his book in his lap on the ground between them. He looks back up over his shoulder at Hairy.]
 
-Hatboy: I'm rubber, you're glue.
+Hairy: Yeah, well—
 
-Kid A: Yeah, well--
+Black Hat: *Glue can't speak.*
 
-Hatboy: 
+Black Hat: You try to scream, but your mouth fills with glue.
 
-Glue can't speak.
+Black Hat: Your face is glue. Your body is glue.
 
-Hatboy: You try to scream, but your mouth fills with glue.
+[Black Hat has left the book on the ground behind him and has risen. Hairy and Cueball is now together to the right and Black Hat advances towards them arms stretched out. Hairy steps backwards away from him.]
 
-Hatboy: Your face is glue.  Your body is glue.
+Black Hat: I wrap my rubber arms around your sticky bulk.
 
-[[The black hat child stands up, leaving the book closed on the ground.  He holds his hand out to the other children.]]
+Black Hat: Your neoprene base bonds instantly with my surface.
 
-Hatboy: I wrap my rubber arms around your sticky bulk.
+Black Hat: Never to let go.
 
-Hatboy: Your neoprene base bonds instantly with my surface.
+[Zoom in on Black Hat's head. He is holding his arms up in front of him clapping them together. Hairy shouts from off panel.]
 
-Hatboy: Never to let go.
+Black Hat: You are glue. I am rubber.
 
-[[The view zooms in dramatically on the hat child, whose fists are clenched.]]
+Black Hat: Staring at you with my dead, rubber eyes-
 
-Hatboy: You are glue. I am rubber.
+Black Hat: *Forever.*
 
-Hatboy: Staring at you with my dead, rubber eyes--
-
-Hatboy: 
-
-Forever.
-
-Kid A: Moooom!
-
+Hairy (off-panel): *Moooom!*

@@ -6,15 +6,14 @@ alt: >-
   Well, sex is like a velociraptor: despite your movie-fueled lifelong neurotic obsession, unlikely to be found in your house.
 img: https://imgs.xkcd.com/comics/brontosaurus.png
 ---
-[[Two people are sitting at a bench.  The woman is holding a turtle.]]
+[Cueball and Megan are sitting at a bench. Megan is holding a turtle.]
 
-Woman: Our love is like a turtle.
+Megan: Our love is like a turtle.
 
-[[The woman sets down the turtle and turns to her partner.  They hold hands.]]
+[Megan sets down the turtle and turns to Cueball. They hold hands.]
 
-Woman: Humble and simple, enduring by virtue of perfect design.
+Megan: Humble and simple, enduring by virtue of perfect design.
 
-Partner: Our love is like a brontosaurus.
+Cueball: Our love is like a brontosaurus.
 
-Partner: Recognized as a mistaken combination long ago, lingering only out of misplaced affection for an imagined past.
-
+Cueball: Recognized as a mistaken combination long ago, lingering only out of misplaced affection for an imagined past.

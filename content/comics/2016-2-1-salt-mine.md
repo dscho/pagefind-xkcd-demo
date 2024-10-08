@@ -6,19 +6,12 @@ alt: >-
   This one is a little bland. Pass the saltshaker?
 img: https://imgs.xkcd.com/comics/salt_mine.png
 ---
-[[A figure walks around outside, while a bird singing is flying.]]
+[Hairbun (with glasses), Ponytail, Megan and Cueball are in a salt mine. Hairbun and Ponytail talk in front of what appears to be a control console for a particle detector with a chair on each side. To the right Megan and Cueball are eating salt in large amounts straight of the rocks in the mine. They are eating so fast that salt spills from their hands and falls to the ground.]
 
-Figure: The sun is shining, the birds are singing-
+Hairbun: So you've built this particle detector in a salt mine to block out cosmic rays?
 
-[[The bird sings.]]
+Ponytail: Yes.
 
-Bird: Got the kind of loving' that can be so smooth, yeah
+Ponytail: That is definitely why.
 
-[[The figure looks annoyed.]]
-
-Bird: Give me your heart, make it real
-
-[[The figure chases the bird with a net.]]
-
-Bird: Or else forget about it
-
+Cueball and Megan: Homf nomf nomf

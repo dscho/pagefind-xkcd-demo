@@ -6,43 +6,58 @@ alt: >-
   And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.
 img: https://imgs.xkcd.com/comics/tech_loops.png
 ---
-[[Flowchart of things which support things. Arrows indicate what supports what.]]
+[A flow chart 18 boxes linked (or not) with arrows going in several different directions. At the top is an arrow pointing to the right with text under. The rest of the text in the chart is written inside the boxes.]
 
-Library supports
+[Under arrow:]
 
-library, supports
+Supports
 
-custom settings, supports
+[Going from the top below the tip of the arrow and reading left to right and top to bottom the following text is written in the boxes that all are in some way connected with each other. The number of arrows going in and out of each box is noted behind the text in square brackets as [in, out]:]
 
-library, supports
+Updater [1, 3]
 
-tool, supports
+Tool [1, 1]
 
-updater, supports
+Tool [1, 1]
 
-vm, supports
+Repository [3, 0]
 
-chat client, supports
+Library [1, 1]
 
-repository, supports nothing at all!
+Library [2, 3]
 
-library, supports
+Library [1, 1]
 
-hardware workaround, supports
+Chat Client [2, 1]
 
-awful hack from 2009, supports
+VM [2, 1]
 
-irc for some reason, supports
+IRC for some reason [1, 1]
 
-awful hack from 2009, supports
+Custom Settings [1, 1]
 
-the library we started with
+Hardware Workaround [1, 2]
 
-DLL needed by something, supports
+Library [1, 1]
 
-two mysterious items???
+Awful hack from 2009 [3, 3]
 
-"Things I actually want to use my computer for" neither supports nor is supported by anything else on the chart.
+Library [1, 1]
 
-CAPTION: Every now and then I realize I'm maintaining a huge chain of technology solely to support itself.
+Library [0, 1]
 
+[The last box in the lower middle is not connected to any other boxes but has two exit arrows pointing to two questionmarks.]
+
+DLL needed by something [0, 2]
+
+?
+
+?
+
+[Box alone at the top right corner, with no connections:]
+
+Things I actually want to use my computer for [0, 0]
+
+[Caption below the panel:]
+
+Every now and then I realize I'm maintaining a huge chain of technology solely to support itself.

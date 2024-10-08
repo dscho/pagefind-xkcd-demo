@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/eventual_consistency.png
 
 Laptop: I know it's hard to focus right now, but we should try to finish testing the DB.
 
-Cueball: Ughhhh.
+Cueball: *Ughhhh.*
 
 Cueball: Okay.
 
@@ -28,8 +28,8 @@ Cueball: Sooner or later this will all be a uniform heat bath.
 
 Cueball: Maximum entropy.
 
-[Back to Cueball and desk. Cueball is leaning back in his chair.]
+[Back to Cueball and desk.  Cueball is leaning back in his chair.]
 
 Laptop: Maximum entropy means no useful work can be done!
 
-Cueball: I'm getting a head start by doing no useful work now.
+Cueball: I'm getting a head start by doing no useful work *now*.

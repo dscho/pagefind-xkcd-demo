@@ -6,7 +6,18 @@ alt: >-
   Who's calling me?? WHY IS THE WORST PERSON IN THE WORLD CALLING ME!?
 img: https://imgs.xkcd.com/comics/phone_alarm.png
 ---
-[[A flow chart. First box says, 'Alarm goes off' which leads with a straight arrow to the next box, reading 'BEEP BEEP BEEP BEEP'. One curved arrow leads from this box back to itself. Another leads in the opposite direction to a box that says, '"???"'. From that an arrow leads down to 'Answer phone in dream', which leads to 'talk', which leads to 'hang up', which leads back to 'BEEP BEEP BEEP BEEP'.]]
+[A flowchart:]
+
+[Alarm goes off]
+
+→ [Beep beep beep beep!]
+
+↺ One line with an arrow goes back to: [Beep beep beep beep!]
+
+→ Another line goes to: ["???"]
+
+→ Then: [Answer phone in dream] → [Talk] → [Hang up]
+
+→ Finally a line goes back to: [Beep beep beep beep!]
 
 My problem with phone alarms
-

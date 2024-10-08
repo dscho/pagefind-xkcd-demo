@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/xkeyboarcd.png
 
 Introducing the
 
-XKeyboarCD
+<big>XKeyboarCD</big>
 
 A keyboard for powerful users and their powerful fingers®
 
@@ -34,7 +34,51 @@ Ergonomic design
 
 
 
-15 puzzle-style numberpad 1 8 4 12 7 Empty area 11 3 15 6 10 9 2 5 13 14
+{| class="wikitable"
+
+|+15 puzzle-style numberpad
+
+|-
+
+|1
+
+|8
+
+|4
+
+|12
+
+|-
+
+|7
+
+|Empty area
+
+|11
+
+|3
+
+|-
+
+|15
+
+|6
+
+|10
+
+|9
+
+|-
+
+|2
+
+|5
+
+|13
+
+|14
+
+|}
 
 [To the left in the second row (below the Caps Lock position) the outer key is twice as wide as the other normal keys.]
 

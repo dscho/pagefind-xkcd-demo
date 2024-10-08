@@ -10,11 +10,11 @@ img: https://imgs.xkcd.com/comics/too_much_talking.png
 
 Off-screen: How was the party?
 
-Cueball: Taaalkiiiiiiing
+Cueball: *Taaalkiiiiiiing*
 
 Cueball: Blablablabla
 
-Cueball: I talked so much. Too much? Probably.
+Cueball: I talked so much. Too much? *Probably.*
 
 Cueball: My face is tired.
 

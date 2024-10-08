@@ -14,7 +14,7 @@ Cannon: Ptoo
 
 Impact: Thwup
 
-Coin-slot: Rattle rattle
+Coin-slot: *Rattle rattle*
 
 Megan: I put in my quarters. Is the machine broken?
 

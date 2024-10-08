@@ -4,10 +4,8 @@ title: "Electoral Precedent 2020"
 num: 2383
 alt: >-
   He also broke the streak that incumbents with websites are unbeatable and Delawareans can't win, creating a new precedent: Only someone from Delaware can defeat an incumbent with a website.
-img: https://imgs.xkcd.com/comics/electoral_precedent_2020.png
+img: https://imgs.xkcd.com/comics/electoral_precedent_2020-new.png
 ---
-
-
 The problem with statements like
 
 "No <party> candidate has won the election without <state>"
@@ -16,7 +14,7 @@ Or
 
 "No president has been reelected under <circumstances>"
 
-★ Updated for 2020 ★
+<font color="red">★ Updated for 2020 ★</font>
 
 [Each statement below has its own panel. The year is in a caption, the precedent is stated by a standing Cueball in the main panel, and the president who broke it is below the panel.]
 
@@ -136,9 +134,9 @@ Or
 
 [The panel is zoomed in on Cueball's head in this frame.] 2016... No one has become president without government or military experience. ... Until Trump did.
 
-2020? No one has won after being impeached. ✓
+2020? No one has won after being impeached. <big><font color="green">✓</font></big>
 
-2020? No challenger with a website has won. X
+2020? No challenger with a website has won. <big><font color="red">X</font></big>
 
 [Caption below the comic]
 

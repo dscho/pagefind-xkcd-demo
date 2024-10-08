@@ -3,38 +3,33 @@ date: 2009-07-06
 title: "Cutting Edge"
 num: 606
 alt: >-
-  I remember trying to log in to the original Command and Conquer servers a year or two back and feeling like I was knocking on the boarded-up gates of a ghost town. 
+  I remember trying to log in to the original Command and Conquer servers a year or two back and feeling like I was knocking on the boarded-up gates of a ghost town.
 img: https://imgs.xkcd.com/comics/cutting_edge.png
 ---
-((A woman is standing.  A man sits at a computer.]]
+[Megan is standing. Cueball sits at a computer.]
 
-Woman: Where've you been all week?
+Megan: Where've you been all week?
 
-Man: Playing Half-Life 2!
+Cueball: Playing Half-Life 2!
 
-Woman: ... that came out in 2004.
+Megan: ...that came out in 2004.
 
-Man: I get games on a five-year lag. That way, I never have to buy a high-end system, but get the same steadily-advancing gaming experience as people who do -- and at a fraction of the price.
+Cueball: I get games on a five-year lag. That way, I never have to buy a high-end system, but get the same steadily-advancing gaming experience as people who do - and at a fraction of the price.
 
-Man: There are no downsides!
+Cueball: There are no downsides!
 
-Woman: I can think of 
+Megan: I can think of *one*...
 
-one
+[Early 2013.]
 
-...
+Cueball: Guys!
 
-Early 2013.
+Cueball: The cake is a lie!
 
-Man: Guys!
+[Musical notes surround an italic line, suggesting Cueball is singing.]
 
-Man: The cake is a lie!
+Cueball: *This was a triumph.*
 
-[[Musical notes surround an italic line, suggesting the man is singing.]]
+Cueball: The cake is a lie!
 
-Man: This was a triumph.
-
-Man: The cake is a lie!
-
-Woman, Man #2: <<Sigh>>
-
+Megan and a Friend: *Sigh*

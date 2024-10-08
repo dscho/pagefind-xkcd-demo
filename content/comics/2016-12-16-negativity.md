@@ -18,6 +18,6 @@ Cueball: And just enjoy the cool breeze and the grass under my feet.
 
 [Cueball looks down while pointing a finger at the grass behind him.]
 
-Grass: You suuuuck
+Grass: You *suuuuck*
 
-Cueball: Hey!
+Cueball: *Hey!*

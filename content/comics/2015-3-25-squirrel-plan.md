@@ -6,11 +6,10 @@ alt: >-
   [Halfway to the Sun ...] Heyyyy ... what if this BALLOON is full of acorns?!
 img: https://imgs.xkcd.com/comics/squirrel_plan.png
 ---
-((A squirrel ASTRONAUT is suspended in some kind of harness beneath a child's helium balloon. Two other squirrels serve as its GROUND TEAM.))
+[There are three squirrels.  One is suspended from a balloon. The other two are sitting on the ground, looking up at it.]
 
-Ground team: Once you've chewed a hole in the sun, shoot the balloon to fall back to earth, then pull the parachute ripcord to land.
+Squirrel to the right: Once you've chewed a hole in the Sun, shoot the balloon to fall back to earth, then pull the parachute ripcord to land.
 
-Astronaut: Are you SURE it's full of acorns?
+Squirrel tied to balloon: Are you ***sure*** it's full of acorns?
 
-Ground team: Look how bright and magnificent is is! What ELSE could be in there?
-
+Squirrel to the right: Look how bright and magnificent it is! What *else* could be in there?

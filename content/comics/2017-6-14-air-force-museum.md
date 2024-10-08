@@ -20,6 +20,6 @@ Cueball: They have planes from different eras, all kinds of cool equipment, and 
 
 [Both still walking.]
 
-Cueball: ...at least, I hope that was a museum.
+Cueball: ...at least, I *hope* that was a museum.
 
 Megan: Do you hear helicopters?

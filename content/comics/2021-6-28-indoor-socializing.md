@@ -12,4 +12,4 @@ White Hat: How are you?
 
 Cueball: Excruciatingly aware of how much of each other's gross lung air we're breathing.
 
-Cueball: I mean, fine! How are you?
+Cueball: I mean, fine!  How are you?

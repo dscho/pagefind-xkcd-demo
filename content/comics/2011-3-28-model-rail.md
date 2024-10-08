@@ -6,72 +6,72 @@ alt: >-
   I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue.
 img: https://imgs.xkcd.com/comics/model_rail.png
 ---
-[[Two characters are standing in a basement, the support beams bare.]]
+[Cueball to the left and his friend, who also looks like Cueball, are standing in the friend's rather large basement, where the celling is held up by six thin columns, and the walls are shown angling in towards a point of perspective, to display how big the room is.]
 
-Enthusiast: I want to build a perfect HO-scale (~1
+Friend: I want to build a perfect HO-scale (~1/87) model train layout of my town.
 
-87) model train layout of my town.
+Cueball: In your basement? Bad idea. Never make a layout of the area you're in.
 
-Realist: In your basement?  Bad idea.  Never make a layout of the area you're in.
+[Zoom in on the two friends without the basement visualized.]
 
-Enthusiast: Why not?
+Friend: Why not?
 
-Realist: Because it'd include a little 10" replica of your house.
+Cueball: Because it'd include a little 10" replica of your house.
 
-Enthusiast: So? That'd be cool! I'd make tiny replicas of my rooms, my furniture--
+[Zoom in Cueball's friend who takes his hand to his chin.]
 
-Realist: --And your train layout?
+Friend: So? That's be cool! I'd make tiny replicas of my rooms, my furniture—
 
-((Break free of the traditional panel system.  The following appear in magnification circles, going beyond an original large diagram.  Each is labeled with a length scale arrow.))
+Cueball (off-screen): —And your train layout?
 
-[[The characters are looking at an HO-scale model railroad, with prominent mountains and a town nestled in the valley.]]
+[Beneath this first row of the comic is the zoom-out of how the full model would look in the basement. The town lies beneath some small mountains. There is some water with a bridge over it continuing to the roads going through the city. There is no frame around this section, but instead there follows five zoom-outs, each one going from the friend's house, that proceeds to a circular frame. Within each of these is shown a nested model. Starting to the right of the main model, and then moving down, then left, and then down and right. Each layer has a broken arrow above the model between two vertical lines to indicate the scale, the length being written between the two parts of the arrow. Some foreign objects are also labeled to help understand the scale.]
 
-<-- 18m -->
+[Layer 1, the model with the two friends standing to the left of it.]
 
-[[Zoomed in on the first model house.]]
+18 m
 
-<-- 21cm -->
+[Layer 2, looks exactly as the model, but without the friends.]
 
-[[Zoomed in on the second house.  There is a gnat sitting on the model.]]
+21 cm
 
-<-- 2.4mm -->
+[Layer 3, with a mosquito shown for comparison. It stands over half the model covering the mountains.]
 
-[[Zoomed in on the third house.  A strand of spiderweb crosses the model, labeled.]]
+2.4 mm
+
+[Layer 4, with a strand of spider silk (labeled) shown for comparison. The silk is much thicker than the roads, almost as thick as the mountains and much longer than the model. But the model still looks fairly much like the original one.]
+
+28 μm
 
 Spider web
 
-<-- 28Î¼m -->
+[Layer 5, with a cold virus (labeled) shown for comparison. It covers roughly a quarter of the model, taking up the water part of the model. At this level the whole model becomes notably "fuzzy" as individual atoms are discernible, and most of the features apart from the mountain is indiscernible. There may be two viruses. The other would then be to the right of the one in the water but above the model. The label stands between them.]
 
-[[Zoomed in on the fourth house.  A cold virus is sitting on the model, which is distinctly composed of tiny dots.]]
+320 nm
 
-Cold virus.
+Cold virus
 
-<-- 320nm -->
+[Layer 6, is simply spheres (atoms) at this point. The mountain near the back is the only noticeable feature, consisting of five atoms jutting out from the surface of atoms, which is by no mean flat.]
 
-[[Zoomed in on the fifth house.  The entire diorama is composed of large spheres.  It appears Dalton's billiard ball model is correct in the comic universe.]]
+37 Å
 
-<-- 37Å -->
+[Beneath these six versions of the model is a caption:]
 
-((A final comment, and normal panels resume.))
+The Matryoshka limit:
 
-The Matryoshka Limit: It is impossible to nest more than six HO layouts.
+It is impossible to nest
 
-[[The two are standing together once again.]]
+more than six HO layouts
 
-Enthusiast: My God.
+[Back to the two friends in the basement, still not showing the basement.]
 
-Realist: Yeah. It's the second rule of model train layouts: No nesting.
+Friend: My God.
 
-Enthusiast: ... what's the first rule?
+Cueball: Yeah. It's the second rule of model train layouts: No nesting.
 
-Realist: "Do 
+[Zoom in on the heads of the two friends.]
 
-not
+Friend: ...What's the first rule?
 
- talk about model train layouts."  That rule was actually voted in by our friends and families.
+Cueball: "Do *not* talk about model train layouts." That rule was actually voted in by our friends and families.
 
-Enthusiast: Philistines.
-
-{{Title text: I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1
-
-87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue.}}
+Friend: Philistines.

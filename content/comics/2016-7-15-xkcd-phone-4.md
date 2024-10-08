@@ -16,7 +16,7 @@ Subwoofer
 
 Non-porous, washable
 
-WebMD partnership: Cough-activated feature reads aloud a random diagnosis for "coughing"
+*WebMD* partnership: Cough-activated feature reads aloud a random diagnosis for "coughing"
 
 Wings
 
@@ -32,7 +32,7 @@ Turing-complete
 
 Gregorian/Julian calendar switch
 
-SpaceX impact protection: When dropped, phone lands on barge
+*SpaceX* impact protection: When dropped, phone lands on barge
 
 Parallel port
 
@@ -40,7 +40,7 @@ Parallel port
 
 Onboard cloud
 
-New BrightGloTM display incorporates genetically spliced jellyfish protein (should have used the glowing genes, not the stinging ones)
+New BrightGlo<sup>TM</sup> display incorporates genetically spliced jellyfish protein (should have used the glowing genes, not the stinging ones)
 
 ✓ Certified
 
@@ -54,6 +54,6 @@ Voice interaction: Siri, Cortana, Google Now and Alexa respond simultaneously
 
 Introducing
 
-The xkcd Phone 4
+<big><big>The xkcd Phone 4</big></big>
 
-Did you know "4" is "IV" in Roman numerals?®©™
+Did you know "4" is "IV" in Roman numerals?<sup>®©</sup>™

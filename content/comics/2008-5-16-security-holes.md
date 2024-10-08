@@ -6,25 +6,46 @@ alt: >-
   True story: I had to try several times to upload this comic because my ssh key was blacklisted.
 img: https://imgs.xkcd.com/comics/security_holes.png
 ---
-[[Man sitting at computer]]I'll just comment out these lines...
+[Cueball sitting at computer.]
 
-MD_update(&m, buf, j);
+Cueball: I'll just comment out these lines...
 
-do_not_crash();
+<code>// MD\_update(&m, buf, j);</code>
 
-prevent_911();
+<code>// do\_not\_crash();</code>
+
+<code>// prevent\_911();</code>
 
 In the rush to clean up the debian-openssl fiasco, a number of other major security holes have been uncovered:
 
-Fedora Core: Vulnerable to certain decoder rings
+[A two-column table is shown:]
 
-Xandros (EEE PC): Gives root access if asked in a stern voice
+;Affected System
 
-Gentoo: Vulnerable to flattery
+<b>Security problem</b>
 
-OLPC OS: Vulnerable to Jeff Goldblum's Powerbook
+----
 
-Slackware: Gives root access if user says Elvish word for "friend"
+;Fedora Core
 
-Ubuntu: Turns out distro is actually just Windows Vista with a few custom Themes.
+Vulnerable to certain decoder rings
 
+;Xandros (EEE PC)
+
+Gives root access if asked in a stern voice
+
+;Gentoo
+
+Vulnerable to flattery
+
+;OLPC OS
+
+ Vulnerable to Jeff Goldblum’s PowerBook
+
+;Slackware
+
+Gives root access if user says Elvish word for “friend”
+
+;Ubuntu
+
+Turns out distro is actually just Windows Vista with a few custom themes

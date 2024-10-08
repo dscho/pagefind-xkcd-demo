@@ -3,42 +3,55 @@ date: 2009-05-01
 title: "Packages"
 num: 576
 alt: >-
-  Day six: 'The hell?  Who mails a bobcat?'
+  Day six: 'The hell? Who mails a bobcat?'
 img: https://imgs.xkcd.com/comics/packages.png
 ---
-[[A dude is sitting at his computer.]]
+[Cueball is sitting at his computer.]
 
-Man: I love getting pacakges.
+Cueball: I love getting packages.
 
-[[A woman enters.]]
+[Megan enters and Cueball turns towards her.]
 
-Man: I set up a script to search eBay et. al. (sic) for $1 items with free shipping.
+Cueball: I set up a script to search eBay et. al. for $1 items with free shipping.
 
-[[The man checks his doorstop; a package is waiting for him.]]
+[Cueball comes home with a backpack on his back and find a package waiting for him on his doorstop.]
 
-Man: I gave it $365, so each day it can buy me something random.
+Cueball: I gave it $365, so each day it can buy me something random.
 
-Woman: What if you just end up with lots of crap?
+[Cueball, again sitting at his computer.]
 
-Man: I'll give it away.  But I'm sure I'll end up with some interesting stuff.
+Megan (off-screen): What if you just end up with lots of crap?
 
-[[Day 1: Length of rubber hose]]
+Cueball: I'll give it away.
 
-Man: Could be handy around the house.
+Cueball: But I'm sure I'll end up with some interesting stuff.
 
-[[Day 2: Ski mask]]
+[The next five panels have a caption in a black frame at the top. The caption is written first for each panel. In the first panel Cueball has unpacked a hose. The paper lies in tatters on the floor. Megan stands next to him.]
 
-Man: It's spring, but hey.
+Day 1: Length of rubber hose
 
-[[Day 3: Bear trap]]
+Cueball: Could be handy around the house.
 
-Man: Huh.
+[Cueball stands with a black item and the packaging material it came in. Megan looks on.]
 
-[[Day 4: Tourist map of the Pentagon]]
+Day 2: Ski mask
 
-Woman: Uh oh.
+Cueball: It's spring, but hey.
 
-[[Day 5: Lube]]
+[Cueball is standing alone with a bear trap and the box it came in on the floor.]
 
-Man: I'm stopping this before I end up on every F.B.I. watch list ever.
+Day 3: Bear trap
 
+Cueball: Huh.
+
+[Megan is back as Cueball looks at a piece of paper that came in an envelope.]
+
+Day 4: Tourist map of the Pentagon.
+
+Megan: Uh oh.
+
+[Cueball is standing alone with a bottle of lube in one hand and the box it came in in the other hand.]
+
+Day 5: Lube
+
+Cueball: I'm stopping this before I end up on every F.B.I. watch list ever.

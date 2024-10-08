@@ -6,21 +6,36 @@ alt: >-
   Really, the comforting side in most conspiracy theory arguments is the one claiming that anyone who's in power has any plan at all.
 img: https://imgs.xkcd.com/comics/argument_victory.png
 ---
-Person 1, chatting on a cellphone: I can't believe you're so wrong. I'm backed by Snopes, Wikipedia, and a half-dozen journals.  You're citing .Net ppages with black backgrounds and like 20 fonts each.
+[Cueball, looking right, is talking at his smartphone while holding it up in front of his head using both hands.]
 
-Person 2, using a laptop on a desk: It's sad how you buy into the official story so unquestioningly.  Guess some people prefer to stay asleep.
+Cueball: I can't believe you're so wrong. I'm backed by Snopes, Wikipedia, and a half-dozen journals. You're citing .net pages with black backgrounds and like 20 fonts each.
 
-Person 1: Watch closely - I'm about to win this argument.
+[A conspiracy theorist is sitting in front of this lap top at his desk looking left. He has his hair combed down. He is talking to Cueball via his laptop, probably Skyping.]
 
-Person 2, responding electronically: how?
+Conspiracy theorist: It's sad how you buy into the official story so unquestioningly.
 
-Person 1: By *going down a waterslide*. [[The person is sitting at the very top of a waterslide preparing to descend]]
+Conspiracy theorist: Guess some people *prefer* to stay asleep.
 
-Person 2: So? what does that prove?
+[Back to Cueball who has lowered his phone a bit. The reply from the conspiracy theorist is shown to come out of the phone with a jagged arrow and likewise speech bubble.]
 
-Person 1: Wheeee..
+Cueball: Watch closely— I'm about to win this argument.
 
-Person 2: You didn't win the argument!
+Conspiracy theorist (reply from phone): How?
 
-Person 1: ...eeee <<sploosh>>
+[Cueball is sitting at the very top of a waterslide preparing to descend.]
 
+Cueball: By *going down a waterslide*.
+
+[A split panel, with a close-up of the conspiracy theorist above and below Cueball is sliding down the waterslide with both hands above his head, water splashing up behind him as he holds his smartphone above the water in one hand.]
+
+Conspiracy theorist: So? What does that prove?
+
+Cueball: *Wheee..*
+
+[Another split panel, this time a smaller part is used for the close-up of the conspiracy theorist above and below Cueball has more of this panels space for sliding down to the bottom of the waterslide with both hands above his head, water still splashing up behind him as he continues to keep his smartphone above the water in one hand.]
+
+Conspiracy theorist: You didn't win the argument!
+
+Cueball: *...eeee!*
+
+Cueball: *Sploosh!*

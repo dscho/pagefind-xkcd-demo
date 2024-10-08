@@ -6,11 +6,14 @@ alt: >-
   Haha, you'll see!
 img: https://imgs.xkcd.com/comics/spice_girl.png
 ---
-[[A windowless room littered with debris: a door on the left is barred shut and also being held shut by a terrified figure. In the center of a room is a large armored box. On the side of the box away from the door, a figure is crouched down, calmly loading a weapon.]]
+[Cueball is trying to barricade a door with his own body (although it already has a bar in front of it). He is in a room that is deteriorating with Hairbun who is loading a shotgun while sitting behind some sort of box.]
 
-[[A CRUEL INTERLOPER, external to the scene and room, pounds on the door and shouts at the two figures in our sight.]]
+Knocking on the door: **Thump Thump**
 
-Terrified figure: WHICH SPICE GIRL ARE YOU?! The merciful one, or the one who started this war?
+Voice: **Which Spice Girl are you?!**
 
-Caption: When I see those quiz titles, I like to imagine they're being shouted through a door in a postapocalyptic dystopia.
+Voice: The merciful one, or the one who started this war?
 
+[Caption below the frame:]
+
+When I see those quiz titles, I like to imagine they're being shouted through a door in a postapocalyptic dystopia.

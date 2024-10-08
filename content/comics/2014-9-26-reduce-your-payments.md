@@ -6,13 +6,12 @@ alt: >-
   I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.
 img: https://imgs.xkcd.com/comics/reduce_your_payments.png
 ---
-[[A figure sits at a couch. Black hat guy walks up from behind, holding some paper.]]
+[Cueball sits on a sofa and Blackhat walks into the frame from behind.]
 
-Black hat guy: I discovered this weird trick for reducing your mortgage payments! 
+Blackhat: I discovered this weird trick for reducing your mortgage payments!
 
-Figure: What?
+Cueball: What?
 
-Black hat guy: Sodium borohydride.
+Blackhat: Sodium borohydride.
 
-Figure: ... I hate you.
-
+Cueball: ...I hate you.

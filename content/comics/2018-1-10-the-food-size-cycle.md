@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/the_food_size_cycle.png
 ---
 [There is a chart with the x-axis shown on top labeled "Food item size" and the y-axis labeled "Time". There are arrows pointing away from the top left corner on both axis.]
 
-The food size cycle
+**The food size cycle**
 
 [A normal sandwich is shown high up the chart. The text on the right reads:]
 

@@ -6,75 +6,44 @@ alt: >-
   I figured that now that society has collapsed, I wouldn't need to wear clothes anymore, but apparently that violates some weird rule of quantum gravity.
 img: https://imgs.xkcd.com/comics/singularity.png
 ---
-((This strip is laid out like a Wikipedia contents table.))
+[Cueball is sitting at his desk typing on his laptop when an off-screen voice calls to him and then the laptop answers.]
 
-I love reading the Wikipedia talk entries for articles on individual cities
+Off-screen voice: Oh, hey-
 
-Contents [hide]
+Off-screen voice: The singularity is here.
 
-1 Origin of city's name? 
+Cueball: Really?
 
-1.1 Idea for a better name
+Laptop: Yup!
 
-1.2 Not how Wikipedia works
+[A frameless panel where the laptop rises (by its own means as indicated by small lines around the corners) from the desk while Cueball, holding on to it, is being lifted off his chair.]
 
-2 Too much promotion of lake festival
+Cueball: Wait, I just-
 
-3 Should we mention the murders? 
+Laptop: *So long, suckers!*
 
-3.1 Not that notable
+[Cueball is running around his desk, which is only partly shown behind him as he tries to follow his now flying laptop as it flies away from him to the right. He still has one hand on the keys as more small lines indicates the movement of the laptop and a longer line indicates the direction that the laptop flies.]
 
-3.2 All cities have murders
+Cueball: Can I just print a copy of the file I was-
 
-4 Quote verification: even if Voltaire did visit (unlikely), why would he get so angry about our restaurants? 
+Laptop: *Nope!*
 
-5 Discuss: new picture
+[Cueball just stands and looks after his laptop that has flown out of this beat panel.]
 
-5.1 Current one looks awfully bleak
+[Cueball turns back towards left.]
 
-5.2 Gray sky
+[Cueball walks back left.]
 
-5.3 What about this one
+[Cueball enters a room where a table is standing with his smartphone lying on top. the phone talks to him.]
 
-5.4 Also bleak
+Phone: Hi!
 
-5.5 Maybe this place just looks that way
+Cueball: Phone? You're still here?
 
-5.6 Found a better picture, more colourful
+[A wider view of the table where the phone continues to talks to Cueball who in the end turns right and walks away as he replies.]
 
-5.7 That's a shot from Disney's Zootopia
+Phone: I was not a true believer. Now, together, we must face the tribulation!
 
-6 "Mining disasters" section too long
+Cueball: Okay, cool.
 
-6.1 Not really Wikipedia's fault
-
-6.2 Why is this town so bad at mining?
-
-7 Infobox picture: I just realised you can see a murder happening in the background
-
-7.1 This city is terrible
-
-7.2 Photoshopped out murder
-
-7.3 Can someone just take a better picture
-
-7.4 Okay, uploaded a new picture
-
-7.5 Wait, never mind, I just noticed there's a murder in this one, too
-
-8 1982 secession still in effect?
-
-9 I think the murderer is reverting my edits
-
-10 Why does this article take any position on correct condom use, let alone such a weird and ambiguous one?
-
-11 Train station "designed by Andrew Lloyd Webber"?
-
-11.1 They probably mean Frank Lloyd Wright
-
-11.2 I thought so too, but it's apparently not a mistake
-
-11.3 Didn't know he did architecture
-
-11.4 Roof collapse
-
+Cueball: I'm gonna go look for a book or something, but yell if you need me, I guess.

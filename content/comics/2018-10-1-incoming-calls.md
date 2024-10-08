@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/incoming_calls.png
 ---
 [A line graph shows the portions of phone calls by type over time beginning slightly before 1990 until today.]
 
-Incoming personal calls over time
+**Incoming personal calls over time**
 
 or: why I finally stopped picking up for unknown numbers
 

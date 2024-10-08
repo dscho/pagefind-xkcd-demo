@@ -12,4 +12,4 @@ Cueball: And this tab is my ballot tracker tracker, which tracks how quickly oth
 
 White Hat: You should add a tracker for how often you breathe so you don't forget.
 
-Cueball: I will breathe when they call it.
+Cueball: ***I will breathe when they call it.***

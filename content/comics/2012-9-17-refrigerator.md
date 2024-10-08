@@ -6,5 +6,12 @@ alt: >-
   I want this engraved on my tombstone like the Epitaph of Stevinus.
 img: https://imgs.xkcd.com/comics/refrigerator.png
 ---
-[[A fridge with most of the shelves as conveyor belts that feed off to a "bad" tray.  The top internal one starts at 3 days, and has markings for 2 days, 24 hours, and 12 hours.  The middle internal one goes from 1 week to 5 days to 3 days to 2 and then to 1 day.  The bottom internal one goes from 3 months to 2, 1, and then 2 weeks.  One belt is mounted on the door, marked from 2 weeks to 1 week to 3 days.]]
+[Open fridge with four conveyor belts, three in the main compartment and one on the door. There are two more containers on the door, and an ice-box underneath the second conveyor belt in the main compartment. There is a bin at the bottom of the fridge where the conveyor belts all lead to labelled "Bad."]
 
+**Top conveyor belt**: 3 days ^ 2 days ^ 24 hours ^ 12 hours ^
+
+**Middle conveyor belt**: 1 W ^ 5 days ^ 3 days ^ 2 days ^ 1 day ^
+
+**Bottom conveyor belt**: 3 M ^ 2 months ^ 1 month ^ 2 weeks ^
+
+**Door conveyor belt**: 3 days ^ 1 week ^ 2 weeks ^

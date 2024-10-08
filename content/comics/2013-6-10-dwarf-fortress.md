@@ -6,19 +6,20 @@ alt: >-
   I may be the kind of person who wastes a year implementing a Turing-complete computer in Dwarf Fortress, but that makes you the kind of person who wastes ten more getting that computer to run Minecraft.
 img: https://imgs.xkcd.com/comics/dwarf_fortress.png
 ---
-[[A figure sits at a desk with a computer, hands on the keyboard, talking to an unseen observer.]]
+[Cueball sits at a desk with a computer, hands on the keyboard, talking to an unseen observer.]
 
-Figure: If the corporate surveillance state monitors and controls every aspect of my life...
+Cueball: If the corporate surveillance state monitors and controls every aspect of my life...
 
 Big Brother: We do.
 
-Figure: And I play Dwarf Fortress all day...
+Cueball: And I play Dwarf Fortress all day...
 
-Big Brother: You do. 
+Big Brother: You do.
 
-Figure: Then you're effectively Dwarf Fortress players watching your dwarves play Dwarf Fortress. 
+Cueball: Then you're effectively Dwarf Fortress players watching your dwarves play Dwarf Fortress.
 
-Big Brother: ... Oh God. 
+Big Brother: ... Oh God.
 
-Big Brother realises he's trapped in the most tedious possible Hell.
+[Caption below the panel:]
 
+Big Brother realizes he's trapped in the most tedious possible Hell.

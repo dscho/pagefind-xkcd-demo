@@ -6,45 +6,28 @@ alt: >-
   We will have an entire wing of the library devoted to copies of book #26, because ohmygod it's the one where Jake and Cassie finally KISS!!!
 img: https://imgs.xkcd.com/comics/manual_for_civilization.png
 ---
+[Brian Eno is talking to an unseen audience.]
+
 Brian Eno: Hi. I'm music's Brian Eno, co-founder of the Long Now Foundation.
 
-[[Brian Eno is on a stage.]]
+[Panel 2 shows he is standing on a stage.]
 
 Brian Eno: As part of our mission to promote long-term thinking, we've asked experts to help us assemble a collection of books from which civilization can be rebuilt if it ever collapses.
 
-[[Brian Eno holds up a list.]]
+[Panel 3 shows he is holding a manuscript with a long list of book titles.]
 
-Brian Eno: Today, we're sharing the results--the first ever 
+Brian Eno: Today we're sharing the results — the first ever *Manual for Civilization*.
 
-Manual for Civilization
+[Panel 4 shows him reading from the manuscript.]
 
-.
+Brian Eno: \*Ahem\*
 
-[[Brian Eno begins to read, until he is interrupted by a voice from off-panel.]]
+*Animorphs #1: The Invasion*
 
-Brian Eno: *Ahem* 
+*Animorphs #2: The Visitor*
 
-Animorphs #1: The Invasion
+*Animorphs #3: The Encounter*
 
-Brian Eno: 
+Unseen Audience member: ...are they *all* Animorphs Books?
 
-Animorphs #2: The Visitor
-
-Brian Eno: 
-
-Animorphs #3: The Encounter
-
-Voice: ... Are they 
-
-all
-
- Animorphs books?
-
-Brian Eno: No! There's also 
-
-Megamorphs
-
- and 
-
-The Andalite Chronicles.
-
+Brian Eno: No! There's also *Megamorphs* and *The Andalite Chronicles*.

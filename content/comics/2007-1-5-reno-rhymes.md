@@ -3,24 +3,23 @@ date: 2007-01-05
 title: "Reno Rhymes"
 num: 206
 alt: >-
-  Did you shoot a man in Reno?  Now, I don't mean to pry.
+  Did you shoot a man in Reno? Now, I don't mean to pry.
 img: https://imgs.xkcd.com/comics/reno_rhymes.png
 ---
-[[Two men stand facing one another. Man on the left is wearing a hat]]
+[Cueball and Black Hat stand facing one another. Black Hat is on the left.]
 
-Man: You know, I once shot a man in Reno, just to watch him die.
+Black Hat: You know, I once shot a man in Reno, just to watch him die.
 
-Man 2: Really?  Well, I once shot a man in Reno, but I couldn't tell you why.
+Cueball: Really? Well, I once shot a man in Reno, but I couldn't tell you why.
 
-Man: I once shot a man in Reno, then I went home to cry.
+Black Hat: I once shot a man in Reno, then I went home to cry.
 
-Man 2: I once shot a man in Reno, then I watered his cacti.
+Cueball: I once shot a man in Reno, then I watered his cacti.
 
-Man: I once shot a man in Reno 'cause they cancelled Firefly.
+Black Hat: I once shot a man in Reno 'cause they cancelled Firefly.
 
-Man 2: I once shot a man in Reno, him and all his succubi.
+Cueball: I once shot a man in Reno, him and all his succubi.
 
-Man: I once shot a man in Reno and a bunch more in My Lai.
+Black Hat: I once shot a man in Reno and a bunch more in My Lai.
 
-Man 2: I think we're done.
-
+Cueball: I think we're done.

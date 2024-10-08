@@ -3,39 +3,27 @@ date: 2009-04-29
 title: "Tag Combination"
 num: 575
 alt: >-
-  I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her /  (Too ra loo ra too ra loo rye ayy)
+  I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her / (Too ra loo ra too ra loo rye ayy)
 img: https://imgs.xkcd.com/comics/tag_combination.png
 ---
-Guy: So you can come up with a song title fitting any tag combination?
+[Cueball and Megan are talking.]
 
-Girl: Try me.
+Cueball: So you can come up with a song title fitting any tag combination?
 
-Guy: Lesbian voyeurism one-hit wonder mash-up.
+Megan: Try me.
 
-Girl: "I wish that Stacey's Mom had Jessie's Girl."
+[Cueball and Megan are talking.]
 
-<<silence>>
+Cueball: Lesbian voyeurism one-hit wonder mash-up.
 
-Guy: Well, that was one, but-
+Megan: "I wish that Stacey's Mom had Jessie's Girl."
 
-Girl: "When you Come On Eileen I touch myself."
+[Cueball and Megan are just standing there for a beat panel.]
 
-Guy: Okay, wow.
+[Cueball and Megan are talking.]
 
-{{Title-text: I love Eileen 
+Cueball: Well, that was one, but-
 
- and want you to love her 
+Megan: "When you Come On Eileen I touch myself."
 
- When you're around 
-
- I'm one floor above her 
-
- If you could see 
-
- just how much I adore her 
-
- Oh, that pretty red dress 
-
- I'd do anything for her 
-
-  (Too ra loo ra too ra loo rye ayy)}}
+Cueball: Okay, wow.

@@ -12,8 +12,8 @@ White Hat (thinking): Amazing watching a physicist at work, exploring universes 
 
 White Hat (thinking): If only I had studied math, I could appreciate the beauty on display here.
 
-Cueball (thinking): Oh no. This has two unknowns. That's gonna be really hard.
+Cueball (thinking): Oh no. This has ***two*** unknowns. That's gonna be really hard.
 
 Cueball (thinking): Ughhhhhhh.
 
-Cueball (thinking): Think. There's gotta be a way to avoid doing all that work...
+Cueball (thinking): ***Think.*** There's gotta be a way to avoid doing all that work...

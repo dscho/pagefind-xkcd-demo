@@ -6,29 +6,34 @@ alt: >-
   Opening dialogue by Scott
 img: https://imgs.xkcd.com/comics/graduation.jpg
 ---
-[[two girls are talking]]
+[Megan and Blondie are talking.]
 
-blonde: What do you want to do when you graduate ?
+Blondie: What do you want to do when you graduate?
 
-brunette: I want to become a lighthouse operator.
+[Same scene as before.]
 
-blonde: Oh ?
+Megan: I want to become a lighthouse operator.
 
-brunette: Yeah.
+Blondie: Oh?
 
-[[cut to scene of lighthouse with text overlaid]]
+Megan: Yeah.
 
-brunette: Lighthouses are built on interesting pieces of coast, so I'll have an interesting place to walk and swim, and great views of all kinds of weather.  I'd feel good about myself and my work every single day.
+[Cut to scene of lighthouse with text overlaid.]
 
-[[cut back to two girls]]
+Megan: Lighthouses are built on interesting pieces of coast, so I'll have an interesting place to walk and swim, and great views of all kinds of weather. I'd feel good about myself and my work every single day.
 
-brunette: I'd get to be the girl in the tower, only I'd be the one rescuing people.
+[Cut back to Megan and Blondie. Megan has her arms up.]
 
-brunette: Why. What do you want to do ?
+Megan: I'd get to be the girl in the tower, only <u>I'd</u> be the one rescuing people.
 
-blonde: I'm going to grad school.  I don't really know why.
+[Megan now has her arms down.]
 
-brunette: Wanna come hang in my lighthouse over breaks ?
+Megan: Why, what do you want to do?
 
-blonde: ...yeah.
+Blondie: I'm going to grad school. I don't really know why.
 
+[Same scene as before.]
+
+Megan: Wanna come hang out in my lighthouse over breaks?
+
+Blondie: ...yeah.

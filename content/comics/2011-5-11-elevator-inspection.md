@@ -6,13 +6,14 @@ alt: >-
   Even governmental elevator inspectors get bored halfway through asking where the building office is.
 img: https://imgs.xkcd.com/comics/elevator_inspection.png
 ---
-[[Three people in an elevator, one reading a posted sign.]]
+[Two Cueball-like guys and Ponytail, lifting her arms above her head, are in an elevator. Cueball standing next to the door reads the sign above the control panel.]
 
-Reading guy: It says here that the elevator inspection certificate is on file in the building office.
+Cueball: It says here that the elevator inspection certificate is on file in the building office.
 
-Middle guy: Whoa, cool! Let's go look at it!
+Friend: Whoa, cool! Let's go look at it!
 
-Excited girl: That sounds fun!
+Ponytail: That sounds fun!
+
+[Caption below the panel:]
 
 Industry tip: Building owners know this never happens. Those signs mark elevators which have never been inspected.
-

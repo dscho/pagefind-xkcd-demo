@@ -3,54 +3,37 @@ date: 2009-07-24
 title: "Woodpecker"
 num: 614
 alt: >-
-  If you don't have an extension cord I can get that too.  Because we're friends!  Right?
+  If you don't have an extension cord I can get that for you too. Because we're friends! Right?
 img: https://imgs.xkcd.com/comics/woodpecker.png
 ---
-[[A man with a beret and a woman are standing on a boardwalk, leaning on a handrail.]]
+[Megan and Beret Guy are standing on a deck.]
 
-Man: A woodpecker!
+Beret Guy: A Woodpecker!
 
-<<Pop pop pop>>
+*pop pop pop*
 
-Woman: Yup.
+Megan: Yup.
 
-[[The woodpecker is banging its head against a tree.]]
+[Woodpecker knocking against a tree.]
 
-Woman: He hatched about this time last year.
+Megan: He hatched about this time last year.
 
-<<Pop pop pop pop>>
+*pop pop pop pop*
 
-[[The woman walks away.  The man is still standing at the handrail.]]
+[Megan leave the frame, leaving Beret Guy on the deck alone.]
 
-Man: ... woodpecker?
+Beret Guy: ...Woodpecker?
 
-Man: It's your birthday!
+Beret Guy...It's your Birthday!
 
-Man: Did you know?
+Beret Guy: Did you know?
 
-Man: Did... did nobody tell you?
+Beret Guy: Did... Did nobody tell you?
 
-[[The man stands, looking.]]
+[Beret Guy leaves the frame, changes to the tree base.]
 
-[[The man walks away.]]
+[Beret Guy brings a gift and places it at the tree trunk.]
 
-[[There is a tree.]]
+[The woodpecker comes down and opens the gift.]
 
-[[The man approaches the tree with a present in a box, tied up with ribbon.]]
-
-[[The man sets the present down at the base of the tree and looks up.]]
-
-[[The man walks away.]]
-
-[[The present is sitting at the bottom of the tree.]]
-
-[[The woodpecker looks down at the present.]]
-
-[[The woodpecker sits on the present.]]
-
-[[The woodpecker pulls on the ribbon tying the present closed.]]
-
-((full width panel))
-
-[[The woodpecker is flying, with an electric drill dangling from its feet, held by the cord.]]
-
+[The woodpecker flies away holding onto the cord of a power drill.]

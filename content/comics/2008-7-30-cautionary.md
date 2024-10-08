@@ -8,45 +8,44 @@ img: https://imgs.xkcd.com/comics/cautionary.png
 ---
 Linux: A True Story:
 
-[[A man talks on a cell phone]]
+[Cueball talks on a cell phone.]
 
 Week One:
 
-Female cousin [[via phone]]: Hey, it's your cousin. I got a new computer but don't want Windows. Can you help me install "Linux"?
+Cousin: Hey, it's your cousin. I got a new computer but don't want Windows. Can you help me install "Linux"?
 
-Man: Sure.
+Cueball: Sure.
 
-[[The female cousin sits in an office chair with her laptop on her lap. She is on the phone]]
+[Cueball's cousin sits in an office chair with her laptop on her lap. She is on the phone.]
 
 Week Two:
 
-Female cousin: It says my XORG is broken. What's an "XORG"? Where can I look that up?
+Cousin: It says my XORG is broken. What's an "XORG"? Where can I look that up?
 
-Man [[via phone]]: Hmm, lemme show you man pages.
+Cueball: Hmm, lemme show you man pages.
 
-[[The female cousin crouches on the floor with the laptop on her lap. She is still on the phone]]
+[Cueball's cousin crouches on the floor with the laptop on her lap. She is still on the phone.]
 
 Week Six:
 
-Female cousin: Due to auto-config issues, I'm leaving Ubuntu for Debian.
+Cousin: Due to auto-config issues, I'm leaving Ubuntu for Debian.
 
-Man [[via phone]] Uh.
+Cueball: Uh.
 
-Female cousin: Or Gentoo.
+Cousin: Or Gentoo.
 
-Man [[via phone]]: Uh oh.
+Cueball: Uh oh.
 
-[[The female cousin lies on her stomach with the laptop on the floor. On the floor are several pieces of paper and a book. The man stands to her left]]
+[Cueball's cousin lies on her stomach with the laptop on the floor. On the floor are several pieces of paper and a book. Cueball stands to her left.]
 
 Week Twelve:
 
-Man: You haven't answered your phone in days.
+Cueball: You haven't answered your phone in days.
 
-Female cousin: Can't sleep. Must compile kernel.
+Cousin: Can't sleep. Must compile kernel.
 
-Man: I'm too late.
+Cueball: I'm too late.
 
-[[Box with text:]]
+[Box with text:]
 
 Parents: talk to your kids about Linux... Before somebody else does.
-

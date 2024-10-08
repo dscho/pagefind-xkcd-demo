@@ -6,13 +6,12 @@ alt: >-
   I wish I'd missed you then so I wouldn't be missing you now
 img: https://imgs.xkcd.com/comics/laser_scope.jpg
 ---
-[[ Box with a mailing label on one side, and in the front: ]]
+[Box with a mailing label on one side, and in the front:]
 
 Miss your loved ones?
 
-[[ Picture of a missile launcher ]]
+[Picture of a laser scope.]
 
-You don't have to.
+YOU DON'T HAVE TO.
 
 RJX-21 Laser Scope
-

@@ -6,7 +6,10 @@ alt: >-
   There's also a +1 sometimes, which is there to keep everyone on their toes. In the future, people who got to pick cool numbers by signing up for Google Voice early will be revered as wizards.
 img: https://imgs.xkcd.com/comics/cell_number.png
 ---
-[[Diagram outlining the true structure of a US Cell Phone number.  The 3-digit exchange number plus 4-digit subscriber number are your 7 random digits.  The area code is where you lived in 2005.]]
+[10 boxes for 10 digits of a U.S. phone number. The first three are grouped by parentheses. A hyphen separates the second set of three and the last four.]
 
-Structure of a US Cell Phone number.
+[Label titled "Your seven random digits" pointing at seven empty boxes.]
 
+[Label titled "Where you lived in 2005" pointing at three empty boxes preceding the seven.]
+
+Structure of a US cell phone number.

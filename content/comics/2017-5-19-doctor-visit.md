@@ -14,7 +14,7 @@ Ponytail: I don't get how your body has been moving around for years and still w
 
 Ponytail: Your heart has been pumping for decades without pausing for even a few minutes.
 
-Ponytail: And your eyes! They're so fragile and exposed!
+Ponytail: And your *eyes!* They're so fragile and exposed!
 
 [Zoom in on Cueball gazing at his palms.]
 

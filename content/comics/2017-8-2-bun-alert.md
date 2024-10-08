@@ -24,7 +24,7 @@ Ponytail: Alert system?
 
 Beret Guy: Yeah! We built it over the last few years. It's pretty small. Still looking for investors.
 
-Ponytail: But...why are you alerting people about rabbits?
+Ponytail: But...*why* are you alerting people about rabbits?
 
 [Zoom out; Beret Guy puts away his phone, points at the bun.]
 
@@ -32,20 +32,20 @@ Beret Guy: I mean...look at them. They're like loaves of bread that hop.
 
 Ponytail: I see.
 
-Beret Guy: People need to know.
+Beret Guy: *People need to know.*
 
 [Zoom on Beret Guy in a frameless panel.]
 
 Beret Guy: They need to know:
 
-Beret Guy: There are buns.
+Beret Guy: ***There are buns.***
 
 [Ponytail walks off, Megan comes running towards Beret Guy with a phone in her hand.]
 
 Ponytail: Okay, uhh, I'm gonna go.
 
-Megan: I got the alert! Where's the bun? Is it small?
+Megan: *I got the alert!* Where's the bun? ***Is it small?***
 
-Beret Guy: Extremely.
+Beret Guy: *Extremely.*
 
 Megan: Oh my God.

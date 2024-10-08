@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/intervocalic_fortition.png
 ---
 [Cueball holding his hands in front of his mouth is whispering into a Cueball-like person's ear. The second Cueball turns his head towards the first Cueball.]
 
-Cueball: Psst–teach your kids to pronounce V's in the middle of words as F's, but don't write down why you're doing it.
+Cueball: Psst&ndash;teach your kids to pronounce V's in the middle of words as F's, but don't write down why you're doing it.
 
 Cueball: Pass it on.
 

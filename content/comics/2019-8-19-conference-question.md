@@ -12,9 +12,9 @@ Beret Guy: I have a question.
 
 Beret Guy: Well, less of a question and more of a comment.
 
-Beret Guy: I guess it's less of a comment and more of an utterance.
+Beret Guy: I guess it's less of a comment and more of an utterance
 
-Beret Guy: Really it's less an utterance more an air pressure wave.
+Beret Guy: Really it's less an utterance, more an air pressure wave.
 
 Beret Guy: It's less an air pressure wave and more a friendly hand wave.
 

@@ -10,7 +10,7 @@ What tech people think scientists need help with:
 
 [Cueball, Ponytail, and Megan are facing a second Cueball and Hairbun. Ponytail is gesturing with her hand out. The second Cueball has his finger raised.]
 
-Ponytail: Please–our data, it's too complex! Can your magical machine minds unearth the patterns that lie within?
+Ponytail: Please&ndash;our data, it's too complex! Can your magical machine minds unearth the patterns that lie within?
 
 Cueball 2: We shall marshal our finest algorithms!
 

@@ -6,98 +6,98 @@ alt: >-
   There are plenty of finer gradations. I got 'critically endangered/extinct in the wild' on my exam, although the curve bumped it all the way up to 'venti.'
 img: https://imgs.xkcd.com/comics/universal_rating_scale.png
 ---
-[Caption above the frame:]
+ [Caption above the frame:]
 
-Universal Rating Scale
+ Universal Rating Scale
 
-[A vertical scale, with 45 gradations, labelled. These are the grades:]
+ [A vertical scale, with 45 gradations, labelled. These are the grades:]
 
-0
+ 0
 
-1
+ 1
 
-Strongly Disagree
+ Strongly Disagree
 
-F
+ F
 
-[star] ☆
+ [star] ☆
 
-Extinct
+ Extinct
 
-Tall
+ Tall
 
-2
+ 2
 
-G
+ G
 
-Critical
+ Critical
 
-[frowny face] ☹
+ [frowny face] ☹
 
-3
+ 3
 
-endangered
+ endangered
 
-[two stars] ☆☆
+ [two stars] ☆☆
 
-PG
+ PG
 
-Disagree
+ Disagree
 
-VG
+ VG
 
-4
+ 4
 
-Grande
+ Grande
 
-5
+ 5
 
-PG-13
+ PG-13
 
-[neutral face] 😐
+ [neutral face] 😐
 
-6
+ 6
 
-T for Teen
+ T for Teen
 
-7
+ 7
 
-[three stars] ☆☆☆
+ [three stars] ☆☆☆
 
-Agree
+ Agree
 
-Venti
+ Venti
 
-8
+ 8
 
-Least Concern
+ Least Concern
 
-[smiley face] ☺
+ [smiley face] ☺
 
-A
+ A
 
-Strongly Agree
+ Strongly Agree
 
-Category 5
+ Category 5
 
-EF-5
+ EF-5
 
-NC-17
+ NC-17
 
-UNC
+ UNC
 
-AA
+ AA
 
-[four stars] ☆☆☆☆
+ [four stars] ☆☆☆☆
 
-A+
+ A+
 
-S
+ S
 
-AAA
+ AAA
 
-10
+ 10
 
-10.0
+ 10.0
 
-11
+ 11

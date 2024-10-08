@@ -18,4 +18,4 @@ Black Hat: But it provides us with crucial data that helps us understand and pre
 
 Cueball: But your passengers had bought tickets to St. Louis.
 
-Black Hat: They should be proud of our contributions to meteorology!
+Black Hat: They should be *proud* of our contributions to meteorology!

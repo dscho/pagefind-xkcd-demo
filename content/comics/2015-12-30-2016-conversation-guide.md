@@ -10,16 +10,16 @@ img: https://imgs.xkcd.com/comics/2016_conversation_guide.png
 
 It's 2016 – Where's my...
 
-Flying car → They're called "helicopters"
+Flying car &rarr; They're called "helicopters"
 
-Jetpack → Turns out people are huge wimps about crashing
+Jetpack &rarr; Turns out people are huge wimps about crashing
 
-Moon colony → No one has put up the cash
+Moon colony &rarr; No one has put up the cash
 
-Self-driving car → Coming surprisingly soon
+Self-driving car &rarr; Coming surprisingly soon
 
-Floating sky city → Turns out cities are heavy
+Floating sky city &rarr; Turns out cities are heavy
 
-Hoverboard → This question is now ambiguous thanks to a new scooter thing (and will lead to an argument about the meaning of "hoverboard" which is way less interesting than either kind of hoverboard)
+Hoverboard &rarr; This question is now ambiguous thanks to a new scooter thing (and will lead to an argument about the meaning of "hoverboard" which is way less interesting than either kind of hoverboard)
 
-Robot butler → He was called "Jeeves" and he wasn't that great
+Robot butler &rarr; He was called "Jeeves" and he wasn't that great

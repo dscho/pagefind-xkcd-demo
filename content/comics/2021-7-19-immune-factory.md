@@ -32,4 +32,4 @@ Hairy: Oh? Why?
 
 Cueball: They don't like scabs.
 
-Hairy: Ugh. Leave.
+Hairy: *Ugh. Leave.*

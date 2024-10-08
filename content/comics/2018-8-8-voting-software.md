@@ -28,7 +28,7 @@ Cueball: Elevators are protected by multiple tried-and-tested failsafe mechanism
 
 Asking software engineers about computerized voting:
 
-Megan: That's terrifying.
+Megan: That's *terrifying*.
 
 [Zoomed in on Ponytail, Megan and Cueball's faces]
 

@@ -20,13 +20,13 @@ Cueball: Hey buddy, don't worry! We're going to be fine. This is just practice!
 
 [Zoom out. Megan gestures at Cueball, as he holds his arm.]
 
-Megan: No, don't tell it that. You want it to panic and build defenses that will be able to handle the real thing.
+Megan: No, don't tell it *that*. You ***want*** it to panic and build defenses that will be able to handle the real thing.
 
 Cueball: I guess.
 
 Cueball: Okay, let me try that again.
 
-Cueball: *ahem*
+Cueball: \*ahem\*
 
 [Cueball dramatically clutches at his chest.]
 
@@ -36,4 +36,4 @@ Cueball: I feel death draw near! My only hope is those heroic immune cells!
 
 Megan: Perfect.
 
-Cueball: Psst - you're doing great! I'm so proud of you.
+Cueball: <small>*Psst - you're doing great! I'm so proud of you.*</small>

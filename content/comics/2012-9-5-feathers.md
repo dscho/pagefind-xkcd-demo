@@ -6,27 +6,28 @@ alt: >-
   Click to see a video of a modern bird using stability flapping during predatory behavior. It all fits! Also, apparently Microraptor had *four* wings? The past keeps getting cooler! (And there's more of it every day!)
 img: https://imgs.xkcd.com/comics/feathers.png
 ---
-[[A woman approaches a little girl, who is sitting on the floor with a pile of books, once of which she is reading.]]
+[Megan is walking up to Jill with a bow in her hair bun. Jill has a stack of three books in front of her, is reading another book and a fifth book lies behind her on the floor.]
 
-Woman: What are you reading about?
+Megan: What are you reading about?
 
-Girl: Dinosaurs!
+Jill: Dinosaurs!
 
-Woman: Oh, yeah.
+Megan: Oh, yeah.
 
-[[The woman stands talking to the little girl, who is still looking at her book.]]
+[Zoom out of the same scene, with Megan standing and Jill looking up at her.]
 
-Woman: They've gotten all weird since when I was a kid. They used to be awesome, but now they all have dorky feathers, right?
+Megan: They've gotten all weird since when I was a kid.
 
-Girl: Yup!
+Megan: They used to be awesome, but now they all have dorky feathers, right?
 
-[[The woman is still standing, looking at the little girl.]]
+Jill: Yup!
 
-Girl: This says they now think raptors used their wings for stability, flapping to stay on top of their prey while hanging on with their hooked claws and eating it alive.
+[Same scene in a frame-less panel. Jill looks down and below the two characters there is a footnote.]
 
-*Fowler et al., PLOS ONE 6(12), 2011
+Jill: This says they now think raptors used their wings for stability, flapping to stay on top of their prey while hanging on with their hooked claws and eating it alive.
 
-[[The woman stares at the girl, who is still reading the book.]]
+<small>\*Fowler et. al., PLoS ONE 6(12), 2011</small>
 
-[[The woman sits down on the floor with the girl and starts reading another of the books.]]
+[Zoom in on the same scene, the book on the floor is outside the panel. Megan just stands staring at Jill who reads on. Beat panel.]
 
+[Megan is now on the floor next to Jill flipping through the top book she has taken from the pile.]

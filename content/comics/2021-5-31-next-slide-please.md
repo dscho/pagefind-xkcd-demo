@@ -8,13 +8,13 @@ img: https://imgs.xkcd.com/comics/next_slide_please.png
 ---
 [A list of 12 quotes is given. Above is a large header with a question, and then a description, before the quotes follows. The text above the quotes is centered:]
 
-Did you know?
+<big>***Did you know?***</big>
 
-Transcripts of famous quotes often
+*Transcripts of famous quotes often*
 
-leave out the slideshow instructions.
+*leave out the slideshow instructions.*
 
-Here’s how these lines actually sounded:
+*Here’s how these lines actually sounded:*
 
 [The first six quotations, are written so they fit around an image of Ronald Reagan standing next to his slide showing six segments of the Berlin Wall. A large arrow points down on to the middle segment of the wall. There is something on the ground in front of the wall, could be puddles or debris. The image is to the right, and the two first and last quote goes above and below the image, while the other three stops to the left of the image:]
 

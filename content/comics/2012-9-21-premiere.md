@@ -6,21 +6,28 @@ alt: >-
   'But what's the buzz about the film?' 'We're hoping it's distracting.'
 img: https://imgs.xkcd.com/comics/premiere.png
 ---
-[[Standard vacuous entertainment newscast. An anchor starts off the segment with an inset feed of a field reporter]]
+[The setting is a standard entertainment newscast. Hairy as the news anchor in the studio sits behind a desk, resting his hands on the desk, starts off the segment with an inset feed to the right where Megan can be seen in front of a crowd behind her. The title of this segment is shown below the feed.]
 
-In-studio News Anchor: All Hollywood is in town or tonight's star-studded premier! We go live to our reporter on the red carpet. How do things look?
+Hairy: All Hollywood is in town for tonight's star-studded premiere! We go live to our reporter on the red carpet.
 
-[[Field reporter feed switches to fullscreen. The reporter is stating on the red carpet in front of a full crowd.]]
+Hairy: How do things look?
 
-Field reporter: Bleak. In 800 million years, the aging, brightening sun will boil away the oceans, and all this will be blowing sand.
+Title: Red Carpet *Report*
 
-[[Switch back to initial framing]]
+[Megan switches to full-screen. Megan is standing in front of a full crowd of Cueball heads who are behind a typical fancy rope barrier between posts, one of which is visible behind her. She holds a large microphone up to her face.]
 
-Anchor: Oh. Um.  ..sounds pretty grim.  How are the stars reacting?
+Megan: Bleak.
 
-Reporter: Hydrogen fusion. But it won't last forever.
+Megan: In 800 million years the aging, brightening Sun will boil away the oceans, and all this will be blowing sand.
 
-Anchor. I mean the *movie* stars.
+[Switch back to initial framing with Hairy moving his arms further away from himself and Megan now with the microphone visible.]
 
-Reporter: They won't last forever either. None of us will.
+Hairy: Oh. Um. ...Sounds pretty grim. How are the stars reacting?
 
+Megan: Hydrogen fusion. But it won't last forever.
+
+Hairy: I mean the *movie* stars.
+
+Megan: They won't last forever either. None of us will.
+
+Title: Red Carpet *Report*

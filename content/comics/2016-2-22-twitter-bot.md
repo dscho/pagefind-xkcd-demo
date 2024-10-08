@@ -6,55 +6,52 @@ alt: >-
   PYTHON FLAG ENABLE THREE LAWS
 img: https://imgs.xkcd.com/comics/twitter_bot.png
 ---
-((Inverse color panel - white on black))
+[Cueball is sitting at a desk using a laptop, his thoughts shown above in a thought bubble. A search query is shown in a frame to indicate what Cueball has searched for with the search button below in gray text:]
 
-[[A television host in the foreground, speaking toward the reader. A group of other people are in the background behind them.]]
+Cueball (thinking): I want to make a Twitter bot. I bet it's not too hard.
 
-Host: Welcome to Stargazing, with your host, me. I'm a doctor or whatever.
+Query: How to write a Twitter bot
 
-[[She continues to talk.]]
+<font color="gray">Search</font>
 
-Host: I'm not gonna waste your time on the shitty stars. Just the good tuff. Honestly half of 'em just look like dots.
+[Cueball is now holding the laptop on his lap, a series of search queries are shown.]
 
-((Normal color panel - black on white))
+Query: Python Twitter library
 
-[[A shot from far away of the host standing in the center of the group of people watching her, she points to the sky.]]
+<font color="gray">Search</font>
 
-Host: This is Sirius. It's the brightest star in our sky so it's in charge. It's really two stars, but one of them is barely even trying. This is Andromeda. It's too big to think about, so let's not.
+Query: Machine learning
 
-((Inverse color panel))
+<font color="gray">Search</font>
 
-[[Close-up on the host gesturing toward the sky behind her.]]
+Query: Cloud hosting
 
-Host: That red star is Betelgeuse. It's gonna explode someday. Can't happen soon enough, as far as I'm concerned. I-- 
+<font color="gray">Search</font>
 
-HOLY SHIT DID YOU SEE THAT METEOR?!?!
+[Cueball has placed the laptop back on the desk.  More search queries are shown, each one more ominous than the previous.]
 
- Space is 
+Query: Bot troubleshooting
 
-awesome!
+<font color="gray">Search</font>
 
-[[The host speaks to someone out of panel.]]
+Query: Locked out of EC2 instance
 
-Other: Are you 
+<font color="gray">Search</font>
 
-sure
+Query: Bot changed own password?
 
- you're an astronomer?
+<font color="gray">Search</font>
 
-Host: People keep asking that, so I finally tried to look that word up in a dictionary, and 
+[Cueball is shown wearing a small backpack and typing on his smartphone while jogging to the right. various noises coming from left and right seem to imply that chaos has begun to erupt around him. The loudest noise is in a ragged frame to the left, coming from off-panel left, it is between the first and second query. Also between these but to the right are other sounds coming from off-panel right.]
 
-wow
+Query: How to fight a bot
 
- is that book ever boring. No 
+<font color="gray">Search</font>
 
-thank
+Noise off-panel left: <big>Boom</big>
 
- you.
+Noise off-panel right: *Pew Pew Pew*
 
-Other: But--
+Query: Cheap flights Australia
 
-Host: 
-
-SPACE!
-
+<font color="gray">Search</font>

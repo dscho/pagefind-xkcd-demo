@@ -3,28 +3,29 @@ date: 2012-08-08
 title: "Michael Phelps"
 num: 1092
 alt: >-
-  [shortly] ... he ate ALL of it!?
+  [shortly] ...he ate ALL of it!?
 img: https://imgs.xkcd.com/comics/michael_phelps.png
 ---
-[[Two people standing outside their en-Phelps-ified swimming pool]]
+[Megan and Cueball standing outside their en-Phelps-ified swimming pool.]
 
-Person 1: Why is Michael Phelps in your backyard pool?
+Cueball: Why is Michael Phelps in your backyard pool?
 
-Person 2: I don't know. He's been there all day.  Go home, Michael!
+Megan: I don't know. He's been there all day. *Go home, Michael!*
 
 Michael Phelps: Woo! 18 gold medals!
 
-[[The two people break out a pair of pool nets and unsuccessfully try to snag Phelps]]
+[Megan and Cueball break out a pair of pool nets and unsuccessfully try to snag Phelps.]
 
-Person 1: Can you get him?
+Cueball: Can you get him?
 
-Person 2: He's so *fast*!
+Megan: He's so ***fast***!
 
-Phelps: Ha hah! Can't catch me! <<Splash splash>>
+Phelps: Ha hah! Can't catch me!
 
-[[One person heads off to fetch something]]
+*Splash splash*
 
-[[Person returns with a hand truck full of jello mix]]
+[Cueball heads off to fetch something.]
+
+[Cueball returns with a hand truck full of Jello mix.]
 
 Phelps: Oh crap.
-

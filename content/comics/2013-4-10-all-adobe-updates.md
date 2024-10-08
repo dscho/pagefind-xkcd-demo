@@ -6,10 +6,14 @@ alt: >-
   ALERT: Some pending mandatory software updates require version 21.1.2 of the Oracle/Sun Java(tm) JDK(tm) Update Manager Runtime Environment Meta-Updater, which is not available for your platform.
 img: https://imgs.xkcd.com/comics/all_adobe_updates.png
 ---
-[[A figure sits at his laptop, reading a dialog box on the screen
+[Cueball is sitting at a laptop with a window with a red title bar floating over his head.]
 
-Adobe Update: There is an update for Adobe Download Manager. This update will allow you to download new updates to the Adobe update downloader. [OK] [Download]
+Adobe Update
 
-{{Title text: ALERT: Some pending mandatory software updates require version 21.1.2 of the Oracle
+There is an update for:
 
-Sun Java(tm) JDK(tm) Update Manager Runtime Environment Meta-Updater, which is not available for your platform.}}
+\***Adobe Download Manager**
+
+This update will allow you to download the new updates to the Adobe Update Downloader.
+
+[OK] [Download]

@@ -6,13 +6,12 @@ alt: >-
   Hey, at least I ran out of staples.
 img: https://imgs.xkcd.com/comics/in_ur_reality.png
 ---
-[[Two men stand facing one another. Man on the left is wearing a hat and holding a cat and a piece of paper. Man 2 has raised his arms. There are three cats with captions stuck to them]] 
+[Black Hat is holding a cat and a piece of paper. Cueball has raised his arms. There are three cats with captions stuck to them. One cat may be trying to remove the caption from itself, or toying with it playfully, as it rolls around on its back and makes noises.]
 
-Man: Oh hi; I'm here from the internet
+Black Hat: Oh hi; I'm here from the Internet.
 
-Man 2: What are you doing!?
+Cueball: What are you doing!?
 
-Man: Gluing captions to your cats.
+Black Hat: Gluing captions to your cats.
 
-<<rrrr>>
-
+Cat: <small>*RRRR*</small>

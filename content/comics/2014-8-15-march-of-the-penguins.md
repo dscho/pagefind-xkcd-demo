@@ -6,19 +6,20 @@ alt: >-
   You ARE getting older, though.
 img: https://imgs.xkcd.com/comics/march_of_the_penguins.png
 ---
-[[Black hat guy walks up to a woman seated at a desk with a laptop.]]
+[Black Hat walks towards Megan who is sitting in an office chair at a desk working on her laptop.]
 
-Black hat guy: All the birds from "March of the Penguins" are now dead. 
+Black Hat: All the birds from *March of the Penguins* are now dead.
 
-[[We just see the woman at her laptop; black hat guy is off-panel.]]
+[In a frame-less panel only Megan is shown. She sits back from the laptop taking her hands down on her legs. Black Hat replies from off-panel.]
 
-Woman: OK, I *get* it. We're all aging. 
+Megan: OK, I *get* it. We're all aging.
 
-Black hat guy: What? No.
+Black Hat (off-panel): What? No.
 
-[[The woman has turned around in her seat to look at black hat guy.]]
+[Black Hat is in the frame again holding one hand slightly out towards Megan who has turned around in her office chair and is now facing Black Hat.]
 
-Black hat guy: I'm not trying to make you feel old. They were alive last night. I'm trying to apologize.
+Black Hat: I'm not trying to make you feel old. They were alive last night.
 
-Woman: Oh God
+Black Hat:I'm trying to apologize.
 
+Megan: Oh God

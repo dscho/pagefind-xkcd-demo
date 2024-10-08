@@ -6,7 +6,10 @@ alt: >-
   Markets have been rocked by a second day of uncertainty after someone set up a giant Ouija board on the NYSE wall controlled collectively by the movement of the stock tickers.
 img: https://imgs.xkcd.com/comics/marketwatch.png
 ---
-[[A reporter delivers the news, with a graph behind her indicating the performance of the Dow Jones Industrial Average, behaving strangely.  The news program is labeled "Marketwatch"]]
+[Blondie as a news anchor reports on the day's price swings in the DOW. To the left of her is a chart showing how the index suddenly went from "random" to tracing out Washington DC's skyline starting with the Lincoln Memorial, then the obelisk of the Washington Monument and finally the United States Capitol. After that the index goes back to normal "randomness". Two words are written at the top of the screen to the left and right:]
 
-Reporter:  Wild swings on the markets today as investors noticed the Dow was tracing out a silhouette of the D.C. Skyline, and everyone got too weirded out to break the pattern until they finished the Capitol Building.
+MarketWatch
 
+DJIA
+
+Blondie: Wild swings on the markets today as investors noticed the DOW was tracing out a silhouette of the DC skyline, and everyone got too weirded out to break the pattern until they finished the capitol building.

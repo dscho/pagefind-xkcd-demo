@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/machine_learning.png
 ---
 [Cueball Prime holds a canoe paddle at his side and stands on top of a "big pile of linear algebra" containing a funnel labeled "data" and box labeled "answers". Cueball II stands to the left side of the panel.)]
 
-Cueball II: This is your machine learning system?
+Cueball II: <i>This</i> is your machine learning system?
 
 Cueball Prime: Yup! You pour the data into this big pile of linear algebra, then collect the answers on the other side.
 

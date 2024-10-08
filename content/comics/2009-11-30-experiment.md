@@ -6,35 +6,36 @@ alt: >-
   The other two are still lost on the infinite plane of uniform density.
 img: https://imgs.xkcd.com/comics/experiment.png
 ---
-[[Darkness.]]
+[Darkness.]
 
-[[Someone is standing next to a laptop, looking groggy.]]
+[Cueball is standing next to a laptop, looking groggy.]
 
-Person: Ugh ...
+Cueball: Ugh...
 
-Person: What happened?
+Cueball: What happened?
 
-Person: Where am I?
+[Cueball begins to regain some awareness, with his speech eventually fading out.]
 
-<<FWOOOOOOSH>>
+Cueball: Where am I?
 
-Person: Help! Someone help me--
+*FWOOOOOOSH*
 
-[[His speech fades out into nothing.]]
+Cueball: Help! Someone help me (unintelligible speech due to loss of air in dome)
 
-[[He holds his hands to his mouth.]]
+[Cueball holds his hands to his mouth.]
 
-[[He looks shocked.]]
+[Cueball looks shocked.]
 
-[[He tries to run, but has no traction against the ground.]]
+[Cueball tries to run, but has no traction against the ground.]
 
-[[He falls over.]]
+[Cueball falls down.]
 
-[[He lies prone.]]
+[Cueball lies prone and motionless.]
 
-[[Hat guy and hat girl are watching this scene from outside the room. He is holding a clipboard.]]
+[Black Hat and Danish watching from outside the dome, with Black Hat holding a clipboard as if to take notes.]
 
-Hat Guy: Huh. Looks like physics professors don't like working in frictionless vacuums after all.
+[Black Hat and Danish outside the dome. Black Hat is now holding the clipboard down to his side.]
 
-Hat Girl: They're such liars.
+Black Hat: Huh. Looks like physics professors don't like working in frictionless vacuums after all.
 
+Danish: They're such liars.

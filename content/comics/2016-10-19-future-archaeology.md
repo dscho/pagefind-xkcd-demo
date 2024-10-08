@@ -12,7 +12,7 @@ Megan: Since you're from the future, do you know who wins the election?
 
 Sphere: Haven't the faintest idea. Hardly any text has been recovered from your era, so we know little about your history and culture.
 
-Sphere: We're mostly here for the spiders, anyway.
+Sphere: <small>We're mostly here for the spiders, anyway. </small>
 
 [A close-up of the Sphere, still depicted as a black sphere, but not perfectly round at this zoom level and also clearly with some white dots in the dark area. It is still surrounded by six narrow rays with irregular dots between the rays.]
 

@@ -6,43 +6,146 @@ alt: >-
   Remember, meteors always hit the tallest object around.
 img: https://imgs.xkcd.com/comics/meteor_showers.png
 ---
-The xkcd guide to meteor showers
+[A list of 16 meteor showers, with a caption above, labels on the three columns and then every other row in gray, beginning with a gray row beneath the line below the column labels.]
 
-((This panel is a table with candy-cane shading. The three columns are "Name", "Peak", and "Notes". It is given here in a |-delimited form.))
+{| border="1" cellpadding="1" cellspacing="1" class="wikitable" style="width: 60%; text-align: left;"
 
-Name | Peak | Notes
+!colspan="3"|The <big><big>xkcd guide</big></big> to <big><big>meteor showers</big></big>
 
-Quadrantids | January 4th | Bring pets inside during peak activity
+|-
 
-Tricuspids | January 21st | Not viewable in region 2 countries
+|**Name**
 
-Centaurids | February 6th | Too faint to see without going outside
+|**Peak**
 
-Beta Aquariids | February 10th | Inverted shower converges toward Aquarius instead of radiating away
+|**Notes**
 
-Chelyabids | February 15th | Only one meteor per shower, but it's big. 
+|-
 
-Lyrids | April 22nd | Meteors sometimes scream
+|Quadrantids
 
-Daytime Zeta Perseids | June 9th | Likely a NASA hoax
+|January 4<sup>th</sup>
 
-June Boötids | June 27th | 50
+|Bring pets inside during peak activity
 
-50 mix of meteors and shooting stars
+|-
 
-Southern Delta Aquariids | July 19th | Meteors very bright, but stationary
+|Tricuspids
 
-Dromaeosaurids | June 22nd | Fast, highly intelligent, can open doors
+|January 21<sup>st</sup>
 
-Perseids | August 12th | Instead of falling from sky, meteors erupt from ground
+|Not viewable in region 2 countries
 
-Tau Pyramids | August 15th | Visible even when eyes are closed
+|-
 
-Draconids | October 8th | Very slow, but follow you if you run
+|Centaurids
 
-Orionids | October 21st | Entire shower happens at once
+|February 6<sup>th</sup>
 
-Leonids | November 17th | In 1966, unusually active Leonid shower killed god
+|Too faint to see without going outside
 
-Geminids | December 13th | Can be deflected with tennis rackets
+|-
 
+|Beta Aquariids
+
+|February 10<sup>th</sup>
+
+|Inverted shower converges toward Aquarius instead of radiating away
+
+|-
+
+|Chelyabids
+
+|February 15<sup>th</sup>
+
+|Only one meteor per shower, but it's big.
+
+|-
+
+|Lyrids
+
+|April 22<sup>nd</sup>
+
+|Meteors sometimes scream
+
+|-
+
+|Daytime Zeta Perseids
+
+|June 9<sup>th</sup>
+
+|Likely a NASA hoax
+
+|-
+
+|June Boötids
+
+|June 27<sup>th</sup>
+
+|50/50 mix of meteors and shooting stars
+
+|-
+
+|Southern Delta Aquariids
+
+|July 19<sup>th</sup>
+
+|Meteors very bright, but stationary
+
+|-
+
+|Dromaeosaurids
+
+|July 22<sup>nd</sup>
+
+|Fast, highly intelligent, can open doors
+
+|-
+
+|Perseids
+
+|August 12<sup>th</sup>
+
+|Instead of falling from sky, meteors erupt from ground
+
+|-
+
+|Tau Pyramids
+
+|August 15<sup>th</sup>
+
+|Visible even when eyes are closed
+
+|-
+
+|Draconids
+
+|October 8<sup>th</sup>
+
+|Very slow, but follow you if you run
+
+|-
+
+|Orionids
+
+|October 21<sup>st</sup>
+
+|Entire shower happens at once
+
+|-
+
+|Leonids
+
+|November 17<sup>th</sup>
+
+|In 1966, unusually active Leonid shower killed God
+
+|-
+
+|Geminids
+
+|December 13<sup>th</sup>
+
+|Can be deflected with tennis rackets
+
+|}

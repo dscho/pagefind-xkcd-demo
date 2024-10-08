@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/apple_growers.png
 ---
 [Beret Guy and Cueball stand on either side of Megan with her hair unkempt. They stand behind a lectern with an image of an apple on the front of it. Unreadable text is written on both side of the apple in two rows.]
 
-Megan: *Ahem*
+Megan: \*Ahem\*
 
 Megan: The state apple-growers' association has decided to formally call on President Donald Trump to resign.
 
@@ -34,4 +34,4 @@ Ponytail (off-panel): Do you have any apple-related announcements at all?
 
 Megan: Uh, apples are great. Best fruit. Everyone should buy 1,000 of them.
 
-Megan: We're a little distracted right now, okay??
+Megan: ***We're a little distracted right now, okay??***

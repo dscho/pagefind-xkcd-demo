@@ -6,21 +6,21 @@ alt: >-
   Asimov's Cosmic AC was created by linking all datacenters through hyperspace, which explains a lot. It didn't reverse entropy--it just discarded the universe when it reached end-of-life and ordered a new one.
 img: https://imgs.xkcd.com/comics/datacenter_scale.png
 ---
-[Zoom in on a woman with a bun holding her hand palm up in front of her taking to people off-panel right.]
+[Zoom in on Hairbun holding her hand palm up in front of her taking to people off-panel right.]
 
-Woman with a bun: RAID controllers don't make sense at our scale; everything is redundant at higher levels. When a drive fails, we just throw away the whole machine.
+Hairbun: RAID controllers don't make sense at our scale; everything is redundant at higher levels. When a drive fails, we just throw away the whole machine.
 
-[In this frame-less panel it is revealed that the woman with a bun talked to Cueball and Ponytail who is looking her way.]
+[In this frame-less panel it is revealed that Hairbun talked to Cueball and Ponytail who is looking her way.]
 
 Cueball: Machine? We throw away whole racks at a time.
 
-Ponytail: Yeah, who replaces one server?
+Ponytail: Yeah, who replaces *one server*?
 
-[Hairy has appeared from the left and holds one hand palm up towards the other three where also the woman with a bun has turned towards him.]
+[Hairy has appeared from the left and holds one hand palm up towards the other three where also Hairbun has turned towards him.]
 
 Hairy: We just replace whole rooms at once. At our scale, messing with racks isn't economical.
 
-Woman with a bun: Wow.
+Hairbun:  Wow.
 
 Cueball: Like Google!
 

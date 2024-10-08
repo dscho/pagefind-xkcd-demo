@@ -24,8 +24,8 @@ Cueball: Evolution just loves making crabs, I guess!
 
 Megan: Apparently!
 
-[Two smaller beat panels are drawn between the previous and next normal sized panels. The first is a bit lower than the top of the normal panels, and is partly lying in over the other small panel, which is below and to the right of the first. The top panel shows Megan continuing to walk along. The second shows Megan stopping and turning to look back.]
+[Two smaller beat panels are drawn between the previous and next normal sized panels. The first is a bit lower than the top of the normal panels, and is partly lying in over the other small panel, which is below and to the right of the first. The top panel shows Megan continuing to walk along.  The second shows Megan stopping and turning to look back.]
 
-[Megan has turned completely and is looking down at a small crab scuttling along on the ground where Cueball was before.]
+[Megan has turned completely and is looking down at a small crab scuttling along on the ground where Cueball was before, implying he has turned into a crab.]
 
 Megan: Oh no

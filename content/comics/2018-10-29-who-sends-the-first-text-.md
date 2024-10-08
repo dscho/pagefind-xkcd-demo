@@ -6,7 +6,7 @@ alt: >-
   I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know.
 img: https://imgs.xkcd.com/comics/who_sends_the_first_text.png
 ---
-Who sends the first text more often?
+**Who sends the first text more often?**
 
 [A line graph with a segmented bar underneath shows a 50/50 marker in the middle while the left end is labeled "I text first 100% of the time" whereas the right end is labeled "They text first 100% of the time".]
 
@@ -18,7 +18,7 @@ People who I think of as friends but secretly worry that they're just politely p
 
 [Below this a text is shown for the first part:]
 
-...definitely just politely putting up with me
+...***definitely*** just politely putting up with me
 
 [In the middle is a big part:]
 

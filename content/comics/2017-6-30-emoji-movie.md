@@ -10,8 +10,8 @@ img: https://imgs.xkcd.com/comics/emoji_movie.png
 
 Megan: Did you see there's an emoji movie?
 
-Cueball: If they have to make a movie about a section of Unicode, it's not the worst choice...
+Cueball: If they have to make a movie about a section of Unicode, it's not the ***worst*** choice...
 
-Megan: They should do a whole series. I would watch the Combining Diacritical Marks movie.
+Megan: They should do a whole series. I would watch the *Combining Diacritical Marks movie*.
 
-Cueball: That series would have way too many characters.
+Cueball: That series would have ***way*** too many characters.

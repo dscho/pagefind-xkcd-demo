@@ -3,118 +3,235 @@ date: 2013-08-19
 title: "Exoplanet Names"
 num: 1253
 alt: >-
-  If you have any ideas, I hear you can send them to iaupublic@iap.fr.
+  If you have any ideas, I hear you can send them to <nowiki>iaupublic@iap.fr</nowiki>.
 img: https://imgs.xkcd.com/comics/exoplanet_names.png
 ---
-August 2013: The Internation Astronomical Union decides to start naming exoplanets, and - for the first time ever - asks for suggestions from the general public. 
+[Text above the first frame of the comic:]
+
+August 2013:
+
+The International Astronomical Union
+
+decides to start naming exoplanets,
+
+and—for the first time ever—asks for
+
+suggestions from the general public.
 
 They immediately regret this decision.
 
-[[Four figures stand around looking at a computer screen. One is facepalming.]]
+[Ponytail is facepalming while Megan and Cueball are looking at a computer screen on a desk. Hairbun points to the screen.]
 
-Man: Can't you filter out the worst ones? 
+Cueball‏‎: Can't you filter out the worst ones?
 
-Woman: This is *after* the filter!
+Hairbun: This is ***after*** the filter!
 
-((The list of suggestions is given as a table with three columns: "Star", "Planet", "Suggested Name". Here, the columns are given in a |-delimited form.))
+[Below is a table showing the list of planet names as seen on the computer screen with gray background around the edges of the table.]
 
-Star | Planet | Suggested Name
+[The table is in two separate columns, but there is only headings over the left, so the right column is a direct continuation of the left. In the table it is mentioned when the right column begins. There is a small arrow pointing from the word "Planet" down to the second column of the table. The headings in the comic are not inside the table as they are here below. The text at the bottom of the left list seems to continue on below, at least the last entry is cut below the middle, although it is still easy to read. Similarly the text at the top right list, seems to continue from above, the top entry missing the very top of the text. This is as if the list is much longer and here is just shown part of the list. To further indicate this the first entry in the right list begins at "c" instead of at "b" which is else the case for all other instances.]
 
-Gliese 667C | b | Space planet
+{| class="wikitable"
 
-Gliese 667C | c | Pilf
+! Star !! Planet !! Suggested Name
 
-Gliese 667C | d | A star
+|-
 
-Gliese 667C | e | e'); DROP TABLE planets; --
+| rowspan=7 |Gliese 667||b||Space Planet
 
-Gliese 667C | f | Blogosphere
+|-
 
-Gliese 667C | g | Blogodrome
+|c||PILF
 
-Gliese 667C | h | Earth
+|-
 
-Tau Ceti | b | Sid Meier's Tau Ceti B
+|d||A Star
 
-Tau Ceti | c | Giant dog planet
+|-
 
-Tau Ceti | d | Tiny dog planet
+|e||e'); DROP TABLE PLANETS;--
 
-Tau Ceti | e | Phil plainet
+|-
 
-Tau Ceti | f | Unicode snowman
+|f||Blogosphere
 
-Gliese 832 | b | Asshole Jupiter
+|-
 
-Gliese 581 | b | Waist-deep cats
+|g||Blogodrome
 
-Gliese 581 | c | Planet #14
+|-
 
-Gliese 581 | d | Ballderaan
+|h||Earth
 
-Gliese 581 | e | Eternia prime
+|-
 
-Gliese 581 | f | Taupe Mars
+| rowspan=5 |Tau Ceti||b||Sid Meier's Tau Ceti B
 
-Gliese 581 | g | Jelly-filled planet
+|-
 
-Epsilon Eridani | b | Skydot
+|c||Giant Dog Planet
 
-Epsilon Eridani | c | Laser noises
+|-
 
-Gliese 176 | b | Pandora
+|d||Tiny Dog Planet
 
-Gliese 176 | c | Pantera
+|-
 
-Kepler-61 | b | Goldenpalace.com
+|e||Phil Plainet
 
-Upsilon Andromidae | c | Stampy
+|-
 
-Upsilon Andromidae | d | Moonchild
+|f||Unicode Snowman
 
-Upsilon Andromidae | e | Ham sphere
+|-
 
-HD 20794 | b | Cosmic sands
+|Gliese 832||b||Asshole Jupiter
 
-HD 20794 | c | Legoland
+|-
 
-HD 20794 | d | Planet with arms
+| rowspan= 6|Gliese 581||b||Waist-deep Cats
 
-HD 85512 | b | Lax morality
+|-
 
-HD 40307 | b | Good planet
+|c||Planet #14
 
-HD 40307 | c | Problemland
+|-
 
-HD 40307 | d | Slickle
+|d||Ballderaan
 
-HD 40307 | e | Spare parts
+|-
 
-HD 40307 | f | New Jersey VI 
+|e||Eternia Prime
 
-HD 40307 | g | Hod do I join the IAU
+|-
 
-Gliese 163 | b | Neil Tyson's mustache
+|f||Taupe Mars
 
-Gliese 163 | c | help@gmail.com
+|-
 
-Gliese 163 | d | Hair-covered planet
+|g||Jelly-Filled Planet
 
-Pi Mensae | b | Moon holder
+|-
 
-HD 189733 | b | Permadeath
+| rowspan= 2|Epsilon Eridani||b||Skydot
 
-Kepler-22 | b | Blue ivy
+|-
 
-Kepler-3284 | b | Blainsley
+|c||Laser Noises
 
-Kepler-3255 | b | Unicorn thresher
+|-
 
-Kepler-2418 | b | Spherical Discworld
+| rowspan= 2|Gliese 176||b||Pandora
 
-Kepler-1686 | b | Emergency backup Earth
+|-
 
-Kepler-3010 | b | Feeeooooooooop
+|c||Pantera
 
-Kepler-4742 | b | Liz
+|-
 
+|Kepler-61||b||GoldenPalace.com
+
+|-
+
+! colspan=3 | [Below is the right column.]
+
+|-
+
+| rowspan= 3|Upsilon Andromidae||c||Stampy
+
+|-
+
+|d||Moonchild
+
+|-
+
+|e||Ham Sphere
+
+|-
+
+| rowspan= 3|HD 20794||b||Cosmic Sands
+
+|-
+
+|c||Legoland
+
+|-
+
+|d||Planet with Arms
+
+|-
+
+|HD 85512||b||Lax Morality
+
+|-
+
+| rowspan= 6|HD 40307||b||Good Planet
+
+|-
+
+|c||Problemland
+
+|-
+
+|d||Slickle
+
+|-
+
+|e||Spare Parts
+
+|-
+
+|f||New Jersey VI
+
+|-
+
+|g||How Do I Join the IAU
+
+|-
+
+| rowspan= 3|Gliese 163||b||Neil Tyson's Mustache
+
+|-
+
+|c||help@gmail.com
+
+|-
+
+|d||Hair-Covered Planet
+
+|-
+
+|Pi Mensae||b||Moon Holder
+
+|-
+
+|HD 189733||b||Permadeath
+
+|-
+
+|Kepler-22||b||Blue Ivy
+
+|-
+
+|Kepler-3284||b||Blainsley
+
+|-
+
+|Kepler-3255||b||Unicorn Thresher
+
+|-
+
+|Kepler-2418||b||Spherical Discworld
+
+|-
+
+|Kepler-1686||b||Emergency Backup Earth
+
+|-
+
+|Kepler-3010||b||Feeeoooooooop
+
+|-
+
+|Kepler-442||b||Liz
+
+|}

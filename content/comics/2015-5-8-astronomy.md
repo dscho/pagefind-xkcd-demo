@@ -6,11 +6,10 @@ alt: >-
   Astrobiology is held back by the fact that we're all too nervous to try to balance on the ladder while holding an expensive microscope.
 img: https://imgs.xkcd.com/comics/astronomy.png
 ---
-[[A figure is staring through a large telescope pointed towards the heavens. A canvas of thousands of stars fills the sky.]]
+[In front of a starry black sky, Megan looks at the stars through a telescope about twice her size, touching it at the base. She remains in the exact same position through all four panels.]
 
-[[A figure in a beret walks up with a ladder and a magnifying glass. The astronomer continues to gaze into the optic, unfailingly alert.]]
+[Beret Guy enters the panel holding a ladder and a magnifying glass.]
 
-[[The figure sets up and steadies the ladder as the astronomer continues to observe through the scope.]]
+[Beret Guy places the ladder next to Megan and her telescope. The ladder stands like a triangle, is slightly larger than Megan, but smaller than the telescope.]
 
-[[Beret figure climbs the ladder, looks at the stars through the magnifying glass. The astronomer remains completely unmoved.]]
-
+[Beret guy climbs to the top of the ladder, and looks at the stars through a magnifying glass.]

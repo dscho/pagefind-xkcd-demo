@@ -6,19 +6,18 @@ alt: >-
   "Oh, you're using their Chrome APP, not their Chrome EXTENSION. They're very similar but one handles window creation differently." is a thing I hope I can stop saying soon.
 img: https://imgs.xkcd.com/comics/troubleshooting.png
 ---
-[[Two characters sit at a computer. The hair'd one sits at the controls, and the bald one hovers impatiently behind.]]
+[Hairy sitting at a desk with laptop, with Cueball standing behind him.]
 
-Hair'd character: Wait, why can't I click anywhere?
+Hairy: Wait, why can't I click anywhere?
 
-Bald character: I don't... ugh, it opened a dialog box offscreen.
+Cueball: I don't... Ugh, It opened a dialog box offscreen.
 
-Hair'd character: Why is that even POSSIBLE?
+Hairy: Why is that even *possible?*
 
-Bald character: It really shouldn't be. But you can fix it by changing your screen resolution to trigger a window cleanup.
+Cueball: It really shouldn't be. But you can fix it by changing your screen resolution to trigger a window cleanup.
 
-Hair'd character: SERIOUSLY?
+Hairy: *Seriously?*
 
-Bald character: I know, I know...
+Cueball: I know, I know...
 
-Caption: To be honest, I can't WAIT for the day when all my stupid computer knowledge becomes obsolete.
-
+To be honest, I can't *wait* for the day when all my stupid computer knowledge becomes obsolete.

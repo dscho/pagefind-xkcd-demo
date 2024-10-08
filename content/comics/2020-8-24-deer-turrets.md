@@ -32,10 +32,10 @@ Black Hat: Another mistake.
 
 Black Hat: But that's okay.
 
-Off-Panel: Gallop gallop
+Off-Panel: *Gallop gallop*
 
-Audience member: Is it really?!
+Audience member: *Is it really?!*
 
 Black Hat: I think it's fine.
 
-Deer: Pew! Pew!
+Deer: *Pew! Pew!*

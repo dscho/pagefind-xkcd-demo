@@ -6,25 +6,28 @@ alt: >-
   Click and drag.
 img: https://imgs.xkcd.com/comics/click_and_drag.png
 ---
-[[A character is dangling from a balloon.  All text appears in rectangular bubbles.]]
+[This transcript only covers the first four panels as they are shown here above (i.e. before you click and drag).]
 
-Character: From the stories
+[Cueball is narrating the story, all the text is written in boxes above and below him without speech lines connecting to him.]
 
-Character: I expected the world to be sad
+[Cueball is floating by holding onto a balloon with one hand.]
 
-Character: And it was
+From the stories
 
-Character: And I expected it to be wonderful.
+I expected the world to be sad
 
-Character: It was.
+And it was
 
-((The last panel, unusually, is infinitely large, and this transcript is not wide enough to contain it.  The part you can see in a normal browser window goes as follows.))
+[Cueball has grabbed hold of the balloon with both hands.]
 
-[[ The same character is dangling above the ground, next to an intricately drawn tree with no leaves. ]]
+And I expected it to be wonderful.
 
-Character: I just didn't expect it to be so 
+[The wind picks up and blows Cueball to the right.]
 
-big
+It was.
 
-.
+[Full width panel where the scene opens up. You see Cueball is about a tree's-height from the ground. To the right there is a tall tree with no leaves on it and a broken limb. Below him are some rocks and grass. This is the initial view of the world, that can be clicked and dragged. It is part of tile named 1 North 1 East.]
 
+I just didn't expect it to be so *big*.
+
+[The rest of the comic is transcribed below in the [[1110: Click and Drag#List of details and references (with transcript)|List of details and references]] section.]

@@ -10,46 +10,54 @@ img: https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png
 
 Commonly Mispronounced Equations
 
-Row 1
+**Row 1**
 
-F = G m₁m₂/r²
-FUH-JAM-ER
+F = G m₁m₂/r² <br>
 
-E = mc²
-EM-CAH-TOO
+FUH-***JAM***-ER
 
-a² + b² = c²
-AT-BOOT-COOT
+E = mc² <br>
 
+***EM***-CAH-TOO
 
-Row 2
+a² + b² = c² <br>
 
-A = πr²
-APP-ER-TOO
+AT-***BOOT***-COOT
 
-H = −Σpᵢlog pᵢ
-HA-SPLOG-PEE
+**Row 2**
 
-PV = nrt
-PAV-NURT
+A = πr² <br>
 
+***APP***-ER-TOO
 
-Row 3
+H = −Σpᵢlog pᵢ <br>
 
-eiπ = −1
-EYE-PIN
+HA-***SPLOG***-PEE
 
-F = ma
-FEE-MAH
+PV = nrt <br>
 
-∂²u/(∂t²) = c ∂²u/(∂x²)
-DOOT CAH-DOOX
+***PAV***-NURT
 
+**Row 3**
 
-Row 4
+e<sup>iπ</sup> = −1 <br>
 
-f'(x) = limh→0 f(x+h) − f(x) / h
-FAX-LIM-OH FAX-UH-FOX
+***EYE***-PIN
 
-x = −b ± √(b² − 4ac) / (2a)
-ZA-BO-BA FAK-TOH-AH
+F = ma <br>
+
+***FEE***-MAH
+
+∂²u/(∂t²) = c ∂²u/(∂x²) <br>
+
+***DOOT*** CAH-***DOOX***
+
+**Row 4**
+
+f'(x) = lim<sub>h→0</sub> f(x+h) − f(x) / h <br>
+
+***FAX***-LIM-OH ***FAX***-UH-FOX
+
+x = −b ± √(b² − 4ac) / (2a) <br>
+
+ZA-***BO***-BA FAK-***TOH***-AH

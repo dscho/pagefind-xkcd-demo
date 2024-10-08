@@ -8,17 +8,17 @@ img: https://imgs.xkcd.com/comics/never_seen_star_wars.png
 ---
 [White Hat is facing Cueball while talking to him.]
 
-White Hat: You know the scene on the Death Star where–
+White Hat: You know the scene on the Death Star where&ndash;
 
-Cueball: Nah, I've never seen Star Wars.
+Cueball: Nah, I've never seen *Star Wars*.
 
 [Close-up of White Hat in a smaller panel.]
 
-White Hat: WHAT.
+White Hat: <big style="background:#000;color:#fff;">*WHAT.*</big>
 
 [White Hat and Cueball are still facing each other.]
 
-White Hat: ...How?!
+White Hat: *...How?!*
 
 Cueball: Uh, it was easy?
 
@@ -26,19 +26,19 @@ Cueball: It was literally the default option.
 
 [Close up of Cueball. White Hat is speaking off-panel.]
 
-White Hat: But... How did you–
+White Hat: But... How did you&ndash;
 
-Cueball: Not doing things is my superpower. I'm not doing an infinite number of things as we speak!
+Cueball: Not doing things is my superpower. I'm not doing an infinite number of things *as we speak!*
 
 [White Hat and Cueball are still facing each other.]
 
-White Hat: We have to watch it.
+White Hat: We *have* to watch it.
 
 Cueball: Nah, I'm good.
 
 [White Hat has turned away from Cueball and has his hands to his mouth to shout to people off-panel. Cueball has likewise turned away as he walks away and is speaking back over his shoulder.]
 
-White Hat: Hey everyone! This guy's never seen Star Wars!
+White Hat: *Hey everyone! This guy's never seen Star Wars!*
 
 Cueball: Listen, I gotta go.
 
@@ -48,9 +48,9 @@ Later...
 
 [Ponytail is looking down at her phone in her left hand while Cueball is facing her.]
 
-Ponytail: Wait, there's a new Star Wars?
+Ponytail: Wait, there's a new *Star Wars*?
 
-Cueball: Oh, I've nev–
+Cueball: Oh, I've nev&ndash;
 
 Cueball: ...yeah! Excited for it! Big fan.
 
@@ -66,6 +66,6 @@ Cueball: Sure does love eating Jedi.
 
 Ponytail: Haha, he sure does!
 
-Cueball (thinking): Phew.
+Cueball (thinking): *Phew.*
 
-Ponytail (thinking): Phew.
+Ponytail (thinking): *Phew.*

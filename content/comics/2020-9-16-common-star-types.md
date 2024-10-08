@@ -8,64 +8,64 @@ img: https://imgs.xkcd.com/comics/common_star_types.png
 ---
 [A chart, with ten colored circles representing stars of different colors and sizes. Each circle has a label, with a line going from the label to the circle. Below each label is a small description in smaller font. The text is listed from the top left. Above all the circles is the following heading:]
 
-Common star types
+<big>Common star types</big>
 
 [A small yellow star.]
 
 Yellow dwarf
 
-Warm, stable, slowly-growing
+<small>Warm, stable, slowly-growing</small>
 
 [An even smaller white star.]
 
 White dwarf
 
-Small, hot, dim
+<small>Small, hot, dim</small>
 
 [A very large red-orange star squishing the previous two stars into the corners of the chart.]
 
 Red giant
 
-Huge, cool, luminous
+<small>Huge, cool, luminous</small>
 
 [A small red star.]
 
 Red dwarf
 
-Small, cool, ancient, dim
+<small>Small, cool, ancient, dim</small>
 
 [An olive green, medium-sized star.]
 
 Green elf
 
-Old, diminishes into the west
+<small>Old, diminishes into the west</small>
 
 [A fairly large pale blue star.]
 
 Blue giant
 
-Large, hot, short-lived
+<small>Large, hot, short-lived</small>
 
 [A blue-green, medium-sized star.]
 
 Teal sphynx
 
-Cryptic, eternal
+<small>Cryptic, eternal</small>
 
 [A small silver-colored star.]
 
 Gray wizard
 
-Wise, powerful, mercurial
+<small>Wise, powerful, mercurial</small>
 
 [A tiny blue star.]
 
 Indigo banshee
 
-Bright, portentous, extremely loud
+<small>Bright, portentous, extremely loud</small>
 
 [A beige, medium-sized star.]
 
 Beige gorgon
 
-Dangerous to observe at optical wavelengths.
+<small>Dangerous to observe at optical wavelengths.</small>

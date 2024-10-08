@@ -6,15 +6,14 @@ alt: >-
   Einstein was WRONG when he said that provisional patent #39561 represented a novel gravel-sorting technique and should be approved by the Patent Office.
 img: https://imgs.xkcd.com/comics/einstein.png
 ---
-[[Two people sit in a restaurant.]]
+[Cueball and friend eating at a table.]
 
-Experimenter: I'm currently conducting an experiment which may prove Einstein wrong!
+Cueball: I'm currently conducting an experiment which may prove Einstein wrong!
 
 Friend: Ooh, exciting!
 
 1947:
 
-[[Einstein is walking with someone.]]
+[Einstein and Cueball walking.]
 
-Einstein: It's IMPOSSIBLE to find a good sandwich in this town.
-
+Einstein: It's *impossible* to find a good sandwich in this town.

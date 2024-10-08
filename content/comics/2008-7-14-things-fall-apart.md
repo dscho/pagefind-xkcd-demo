@@ -6,19 +6,26 @@ alt: >-
   'I'm nothing without you' is a fucked-up sentiment.
 img: https://imgs.xkcd.com/comics/things_fall_apart.png
 ---
-girl: I wonder about us.
+[Megan and Cueball are holding hands. The speech is in bubbles with arrows pointing towards the two. Not as usual with text just written above a line from the speaker.]
 
-boy: I love you.
+Megan: I wonder about us.
 
-girl: We don't have fun together.
+Cueball: I love you.
 
-boy: I love you.
+[Megan lets go of Cueball's hand. But he keeps his hand in the same position as before. Cueball's speech bubble covers the bottom of Megan's, indicating that he speaks partly over her sentence.]
 
-girl: it's like we're clinging to the "relationship" framework like it's all we got.
+Megan: We don't have fun together.
 
-boy: I love you
+Cueball: I love you.
 
-girl: who are you trying to reassur-
+[As Megan keeps her hands down, Cueball lifts his arm even more towards her. His speech bubble is covering the top part of his head, as well as the bottom of Megan's bubble.]
 
-boy: I love you I love you I love you I love you
+Megan: It's like we're clinging to the "relationship" framework like it's all we got.
 
+Cueball: I love you.
+
+[Megan leans back from Cueball as he leans towards her, one arm outstretched toward her. Cueball's speech bubble covers the lower right section of Megan's bubble, breaking her sentence off in the middle of her last word, clearly showing that he speaks in over her speech.]
+
+Megan: Who are you trying to reassur—
+
+Cueball: I love you I love you I love you I love you

@@ -3,22 +3,27 @@ date: 2009-11-09
 title: "Sympathy"
 num: 660
 alt: >-
-  Excellent recovery: ... which we could try to use to somehow save your original brother!
+  Excellent recovery:... which we could try to use to somehow save your original brother!
 img: https://imgs.xkcd.com/comics/sympathy.png
 ---
-[[A bereaved person and his friend are talking.]]
+Sympathy Tips for Physicists
 
-Bereaved: The moment my brother died, I felt a searing pain in my heart.
+[Cueball and friend are talking.]
+
+Friend: The moment my brother died, I felt a searing pain in my heart.
 
 Right:
 
-Friend: I'm so sorry.
+[Cueball places his hand on the friend's shoulder.]
+
+Cueball: I'm so sorry.
 
 Wrong:
 
-Friend: Was it instant, or was there a speed-of-light delay?
+Cueball: Was it instant, or was there a speed-of-light delay?
 
 Very Wrong:
 
-Friend: If it was instant, with the right arrangement of moving reference frames, we could use this to send signals back in time and violate causality! How many remaining siblings do you have?
+[Cueball thoughtfully puts his hand on his chin.]
 
+Cueball: If it was instant, with the right arrangement of moving reference frames, we could use this to send signals back in time and violate causality! How many remaining siblings do you have?

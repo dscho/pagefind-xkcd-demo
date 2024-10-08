@@ -6,19 +6,28 @@ alt: >-
   NO FATE BUT THE NARRATIVES WE IMPOSE ON LIFE'S RANDOM CHAOS TO DISTRACT OURSELVES FROM OUR EXISTENTIAL PLIGHT
 img: https://imgs.xkcd.com/comics/time_robot.png
 ---
-[[A figure with a shotgun runs into the scene and addresses a standing woman.]]
+[Cueball runs towards Megan with a shotgun in hand.]
 
-Figure: I'm from the future! You're being stalked by an unstoppable robotic assassin!
+Cueball: I'm from the future!
 
-[[We see a close-up of the figure.]]
+Cueball: You're being stalked by an unstoppable robotic assassin!
 
-Figure: Of course, in a sense, we're *all* being stalked by an unstoppable robot. A robot called *time*.
+[Close up of Cueball's head.]
 
-[[The figure looks at a ticking clock on the wall.]]
+Cueball: Of course, in a sense, we're *all* being stalked by an unstoppable robot.
 
-Figure: I see it in the mirror. I see wrinkles, grey hairs. I hear its metallic footsteps in the relentless rhythm of the ticking clock. 
+Cueball: A robot called *time*.
 
-[[We pan back out to see both figures.]]
+[Cueball looking at a clock.]
 
-Figure: Anyway, uhh come with me if you want to live for a while. You'll still die eventually. We all will.
+Cueball: I see it in the mirror. I see wrinkles, grey hairs.
 
+Cueball: I hear its metallic footsteps in the relentless rhythm of the ticking clock.
+
+[Cueball reaches out to Megan.]
+
+Cueball: Anyway, uhh - come with me if you want to live for a while.
+
+Cueball: You'll still die eventually.
+
+Cueball: We all will.

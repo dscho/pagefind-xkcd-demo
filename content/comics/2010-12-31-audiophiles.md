@@ -6,33 +6,30 @@ alt: >-
   For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers.
 img: https://imgs.xkcd.com/comics/audiophiles.png
 ---
-[[Two people are talking by telephone.  The first two panels are split diagonally.  The first person is at a store, and the second is consulting with them.]]
+[Cueball and Megan are talking over the telephone. The first two panels are split diagonally. Cueball is at a store, holding a box, and Megan is consulting with him.]
 
-[[The first person has a small box.]]
+Cueball: Do we have an RCA-to-3.5mm female-female plug? I'm getting some speakers for the new Xbox, since the monitor doesn't have any.
 
-Person: Do we have an RCA-to-3.5mm female-female plug? I'm getting some speakers for the new xBox, since the monitor doesn't have any.
+Megan: Are they crappy laptop speakers? *Ugh.*
 
-Second Person: Are they crappy laptop speakers?
+[Cueball is standing next to a sale rack.]
 
-[[The person is moving away from a sale rack.  It says "Sale!!" several times.]]
+Cueball: Does it matter? I just want to hear if I'm getting shot at, not savor every detail of a beautiful musical soundscape.
 
-Person: Does it matter? I just want to hear if I'm getting shot at, not saor eery detail of a beautiful musical soundscape.
+Megan: You've never *heard* a beautiful musical soundscape. You listen to 96kbps flv rips from YouTube.
 
-Second Person: You've never 
+[Megan is walking.]
 
-heard
+Cueball: Whatever. I'm just going to get these $20 speakers. Five watts will be plenty.
 
- a beautiful musical soundscape. You listen to 96kbps flv rips from YouTube.
+Megan: Five watts for a living room sound system? Is that a joke?
 
-Person: Whatever.  I'm just going to get these $20 speakers.  Five watts will be plenty.  
+[Zoomed in panel on Cueball]:
 
-Second Person: Five watts for a living room sound system?  Is that a joke?
+Cueball: No, this is a joke: How many audiophiles does it take to change a lightbulb?
 
-Person: No, this is a joke: How many audiophiles does it take to change a lightbulb?
+Megan: How many?
 
-Second Person: How many?
+Cueball: I'll tell you later—you wouldn't appreciate the punchline over this 12kbps cell phone codec.
 
-Person: I'll tell you later - you wouldn't appreciate the punchline over this 12kbps cell phone codec.
-
-<<click>>
-
+*click*

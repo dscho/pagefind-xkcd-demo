@@ -3,26 +3,25 @@ date: 2008-05-05
 title: "Forks and Spoons"
 num: 419
 alt: >-
-  Their biggest mistake was bringing Rachael Ray and Emeril to tour the lab and sign off on the project.  That's when Spielberg caught wind of it.
+  Their biggest mistake was bringing Rachael Ray and Emeril to tour the lab and sign off on the project. That's when Spielberg caught wind of it.
 img: https://imgs.xkcd.com/comics/forks_and_spoons.png
 ---
-[[Presenter with pointer stick]] Presenter: A spoon crossed with a fork is a spork.
+Megan: A spoon crossed with a fork is a spork.
 
-Off-panel presenter's voice: Our lab has successfully crossed a spork with a spoon. [[Diagram showing the fractions of fork and spoon in each item.]]
+Off-panel Megan's voice: Our lab has successfully crossed a <u>spork</u> with a spoon. [Diagram showing the fractions of fork and spoon in each item.]
 
 [Chart showing possible combinations of spoons a forks.]
 
-[[Presenter in front of audience]] 
+Megan, facing audience: With your funding, we could create hybrids in proportions corresponding to *any binary fraction*.
 
-Presenter: With your funding, we could create hybrids in proportions corresponding to any binary fraction.
-
-[[Fork-Spoon Spectrum]]
+[Fork-Spoon Spectrum.]
 
 Audience member: You're toying with powerful forces here.
 
-Presenter: We know what we're doing.
+Megan: We know what we're doing.
 
-Panel Title: Two weeks later:
+Two weeks later:
 
-[[Picture of a destroyed lab with two dead bodies, blood everywhere and a spoon-fork hybrid hopping away.]]
+[Picture of a destroyed lab, with a scientific poster and lab equipment. Two dead bodies, blood everywhere, and a spoon-fork hybrid hopping away can be seen.]
 
+*Hop hop hop*

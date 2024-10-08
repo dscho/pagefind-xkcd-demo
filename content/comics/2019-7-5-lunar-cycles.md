@@ -6,8 +6,6 @@ alt: >-
   The Antikythera mechanism had a whole set of gears specifically to track the cyclic popularity of skinny jeans and low-rise waists.
 img: https://imgs.xkcd.com/comics/lunar_cycles.png
 ---
-
-
 Understanding lunar cycles
 
 Nodal precession
@@ -36,6 +34,8 @@ Lunar shape
 
 Lunar mood
 
-[A wave with long wavelength with an arrow pointing to the minimum labelled 'Bad' and an arrow pointing to the maximum labelled 'Good'. To the right are four emojis: :), :|, :(, :|]
+[A wave with long wavelength with an arrow pointing to the minimum labelled 'Bad' and an arrow pointing to the maximum labelled 'Good'. To the right are four emojis: :), :|, :(, :|]
 
 [A superimposed graph of all the above waves. Different points on the graph are labelled: Harvest moon, Supermoon, Blue moon, Skinny Jeans popular, Super blood moon, Golden age of TV, Dire moon, Pork moon, Two week window in which astrology works, Total eclipse of the sea.]
+
+[[Category:Astronomy]]

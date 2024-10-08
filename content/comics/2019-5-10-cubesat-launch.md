@@ -26,7 +26,7 @@ Megan (off-panel): Perfect!
 
 [A huge cloud is emitted from the bottom of the rocket as it lift off the ground every so slightly.]
 
-Foom
+*Foom*
 
 [As the rocket is taking off it begins tilting in the direction of the string. Two off-panel voices come from Megan and Cueball's direction.]
 
@@ -38,13 +38,13 @@ Off-panel voice #2: Hey, move your leg.
 
 Megan: Ugh, let go, I can get-
 
-Cueball: -No, lift your other arm-
+Cueball: -No, lift your *other* arm-
 
-[Three slim panels follow, one above the others, of the rocket, with string, tilting increasingly to the right and down as if pulled by the string. In the final panel of the three the tip of the rocket is now further than where the string goes down to the bottom of the panel. So the string now goes back left from where it is attached to the rocket, rather than to the right as in all previous panels.]
+[Three slim panels follow, one above the others, of the rocket, with string, tilting increasingly to the right and down as if pulled by the string. In the final panel of the three the tip of the rocket is now further than where the string goes down to the bottom of the panel. So, the string now goes back left from where it is attached to the rocket, rather than to the right as in all previous panels.]
 
-[Megan entangled in the string with the cube in her hand and Cueball hanging below her holding on to the string, are flying through the air, as the string goes up right, and with small lines drawn above it to indicate it is moving to the right. On the ground Science Girl holds a hand to her mouth looking up at them, while a guy looking like Cueball runs away with hands over his head.]
+[Megan entangled in the string with the cube in her hand and Cueball hanging below her holding on to the string, are flying through the air, as the string goes up right, and with small lines drawn above it to indicate it is moving to the right. On the ground, Jill holds a hand to her mouth looking up at them, while a guy looking like Cueball runs away with hands over his head.]
 
-Megan and Cueball (screaming): Aaaaaa
+Megan and Cueball (screaming): *Aaaaaa*
 
 [A disheveled looking Megan and Cueball both with plaster casts on their arms stand before four people, Hairbun, another Cueball like guy, Ponytail and Hairy. They are the members of an interview panel and are sitting behind a desk like table with a large label on its front:]
 

@@ -3,18 +3,15 @@ date: 2009-01-16
 title: "Contingency Plan"
 num: 531
 alt: >-
-  Kids are genetic experiments.  We're just experimenting responsibly!
+  Kids are genetic experiments. We're just experimenting responsibly!
 img: https://imgs.xkcd.com/comics/contingency_plan.png
 ---
-[[A woman and a man holding a green bottle are standing beside a crib. Another green bottle is lying on the floor.]]
+[Megan and Cueball holding a green bottle are standing beside a crib. Another green bottle is lying on the floor.]
 
-Woman: More sugary drinks? Are you 
+Megan: More sugary drinks? Are you trying to give her diabetes?
 
-trying
+Cueball: Yeah - then we keep her supplied with insulin unless things go wrong.
 
- to give her diabetes?
+[Caption below the frame:]
 
-Man: Yeah - then we keep her supplied with insulin unless things go wrong.
-
-Narration: I take the Jurassic Park approach to parenting.
-
+I take the *Jurassic Park* approach to parenting.

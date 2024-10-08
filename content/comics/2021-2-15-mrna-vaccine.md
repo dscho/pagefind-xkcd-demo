@@ -54,53 +54,53 @@ Cueball: We finished building the Princess's big metal orb thing.
 
 Voice from Death Star: Do you know if she wants us to park it somewhere, or—
 
-Voices from the planet: AAAAAA!!!
+Voices from the planet: ***AAAAAA!!!***
 
 [A view from the planet's surface with the Death Star in the sky. 3 Cueballs, a Megan-like character, and Ponytail are on the planet's surface.]
 
 Voice from Death Star: ...Is everything ok?
 
-Cueball 1: AAAAAAA!
+Cueball 1: ***AAAAAAA!***
 
-Cueball 2: Imperial battle station!!!
+Cueball 2: *Imperial battle station!!!*
 
-Ponytail & Cueball 3: AAAAAAAAAA
+Ponytail & Cueball 3: *AAAAAAAAAA*
 
-Offscreen voice: Red Alert Red Alert
+Offscreen voice: *Red Alert Red Alert*
 
 [Another view from the planet's surface. There is some type of military encampment surrounded by an open field, with trees and mountains in the background. People are running around on the field, which also contains several currently grounded craft and several flying craft streaming toward the Death Star.]
 
 Death Star voice: Hello?
 
-Generic field voices: Get the fighters in the air!
+Generic field voices: *Get the fighters in the air!*
 
-Red Alert
+*Red Alert*
 
-Blow it up! Blow it up!
+*Blow it up! Blow it up!*
 
-AAAAA
+*AAAAA*
 
-Generic tree voices: AAAAAaa
+Generic tree voices: ***AAAAAaa***
 
-Generic spacecraft voices: Kill it kill it kill it kill it kill it kill it
+Generic spacecraft voices: *Kill it kill it kill it kill it kill it kill it*
 
 [A zoomed-in view of the outside of the Death Star, which is accumulating light damage. Numerous spacecraft are shooting at it; various explosions occur on the Death Star's surface and in space nearby.]
 
 Death Star voice: Hello?
 
-Generic spacecraft voices: Shoot it! Shoot it! Shoot it!
+Generic spacecraft voices: *Shoot it! Shoot it! Shoot it!*
 
 That armor's too strong! We're not getting through!
 
-Keep firing!
+*Keep firing!*
 
 [A view from inside the Death Star again with Cueball at the control panel and the planet in the background windows; various projectiles and explosions can be seen through the window.]
 
 Cueball: Can everybody please just chill? We don't even have the laser thing wired up. We—
 
-BOOM
+***BOOM***
 
-Hey!! I said, we...
+*Hey!!* I *said*, we...
 
 [Ponytail enters from the left, and points to her left. Princess Leia points at her.]
 
@@ -110,19 +110,19 @@ Leia: Send every crew to build more torpedoes!
 
 Ponytail: There aren't enough ships to—
 
-Leia: Build more ships!!
+Leia: *Build more ships!!*
 
 [Ponytail is standing still and Princess Leia is walking to the right with her fists raised.]
 
 Ponytail: That thing is just sitting there. Are you sure we—
 
-Leia: Keep building ships! Build ships forever! Destroy the orb!
+Leia: *Keep building ships! Build ships forever! **Destroy the orb!***
 
 [A view of the Death Star in space and the curvature of the planet off to the side. An enormous torrent of (barely visible) ships is seen streaming from the planet's surface to the Death Star. The damage to the Death Star is slightly worse.]
 
-Generic ship voices: aaaaAAAAAAAAaaaaa
+Generic ship voices: ***aaaaAAAAAAAAaaaaa***
 
-Death Star voice: What is wrong with you people?
+Death Star voice: What is *wrong* with you people?
 
 [Back in the real world, Cueball is standing with arms hunched and a cartoon helix above his head. Megan stands next to him.]
 
@@ -134,7 +134,7 @@ Megan: You lie down—I'll get you some hot tea and a blanket.
 
 [An outside view of the damaged Death Star with ships swarming it.]
 
-Generic voices: Die die die die! Die!
+Generic voices: *Die die die die! Die!*
 
 [An inside view; Cueball appears injured, and the control panel is damaged with a fire on the ground nearby.]
 
@@ -150,7 +150,7 @@ Ship 3: I'm going in!
 
 [The outside of the Death Star.]
 
-pew pew pew pew pew pew
+*pew pew pew pew pew pew*
 
 [Beat panel.]
 
@@ -172,7 +172,7 @@ Panel heading: A few months later...
 
 [Cueball and White Hat walking past each other. Cueball is wearing a face mask; White Hat isn't but coughs into his elbow.]
 
-White Hat: Cough cough
+White Hat: *Cough cough*
 
 [The real Death Star drifts toward the planet.]
 
@@ -184,19 +184,19 @@ Vader: Now they shall witness the firepower of this fully armed and oper—
 
 [Leia, Ponytail, and Cueball in frame.]
 
-Leia: Thermal exhaust port!!
+Leia: ***Thermal exhaust port!!***
 
-Ponytail: Aaa
+Ponytail: *Aaa*
 
-Cueball: Aaa
+Cueball: *Aaa*
 
 [An equally large torrent of ships stream from the planet to the real Death Star.]
 
 Death Star voice: What.
 
-Various ships: aA AAAAAAA aaa aAAAAAAA aaa
+Various ships: ***aA AAAAAAA aaa aAAAAAAA aaa***
 
-AAAAAA aaa aAAAAA
+***AAAAAA aaa aAAAAA***
 
 [The Death Star explodes, leaving debris trailing away.]
 

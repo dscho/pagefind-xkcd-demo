@@ -6,33 +6,36 @@ alt: >-
   'Why don't you just point it at their eye directly?' 'What is this, 2007?'
 img: https://imgs.xkcd.com/comics/anti_glass.png
 ---
-[[Two police officers stand at an apartment door. The female officer is holding a pair of glasses with something attached to it. We will see later that Black Hat Guy is in the apartment]]
+[Two police officers stand outside an apartment door. The male officer is bald (and half cut of by the left frame of this thin panel), and the other is Ponytail, both are wearing peaked caps with white emblem. Ponytail is holding a pair of glasses down in one hand. The glasses have a small white box with a smaller tip in the front attached to one of the frames. A person (turns out to be Black Hat) answers through the door which has a peephole.]
 
-Female officer: Police. Open up. Did you make this glasses attachment?
+Ponytail: Police. Open up.
 
-Black hat guy {{through door}}: Oh, yeah. 
+Ponytail: Did you make this glasses attachment?
 
-[[Black hat guy is sitting at his laptop.]]
+Black Hat (off-panel through door): Oh, yeah.
 
-Police officer: What's it do? 
+[Black Hat is sitting in an office chair at his laptop with his back to the door. The door is not visible but the officers voices come through it off-panel from the left.]
 
-Black hat guy: It detects when someone near you is wearing Google Glass and shines a laser pointer at their eyepiece.
+Ponytail (off-panel): What's it do?
 
-Police officer: Why??
+Black Hat: It detects when someone near you is wearing Google Glass and shines a laser pointer at their eyepiece.
 
-Black hat guy: The best defense is an indiscriminate offense. 
+Ponytail (off-panel): Why??
 
-[[Cut back to officers outside the apartment.]]
+Black Hat: The best defense is an indiscriminate offense.
 
-Male officer: It seems you've mailed these devices to people across Silicon Valley, including the children of every Google executive. 
+[Cut back a frame-less panel with a wider view of the two officers outside the apartment so the male officer is not cut off.]
 
-Black hat guy: Yeah. It's a viral marketing campaign for an upcoming movie. 
+Male officer: It seems you've mailed these devices to people across Silicon Valley, including the children of every Google executive.
+
+Black Hat (off-panel through door): Yeah. It's a viral marketing campaign for an upcoming movie.
+
+[Same scene but with frame around the panel.]
 
 Male officer: What movie?
 
-Black hat guy: haven't decided yet. Anything good coming out this fall?
+Black Hat: Haven't decided yet. Anything good coming out this fall?
 
-Male officer: Sir, open the door. 
+Male officer: Sir, open the door.
 
-Black hat guy: First stare at the peephole for a sec. 
-
+Black Hat: First stare at the peephole for a sec.

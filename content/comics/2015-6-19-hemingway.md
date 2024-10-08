@@ -8,41 +8,38 @@ img: https://imgs.xkcd.com/comics/hemingway.png
 ---
 Hemingway's Rough Drafts
 
-[[A list.]]
+[A list of rough draft stories.]
 
-For Sale: This Gullible Baby's Shoes
+For sale: This Gullible Baby's Shoes
 
 Baby Shoes For Sale By Owner
 
-((crossed out))Actually, there's no evidence Hemingway wrote
+<strike>Actually, there's no evidence Hemingway wrote</strike>
 
 Free Shoes, Provided You Overpower Baby
 
 For Sale: Weird Baby's Toe Shoes
 
-For Sale: Baby Shoes ((check mark))Prime Eligible
+For Sale: Baby Shoes <span style='color: #FF9900; font-style: italic;'>✓</span> <span style='color: #4DA3C5; font-style: italic;'>Prime</span> <span style='color: #727272;'>eligible</span>
 
-((crossed out))Though popularly attributed to Hemingway, the
+<strike>Though popularly attributed to Hemingway, the</strike>
 
 This Weird Trick Covers Baby Feet!
 
 For Sale: Baby Shoes, Just Hatched
 
-Sale: Seven-League Boots (expedited shipping)
+Sale: Seven-League Boots (Expedited Shipping)
 
-Complete This Survey for Free Shoes!
+Complete this survey for free shoes!
 
-Shoes
+*Shoes*, by Ernest Hemingway <sup>[<span style='color: #0645ad; font-style: italic;'>citation needed</span>]</sup>
 
-, by Ernest Hemingway [citation needed]
+This is my greatest short story.
 
-<blink><marquee>Baby Shoes!<
+For sale: Baby shoes (-1) [cursed]
 
-marquee><
-
-blink>
+<span style='color: #727272;'>&lt;blink&gt;&lt;marquee&gt;</span>Baby Shoes!<span style='color: #727272;'>&lt;/marquee&gt;&lt;/blink&gt;</span>
 
 For Sale: Baby-sized Saddle, Bobcat
 
 Hemingway Busted for Craigslist Shoe Scam
-

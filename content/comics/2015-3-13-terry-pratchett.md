@@ -6,27 +6,18 @@ alt: >-
   Thank you for teaching us how big our world is by sharing so many of your own.
 img: https://imgs.xkcd.com/comics/terry_pratchett.png
 ---
-((The text is written in an italic font, rather than hand-written, like it would be in a book. It goes across the top of the first four panels.))
+[Cueball is reading a book over the first four panels at the top of the comic. He shifts position from sitting, leaning back on one hand, laying down on his belly to finally sitting more upright. Above these four panels and breaking the frame of the outer panels of the comic we see what he reads during these four panels:]
 
-I told her we were going to get married, and all she could talk about was frogs.
+*I told her we were going to get married, and all she could talk about was frogs.*
 
-She said there's these hills where it's hot and rains all the time, and in the rainforests there are these very tall trees and right in the top branches of the trees there are these like great big flowers called . . . bromeliads, I think, and water gets into the flowers and makes little pools and there's a type of frog that lays eggs in the pools and tadpoles hatch and grow into new frogs and these little frogs live their whole lieves in the flowers right at the top of the trees and don't even know about the ground, and once you know the world is full of things like that, your life is never the same.
+*She said there's these hills where it's hot and rains all the time, and in the rainforests there are these very tall trees and right in the top branches
 
---Masklin, Terry Pratchett's The Bromeliad Trilogy
+*of the trees there are these like great big flowers called... bromeliads, I think, and water gets into the flowers and makes little pools and there's a
 
-[[A person sits on the floor cross-legged, reading a book.]]
+*type of frog that lays eggs in the pools and tadpoles hatch, and grow into new frogs and these little frogs live their whole lives in the flowers right
 
-[[The person is reading the book, leaning back with one hand on the floor.]]
+*at the top of the trees and don't even know about the ground, and once you know the world is full of things like that, your life is never the same.*
 
-[[The person reads the book while lying on their stomach.]]
+*— Masklin, Terry Pratchett's* ***The Bromeliad Trilogy***
 
-[[The person sits upright on the floor, reading with their legs bent.]]
-
-[[The person is reading cross-legged again.]]
-
-[[The person puts the book down on the floor and gets up and walks away.]]
-
-[[We discover they are walking on the petal of a large Bromeliad flower, toward the outside.]]
-
-[[The person reaches the tip of the petal and looks down below.]]
-
+[Below are four more panels. Cueball stops reading in the book. Leaves the book and begins to walk. Walks out on a leaf from a big flower. Finally, zooming in on him at the edge of the leaf, he looks down and sees what is below the flower.]

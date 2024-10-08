@@ -6,39 +6,44 @@ alt: >-
   Anyone who says that they're great at communicating but 'people are bad at listening' is confused about how communication works.
 img: https://imgs.xkcd.com/comics/communication.png
 ---
-[[A guy in a hat looks down at a large gap in the walkway; a thought bubble with a warning symbol and an image of the gap appears above the guy's head.]]
+[White Hat looks down at a large gap in the walkway; a thought bubble with a warning symbol and an image of the gap appears above his head.]
 
-[[The guy walks to the right, away from the gap, and encounters another guy, to which he speaks (in iconographic speech bubble form), attempting to inform him about the gap. A thought bubble appears above the other figure's head with an image of the gesturing guy.]]
+[White Hat walks to the right, away from the gap, and encounters Hairy, to which he speaks (in iconographic speech bubble form) while pointing toward the gap, attempting to inform him about the gap. A thought bubble appears above Hairy's head with an image of White Hat pointing.]
 
-[[The first guy continues, waving his arms, still talking about the gap. The second guy's thought bubble continues to contain images of the first guy gesturing frantically.]]
+[White Hat continues, waving his arms, still talking about the gap. Hairy's thought bubble continues to contain images of White Hat, now gesturing frantically.]
 
-[[The second guy shrugs in a nonplussed manner, and the first guy leaves off the right side of the frame. Both have thought bubbles displaying the other's reaction.]]
+[Hairy shrugs in a nonplussed manner, and White Hat leaves off the right side of the frame. Both have thought bubbles displaying the other's reaction.]
 
-[[The first guy continues to the right and comes across a woman. He tells her about the reaction of the previous guy (again in iconographic form); she simultaneously tries to tell him about a gap and gestures off to the right of the frame.]]
+[White Hat continues to the right and comes across Megan. He tells her about the reaction of Hairy (still all in iconographic form); she simultaneously tries to tell him about a gap and gestures off to the right of the frame.]
 
-[[The first guy and the woman both leave the frame thinking of each other's reactions; the woman exiting left and the guy exiting right.]]
+[White Hat and Megan both leave the frame. Megan exits left thinking of White Hat's reactions; White Hat exits to the right while thinking about both Hairy and Megan's reactions.]
 
-[[The woman (still thinking about the first guy) encounters the second guy (who is also still thinking about the first guy).]]
+[Megan (still thinking about White Hat) encounters Hairy (who is also still thinking about White Hat).]
 
-[[The pair talk about the first guy.]]
+[Megan and Hairy talk about White Hat.]
 
-[[The pair continue talking about the first guy as they exit the frame to the left.]]
+[Megan and Hairy (now without his hair) continue talking about White Hat as they exit the frame to the left.]
 
-[[A commotion is heard from the left.]]
+[A commotion is heard from the left.]
 
-[[The camera pans over to the left, where the pair have fallen into a gap in the walkway. A commotion is then also heard from the right.]]
+Explosion to the left: !!! \*\* !!
 
-[[The camera pans over to the right, where the first guy has also fallen into a gap.]]
+[Megan and Hairy (still without his hair) have fallen into the gap in the walkway. A commotion is then also heard from the right.]
 
-[[A third guy in a beret comes across a gap in the walkway.]]
+Explosion to the right: !!! \*\* \*
 
-[[The guy in the beret runs off the frame to the right.]]
+[White Hat has fallen into another gap.]
 
-[[The guy in the beret meets a fourth guy, and tells him (in iconographic form) to come with him. The fourth guy has a thought bubble of the guy in the beret.]]
+[Beret Guy looks down at a large gap in the walkway; a thought bubble with a warning symbol and an image of the gap appears above his head.]
 
-[[The guy in the beret takes the fourth guy's hand and leads him along to the left. The fourth guy's thought bubble has question marks around the guy in the beret.]]
+[Beret Guy runs off the frame to the right.]
 
-[[The guy in the beret leads the fourth guy to the gap and shows him it.]]
+[Beret Guy meets Cueball and reaches out to him. He tells him (still in iconographic form) that Cueball should take Beret Guy's hand. Cueball has a thought bubble of Beret Guy with his arm stretched out.]
 
-[[Both the guy in the beret and the fourth guy walk away from the gap to the right, now both thinking about the gap.]]
+[Beret Guy takes Cueball's hand and leads him along to the left. Cueball's thought bubble has two question marks around Beret Guy.]
 
+Cueball: ? ?
+
+[Beret Guy leads Cueball to the gap and points it out to him.]
+
+[Beret Guy and Cueball walk away from the gap to the right, now both thinking about the gap with a warning symbol above it.]

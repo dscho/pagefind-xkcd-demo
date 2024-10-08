@@ -6,9 +6,10 @@ alt: >-
   MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART
 img: https://imgs.xkcd.com/comics/thesis_defense.png
 ---
-[[A woman runs towards a desk with two microphones on it, waving a broadsword high in the air. Two figures sitting behind the desk are taken aback, while a woman standing off to the side holds an arm in front of her face protectively. A slide is projected on a screen behind the sword-reading woman, reading "The evolution of threat defence in mammals".]]
+[Megan runs towards a desk with two microphones on it, waving a longsword high in the air. Cueball and one other sitting behind the desk are taken aback, while Ponytail standing off to the side holds an arm in front of her face protectively. A slide is projected on a screen behind Megan, reading "The evolution of threat displays in mammals".]
 
-Sword-wielding woman: In conclusion, AAAAAAAAAAAAA!!!
+Megan: In conclusion, AAAAAAAAAAAAA!!!
 
-The best thesis defence is a good thesis offence.
+[Caption below the panel:]
 
+The best thesis defense is a good thesis offense.

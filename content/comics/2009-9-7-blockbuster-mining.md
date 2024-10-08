@@ -3,48 +3,49 @@ date: 2009-09-07
 title: "Blockbuster Mining"
 num: 633
 alt: >-
-  The 2007 Bridge to Terebithia trailer put me off too much to see that particular movie, but I am cautiously optimistic about Where the Wild Things Are.
+  The 2007 Bridge To Terebithia trailer put me off too much to see that particular movie, but I am cautiously optimistic about Where The Wild Things Are.
 img: https://imgs.xkcd.com/comics/blockbuster_mining.png
 ---
-Man: We've acquired some new rights, but I'm not sure it's in the spirit to make it a blockbuster --
+[Cueball holds a script in his hands.]
+
+Cueball: We've acquired some new rights, but I'm not sure it's in the spirit to make it a blockbuster--
 
 Voice: Do it anyway. Take $100 million, hire Michael Bay.
 
-Man: But --
+Cueball: But--
 
-Voice: [[in italics]] NEXT!
+Voice: *NEXT!*
 
-[[Panel is inverted, white on black background.]]
+[Panel is inverted, white on black background.]
 
-Girl: They said if I were captured I should take my own life.
+[Two men, played by Cueball-like actors are pointing machine guns at Harriet, played by a Megan-like actress. Harriet points two handguns back at them.]
 
-Girl: But I'd just as soon take yours.
+Harriet: They said if I were captured I should take my own life.
 
-[[Girl is pointing two handguns at two men with machine guns.]]
+Harriet: But I'd just as soon take yours.
 
-<<BOOM>>
+[Harriet jumps off a cliff carrying a spiral notebook and a gun, while the cliff explodes behind her. In the background is a helicopter, some mountains, and the sea.]
 
-[[Girl explodes off a cliff, carrying a rectangular object and a gun.  In the background is a helicopter, some mountains, and the sea.]]
+**BOOM**
 
-[[Panel is inverted, white and red on black background.
+[Panel is inverted, white and red on black background.]
+
+[A man played by a Cueball-like actor is tied to a chair. Blood is pooling on the ground below. Harriet stands in front, holding a bloody pipe.]
 
 Man: Stop! I'll talk!
 
-Girl: No, I know everything, this is just for fun.
+Harriet: No, I know everything. This is just for fun.
 
-[[Girl is holding a bloody pipe. Man is tied to a chair.  There is blood pooling on the ground under the chair.]]
+[Crosshairs follow a Cueball-like man.]
 
-[[Crosshairs follow a man.]]
+Harriet: I'll be watching.
 
-Girl: I'll be watching.
-
-[[The panel is inverted colour, white on black.]]
+[The panel is inverted color, white on black.]
 
 Harriet
 
 the
 
-[[in red]] SPY
+[in red] *SPY*
 
-[[A bloody spiral notebook, with blood streaks leading from it.]]
-
+[A bloody spiral notebook, with blood streaks leading from it.]

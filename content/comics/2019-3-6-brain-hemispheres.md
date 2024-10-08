@@ -6,17 +6,17 @@ alt: >-
   Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.
 img: https://imgs.xkcd.com/comics/brain_hemispheres.png
 ---
-[Cueball is shown with the right half of his brain (on the viewer's left) colored in orange and the left half (on the viewer's right) in iris blue. An iris blue box is overlaid over the right half of the body (on the viewer's left), and an orange box is overlaid over the top half. The boxes are overlapping in a greenish color on the upper right quarter of the body (on the viewer's left).]
+[Cueball is shown with the right half of his brain (on the viewer's left) colored in orange and the left half (on the viewer's right) in iris blue. An iris blue box is overlaid over the right half of the  body (on the viewer's left), and an orange box is overlaid over the top half. The boxes are overlapping in a greenish color on the upper right quarter of the body (on the viewer's left).]
 
-Neuroscience Fact:
+**Neuroscience Fact:**
 
 [An arrow pointing to the iris blue rectangle on top with the text above:]
 
-The left half of the brain actually controls the right half of the body...
+The *left* half of the brain actually controls the *right* half of the body...
 
 [An arrow pointing to the orange rectangle at the right, the text reads:]
 
-...while the right half of the brain actually controls the top half of the body.
+...while the *right* half of the brain actually controls the *top* half of the body.
 
 [An arrow pointing to the overlapping area (the top left body from the viewers perspective) with the text below:]
 

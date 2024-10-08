@@ -6,19 +6,26 @@ alt: >-
   If I developed a hue-shifting metamaterial, I would photobomb people's Instagram pics with a sheet of material that precisely undid the filter they were using.
 img: https://imgs.xkcd.com/comics/metamaterials.png
 ---
-[[A pair of violets, colored red.]]
+[An image of a violet that is colored red.]
+
+Megan (off-screen):
 
 Violets are red
 
-[[A blue rose.]]
+[An image of a rose that is colored blue.]
+
+Megan (off-screen):
 
 And roses are blue
 
-[[Two people stand on a stage. Between them is a table, on which rests the two flowers under a translucent cover. One is at a podium with a microphone.]]
+[Megan and Cueball are standing around a table, on which a screen is in front of the rose and violet. Megan is in front of a lectern with a mic. All of this is on a stage.]
 
-Person 1: When metamaterials
+Megan:
 
-[[The person at the microphone removes the cover to reveal the flowers are the opposite colors.]]
+When metamaterials
 
-Person 1: Alter their hue.
+[Same scene, but Megan moves the screen away from in front of the rose and violet. It is revealed that the flowers' actual colors are those from the original poem, i.e. the violet is blue and the rose is red.]
 
+Megan:
+
+Alter their hue.

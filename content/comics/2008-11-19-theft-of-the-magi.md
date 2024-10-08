@@ -6,13 +6,10 @@ alt: >-
   Every Roomba needs a dueling harness.
 img: https://imgs.xkcd.com/comics/theft_of_the_magi.png
 ---
-[[Black Hat Guy is holding up a video game.  Woman is holding up a harness.]]
+[Black Hat is holding up a copy of *Left 4 Dead*. Danish is holding up a small harness.]
 
-Black Hat Guy: Hey. I sold your Roomba on Craigslist so I could buy myself Left 4 Dead.
+Black Hat: Hey. I sold your Roomba on Craigslist so I could buy myself *Left 4 Dead*.
 
-Woman: But I eBayed your XBox so I could get this dueling harness for my Roomba!
+Danish: But I eBayed your XBox so I could get this dueling harness for my Roomba!
 
-Black Hat Guy: Aww.
-
-Woman: Aww.
-
+Black hat and Danish at the same time: Aww.

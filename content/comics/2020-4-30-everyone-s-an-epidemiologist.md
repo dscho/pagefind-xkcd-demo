@@ -14,7 +14,7 @@ Megan: It's like when there's a mountaineering disaster in the news, and suddenl
 
 [In a frame-less panel they walk on together.]
 
-Cueball: I mean, it's not exactly like that.
+Cueball: I mean, it's not ***exactly*** like that.
 
 Cueball: If the entire world's population were suddenly stranded on mountaintops together, a lot of people would understandably be trying to become mountaineering experts really fast.
 

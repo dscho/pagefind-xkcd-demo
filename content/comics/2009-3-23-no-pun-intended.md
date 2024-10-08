@@ -6,15 +6,20 @@ alt: >-
   Like spelling 'dammit' correctly -- with two m's -- it's a troll that works best on the most literate.
 img: https://imgs.xkcd.com/comics/no_pun_intended.png
 ---
-My Hobby: Appending "no pun intended" to lines with no pun in them.
+[Caption above the panel:]
 
-[[Random guy is talking to a guy with a beret]]
+**My Hobby:**
 
-Random guy: I think he's internalized his girlfriend's attitudes - no pun intended - and so...
+Appending "no pun intended"
 
-{{Three hours later:}}
+to lines with no pun in them.
 
-[[Beret guy is thinking]]
+[Cueball is talking to Beret Guy.]
 
-Beret guy: "Internalized?" Lied? Analyzed? Or is it "attitudes"? Dammit.
+Cueball: I think he's internalized his girlfriend's attitudes - no pun intended - and so...
 
+[The next panel is inlaid partly over the first panel. Beret Guy is thinking. Above his thought bubble is a caption:]
+
+Three hours later:
+
+Beret Guy (thinking): "Internalized?" Lied? Analyzed? Or is it "attitudes"? *Dammit.*

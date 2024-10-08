@@ -6,29 +6,32 @@ alt: >-
   Far off to the right of the chart is the Helvetica Scenario.
 img: https://imgs.xkcd.com/comics/scary_names.png
 ---
-[[A scatterplot, with the y-axis labeled "scariness of name" and the x-axis labeled "scariness of thing name refers to.
+[A scatter-plot, with 12 labeled dots. Both axis are labeled but neither has an arrow at its end. The dots are scattered from left to right and top to bottom. Below all labels are given, first for the axis, and then for each dot in approximately normal reading order, left to right top to bottom, but in the order it would make sense to read them:]
 
-At the top-left is "chernobyl packet".
+Y-axis: Scariness of name
 
-Slightly right and downwards of that is "bomb calorimeter".
+X-axis: Scariness of thing name refers to
 
-Towards the middle-top is "kessler syndrome".
+[Top left]: Chernobyl packet
 
-Towards the middle-bottom is "soil liquefaction".
+[Top halfway right]: Kessler syndrome
 
-Towards the center is "mustard gas".
+[Top three quarters towards right]: Demon core
 
-Along the bottom, two-thirds of the way to the right, is "grey goo".
+[Top right]: Flesh-eating bacteria
 
-Slightly up and to the right from that is "criticality incident".
+[A third down left]: Bomb calorimeter
 
-About midway up from there is "bird flu".
+[Halfway  down three quarters towards right]: Bird flu
 
-Further up, not quite at the top, is "demon core".
+[Halfway  down right]: Nuclear football
 
-Back towards the middle vertically, but slightly farther to the right, is "superbug".
+[Dead center]: Mustard gas
 
-Almost all the way to the right but still near the middle vertically is "nuclear football".
+[Just below and right of center]: Superbug
 
-At the far top-right is "flesh-eating bacteria".]]
+[Bottom halfway right]: Soil liquefaction
 
+[A third up three quarters towards right ]: Criticality incident
+
+[Very bottom two-thirds to the right]: Grey goo

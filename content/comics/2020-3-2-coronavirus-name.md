@@ -14,11 +14,11 @@ Cueball: But it's not specific! There are a lot of coronaviruses.
 
 [In a frameless panel, Ponytail (still wearing safety glasses) is pointing at a screen or picture showing a modern city skyline with a large spider crawling across three of the high-rise buildings.]
 
-Ponytail: I think it's fine. It's like, you know the giant spider downtown that sits on the buildings and sometimes eats cars? I think technically it's a mutant T. annexa wolf spider, but everyone is just calling it "the spider" and we all know what they mean.
+Ponytail: I think it's fine. It's like, you know the giant spider downtown that sits on the buildings and sometimes eats cars? I think *technically* it's a mutant *T. annexa* wolf spider, but everyone is just calling it "the spider" and we all know what they mean.
 
 [Back to the setting from the first panel. Megan is standing and Ponytail had turned towards her and Cueball has stepped back from the machine.]
 
-Megan: I've been meaning to ask, what's with that spider? Should we...do something?
+Megan: I've been meaning to ask, what's ***with*** that spider? Should we...do something?
 
 Ponytail: Honestly I've been too busy with the virus stuff to look into it-I just changed my commute to avoid Main St.
 

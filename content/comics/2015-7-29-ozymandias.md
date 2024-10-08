@@ -3,10 +3,17 @@ date: 2015-07-29
 title: "Ozymandias"
 num: 1557
 alt: >-
-  And on the pedestal these words appear: "And on the pedestal these words appear: "And on the pedestal these words appear: "And ...
+  And on the pedestal these words appear: "And on the pedestal these words appear: "And on the pedestal these words appear: "And...
 img: https://imgs.xkcd.com/comics/ozymandias.png
 ---
-[[Two figures talking]]
+[Ponytail, with her arms stretched out, is addressing Cueball.]
 
-Figure: I met a traveler from an antique land who said: "I met a traveler from an antique land, who said: "I met a traveler from an antique land, who said: "I met...
+Ponytail:
 
+I met a traveler from an antique land
+
+who said: "I met a traveler from an an-
+
+tique land, who said "I met a traveler from
+
+an antique land, who said "I met...

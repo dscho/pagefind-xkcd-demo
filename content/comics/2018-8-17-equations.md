@@ -8,35 +8,35 @@ img: https://imgs.xkcd.com/comics/equations.png
 ---
 [Nine equations are listed, three in the top row and two in each of the next three rows. Below each equation there are labels:]
 
-E=K0t+1/2 ρvt2
+E=K<sub>0</sub>t+1/2 &rho;vt<sup>2</sup>
 
 All kinematics equations
 
-Kn=∑∞i=0∑∞π=0(n-π)(i-eπ-∞) [K sub n = the summation from i = 0 to infinity of the sum from pi = 0 to infinity of (n - pi) * (i-e^(pi-infinity))]
+K<sub>n</sub>=&sum;<sup>&infin;</sup><sub>i=0</sub>&sum;<sup>&infin;</sup><sub>&pi;=0</sub>(n-&pi;)(i-e<sup>&pi;-&infin;</sup>) [K sub n = the summation from i = 0 to infinity of the sum from pi = 0 to infinity of (n - pi) \* (i-e^(pi-infinity))]
 
 All number theory equations
 
-∂/∂t ∇⋅ρ=8/23 (∯ ρ ds dt ⋅ ρ ∂/∂∇)
+&#x2202;/&#x2202;t &nabla;&sdot;&rho;=8/23 (&#x222F; &rho; ds dt &sdot; &rho; &#x2202;/&#x2202;&nabla;)
 
 All fluid dynamics equations
 
-|ψx,y〉=A(ψ)A(|x〉⊗|y〉)
+|&psi;<sub>x,y</sub>&#x232a;=A(&psi;)A(|x&#x232a;&#x2297;|y&#x232a;)
 
 All quantum mechanics equations
 
-CH4+OH+HEAT→H2O+CH2+H2EAT
+CH<sub>4</sub>+OH+HEAT&rarr;H<sub>2</sub>O+CH<sub>2</sub>+H<sub>2</sub>EAT
 
 All chemistry equations
 
-SU(2)U(1)×SU(U(2))
+SU(2)U(1)&times;SU(U(2))
 
 All quantum gravity equations
 
-Sg=(-1)/(2ε̄) ið(̂ ξ0 ⨢ pε ρvabc⋅η0)̂ f̵a0 λ(ξ) ψ(0a)
+S<sub>g</sub>=(-1)/(2&epsilon;&#x0304;) i&eth;(&#x302; &xi;<sub>0</sub> &#x2a22; p<sub>&epsilon;</sub> &rho;<sub>v</sub><sup>abc</sup>&sdot;&eta;<sub>0</sub>)&#x302; f&#x0335;<sub>a</sub><sup>0</sup> &lambda;(<span style="display:inline-block; -ms-transform:rotate(180deg); -webkit-transform:rotate(180deg); transform:rotate(180deg);">&xi;</span>) &psi;(0<sub>a</sub>)
 
 All gauge theory equations
 
-H(t)+Ω+G⋅Λ ...
+H(t)+&Omega;+G&sdot;&Lambda; ...
 
 [There is a brace linking the three cases together.]
 
@@ -48,6 +48,6 @@ H(t)+Ω+G⋅Λ ...
 
 All cosmology equations
 
-Ĥ - u̧0 = 0
+&#x0124; - u&#x0327;<sub>0</sub> = 0
 
 All truly deep physics equations

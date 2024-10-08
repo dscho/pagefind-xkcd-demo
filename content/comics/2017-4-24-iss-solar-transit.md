@@ -20,7 +20,7 @@ Cueball: I got a sun filter and I'm trying to take a picture of it crossing.
 
 Cueball: Perfect. Hmm, I should set the white balance.
 
-[Once gain there are two panels above each other. The top is black with white text and icons from the white balance menu. It has the following options shown after each of the icons as mentioned below in the square brackets:]
+[Once gain there are two panels above each other. The top is black with white text and icons from the *white balance* menu. It has the following options shown after each of the icons as mentioned below in the square brackets:]
 
 [Shining light bulb]: Incandescent
 
@@ -46,7 +46,7 @@ Incandescent
 
 Fluorescent
 
-Direct sunlight
+**Direct sunlight**
 
 Flash
 

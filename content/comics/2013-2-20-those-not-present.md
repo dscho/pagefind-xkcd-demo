@@ -6,33 +6,36 @@ alt: >-
   'Yeah, that squid's a total asshole.' [scoot scoot]
 img: https://imgs.xkcd.com/comics/those_not_present.png
 ---
-Every time someone says something negative about a person who's not in the room, I scoot my chair back a few inches. 
+Every time someone says something negative about a person who's not in the room, I scoot my chair back a few inches.
 
-[[We see four figures sitting around on a table, talking and drinking. Figure 4 is scooting his chair back.]]
+[Cueball, Ponytail and two other people are sitting at a table drinking.]
 
-Figure 1: *He's* not so bad, but his friends...
+Person: *He's* not so bad, but his *friends*...
 
-<<Scoot scoot>>
+[Cueball scoots away from table.]
 
-[[Figure 4 us now quite a way away from the table.]]
+*Scoot scoot*
 
-Figure 3: ... His band is never gonna take off if...
+Ponytail: His band is never gonna take off if...
 
-<<Scoot scoot>
+[Cueball scoots further away.]
 
-[[The table is now out of view from the left side of the panel. Three more figures are sitting on the floor to the right, with drinks and talking.]]
+*Scoot scoot*
 
-Offscreen from the table: Yeah, his sister is even weirder. Did you see she had...
+[Megan, Beret Guy, and Hairy come into view.]
 
-<<Scoot scoot>
+Off-screen: Yeah, his sister is even *weirder*.
 
-Figure 7: ... And there's a video, but it's blurry...
+Off-screen: Did you see she had...
 
-[[Figure 4 is now up to the new group. He leans back over his chair.]]
+*Scoot scoot*
 
-Figure 4: What're you talking about? 
+Beret Guy: ...and there's a video, but it's blurry...
 
-Figure 5: Giant squid! 
+[Cueball turns around and leans his arm on his chair.]
 
-Figure 4: Mind if I join you? 
+Cueball: What're you talking about?
 
+Hairy: Giant squid!
+
+Cueball: Mind if I join you?

@@ -8,53 +8,54 @@ img: https://imgs.xkcd.com/comics/snow_tracking.png
 ---
 BACKYARD SNOW TRACKING GUIDE
 
-((Each panel contains an overhead view of tracks through the snow, with a caption indicating the apparent source))
+[Each panel contains an overhead view of tracks through the snow, with a caption indicating the apparent source.]
 
-[[Standard paw prints through the snow]]
+[Standard paw prints through the snow.]
 
 CAT
 
-[[Large split-toe tracks and smaller rodent tracks]]
+[Large split-toe tracks and smaller rodent tracks.]
 
 MOOSE AND SQUIRREL
 
-[[Cat prints, but with more space between the pairs of prints]]
+[Cat prints, but with more space between the pairs of prints.]
 
 LONGCAT
 
-[[Two similar careening tire tracks]]
+[Two similar careening tire tracks.]
 
 MOUSE RIDING BICYCLE
 
-[[Longer rodent tracks, with a large melted ring surrounding a point in the middle of the frame.]]
+[Longer tracks, with a large melted ring surrounding a point in the middle of the frame.]
 
 RABBIT STOPPING TO USE HAIR DRYER
 
-[[No visible tracks]]
+[No visible tracks.]
 
 LEGOLAS
 
-[[Single deep holes with cratering]]
+[Single deep holes with cratering.]
 
 BOBCAT ON POGO STICK
 
-[[Round prints that suddenly turn to the right halfway into frame]]
+[Round prints that suddenly turn to the right halfway into frame.]
 
 KNIGHT
 
-[[Human footprints up to a square melting pattern, turning into animal prints]]
+[Human footprints up to a square melting pattern, turning into animal prints.]
 
 KID WITH TRANSMOGRIFIER
 
-[[Human footprints up to a rectangular melted area, which are then doubled to another rectangular area, which are then doubled again up to another rectangular area, which are then doubled...]]
+[Human footprints up to a rectangular melted area, which are then doubled to another rectangular area, which are then doubled again up to another rectangular area, which are then doubled.]
 
 KID WITH DUPLICATOR
 
-[[Right curve on a road, with tire tracks careening out of frame]]
+[Right curve on a road, with tire tracks careening out of frame.]
 
 Out of Frame Garden Owner: MY VEGETABLE GARDEN!
 
-[[A series of spiraling and outwardly traveling lines extend from a point in the middle of the frame.]]
+PRIUS
+
+[A series of spiraling and outwardly traveling lines extend from a point in the middle of the frame.]
 
 HIGGS BOSON
-

@@ -6,7 +6,7 @@ alt: >-
   GO FOR LUNCH, REPEAT, GO FOR LUNCH.
 img: https://imgs.xkcd.com/comics/lunch_order.png
 ---
-[Three Hairy's are between two control panels, one is sitting at the panel on the right, the two others are standing and talking in the middle.]
+[Three Hairys are between two control panels, one is sitting at the panel on the right, the two others are standing and talking in the middle.]
 
 Hairy 1: Sir - Strategic command has sent us a lunch order.
 

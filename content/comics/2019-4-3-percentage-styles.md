@@ -16,20 +16,24 @@ Best
 
 [Dot labels from top to bottom:]
 
-65%
+    <!-- How smart are screen readers at recognizing the differences?-->
+
+65%<!-- ["6", "5" and a "%" symbol]-->
 
 [very short distance]
 
-65 percent
+65 percent<!-- ["6", "5" and the word "percent"]-->
 
 [at roughly quarter scale]
 
-65 per cent
+65 per cent<!-- ["6", "5" and two words "per" and "cent"]-->
 
 [at roughly half scale]
 
-Sixty-five%
+Sixty-five%<!-- ["Sixty-five" as a word and a "%" symbol]-->
 
 [at the end]
 
-65 per¢
+65 per¢<!-- ["6", "5", the word "per" and the "¢" currency symbol]-->
+
+[[Category:Charts]]

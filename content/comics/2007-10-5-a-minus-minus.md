@@ -6,23 +6,22 @@ alt: >-
   You can do this one in every 30 times and still have 97% positive feedback.
 img: https://imgs.xkcd.com/comics/a-minus-minus.png
 ---
-[[the hat guy is packing a bobcat into a box; a woman stands beside him.]]
+[Black Hat is packing a bobcat into a box; Megan stands beside him.]
 
-woman: What are you doing?
+Megan: What are you doing?
 
-the Hat Guy: Making the world a weirder place.
+Black Hat: Making the world a weirder place.
 
-bobcat: <<mrrowlll>>
+Bobcat: *mrrowlll*
 
-[[The hat guy has finished taping the package for shipping.]]
+[Black Hat has finished taping the package for shipping.]
 
-man: Starting with my eBay feedback page.
+Black Hat: Starting with my eBay feedback page.
 
-[[Bandaged person at a computer with assorted debris around the floor]]
+[Bandaged person at a computer with assorted debris around the floor.]
 
-screen: comments:
+Screen: comments:
 
-<<bandaged person typing>> Instead of office chair package contained bobcat.
+Bandaged person typing: Instead of office chair package contained bobcat.
 
-<<bandaged person typing>> Would not buy again.
-
+Bandaged person typing: Would not buy again.

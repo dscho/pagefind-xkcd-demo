@@ -6,21 +6,25 @@ alt: >-
   Although the Markov chain-style text model is still rudimentary; it recently gave me "Massachusetts Institute of America". Although I have to admit it sounds prestigious.
 img: https://imgs.xkcd.com/comics/swiftkey.png
 ---
-[[Person 1 shows off phone to Person 2]]
+[Cueball showing his phone to Megan.]
 
-Person 1: Have you tried SwiftKey?  It's got the first decent language model I've seen. It learns from your SMS
+Cueball: Have you tried SwiftKey? It's got the first decent language model I've seen. It learns from your SMS/Email archives what words you use together most often.
 
-Email archives what words you use together most often.
+[Cueball and Megan in a frameless panel, with Megan now holding Cueball's phone.]
 
-Person 1: Spacebar inserts its best guess. So if I type "The Empi" and hit space three times, it types "The Empire Strikes Back".
+Cueball: Spacebar inserts its best guess. So if I type "The Empi" and hit space three times, it types "The Empire Strikes Back".
 
-Person 2: What if you mash space in a blank message?
+Megan: What if you mash space in a blank message?
 
-Person 1: I guess it fills in your most likely first word, then the word that usually follows it..
+[Zoomed in on Megan looking at Cueball's phone, with Cueball now off-frame to the left.]
 
-Person 2: So it builds up your "typical" sentence. Cool! Let's see yours!
+Cueball: I guess it fills in your most likely first word, then the word that usually follows it...
 
-Person 1: Uh--
+Megan: So it builds up your "typical" sentence. Cool! Let's see yours!
+
+Cueball: Uh—
+
+[Eight small frames arranged in panel space, 2 frames wide by 4 frames high, showing each word added by Swiftkey as Megan hits space each time:]
 
 SwiftKey: I
 
@@ -28,7 +32,7 @@ SwiftKey: Am
 
 SwiftKey: So
 
-SwiftKey: Sorry
+SwiftKey: Sorry—
 
 SwiftKey: That's
 
@@ -37,4 +41,3 @@ SwiftKey: Never
 SwiftKey: Happened
 
 SwiftKey: Before.
-

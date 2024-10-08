@@ -8,13 +8,13 @@ img: https://imgs.xkcd.com/comics/well_ordering_principle.png
 ---
 [Megan rubs a lamp held in her hands. A genie appears from the end of the lamp. The genie resembles the top half of Cueball's body, with a head, torso, and crossed arms, but with a squiggle representing a puff of smoke in place of his legs.]
 
-Genie: Greetings, mortal. You have freed me. I will grant you one wish.
+Genie: Greetings, mortal.  You have freed me. I will grant you one wish.
 
 Megan: Hmm.
 
 [Megan holding the lamp to her side. The genie is off-panel.]
 
-Megan: It's been over 30 years since Back to the Future came out. Since then, probably hundreds of thousands of people have tried to dress as Marty McFly for Halloween.
+Megan: It's been over 30 years since *Back to the Future* came out.  Since then, probably hundreds of thousands of people have tried to dress as Marty McFly for Halloween.
 
 Genie: OK, and?
 

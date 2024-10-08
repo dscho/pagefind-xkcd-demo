@@ -6,21 +6,20 @@ alt: >-
   "This is the reference implementation of the self-referential joke."
 img: https://imgs.xkcd.com/comics/hofstadter.png
 ---
-[[A man sits at a desk, working on a laptop. A woman approaches the desk and picks up a tiny book.]]
+[Cueball sits at a desk, working on a laptop. Megan approaches the desk and picks up a tiny book.]
 
-Woman: What's this? 
+Megan: What's this?
 
-Man: Douglas Hofstadter's six-word autobiography. After all those 700-page tomes, I guess he wanted to try for brevity.
+Cueball: Douglas Hofstadter's six-word autobiography. After all those 700-page tomes, I guess he wanted to try for brevity.
 
-Woman: Huh. Let's see...
+Megan: Huh. Let's see...
 
-[[Close up of woman, reading the tiny book.]]
+[Close up of Megan, reading the tiny book.]
 
-Book: I'm So Meta, Even This Acronym
+Book: I'm So Meta, Even This *Acronym*
 
-[[Full shot of man and woman again. The woman looks down at the tiny book in her hand.]]
+[Full shot of Cueball and Megan again. Megan looks down at the tiny book in her hand.]
 
-Woman: ...whoa.
+Megan: ...whoa.
 
-Man: I think he nailed it.
-
+Cueball: I think he nailed it.

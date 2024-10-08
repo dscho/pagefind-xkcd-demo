@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/google_trends_maps.png
 ---
 The least informative
 
-Google Trends Maps
+**Google Trends Maps**
 
 I've created over the years
 

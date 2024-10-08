@@ -6,29 +6,56 @@ alt: >-
   'Will [     ] allow us to better understand each other and thus make war undesirable?' is one that pops up whenever we invent a new communication medium.
 img: https://imgs.xkcd.com/comics/simple_answers.png
 ---
-The Simple Answers to the Questions that get asked about every new technology: 
+[Caption above the chart:]
 
-Will [      ] make us all geniuses? NO
+The **simple answers** to the questions that get asked about every new technology:
 
-Will [      ] make us all morons? NO
+{| class="wikitable"
 
-Will [      ] destroy whole industries? YES
+|Will [ ] make us all geniuses?||align="center"|No
 
-Will [      ] make us more empathetic? NO
+|-
 
-Will [      ] make us less caring? NO
+|Will [ ] make us all morons?||align="center"|No
 
-Will teens use [      ] for sex? YES
+|-
 
-Were they going to have sex anyway? YES
+|Will [ ] destroy whole industries?||align="center" |Yes
 
-Will [      ] destroy music? NO
+|-
 
-Will [      ] destroy art? NO
+|Will [ ] make us more empathetic?||align="center" |No
 
-But can't we go back to a time when- NO
+|-
 
-Will [      ] bring about world peace? NO
+|Will [ ] make us less caring?||align="center" |No
 
-Will [      ] cause widespread alienation by creating a world of empty experiences? WE WERE ALREADY ALIENATED
+|-
 
+|Will teens use [ ] for sex?||align="center" |Yes
+
+|-
+
+|Were they going to have sex anyway?||align="center" |Yes
+
+|-
+
+|Will [ ] destroy music?||align="center" |No
+
+|-
+
+|Will [ ] destroy art?||align="center" |No
+
+|-
+
+|But can't we go back to a time when-||align="center" |No
+
+|-
+
+|Will [ ] bring about world peace?||align="center" |No
+
+|-
+
+|Will [ ] cause widespread<br />alienation by creating a world<br />of empty experiences?||align="center" |We were<br />already<br />alienated
+
+|}

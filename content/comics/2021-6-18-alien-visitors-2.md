@@ -24,7 +24,7 @@ Voice 2 (off-panel): Does that blimp use hydrogen?
 
 [Zoom in on the four humans looking up, the Aliens reply from above the panel. There is a chemical formula in an outline from the alien flying saucer, shown in a similar manner to the other items.]
 
-Chemical formula: (CH3 CH2)4 Pb
+Chemical formula: (CH<sub>3</sub> CH<sub>2</sub>)<sub>4</sub> Pb
 
 Aliens (off-panel): Add this elixir of lead to your gasoline and your engines will run smooth.
 

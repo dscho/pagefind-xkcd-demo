@@ -8,8 +8,8 @@ img: https://imgs.xkcd.com/comics/astrophysics.png
 ---
 [A sign on two posts, in the grass in front of a building with windows and double doors, a window on each door, and bars facing outwards. There is a cement walk leading to the doors. On the sign is the text:]
 
-Department of Astrophysics
+<big>**Department of Astrophysics**</big>
 
-Motto:
+**Motto:**
 
-Yes, everybody has already had the idea, "Maybe there's no dark matter—Gravity just works differently on large scales!" It sounds good but doesn't really fit the data.
+*Yes, everybody has already had the idea, "Maybe there's no dark matter—Gravity just works differently on large scales!" It sounds good but doesn't really fit the data.*

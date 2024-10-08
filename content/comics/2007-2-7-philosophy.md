@@ -6,17 +6,14 @@ alt: >-
   It's like the squirt bottle we use with the cat.
 img: https://imgs.xkcd.com/comics/philosophy.png
 ---
-[[Girl sits on chair, thinking]]
+[Megan sits on a chair for two panels without moving.]
 
-[[Two panels pass, the girl does not move]]
+[In the third panel, Megan has still not moved but makes the following comment to no one in particular.]
 
-Girl: If the question of what it all means doesn't mean anything, why do I keep coming back to it?
+Megan: If the question of what it all means doesn't mean anything, why do I keep coming back to it?
 
-[[Two boys are talking to each other]]
+[Two Cueball-like friends of Megan are talking to each other. One of them is standing behind the office chair in which the other friend is sitting, behind a desk with a computer. The standing friend starts to walk toward Megan. The sitting friend pulls a large yellow and green super soaker from a drawer.]
 
-First boy: She's getting existential again.
+Standing friend: She's getting existential again.
 
-Second boy: It's okay, I have a super soaker.
-
-[[Second boy pulls a large super soaker from a drawer]]
-
+Sitting friend: It's okay, I have a super soaker.

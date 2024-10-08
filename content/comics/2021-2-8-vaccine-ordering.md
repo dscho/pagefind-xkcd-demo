@@ -4,7 +4,7 @@ title: "Vaccine Ordering"
 num: 2422
 alt: >-
   You know what they say: mRNA-1273 before tozinameran, you'll have to slay a banshee in a catamaran.
-img: https://imgs.xkcd.com/comics/vaccine_ordering.png
+img: https://imgs.xkcd.com/comics/vaccine_ordering-new.png
 ---
 [Megan and Cueball are talking. Megan is looking down and reading a news story on her phone.]
 

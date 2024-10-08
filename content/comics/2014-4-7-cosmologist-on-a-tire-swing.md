@@ -6,49 +6,52 @@ alt: >-
   No matter how fast I swing, I can never travel outside this loop! Maybe space outside it doesn't exist! But I bet it does. This tire came from somewhere.
 img: https://imgs.xkcd.com/comics/cosmologist_on_a_tire_swing.png
 ---
-[[A child and an adult are walking across a grassy park with puddles strewn across it and trees nearby.]]
+[A tall panel with Cueball and Jill walking together through a landscape with three trees in the background and with many small pools of water. Their reflection is showing in the pool nearest to them.]
 
-Child: What was before the Big Bang?
+Jill: What was before the big bang?
 
-Adult: I think time began with the Big Bang. So it doesn't make sense to ask what came before it.
+Cueball: I think time began with the big bang.
 
-From offscreen: Look out!
+Cueball: So it doesn't make sense to ask what came before it.
 
-[[A cosmologist on a tire swing comes swinging by the pair.]]
+Cosmologist (off panel): *Look out*
 
-Cosmologist: Wheeeee hi I'm a cosmologist on a tire swing!
+[The next six panels are between the first tall panel and a similar panel at the end. They should be read from above and down in two columns of three images. The bottom of the first panel at the top is partly hidden by the second panel which is likewise partly hidden by the lower panel, and this repeats in the second column.]
 
-[[The cosmologist swings back the other way.]]
+[A cosmologist looking like Megan comes swinging left past Jill and Cueball, who turns to look after her. She sits on an upstanding tire swing and the movement is indicated by two lines going from right to left.}
 
-Cosmologist: We don't know whether time--
+Cosmologist: *Wheeee* Hi I'm a cosmologist on a tire swing!
 
-[[Another swing the other direction...]]
+[The cosmologist swings back right, hanging in her arms with her body almost vertical. The other two also turns right.]
 
-Cosmologist: --started at the Big Bang.
+Cosmologist: We don't know whether time
 
-[[Another swing.]]
+[Going left, similar to the first of the small panels.]
+
+Cosmologist: started at the big bang.
+
+[Going right, similar to the second of the small panels, but with the cosmologist sitting more upright.]
 
 Cosmologist: It might have!
 
-[[Another swing.]]
+[Going left, similar to the first of the small panels.]
 
 Cosmologist: Or maybe not! We don't know!
 
-Adult: Oh. Ok!
+Cueball: Oh. OK!
 
-[[Another swing.]]
+[Going right, similar to previous going right panels.]
 
-Child: ...your tire swing looks fun!
+Jill: ...Your tire swing looks fun!
 
 Cosmologist: I can't stop!
 
-[[Continues swinging.]]
+[The last panel is again a full panel, with Cueball and Jill looking towards the right after the cosmologist who continued the last swing to the right from the last small panel, having just reach the upper part of the curve and has thus turned left to face them, before the swing will go down left again. The background is completely white with no indications of the trees and pools from the first panel.]
 
-Child: Won't the swing stop on its own?
+Jill: Won't the swing stop on its own?
 
-Cosmologist: I thought it would but it seems to be accelerating.
+Cosmologist: I thought it would, but it seems to be accelerating.
 
-Child: Cosmology sounds pretty confusing.
+Jill: Cosmology sounds pretty confusing.
 
-Cosmologist: Wheeeee!
-
+Cosmologist: *Wheeeee!*

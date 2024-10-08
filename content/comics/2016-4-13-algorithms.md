@@ -6,9 +6,24 @@ alt: >-
   There was a schism in 2007, when a sect advocating OpenOffice created a fork of Sunday.xlsx and maintained it independently for several months. The efforts to reconcile the conflicting schedules led to the reinvention, within the cells of the spreadsheet, of modern version control.
 img: https://imgs.xkcd.com/comics/algorithms.png
 ---
-[[Two women and a man are standing around, talking.]]
+**Algorithms**<br>By Complexity
 
-Woman: Our lab is studying a fungus that takes over mammal brains and makes them want to study fungi.
+{|
 
-Man: It's very promising! We're opening a whole new wing of the lab just to cultivate it!
+|colspan="6" style="text-align:left;border-bottom:1px solid;"|More complex →
 
+|- style="vertical-align:top;"
+
+|style="padding-right:2em;"|Leftpad
+
+|style="padding-right:2em;"|Quicksort
+
+|style="padding-right:2em;"|GIT<br>Merge
+
+|style="padding-right:2em;"|Self-<br>driving<br>car
+
+|style="padding-right:8em;"|Google<br>Search<br>backend
+
+|Sprawling Excel spreadsheet<br>built up over 20 years by a<br>church group in Nebraska to<br>coordinate their scheduling
+
+|}

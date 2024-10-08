@@ -6,113 +6,138 @@ alt: >-
   I call Rule 34 on Wolfram's Rule 34.
 img: https://imgs.xkcd.com/comics/a_bunch_of_rocks.png
 ---
-[[Man is walking, alone in desert.  Man is narrating his own situation]]
+[Cueball is standing in a desert with lots of rocks lying around. He is narrating his own situation. The first panel spans the entire width of the comic. The first line of text is written to the left of him, the second line to the right.]
 
-Narrator: So I'm stuck in this desert for eternity.
+So I'm stuck in this desert for eternity.
 
-Narrator: I don't know why. I just woke up here one day.
+I don't know why. I just woke up here one day.
 
-Narrator: I never feel hungry or thirsty.
+[The next four panels take up the second line of the comic.]
 
-Narrator: I just walk.
+[Cueball stand in the desert.]
 
-Narrator: Sand and rocks...
+I never feel hungry or thirsty.
 
-Narrator: ...stretch to infinity.
+[Cueball walks in the desert.]
 
-Narrator: As best as I can tell.
+I just walk.
 
-[[Man is sitting in the desert, in a contemplative position]]
+[Zooming out while Cueball continues to walk in the desert.]
 
-Narrator: There's plenty of time for thinking out here.
+Sand and rocks
 
-Narrator: An eternity really.
+[Zooming far out as Cueball again just stands in the desert. First line of text, above him, is a continuation of the text in the previous panel. The second line is below him.]
 
-[[Man is sketching stuff in the sand]]
+stretch to infinity.
 
-Narrator: I've rederived modern math in the sand
+As best as I can tell.
 
-Narrator: and then some.
+[The next three panels take up the third line of the comic. The last takes up half the width.]
 
-[[Different graph types are depicted]]
+[Cueball is sitting in the desert, in a contemplative position. First line of text above him, the second below.]
 
-Narrator: Physics too.  I worked out the kinks in quantum mechanics and relativity.
+There's plenty of time for thinking out here.
 
-Narrator: Took a lot of thinking, but this place has fewer distractions than a Swiss patent office.
+An eternity, really.
 
-[[Man is walking along the desert, laying out rocks]]
+[Cueball is sketching stuff in the sand. First line of text above him, the second below.]
 
-Narrator: One day I started laying down rows of rocks.
+I've rederived modern math in the sand
 
-[[Man continues to deploy rocks]]
+and then some.
 
-Narrator: Each new row followed from the last in a simple pattern.
+[Three different graph types are depicted. First line of text above them, the second below.]
 
-[[Image continues to zoom out showing laid out rocks]]
+Physics too. I worked out the kinks in quantum mechanics and relativity.
 
-Narrator: With the right set of rules and enough space,
+Took a lot of thinking, but this place has fewer distractions than a Swiss patent office.
 
-Narrator: I was able to build a computer.
+[The next eight panels take up the fourth and fifth lines of the comic. All pictures are the same size.]
 
-Narrator: Each new row of stones is the next iteration of the computation.
+[Cueball is walking along the desert, laying out rocks on a line. Four have been deployed. He is laying down the fifth and has a sixth in his other hand.]
 
-Narrator: Sure it's rocks instead of electricity, but it's the same* thing.
+One day I started laying down rows of rocks.
 
-Narrator: Just slower.
+[Cueball, with a rock in his hand, continues to deploy rock 16, in a more intricate pattern. There are grid-lines in the sand (5 rows, 6 columns), with each intersection either empty of filled with a rock. No rocks lay anywhere but at an intersection on the grid.]
 
-Notation: *Turing-complete
+Each new row followed from the last in a simple pattern.
 
-[[Man in contemplative pose]]
+[Zooming out showing even more laid out rocks. Cueball is seen directly from above, and we see his shadow falling on the grid of rocks (7 rows, 14 columns).]
 
-Narrator: After a while, I programmed it to be a physics simulator.
+With the right set of rules and enough space,
 
-[[Image of binary encoding depicted in rocks]]
+[Continues to zoom further out showing clear triangular patterns (with no rocks) in the laid out grid of rocks. Cueball is not seen. (8 rows, 42 columns). First line of text above the grid, the second line below.]
 
-Narrator: Every piece of information about a particle was encoded as a string of bits written in the stones.
+I was able to build a computer.
 
-[[Representations of two particles interacting]]
+Each new row of stones is the next iteration of the computation.
 
-Narrator: With enough time and space, I could fully simulate two particles interacting.
+[Zooming far out (no Cueball) with rows intersected by five clear V lines on top of them. The V's are drawn inside each other, with the smallest V at the top right, and the other V's starting just to the right of the previous one, and then continuing the same distance past the previous V, as the total length of the first V. The "\*" in the first line of text above this grid references to the footnote below written in a smaller font.]
 
-[[Man standing before the vastness of the desert]]
+Sure it's rocks instead of electricity, but it's the same\* thing. Just slower.
 
-Narrator: But I have infinite time and space.
+\*Turing-complete
 
-[[Depiction of a universe]]
+[Cueball stands in a contemplative pose (on a clean white background - i.e. no dessert).]
 
-Narrator: So I decided to simulate a universe.
+After a while, I programmed it to be a physics simulator.
 
-[[Man is walking about his rocks, changing placement]]
+[A black panel with white drawings and text. A small white dot (a particle) is labeled by two arrows coming of two binary strings.]
 
-Narrator: The eons blur past as I walk down a single row.
+Every piece of information about a particle was encoded as a string of bits written in the stones.
 
-[[Zoom out of the rows of rocks]]
+00101010
 
-Narrator: The rows blur past to compute a single step.
+00101010
 
-[[Shows placement of two rocks]]
+[A Feynman diagram showing two particles interacting. Two arrows going in and out with a snaking line between them.]
 
-Narrator: And in the simulation...
+With enough time and space, I could fully simulate two particles interacting.
 
-[[The two rocks have moved; an after-image of their previous placement is present]]
+[The next two panels take up the sixth line of the comic. The second panel takes up three-quarters of the width.]
 
-Narrator: ...another instant ticks by.
+[Cueball standing before the vastness of the desert, with his programmed lines of rock stretching to infinity.]
 
-[[Man #2 observes a mote of dust vanish]]
+But I have <u>infinite</u> time and space.
 
-Narrator: So if you see a mote of dust vanish from your vision in a little flash or something
+[A black panel with white drawings and text. Depiction of two large galaxies, one with four jets coming out of its center, the other a flat disc. Several smaller galaxies and/or stars are shown around them.]
 
-[[Man is rearranging rocks]]
+So I decided to simulate a universe.
 
-Narrator: I'm sorry. I must have misplaced a rock...
+[The next four panels take up the seventh line of the comic. They are of similar widths.]
 
-Narrator: ...sometime in the last few billions and billions of millennia. 
+[Cueball is walking by his grid of rocks, lines indicate he has just thrown another rock down in its place. It falls so hard it sinks into the sand that splashes out around it. The 14 rocks above him lie on the grid, four others below this grid have not been used yet.]
 
-[[Man in front of the vastness of his infinite desert]]
+The eons blur past as I walk down a single row.
 
-Narrator: Oh and...
+[Zoom far far out to show multiple rows of rocks. It is not very clear that there are several triangular patterns (with no rocks) in different sizes in the laid out grid of rocks. There are about 50 rows and 90 columns. There are six large triangles on top of each other at the left edge. To the right, there are three even larger triangles from top to bottom, the one in the middle further to the left than the one above, but further right than the bottom one.]
 
-[[Man is in a classroom setting, girl and professor are present]]
+The rows blur past to compute a single step.
 
-Narrator: if you think the minutes in your morning lecture are taking a long time for _YOU_...
+[Shows the placement of two particles in the simulation.]
 
+And in the simulation...
+
+[The two particles have moved just long enough as to not overlap with their previous positions, shown as an after-image with faint gray lines. The text continues directly the one from the previous panel.]
+
+another instant ticks by.
+
+[The next two panels take up the eighth line of the comic. They each take up half the width.]
+
+[A Cueball-like person (you) observes a mote of dust vanish.]
+
+So if you see a mote of dust vanish from your vision in a little flash or something
+
+[Cueball is standing between two rocks on the ground, while holding two rocks, one lifted up to his head. The first line of text is above him. It is a direct continuation of the text in the previous panel. The second line stands below to the right of him.]
+
+I'm sorry. I must have misplaced a rock
+
+sometime in the last few billions and billions of millennia.
+
+[Cueball stands in the "clean" part of his infinite desert, in front of the vastness of his infinity of infinite lines or rocks.]
+
+Oh, and...
+
+[A Cueball-like student sits in a classroom with his head in his hands, Megan sits behind him, and a teacher points to the blackboard. A clock shows the time at five minutes to ten.]
+
+If you think the minutes in your morning lecture are taking a long time to pass for <u>*you*</u>...

@@ -28,4 +28,134 @@ I definitely know what those mean without Googling
 
 [The list:]
 
-AMD Amsterdam TMI Turkmenistan International BAE Beijing LAX Las Angalas ORD Orlando EWR Edwards Air Force Base IAD Idaho (Boise) PHL Pittsburgh JFC Jefferson City SWF Sherwood Forest IUD Washington Dulles KUL Kingdom of Loathing FYI Fayetteville STL Silent Hill LOL Louisville BUF Sunnydale ATL Atalante TBA Tribeca HGM Hogsmeade SMH Smithfield OMW Omaha BLT Baltimore ANC Ankh-Morpork YYY Toronto Downtown HSV Hunstville YYZ Toronto Pearson SAN San Diego MIA Colombo, Sri Lanka SAN San Juan CLT [Censored] SAN San Jose FHQ Fhqwhgads SAN San Francisco FFS Flagstaff Station SAN San Antonio DTF Dartford DWI Delaware International MDW Midway Atoll DFW Down for Whatever PDX Pordlanx DTW Down to Whatever SEA [Indicates Water Landing]
+{| class="wikitable style=border:none;"|
+
+|-
+
+| AMD || Amsterdam
+
+| TMI || Turkmenistan International
+
+|-
+
+| BAE || Beijing
+
+| LAX || Las Angalas
+
+|-
+
+| ORD || Orlando
+
+| EWR || Edwards Air Force Base
+
+|-
+
+| IAD || Idaho (Boise)
+
+| PHL || Pittsburgh
+
+|-
+
+| JFC || Jefferson City
+
+| SWF || Sherwood Forest
+
+|-
+
+| IUD || Washington Dulles
+
+| KUL || Kingdom of Loathing
+
+|-
+
+| FYI || Fayetteville
+
+| STL || Silent Hill
+
+|-
+
+| LOL || Louisville
+
+| BUF || Sunnydale
+
+|-
+
+| ATL || Atalante
+
+| TBA || Tribeca
+
+|-
+
+| HGM || Hogsmeade
+
+| SMH || Smithfield
+
+|-
+
+| OMW || Omaha
+
+| BLT || Baltimore
+
+|-
+
+| ANC || Ankh-Morpork
+
+| YYY || Toronto Downtown
+
+|-
+
+| HSV || Hunstville
+
+| YYZ || Toronto Pearson
+
+|-
+
+| SAN || San Diego
+
+| MIA || Colombo, Sri Lanka
+
+|-
+
+| SAN || San Juan
+
+| CLT || [Censored]
+
+|-
+
+| SAN || San Jose
+
+| FHQ || Fhqwhgads
+
+|-
+
+| SAN || San Francisco
+
+| FFS || Flagstaff Station
+
+|-
+
+| SAN || San Antonio
+
+| DTF || Dartford
+
+|-
+
+| DWI || Delaware International
+
+| MDW || Midway Atoll
+
+|-
+
+| DFW || Down for Whatever
+
+| PDX || Pordlanx
+
+|-
+
+| DTW || Down to Whatever
+
+| SEA || [Indicates Water Landing]
+
+|-
+
+|}

@@ -3,48 +3,57 @@ date: 2008-02-25
 title: "Fuck Grapefruit"
 num: 388
 alt: >-
-  Coconuts are so far down to the left they couldn't be fit on the chart.  Ever spent half an hour trying to open a coconut with a rock?  Fuck coconuts.
+  Coconuts are so far down to the left they couldn't be fit on the chart. Ever spent half an hour trying to open a coconut with a rock? Fuck coconuts.
 img: https://imgs.xkcd.com/comics/fuck_grapefruit.png
 ---
-[[A X
+[An X-Y scatter plot of fruit where both axes have arrows in both ends. At the end of each arrow is a label.]
 
-Y plot of fruit, showing tastiness on the vertical axis and difficulty-of-consumption on the horizontal axis.  The Y-axis goes from "tasty" at the top, to "untasty" at the bottom.  The X-axis goes from "easy" on the right to "difficult" on the left.]]
+[The X-axis from left to right:]
 
-{{The following listing for each fruit assumes that the extremes of each axis are 100%.  Note that this does not agree with the alt text, but whatever.}}
+Difficult
 
-[[Seedless grapes: 75% tasty, 100% easy
+Easy
 
-Peaches: 100% tasty, 75% easy
+[The Y-axis from top to bottom:]
 
-Strawberries: 80% tasty, 75% easy
+Tasty
 
-Blueberries: 70% tasty, 90% easy
+Untasty
 
-Pears: 30% tasty, 75% easy
+[The fruit names are listed here below from top to bottom according to the how tasty the fruit is, not necessarily in the same order that the names are written if one fruit is tall/large and the other low:]
 
-Green apples: 25% tasty, 80% easy
+Peaches
 
-Seeded grapes: 75% tasty, 10% easy
+Seeded grapes
 
-Cherries: 30% tasty, 40% easy
+Strawberries
 
-Plums: 10% tasty, 60% easy
+Seedless grapes
 
-Red apples: 5% untasty, 80% easy
+Pineapples
 
-Bananas: 10% untasty, 10% easy
+Blueberries
 
-Watermelons: 10% tasty, 10% difficult
+Cherries
 
-Tomatoes: 60% untasty, 20% easy
+Pears
 
-Pineapples: 50% tasty, 100% difficult
+Green apples
 
-Oranges: 40% untasty, 50% difficult
+Plums
 
-Lemons: 100% untasty, 10% difficult
+Watermelons
 
-Pomegranates: 10% untasty, 90% difficult
+Red apples
 
-Grapefruit: 90% untasty, 80% difficult]]
+Bananas
 
+Pomegranates
+
+Oranges
+
+Tomatoes
+
+Grapefruit
+
+Lemons

@@ -6,21 +6,20 @@ alt: >-
   According to a new paper published in the journal Science, reporters are unable to thrive in an arsenic-rich environment.
 img: https://imgs.xkcd.com/comics/arsenic_based_life.png
 ---
-[[Three people, two women and a man, stand looking at a laptop screen, which is sitting on a desk. The woman with a ponytail is pointing at the screen.]]
+[Three people, a curly, dark-haired girl with a ponytail (identifiable from context and hairstyle as Felisa Wolfe-Simon), Megan, and Cueball, stand looking at a laptop screen, which is sitting on a desk. Dr. Wolfe-Simon is pointing at the screen. There is no speech line down to her, but from her posture it must be assumed she does the talking written above the three.]
 
-Ponytail girl: Our arsenic-based DNA discovery is cool, but these reporters are expecting life on Titan! Our press conference will be such a letdown!
+Wolfe-Simon: Our arsenic-based DNA discovery is cool, but these reporters are expecting life on Titan! Our press conference will be such a letdown!
 
-[[Ponytail girl turns around to face the other girl.]]
+[Wolfe-Simon turns around to face Megan, zooming in so Cueball is not in the frame.]
 
-Ponytail: Okay, we need to make it more exciting for them. How do you make an event entertaining? 
+Wolfe-Simon: Okay, we need to make it more exciting for them. How do you make an event entertaining?
 
-Girl #2: Dunno, I suck at parties. Music, I guess?
+Megan: Dunno, I suck at parties. Music, I guess?
 
-[[Ponytail girl turns back around and leans over to start typing on the computer, while the other two look on. The other girl puts her hand to her chin.]]
+[Wolfe-Simon turns back around and leans over to start typing on the computer, while the other two look on. Megan puts her hand to her chin.]
 
-Ponytail: WikiHow says you can "serve cocktails and hors d'oerves that fit the theme of your event."
+Wolfe-Simon: WikiHow says you can "serve cocktails and hors d'œrves that fit the theme of your event."
 
-Girl #2: Easy enough!
+Megan: Easy enough!
 
-[[Ponytail girl stands at a podium on a stage, the man stands amongst the audience with a tray. All the audience members are either dead or dying, having fallen onto the floor or slumped over in their seats.]]
-
+[Wolfe-Simon stands on a podium behind a lectern ready to deliver the news, while Cueball stands amongst the audience, holding a tray with three drinks glasses. A fourth glass lies at foot of the lectern on the podium. Two Cueball-like guys in the audience are lying on the floor, one of them having fallen backwards in his chair, while a third Cueball-like guy is still standing but has his hands up to his throat as he is suffocating. Finally, Ponytail is slumped over in her seat with her head on her chest. One empty chair is still standing.]

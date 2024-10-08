@@ -3,20 +3,23 @@ date: 2007-03-05
 title: "Cat Proximity"
 num: 231
 alt: >-
-  Yes you are!  And you're sitting there!  Hi, kitty!
+  Yes you are! And you're sitting there! Hi, kitty!
 img: https://imgs.xkcd.com/comics/cat_proximity.png
 ---
-[[a graph is drawn, x-axis: "human proximity to cat" from far to near]]
+[A graph with the x-axis labeled, and the scale indicated from left to right:]
 
-[[a curve labeled intelligence veering downwards]]
+Far
 
-[[a curve labeled inanity of statements veering upwards]]
+Human proximity to cat
 
-[[a man standing far from a kitten]]
+Near
 
-[[a man standing closer to a kitten]]
+[Two curves are  drawn and labeled, first the one starting on top, which then veers downwards and crosses the other as that curve veers upwards.]
 
-[[a man standing next to a kitten]]
+Intelligence
 
-Man: You're a kitty!
+Inanity of statements
 
+[Below the graph, Cueball is seen standing at three distances from a cat that is drawn to the far right. The two first Cueballs are just standing, one below far, the other in the middle, and the last is standing close to the cat (below near) with his hands up, and he is speaking.]
+
+Cueball: You're a kitty!

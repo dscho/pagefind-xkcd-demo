@@ -10,27 +10,21 @@ img: https://imgs.xkcd.com/comics/cohort_and_age_effects.png
 
 Cueball: Tonight: Are Millennials killing the joint replacement industry?
 
+[To the left of Cueball is a presentation which includes a two by two table with a header above the table. Each of the two rows and columns are labeled, with rows entitled 'Baby Boomers' and  'Millennials', and columns entitled 'Knee' and 'Hip']
 
+;Operation rate per 100,000
 
+;Baby Boomers:
 
-[To the left of Cueball is a presentation which includes a two by two table with a header above the table. Each of the two rows and columns are labeled, with rows entitled 'Baby Boomers' and 'Millennials', and columns entitled 'Knee' and 'Hip']
+**Knee:** 720
 
-Operation rate per 100,000
+**Hip:** 390
 
-Baby Boomers:
+;Millennials:
 
-Knee: 720
+**Knee:** 1
 
-Hip: 390
-
-Millennials:
-
-Knee: 1
-
-Hip: 3
-
-
-
+**Hip:** 3
 
 [Caption below the panel:]
 

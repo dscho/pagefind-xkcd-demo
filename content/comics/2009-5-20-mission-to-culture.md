@@ -3,38 +3,33 @@ date: 2009-05-20
 title: "Mission to Culture"
 num: 586
 alt: >-
-  It can't be very MUCH money ... they apparently can't even afford a sampler.  I mean, with a little remixing, some of this could be kinda good!
+  It can't be very MUCH money... they apparently can't even afford a sampler. I mean, with a little remixing, some of this could be kinda good!
 img: https://imgs.xkcd.com/comics/mission_to_culture.png
 ---
-[[A man is pulling a woman by the legs.  She is holding onto the ground.]]
+[Cueball is pulling Megan by her feet. She is holding onto the carpet, which visibly folds under her tug.]
 
-Man: We're getting some culture in you if it 
+Cueball: We're getting some culture in you if it *kills* you.
 
-kills
+Megan: Don't wanna.
 
- you.
+[Cueball is pushing Megan at the front door, with steps leading down outside. Megan is curled up with both her feet and her hands up on the middle of the door, her back arching out towards Cueball.]
 
-Woman: Don't wanna.
+Cueball: All you listen to is techno.
 
-[[The man is pushing the woman through a door.]]
+Megan: But... the *symphony?*
 
-Man: All you listen to is techno.
+[Cueball and Megan stand in line between two other couples; A guy, who only has hair around his neck and a cane, and Hairbun stands behind them. A guy with a sailor cap and a woman with a big hair stands before them.]
 
-Woman: But... the 
+Megan: I think we're the only people here under 60.
 
-symphony?
+Cueball: Shhh.
 
-[[The couple stand in line between other people.]]
+[The couple sit in the audience just before the concert.]
 
-Woman: I think we're the only people here under 60.
+Megan: The right side is definitely better.
 
-Man: Shhh.
+Cueball: Better?
 
-Woman: The right side is definitely better.
+Megan: They've all got bigger instruments. I bet they make more money.
 
-Man: Better? 
-
-Woman: They've all got bigger instruments. I bet they make more money.
-
-Man: <<Sigh>>
-
+Cueball: \*Sigh\*

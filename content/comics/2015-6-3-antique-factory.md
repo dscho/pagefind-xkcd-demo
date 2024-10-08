@@ -6,17 +6,16 @@ alt: >-
   WARNING: This item was aged by the same inexorable passage of time that also processes nuts.
 img: https://imgs.xkcd.com/comics/antique_factory.png
 ---
-[[White Beret Guy is walking off, carrying a briefcase.]]
+[Beret Guy is leaving with a briefcase in hand.]
 
-WBG: Gotta go - I'm late for work.
+Beret Guy: Gotta go - I'm late for work.
 
-Off-screen: Oh, where are you working now?
+Off-screen voice: Oh, where are you working now?
 
-WBG: Antique factory!
+Beret Guy: Antique factory!
 
-[[White Beret Guy arrives at his office, where he pulls out his chair from his desk.]]
+[Beret Guy arrives in a room with a chair, a table, and a small cabinet. He pulls out the chair.]
 
-[[He sits at his table and waits.]]
+[Beret Guy sits in the chair. He has placed the briefcase behind the chair.]
 
-[[And waits.]]
-
+[Beat panel.]

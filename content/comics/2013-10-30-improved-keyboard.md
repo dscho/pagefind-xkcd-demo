@@ -6,23 +6,24 @@ alt: >-
   I'm always installing tons of weird experimental keyboards because it serves as a good reminder that nothing I was going to type was really worth the trouble.
 img: https://imgs.xkcd.com/comics/improved_keyboard.png
 ---
-[[A figure walks on screen, holding a phone, and starts talking to black hat guy.]]
+[Cueball walks on screen, holding a phone, and starts talking to Black Hat.]
 
-Figure: Did you get my texts? 
+Cueball: Did you get my texts?
 
-Black hat guy: You should install this keyboard I found. 
+Black Hat: You should install this keyboard I found.
 
-Figure: What? Why? Is it better than SwiftKey?
+Cueball: What? Why? Is it better than SwiftKey?
 
-Black hat guy: In some ways. 
+Black Hat: In some ways.
 
-[[Black hat guy begins to walk off-panel.]]
+[Black Hat begins to walk off-panel.]
 
-Figure: Ok, installing... It's not working. The key area is blank-I can't type anything. 
+Cueball: Ok, installing...
 
-[[Black hat guy has left. The figure stares at their phone.]]
+Cueball: It's not working. The key area is blank—I can't type anything.
 
-[[The figure lets their hand fall to their side.]]
+[Black Hat has left. Cueball stares at his phone.]
 
-Figure: ... Hey.
+[Beat frame. Cueball lets his hands fall to their side.]
 
+Cueball: ...Hey.

@@ -6,19 +6,22 @@ alt: >-
   If you close an account while it's still friends with people, it contributes to database linkage accumulation slowdown, which is a major looming problem for web infrastructure and definitely not a thing I just made up.
 img: https://imgs.xkcd.com/comics/old_accounts.png
 ---
-[[A figure sits at a desk, using a laptop.]]
+[Caption above the frame:]
 
-The Internet is filled with derelict accounts aggregating news about friends long forgotten. 
+The internet is filled with derelict accounts aggregating news about friends long forgotten.
 
-<<Click>>
+[Cueball sits at a desk, typing on a laptop.]
 
-Laptop: Uhh, is everything OK?
+Cueball: \*Click\*
 
-<<Click>>
+Computer (friend): Uhh, is everything OK?
 
-Laptop: Dude, what the Hell?
+Cueball: \*Click\*
 
-<<Click>>
+Computer (another friend): Dude, what the hell?
+
+Cueball: \*Click\*
+
+[Caption below the frame:]
 
 When you find yourself drifting away from a community, remember to clean up after yourself by slowly unfriending everyone, one by one, in the reverse order that you added them.
-

@@ -6,11 +6,9 @@ alt: >-
   You shouldn't look directly at a partial eclipse because of the damage that can be caused by improperly aligning the solar-lunar orbital plane with the orbital bones around your eye.
 img: https://imgs.xkcd.com/comics/earth_orbital_diagram.png
 ---
-
-
 [An orbital map of the Earth is shown. The Sun is in the center, the Earth is at the right bottom, and the Moon is left below the Earth.]
 
-Why isn't there an eclipse every month?
+**Why isn't there an eclipse every month?**
 
 This is a common question! The answer is made clear by a quick look at the Earth's orbital diagram:
 
@@ -24,7 +22,7 @@ Sagittal plane
 
 [Labels on Earth's orbit (beginning at the Earth counterclockwise):]
 
-Perihelix, Declension, Obsequity, Hypothecate, Enceliopsis, Equinox (Solstice in British English)
+Perihelix, Declension, Obsequity, Hypothecate, Enceliopsis, Equinox (*Solstice* in British English)
 
 [Two angles in the plane are labeled as:]
 

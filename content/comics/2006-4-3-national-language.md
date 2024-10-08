@@ -6,19 +6,22 @@ alt: >-
   She's pretty sharp when provoked.
 img: https://imgs.xkcd.com/comics/national_language.jpg
 ---
+[Caption on top:]
+
 This happened to my friend:
 
-[[Men and women are standing in a row]]
+[Three men and two women are standing in a row, next to a table on the right.]
 
-Man: English should be the national language. These immigrants should have to learn English when they come here.
+Cueball: English should be the national language. These immigrants should have to learn English when they come here.
 
-Woman: Yeah
+Megan: Yeah.
 
-Man: When you go to live somewhere, you learn the language they speak there. English is the language of the land.
+Cueball: When you go to live somewhere, you learn the language they speak there.
 
-Other Woman: Excuse me, but osio Sarah dawado.
+Cueball: English is the language of the land.
 
-Man: What the hell was that?
+Ponytail: Excuse me, but osio Sarah dawado.
 
-Other Woman: Woman: Cherokee.
+Cueball: What the hell was that?
 
+Ponytail: Cherokee.

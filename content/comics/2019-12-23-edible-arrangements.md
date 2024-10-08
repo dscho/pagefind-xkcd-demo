@@ -12,7 +12,7 @@ Cueball: I don't get how Edible Arrangements is a thing.
 
 [Zoomed in on Cueball and Megan leaning against the tree]
 
-Megan: That's easy — picking out presents is hard and fruit is delicious.
+Megan: That's easy &mdash; picking out presents is hard and fruit is delicious.
 
 Cueball: Yeah, true.
 

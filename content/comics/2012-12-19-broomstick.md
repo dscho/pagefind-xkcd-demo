@@ -6,21 +6,20 @@ alt: >-
   'Broom first, then slippers.' 'How do I know you'll return the broom once you've secured your ticket?' 'I'll leave my little dog as collateral.' 'Great. Pleasure doing business!'
 img: https://imgs.xkcd.com/comics/broomstick.png
 ---
-[[A woman in red slippers, Dorothy, stands talking to somebody off-screen.]]
+[Megan wearing red shoes talking to somebody off-screen.]
 
-Off-screen character: Bring me the broomstick of the wicked witch of the West and I'll take you home. 
+Off-screen: *Bring me the broomstick of the Wicked Witch of the West and I'll take you home.*
 
-Dorothy: Got it. 
+Megan: Got it.
 
-[[The woman stands at the foot of a staircase talking to the off-screen wicked witch of the West.]]
+[Megan wearing red shoes standing before steps.]
 
-Dorothy: You can have the slippers if you let me borrow your broom.
+Megan: You can have the slippers if you let me borrow your broom.
 
-Wicked witch of the West: Deal.
+Off-screen: Deal.
 
-[[Dorothy, now slipperless, walks along whistling with a broom over her shoulder.]]
+[Megan carrying a broom and singing without wearing the red shoes.]
 
-[[Dorothy and another character are in a hot air balloon floating off the ground. Mountains are in the background. Looking on are the tin man, the lion, and a scarecrow.]]
+[Megan flying in a balloon over three *Wizard of Oz* characters.]
 
-Dorothy: That was easy. 
-
+Megan: That was easy.

@@ -6,19 +6,26 @@ alt: >-
   Shoot for the Moon. If you miss, you'll end up co-orbiting the Sun alongside Earth, living out your days alone in the void within sight of the lush, welcoming home you left behind.
 img: https://imgs.xkcd.com/comics/shoot_for_the_moon.png
 ---
-[[A woman stands at a podium.]]
+[Megan stands at a lectern.]
 
-Woman: Students, shoot for the moon. If you miss, 
+Megan: Students, shoot for the moon. If you miss,
 
-[[A surprisingly lunar-like object is starting to edge into the frame.]]
+[A surprisingly lunar-like object is starting to edge into the frame.]
 
-Woman: SHOOT AGAIN. Keep shooting and never stop. 
+Megan: ***SHOOT AGAIN***.
 
-[[The moon is now almost entirely in-frame now.]]
+Megan: Keep shooting and never stop.
 
-Woman: Someday, one of us will destroy that stupid skycircle. And- ... What? What are you all-
+[The moon is now almost entirely in-frame.]
 
-[[The moon is now in frame, lurking ominously in the background.]]
+Megan: Someday, one of us will destroy that stupid skycircle. And—
 
-Woman: ... It's right behind me, isn't it? Shit. Everyone act casual. 
+Megan: ...What? What are you all—
 
+[The moon is now in frame, lurking ominously in the background.]
+
+Megan: ...it's right behind me, isn't it?
+
+Megan: ***Shit***.
+
+Megan: Everyone act casual.

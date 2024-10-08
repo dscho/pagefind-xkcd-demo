@@ -6,23 +6,24 @@ alt: >-
   I mean, it's been almost twenty years. Now, it's possible you're simply embedding Windows directory paths in your URIs, but in that case you need more than just a short lecture.
 img: https://imgs.xkcd.com/comics/trade_expert.png
 ---
-[[Anchorman sitting at newsdesk.]]
+[Cueball as a news anchor is sitting behind a desk with his hand on the desk, leaning towards his off-panel guest to the right.]
 
-Anchor: (to camera) And for more on the summit, we turn to trade expert Dr. Steven Berlee. Steven?
+Cueball: And for more on the summit, we turn to trade expert Dr. Steven Berlee.
 
-[[Dr. Steven Berlee is sitting to the right of Anchor at newsdesk.]]
+Cueball: Steven?
 
-DSB: I'm not actually a doctor or a trade expert. I'm just a programmer who lies to get on news shows.
+[Zoom out to include Dr. Steven Berlee, also drawn like Cueball, with his hands below he desk, sitting behind the desk to the right of Cueball facing towards him, still with his hands on the desk.]
 
-[[Close-up on DSB.]]
+Steven Berlee: I'm not actually a doctor or a trade expert. I'm just a programmer who lies to get on news shows.
 
-Anchor: (off camera) What? Why?
+[Close-up on Steven Berlee.]
 
-DSB: To share a message with newscasters.
+Cueball (off-panel): What? Why?
 
-[[Pull back to shot of both men.]]
+Steven Berlee: To share a message with newscasters.
 
-Anchor: Which is?
+[Zoom back out to show both men, the news anchor now also with his hands below the desk.]
 
-DSB: Every time you say "backslash" as part of a web address on air, I die a little.
+Cueball: Which is?
 
+Steven Berlee: Every time you say "backslash" as part of a web address on air, I die a little.

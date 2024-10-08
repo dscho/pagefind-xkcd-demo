@@ -14,7 +14,7 @@ Cueball: Sure, it says it was accepted for publication.
 
 Megan: Where?
 
-Cueball: Hmm... The National Academy of Proceedings.
+Cueball: Hmm... *The National Academy of Proceedings*.
 
 [Caption below the panel:]
 

@@ -20,13 +20,13 @@ Megan: Without more data, it would be irresponsible to speculate further.
 
 Cueball: So...you're going to?
 
-Megan: Absolutely.
+Megan: *Absolutely.*
 
 [Frameless panel focusing on Megan.]
 
 Megan: Here are some objects with a similar shape ratio:
 
-Megan: The 1:4:9 monolith from 2001: A Space Odyssey.
+Megan: The 1:4:9 monolith from *2001: A Space Odyssey*.
 
 Megan: A star destroyer.
 
@@ -38,6 +38,6 @@ Megan: A statue of Weird Al. An iPhone XXXXX. Voltron.
 
 Megan: A giant space coffin. But who could be inside? We can only guess. I'll start:
 
-Cueball: This is all based on how many data points, again?
+Cueball: This is all based on *how* many data points, again?
 
-Megan: One. But it's a perfect fit!
+Megan: One. But it's a *perfect* fit!

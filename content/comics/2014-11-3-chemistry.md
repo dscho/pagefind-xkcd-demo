@@ -6,26 +6,34 @@ alt: >-
   These are all sans-serif compounds. Serif compounds are dramatically different and usually much more reactive.
 img: https://imgs.xkcd.com/comics/chemistry.png
 ---
+[A large capital letter "H", with faint gray circles drawn on the ends of each of the four legs.]
 
+Hydrogen can form four bonds. It readily bonds with itself, and often exists as a crystal.
 
-((Capital letter H with circles on each of the legs of the H))
+[A lattice of several H's, all "bonded" together at the ends of their legs in a crisscross, meshlike pattern, labeled:]
 
-Hydrogen can form four bonds.  It readily bonds with itself, and often exists as a crystal.
+Crystalline hydrogen
 
-((Image of several letters H "bonded" labeled crystalline hydrogen))
+[A large capital letter "C", with faint gray circles drawn on both ends of the arc.]
 
-((Capital letter C with circles on each end of the letter))
+Carbon can only form two bonds. It readily bonds with hydrogen to form C<sub>2</sub>H (mydrane) or itself.
 
-Carbon can only form two bonds.  It readily bonds with hydrogen to form CâH (mydrane) or itself.
+[Image of a C and an inverted C, linked at their endpoints, labeled:]
 
-((Image of two letters C linked labeled Câ))
+C<sub>2</sub>
 
-((Image of two letters C linked with a letter H between them labeled CâH))
+[Image of two C's linked with an H between them, labeled:]
 
-((Capital letter O))
+C<sub>2</sub>H
+
+[A large capital letter "O".]
 
 Oxygen is inert, forming no bonds...
 
-((Image of several letters O labeled monatomic oxygen gas))
+[Image of several lone O's, none connected to anything, labeled:]
+
+Monatomic oxygen gas.
+
+[Caption at bottom:]
 
 Typographic chemistry

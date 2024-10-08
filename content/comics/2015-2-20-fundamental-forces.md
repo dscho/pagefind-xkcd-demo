@@ -6,31 +6,50 @@ alt: >-
   "Of these four forces, there's one we don't really understand." "Is it the weak force or the strong--" "It's gravity."
 img: https://imgs.xkcd.com/comics/fundamental_forces.png
 ---
-[[A stick figure lectures]]
+[Cueball is holding his hands up while giving a lecture to an off panel audience.]
 
-Figure: There are four fundamental forces between particles: (1) Gravity, which obeys this inverse square law: Fgravity = G(M1M2)
+Cueball: There are four fundamental forces between particles:
 
-d^2
+(1) ***Gravity***, which obeys this inverse square law:
 
-Off-panel: Ok...
+ F<sub>gravity</sub> = G m<sub>1</sub>m<sub>2</sub>/d<sup>2</sup>
 
-Figure: (2) Electromagnetism, which obeys this inverse-square law: Fstatic = Ke (q1q2)
+<!-- When math arrives, use the following:
 
-d^2
+ <math>F\_{gravity}=G\frac{m\_1m\_2}{d^2}</math> -->
 
-Figure: ANd also maxwell's equations
+Off panel audience: OK...
 
-Off-panel: Also what?
+[Cueball is still holding his hands up while continues the lecture to the off panel audience.]
 
-Figure: (3) The Strong Nuclear Force, which obeys uh... well, umm... It holds protons and neutrons together.
+Cueball: (2) ***Electromagnetism***, which obeys *this* inverse-square law:
 
-Off-panel: I see.
+F<sub>static</sub> = K<sub>e</sub> q<sub>1</sub>q<sub>2</sub>/d<sup>2</sup>
 
-Figure: It's strong.
+<!-- When math arrives, use the following:
 
-Figure: And (4) The Weak Force. It [mumble mumble] radioactive decay [mumble mumble]
+ <math>F\_{static}=K\_e\frac{q\_1q\_2}{d^2}</math> -->
 
-Off-panel: That's not a sentence. You just said "Radio-
+...and also Maxwell's equations
 
-Figure: -And those are the four fundamental forces!
+Off panel audience: Also what?
 
+[Zoom in on Cueball as he continues the lecture to the off panel audience.]
+
+Cueball: (3) The ***strong nuclear force***, which obeys, uh ...
+
+...well, umm...
+
+...it holds protons and neutrons together.
+
+Off panel audience: I see.
+
+Cueball: It's strong.
+
+[Cueball finishes the lecture to the off panel audience and spreads out his arm for the final remark.]
+
+Cueball: And (4) the ***weak force***. It [mumble mumble] radioactive decay [mumble mumble]
+
+Off panel audience: That's not a sentence. You just said “Radio-
+
+Cueball: – ***And those are the four fundamental forces!***

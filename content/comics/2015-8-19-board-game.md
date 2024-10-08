@@ -6,9 +6,12 @@ alt: >-
   Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were.
 img: https://imgs.xkcd.com/comics/board_game.png
 ---
-[[Four board gamers sit around a table, looking at one another across a pile of books and papers.]]
+[Hairy, Cueball, Ponytail (reading something), and Hairbun (holding some cards) are sitting around a table. There are several other objects on the table.]
 
-Randall: Now, this pile is "Allowable deduction" cards. You match them with cards in your hand to preserve their full point value. Over here are "dependent" tokens..
+Cueball: ...Now, this pile is "allowable deduction" cards. You match them with cards in your hand to preserve their full point value.
 
-Caption: Every year i trick a local board game club into doing my taxes.
+Cueball: Over here are "dependent" tokens...
 
+[Caption below the frame:]
+
+Every year, I trick a local board game club into doing my taxes.

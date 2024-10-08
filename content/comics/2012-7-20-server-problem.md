@@ -6,41 +6,26 @@ alt: >-
   Protip: Annoy Ray Kurzweil by always referring to it as the 'Cybersingularity'.
 img: https://imgs.xkcd.com/comics/server_problem.png
 ---
-Person 1, sitting at laptop: I, um, messed up my server again.
+[Cueball at his computer calls out for Megan who comes walking in to the frame.]
 
-Person 2: I'll take a look.  You have the *weirdest* tech problems
+Cueball: I, um, messed up my server again.
 
-[[Person 2 uses the root prompt]]
+Megan: I'll take a look. You have the *weirdest* tech problems.
 
-~# ls
+[Zoom in on only Megan who uses the root prompt on the computer.]
 
-[[computer returns the following]]
+<code><font color="gray">~#</font> ls</code>
 
-usr
+[Megan stands next to the computer, Cueball sits behind her on his chair. The computer returns the following:]
 
-share
+<code>/usr/share/Adobe/doc/example/android\_vm/root/sbin/ls.jar:</code>
 
-Adobe
+<code>Error: Device is not responding.</code>
 
-doc
+[Megan turns towards Cueball who lifts his hands with palm up.]
 
-example
+Megan: What did you *do!?*
 
-android_vm
+Cueball: Maybe the device is busy. Should I try it later?
 
-root
-
-sbin
-
-ls.jar:
-
-Error: Device is not responding.
-
-[[Person 2 has an amazingly incredulous look on their face]]
-
-Person 2: What did you *do*!?
-
-Person 1: Maybe the device is busy. Should I try it later?
-
-Person 2: You should shut down this system and wait for the Singularity.
-
+Megan: You should shut down this system and wait for the Singularity.

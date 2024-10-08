@@ -18,18 +18,18 @@ Bearded man: My "Unicode" standard should help reduce problems caused by incompa
 
 Senator Angus King‏
 
-@SenAngusKing
+<span style="color:gray">@SenAngusKing</span>
 
-Great news for Maine - we're getting a lobster emoji!!! Thanks to @unicode for recognizing the impact of this critical crustacean, in Maine and across the country.
+Great news for Maine - we're getting a lobster emoji!!! Thanks to <span style="color:#0066FF">@unicode</span> for recognizing the impact of this critical crustacean, in Maine and across the country.
 
 Yours truly,
 
 Senator 🐮👑
 
-2/7/18 3:12 PM
+<span style="color:gray">2/7/18 3:12 PM</span>
 
 [Cueball and the bearded man (the latter now grey-haired) are looking at a wall with the Unicode standard, labeled "1988", and Senator King's tweet, labeled "2018", posted on it.]
 
 Cueball: What... what happened in those thirty years?
 
-Bearded man: Things got a little weird, okay?
+Bearded man: *Things got a little weird, okay?*

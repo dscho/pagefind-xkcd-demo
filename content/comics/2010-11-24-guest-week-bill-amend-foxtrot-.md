@@ -6,45 +6,48 @@ alt: >-
   Guest comic by Bill Amend of FoxTrot, an inspiration to all us nerdy-physics-majors-turned-cartoonists, of which there are an oddly large number.
 img: https://imgs.xkcd.com/comics/guest_week_bill_amend_foxtrot.png
 ---
-[[Jason from FoxTrot is sitting at an artist's desk with a pencil, holding a phone.]]
+[Jason from FoxTrot is sitting at an artist's desk with a pencil, holding a phone.]
 
 Jason: Hi, Mr. Munroe? I have a great idea! Let me draw some strips for you!
 
-Mr. Munroe, through the telephone:  Fat chance, kid.
+Randall, through the telephone: Fat chance, kid.
+
+[Zoom in to Jason.]
 
 Jason: Sudo let me draw some strips for you.
 
-((There follow three strips.  These will be separated by double new lines.))
+[The following are transcripts of three strips.]
 
-[[A man and woman are looking at each other.]]
+[Cueball and Ponytail are looking at each other.]
 
-Man: I find you more attractive than usual.
+Cueball: I find you more attractive than usual.
 
-Woman: You do? Is it my new haircut?
+Ponytail: You do? Is it my new haircut?
 
-Man: Actually, I think it's all the weight you've been putting on.  Your gravitational pull is pretty severe.
+[Zoom in to Cueball.]
 
-[[The man is now alone in the panel.]]
+Cueball: Actually, I think it's all the weight you've been putting on. Your gravitational pull is pretty severe.
 
-Man: Just sayin!
+[Cueball is now alone in the panel.]
 
-[[Two people are in a living room.  The woman is looking through a chest of drawers.]]
+Cueball: Just sayin'.
 
-At home with the Heisenbergs.
+[Two people are in a living room. The woman is looking through a chest of drawers.]
+
+At home with the Heisenbergs
 
 Mrs. Heisenberg: I can't find my car keys.
 
 Mr. Heisenberg: You probably know too much about their momentum.
 
-[[A man is standing on a stage, holding up a hammer.  A crowd is in front of the stage.]]
+[Congress is in session.  The Speaker is standing on stage in front of an American Flag hanging by an ionic column, holding up a gavel. Seven Members of Congress are seen in front of the stage: a Cueball, a Hairbun, a man with glasses, a woman with long hair, and three more Cueballs.  The first, fourth, and sixth members have their hands raised.]
 
-Why mathematicians should run for Congress
+Caption: Why mathematicians should run for Congress
 
-Man: All those in favor of the bill say "aye."
+Speaker: All those in favor of the bill say "aye."
 
-Audience member #1: Aye.
+Congressman #1: Aye.
 
-Audience member #2: Aye.
+Congresswoman #2: Aye.
 
-Audience member #3: {{Square root symbol}} -1.
-
+Congress–Mathematician: √-1

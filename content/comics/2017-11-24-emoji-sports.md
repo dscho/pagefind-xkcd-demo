@@ -6,78 +6,78 @@ alt: >-
   No horse has yet managed the elusive Quadruple Crown—winning the Kentucky Derby, the Preakness, the Belmont Stakes, and the Missouri Horse Hole.
 img: https://imgs.xkcd.com/comics/emoji_sports.png
 ---
-New sports
+<big>New sports</big>
 
 created from random emoji
 
 [Man Playing Water Polo + Volcano]
 
-🤽‍♂️🌋 Lavaball
+🤽‍♂️🌋 	Lavaball
 
 [Woman Playing Handball + Person Fencing]
 
-🤾‍♀️🤺 Bladeball
+🤾‍♀️🤺 	Bladeball
 
 [Woman Dancing (2 emojis) + Soccer Ball]
 
-💃💃⚽ Fancyball
+💃💃⚽ 	Fancyball
 
 [Hole + Horse Racing (3 emojis)]
 
-🕳️🏇🏇🏇 Horse hole
+🕳️🏇🏇🏇 	Horse hole
 
 [Kitchen Knife + Basketball + Pick]
 
-🔪🏀⛏️ Basketball shredding
+🔪🏀⛏️ 	Basketball shredding
 
 [Egg + Telescope + Woman Detective]
 
-🥚🔭🕵️‍♀️ Eggspotting
+🥚🔭🕵️‍♀️ 	Eggspotting
 
 [Skier + Crocodile]
 
-⛷️🐊 Alligator jumping
+⛷️🐊 	Alligator jumping
 
 [Woman + Fishing Pole + Merman]
 
-👩🎣🧜‍♂️ Merfishing
+👩🎣🧜‍♂️ 	Merfishing
 
 [Man + Badminton + Fairy + Badminton + Woman]
 
-👨🏸🧚🏸👩 Tinkerball
+👨🏸🧚🏸👩 	Tinkerball
 
 [Curling Stone + Hedgehog + Curling Stone]
 
-🥌🦔🥌 Hedgehog curling
+🥌🦔🥌 	Hedgehog curling
 
 [Clamp + Hamburger]
 
-🗜️🍔 Burger clamping
+🗜️🍔 	Burger clamping
 
 [Woman Astronaut + Bow and Arrow + Satellite]
 
-👩‍🚀🏹🛰️ Consequence archery
+👩‍🚀🏹🛰️ 	Consequence archery
 
 [Owl + Right Arrow + Open Mailbox]
 
-🦉➡️📬 Owlstuffing
+🦉➡️📬 	Owlstuffing
 
 [Fork and Knife + Candle + Fork and Knife]
 
-🍴🕯️🍴 Candle eating
+🍴🕯️🍴 	Candle eating
 
 [Flag in Hole + Bomb + Woman Golfing]
 
-⛳💣🏌️‍♀️ Consequence golf
+⛳💣🏌️‍♀️ 	Consequence golf
 
 [Pointing Right + Snake + Pointing Left]
 
-👉🐍👈 Snake shaming
+👉🐍👈 	Snake shaming
 
 [Fire + Woman Climbing + Fire]
 
-🔥🧗‍♀️🔥 Hell escape
+🔥🧗‍♀️🔥 	Hell escape
 
 [Video Game + Avocado + Video Game]
 
-🎮🥑🎮 Multiplayer avocado
+🎮🥑🎮 	Multiplayer avocado

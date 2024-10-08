@@ -22,7 +22,7 @@ Cueball: Apparently wormholes can use exotic matter to–
 
 Megan: I know. Like I said–
 
-Charge: Bzzzt!
+Charge: <big>*Bzzzt!*</big>
 
 [Megan has turned away from Cueball to the right. Megan from the future, wearing sunglasses, a headset and a machine strapped to her back has entered the frame from the right where the charge appeared.]
 

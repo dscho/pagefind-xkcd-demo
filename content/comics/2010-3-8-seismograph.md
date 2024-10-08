@@ -6,13 +6,14 @@ alt: >-
   The reverse only works if the subject has a nervous twitch.
 img: https://imgs.xkcd.com/comics/seismograph.png
 ---
-[[A man is standing over another man, who is strapped into a chair with wires attached to his head and arms. The wires lead to a large lie detector on a stand next to him, which has jagged lines drawn across it.]]
+[Cueball is standing over another man, who is strapped into a chair with wires attached to his head and arms. The wires lead to a large lie detector on a stand next to him, which has jagged lines drawn across it.]
 
-Standing man: IS THERE AN EARTHQUAKE HAPPENING?!
+Cueball: *IS THERE AN EARTHQUAKE HAPPENING?!*
 
 Sitting man: No!
 
-<<SCRITCH SCRITCH>>
+Lie detector: *scritch scritch*
 
-Pro Tip: In a pinch, a lie detector can double as a seismograph. 
+[Caption below the panel:]
 
+Pro tip: In a pinch, a lie detector can double as a seismograph.

@@ -18,7 +18,7 @@ Cueball: But at some point, the cost of the time it takes me to understand the o
 
 Cueball: So I need to figure out where that point is, and stop before I reach it.
 
-Cueball: But... when I factor in the time to calculate THAT, it changes the overall answer.
+Cueball: But... when I factor in the time to calculate <i>THAT</i>, it changes the overall answer.
 
 [Cueball has his arms outstretched.]
 

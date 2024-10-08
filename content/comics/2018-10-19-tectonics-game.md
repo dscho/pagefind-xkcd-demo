@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/tectonics_game.png
 
 Cueball: What game is that?
 
-Ponytail: Tectonics!
+Ponytail: *Tectonics!*
 
 Ponytail: You steer chunks of crust around, rifting, subducting, and building and eroding mountains.
 
@@ -18,7 +18,7 @@ Ponytail: You steer chunks of crust around, rifting, subducting, and building an
 
 Ponytail (narrating): You try to keep your climate stable and your biosphere rich.
 
-Ponytail (narrating): Avoid making large igneous provinces! They're the worst.
+Ponytail (narrating): Avoid making large igneous provinces! They're the *worst*.
 
 [Cueball holds his hand out in a frameless panel.]
 
@@ -40,6 +40,6 @@ Ponytail: Continents can only move a few inches per year.
 
 [Cueball has stopped playing and holds the controller in one hand. Ponytail points at the screen that shows an achievement page with no completed achievements, but a progress bar halfway done for an achievement with the number 1 and a mountain.]
 
-Cueball: It's real-time?
+Cueball: It's *real-time?*
 
 Ponytail: Just 400 millennia to go until your first mountain achievement!

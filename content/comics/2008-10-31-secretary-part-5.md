@@ -6,7 +6,7 @@ alt: >-
   And they choose Al Gore as Internet Secretary.
 img: https://imgs.xkcd.com/comics/secretary_part_5.png
 ---
-{{The Senate. Hat Guy sits before the committee at his hearing to become Internet Secretary.}}
+[The Senate. Black Hat sits before the committee at his hearing to become Internet Secretary.]
 
 Chairman: We were convened here to review your nomination for the position of internet secretary.
 
@@ -14,101 +14,103 @@ Chairman: However, on review of your qualifications, we've decided to sentence y
 
 Chairman: An unorthodox move, sure. But the vote was unanimous.
 
-{{Hat Guy is leaning back in his chair.}}
+[Black Hat is leaning back in his chair.]
 
-[[Meanwhile . . .]]
+[Tron Paul's lightcycle swerves wildly.]
+
+Meanwhile...
 
 Tron Paul: There's no grid! How do I steeeeer!!!!!
 
-{{Back at the Senate. Hat Guy is standing.}}
+[Back at the Senate. Black Hat is standing.]
 
-Hat Guy: Well, it's been fun. But I was never actually interested in taking the position. Good lord; listening to internet arguments all day? No thank you.
+Black Hat: Well, it's been fun. But I was never actually interested in taking the position. Good lord; listening to internet arguments all day? No thank you.
 
 Chairman: Then why did you sit through all those hearings?
 
-Hat Guy: It was taking us a while to move the pumps into the maintenance tunnels.
+Black Hat: It was taking us a while to move the pumps into the maintenance tunnels.
 
-{{The committee members murmur among themselves.}}
+[The committee members murmur among themselves.]
 
-{{There is a panel in the floor between Hat Guy and the committee.}}
+[There is a panel in the floor between Black Hat and the committee.]
 
-<<RUMBLE>>
+*RUMBLE*
 
-<<plink>> <<plink>>
+*plink plink*
 
-{{A red playpen ball bursts out of the panel and rolls towards the committee chairman.}}
+[A red playpen ball bursts out of the panel and rolls towards the committee chairman.]
 
-<<plink>>
+*plink*
 
-{{The room is still. Hat Guy's arms are folded.}}
+[The room is still. Black Hat's arms are folded.]
 
-{{A geyser of red, white, and blue playpen balls bursts through the panel in the floor. Hat Guy is already gone.}}
+[A geyser of red, white, and blue playpen balls bursts through the panel in the floor. Black Hat is already gone.]
 
-<<FOOM>>
+*FOOM*
 
-{{The committee members chase Hat Guy out the door as the Senate floor floods with playpen balls.}}
+[The committee members chase Black Hat out the door as the Senate floor floods with playpen balls.]
 
-{{The chase continues into the rotunda, as does the flood of playpen balls.}}
+[The chase continues into the rotunda, as does the flood of playpen balls.]
 
-{{Hat Guy stands in the middle of the rotunda as it fills with playpen balls, surrounded by members of the committee.}}
+[Black Hat stands in the middle of the rotunda as it fills with playpen balls, surrounded by members of the committee.]
 
 Committee Members: Security! Someone!
 
 Committee Members: Get Him!
 
-{{Tron Paul bursts through the wall.}}
+[Tron Paul bursts through the wall.]
 
-<<CRASH>>
+*CRASH*
 
 Tron Paul: Aaaaa!
 
-{{Hat Guy grabs the bottom of the lightcycle as Tron Paul goes by.}}
+[Black Hat grabs the bottom of the lightcycle as Tron Paul goes by.]
 
-<<snag>>
+*snag*
 
 Tron Paul: Hey!
 
-{{Hat Guy swings onto the top of the light cycle.}}
+[Black Hat swings onto the top of the light cycle.]
 
-{{Hat Guy crouches on top of the light cycle.}}
+[Black Hat crouches on top of the light cycle.]
 
 Tron Paul: Get Off!
 
-{{Tron Paul and Hat Guy crash through the far wall of the rotunda.}}
+[Tron Paul and Black Hat crash through the far wall of the rotunda.]
 
-<<CRASH>>
+*CRASH*
 
-{{Tron Paul hits the ground.}}
+[Tron Paul hits the ground.]
 
-<<WHAM>>
+*WHAM*
 
 Tron Paul: Ow!
 
-{{Hat Guy runs away.}}
+[Black Hat runs away.]
 
 Tron Paul: Ughhh.
 
-{{The lightcycle disappears.}}
+[The lightcycle disappears.]
 
-Tron Paul: I feel queasy . . .
+Tron Paul: I feel queasy...
 
 Cory Doctorow, above: Hey!
 
-Hat Guy: Hi, Cory.
+Black Hat: Hi, Cory.
 
 Cory Doctorow: Need a lift?
 
-Hat Guy: Sure.
+Black Hat: Sure.
 
-{{Hat Guy and Cory Doctorow depart in Doctorow's balloon.}}
+[Black Hat and Cory Doctorow depart in Doctorow's balloon.]
 
 Cory Doctorow: So are you, like, a fugitive now?
 
-Hat Guy: Well, I never did give them my name . . .
+Black Hat: Well, I never did give them my name...
 
-[[But in the rotunda]]
+[Senators play in the playpen balls.]
 
-{{Senators play in the playpen balls.}}
+But in the rotunda
 
 Senators: Let's jump down here from the balcony!
 
@@ -118,5 +120,4 @@ Senators: Wheeee!
 
 Senators: I'm a submarine!
 
-[[All is forgiven.]]
-
+All is forgiven.

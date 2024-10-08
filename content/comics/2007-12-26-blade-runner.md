@@ -3,35 +3,31 @@ date: 2007-12-26
 title: "Blade Runner"
 num: 362
 alt: >-
-  Blade Runner: Classic, but incredibly slow.
+  Blade Runner: classic, but incredibly slow.
 img: https://imgs.xkcd.com/comics/blade_runner.png
 ---
-[[Guy 1 is talking to Guy 2, who is on the sofa watching TV]]
+Friend: What DVD is this?
 
-Guy 1: What DVD is this?
+Cueball: *Blade Runner*. I got it for Christmas.
 
-Guy 2: Blade Runner. I got it for Christmas.
+Friend: The one with Harrison Ford, right? And the Olsen twins?
 
-Guy 1: The one with Harrison Ford, right? And the Olsen twins?
+Cueball: Ye— What? Olsen twins? No, this is the 80's sci-fi classic!
 
-Guy 2: Ye- What? Olsen twins? No, this is the 80's sci-fi classic!
+Friend: Huh. I didn't know the Olsen twins even *did* sci-fi.
 
-Guy 1: Huh. I didn't know the Olsen twins even did sci-fi.
+Cueball: ...They *don't*.
 
-Guy 2: ... they don't.
+Friend: So is Ashley the replicant, or is Mary-Kate? I can never tell them apart.
 
-Guy 1: So is Ashely the replicant, or is Mary-Kate? I can never tell them apart.
+Cueball: Neither! They're not *in* this movie!
 
-Guy 2: Neither! They're not in this movie!
+Friend: Then who is?
 
-Guy 1: Then who is?
+Cueball: Daryl Hannah!
 
-Guy 2: Daryl Hannah!
+Friend: I liked her in *Full House*.
 
-Guy 1: I liked her in Full House.
+Cueball: I hate you.
 
-Guy 2: I hate you.
-
-Guy 1: Man, this movie is just a New York Minute rip-off.
-
-{{ Blade Runner: classic, but incredibly slow. }}
+Friend: Man, this movie is just a *New York Minute* rip-off.

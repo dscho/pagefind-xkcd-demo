@@ -6,33 +6,32 @@ alt: >-
   The MythBusters need to tackle whether a black hole from the LHC could REALLY destroy the world.
 img: https://imgs.xkcd.com/comics/induced_current.png
 ---
-[[A man wearing a beret, extension cord in hand, approaches Randall as he works at his computer.]]
+[Beret Guy, extension cord in hand, approaches Cueball as he works at his computer.]
 
-Beret: Can I plug my extension cord over here?
+Beret Guy: Can I plug my extension cord over here?
 
-Randall: No.
+Cueball: No.
 
-Beret: Why?
+Beret Guy: Why?
 
-Randall: Solar Flares.
+Cueball: Solar Flares.
 
-[[A diagram is displayed, illustrating the Earth's magnetic field being permanently impacted by a large solar flare (represented by a large arrow).]]
+[A diagram is displayed, illustrating the Earth's magnetic field being permanently impacted by a large solar flare (represented by a large arrow).]
 
-[[A second diagram is presented, illustrating the Earth's rotation and the resulting impact that the solar flare would have on the earth's magnetic field. ]]
+[A second diagram is presented, illustrating the Earth's rotation and the resulting impact that the solar flare would have on the earth's magnetic field.]
 
-Randall: A large solar flare could dent the Earth's magnetic field inwards. The Earth's spin could then induce a strong current in any long conductors, melting them and starting fires. By extending your cord, you could kill us all.
+Cueball: A large solar flare could dent the Earth's magnetic field inwards. The Earth's spin could then induce a strong current in any long conductors, melting them and starting fires. By extending your cord, you could kill us all.
 
-[[Stunned, the man wearing the beret looks down at the cord he carries.]]
+[Stunned, Beret Guy looks down at the cord he carries.]
 
-Beret: Really?
+Beret Guy: Really?
 
-Randall: Warn your friends.
+Cueball: Warn your friends.
 
-[[Dejected, the man walks away, cord in tow.]]
+[Dejected, Beret Guy walks away, cord in tow.]
 
-[[Randall looks up from his computer as he is braced by his girlfriend, a stern look in her face.]]
+[Cueball looks up from his computer as he is braced by Megan, a stern look in her face.]
 
-Girlfriend: That was MEAN.
+Megan: That was mean.
 
-Randall: Listen, SOMEBODY has to keep MythBusters in business. Next season should be fun.
-
+Cueball: Listen, *somebody* has to keep Mythbusters in business. Next season should be fun.

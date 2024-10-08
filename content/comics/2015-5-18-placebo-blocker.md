@@ -6,19 +6,26 @@ alt: >-
   They work even better if you take them with our experimental placebo booster, which I keep in the same bottle.
 img: https://imgs.xkcd.com/comics/placebo_blocker.png
 ---
-[[Two figures, one is monologuing]]
+[Hairbun is standing in front of Cueball who does all the talking. Below them is a footnote.]
 
-Figure: Some reasearchers(hall et al, doi: 10.1015
+Cueball: Some researchers\* are starting to figure out the mechanism behind the placebo effect.
 
-molmed 2015 02 009) are starting to figure out the mechanism behind the placebo effect. 
+Cueball: We've used their work to create a new drug: A *placebo effect blocker*.
 
-We've used their work to create a new drug: a placebo effect blocker.
+Footnote: \* Hall et al, DOI: 10.1016/J.MOLMED.2015.02.009
 
-Now we just need to run a trial! We'll get two groups, give them both placebos, then give one the real placebo blocker, and the other a... wait...
+[Zoom in on Cueball who now holds his arms out.]
 
-[[A panel where nothing is said]]
+Cueball: Now we just need to run a trial! We'll get two groups, give them both placebos, then give one the *real* placebo blocker, and the other a...
 
-Audience: My head hurts.
+Cueball: ...wait.
 
-Figure: Mine too. Here, want a sugar pill?
+[Hairbun holds her chin, while Cueball just stand there for a beat panel.]
 
+[Hairbun looks again at Cueball who begins to take the lid off of a medicine bottle.]
+
+Hairbun: ...My head hurts.
+
+Cueball: Mine too.
+
+Cueball: Here, want a sugar pill?

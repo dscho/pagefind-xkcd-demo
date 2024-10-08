@@ -24,7 +24,7 @@ No
 
 Add a few degrees
 
-[From the bottom box an arrow goes back to the diamond. The other arrow from the diamond goes right to a final box with no arrows. Again both the arrow and the box has labels:]
+[From the bottom box an arrow goes back to the diamond. The other arrow from the diamond goes right to a final box with no arrows.  Again both the arrow and the box has labels:]
 
 Yes
 

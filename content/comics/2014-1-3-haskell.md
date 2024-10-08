@@ -6,11 +6,8 @@ alt: >-
   The problem with Haskell is that it's a language built on lazy evaluation and nobody's actually called for it.
 img: https://imgs.xkcd.com/comics/haskell.png
 ---
-[[Two people are conversing.]]
+[Megan and Cueball are discussing.]
 
-Person #1: Code written in Haskell is guaranteed to have no side effects.
+Megan: Code written in Haskell is guaranteed to have no side effects.
 
-Person #2: ...because no one will ever run it?
-
- 
-
+Cueball: ...because no one will ever run it?

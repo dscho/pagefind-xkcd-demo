@@ -4,7 +4,7 @@ title: "Birdwatching"
 num: 1826
 alt: >-
   No, tell the park rangers to calm down, it's fine--I put a screen on the front. I just want to get the birds a little closer.
-img: https://imgs.xkcd.com/comics/birdwatching.png
+img: https://imgs.xkcd.com/comics/birdwatching_small.png
 ---
 [Cueball and Knit Cap with a knit cap are standing together looking up in the sky. Cueball holds a camera with a large lens down in front of him, and his friend holds binoculars down in front of him.]
 
@@ -20,6 +20,6 @@ Cueball: That hawk is over a mile up! How did you even spot it?
 
 [Cueball now has a vacuum cleaner with a big body and a large hose which he is pointing towards the sky, as air is visibly sucked in to the hose and the vacuum cleaner is making a very loud noise which extends beyond the frame of the panel.Cueball is holding one hand on the vacuum cleaner which has a label with its brand on it. Cueball's camera lies on the ground in front of the vacuum cleaner. The friend looks back at Cueball.]
 
-Vacuum cleaner: Whrrrrr
+Vacuum cleaner: <big>***WHRRRRR***</big>
 
 Label: Shop Vac

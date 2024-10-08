@@ -6,25 +6,30 @@ alt: >-
   He's just jealous because everyone's up in the attic listening to Stephen Colbert.
 img: https://imgs.xkcd.com/comics/writers_strike.png
 ---
-[[One character sits in front of a computer, Hat Guy behind him]]
+[Cueball sits in front of a desk with a computer. Black Hat stands behind him.]
 
-Person: This writer's strike sucks.
+Cueball: This writer's strike sucks.
 
-Hat Guy: Why? You don't watch sitcoms.
+Black Hat: Why? You don't watch sitcoms.
 
-Person: Yeah, but it sucks having political campaigns without Jon Stewart's commentary.
+[Cueball is off-panel.]
 
-Hat Guy: True. I finally got sick of it a couple weeks ago.
+Cueball: Yeah, but it sucks having political campaigns without Jon Stewart's commentary.
 
-Person: And you quit following the campaigns?
+Black Hat: True. I finally got sick of it a couple weeks ago.
 
-Hat Guy: No. I kidnapped Jon Stewart to do analysis for me.
+[Black Hat points at a door. Cueball is still off-panel.]
 
-Person: You what?
+Cueball: And you quit following the campaigns?
 
-Hat Guy [[Pointing at a door]]: He's locked in the basement.
+Black Hat: No. I kidnapped Jon Stewart to do analysis for me.
 
-Hat Guy: Jon! Obama's leading in Iowa! Gimme a wry, witty comment on the situation!
+Cueball: You what?
 
-Stewart [[Voice coming from door]]: Please let me go. I have a family.
+[Black Hat is shouting at the door.]
 
+Black Hat: He's locked in the basement.
+
+Black Hat: Jon! Obama's leading in Iowa! Gimme a wry, witty comment on the situation!
+
+Jon Stewart [Voice coming from door]: Please let me go. I have a family.

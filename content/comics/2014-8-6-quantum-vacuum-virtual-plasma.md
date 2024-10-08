@@ -6,23 +6,24 @@ alt: >-
   I don't understand the things you do, and you therefore may represent an interaction with the quantum vacuum virtual plasma.
 img: https://imgs.xkcd.com/comics/quantum_vacuum_virtual_plasma.png
 ---
-[[Two figures are walking along, chatting.]]
+[Cueball and Megan are walking together in the foreground.]
 
-Figure: Hear about that "impossible" microwave thruster? 
+Cueball: Hear about that "impossible" microwave thruster?
 
-[[The figures stop walking and look at each other.]]
+[They stop walking and Cueball turns to face Megan.]
 
-Woman: Yeah. Let me get this straight - they pumped 20 kilowatts into a box under ambient conditions... and it only twitched a *little*?
+Megan: Yeah. Let me get this straight — they pumped 20 kilowatts into a box under ambient conditions
 
-Figure: Yeah. 
+...and it only twitched a *little*?
 
-[[The figures continue walking. We see them in silhouette.]]
+Cueball: Yeah.
 
-Woman: *That's* surprising. If you umped 20 kilowatts into *me*, I'd twitch a *lot*. 
+[Zoomed out - they are seen in silhouette walking together again.]
 
-Figure: But you're not pushing on the quantum vacuum.
+Megan: *That's* surprising. If you pumped 20 kilowatts into *me*, I'd twitch a *lot*.
 
-Woman: I *might* be. I do a lot of things. 
+Cueball: But you're not pushing on the quantum vacuum.
 
-Figure: I guess we can't be sure. 
+Megan: I *might* be. I do a lot of things.
 
+Cueball: I guess we can't be sure.

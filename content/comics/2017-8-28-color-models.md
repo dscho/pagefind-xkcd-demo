@@ -12,11 +12,11 @@ Evolution of my understanding of color over time:
 
 [On the left side is a vertical dashed line in gray, on top it's labeled:]
 
-Grade school
+<span style="color:grey;">Grade school</span>
 
 [And at the bottom the label reads:]
 
-Now
+<span style="color:grey;">Now</span>
 
 [Header above the chart:]
 
@@ -28,7 +28,7 @@ Now
 
 ...a rainbow, and each color is a wavelength
 
-...unknowable ("maybe what I see as blue, you see as...")
+...unknowable ("maybe what *I* see as blue, *you* see as...")
 
 [Arrows from the left and the middle item point to a new left one, while two other arrows from the middle and the right item lead to one at the right.]
 
@@ -42,7 +42,7 @@ Now
 
 [The remaining items are all in the middle and each is connected by one arrow downwards to the next.]
 
-...an abstract multidimensional gamut (CIE 1931, L*a*b*, etc)
+...an abstract multidimensional gamut (CIE 1931, L\*a\*b\*, etc)
 
 ...an abstract multidimensional gamut filtered through inconsistently-implemented device color profiles
 

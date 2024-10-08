@@ -8,8 +8,8 @@ img: https://imgs.xkcd.com/comics/recurring_nightmare.png
 ---
 [Megan, standing next to Cueball, is gesturing with her arms wide.]
 
-Megan: I keep having nightmares that I show up at school, and then suddenly panic as I realize–
+Megan: I keep having nightmares that I show up at school, and then suddenly panic as I realize&ndash;
 
-Cueball: –that you're naked?
+Cueball: &ndash;that you're naked?
 
-Megan: That I'm in a crowded room!
+Megan: ***That I'm in a crowded room!***

@@ -6,18 +6,22 @@ alt: >-
   Bad idea #271: Dropping into the half-pipe on a Segway.
 img: https://imgs.xkcd.com/comics/tony_hawk.png
 ---
+[A header and an explanation is written above two drawings of Cueball performing skateboard trick while playing games on his PSP.]
+
 My Hobby:
 
-Doing skateboard tricks in Tony Hawk while also doing them in real life.
+Doing skateboard tricks in *Tony Hawk* while also doing them in real life.
 
-[[Man riding a skateboard in a halfpipe with a handheld video game]]
+[Cueball moves towards a quarter pipe on his skateboard while manipulating his PSP.]
 
-<<beep click beep>>
+*Beep*
 
-[[Man does a skateboard trick]]
+*Click*
 
-<<Frontside 360°!>>
+*Beep*
 
-Videogame: Frontside 360°!
+[Cueball is in mid air having performed a Frontside 360°, both literally and on the PSP.]
 
-{{Bad idea #271: Dropping into the half-pipe on a Segway.}}
+*♪ Frontside 360°! ♫*
+
+*Frontside 360°!*

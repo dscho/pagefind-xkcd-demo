@@ -6,13 +6,14 @@ alt: >-
   SPIDER PSYCHOLOGY (21st Ed.) is a comprehensive overview of arachnoneurology, neuro-arachnology, forensic arachnology, neuro-arachnoneurology (the study of the brains of spider neurology experts), and arachnoarachnology (the study of too many spiders).
 img: https://imgs.xkcd.com/comics/arachnoneurology.png
 ---
-[[The artist has a book titled Spider Psychology, and is carefully adjusting one of those things with clips that's used to hold objects in place.]]
+[Beret Guy holding a protractor and handling a fork-like stand with black knobbly protrusions. On the table is some sticks, a set square and a ruler. There is also a large book titled:
 
-[[The artist puts it in the corner of a room which has cobwebs in it.]]
+Spider Psychology
 
-[[Spiders move into the thing, and start weaving webs on it.]]
+[Beret Guy places his creation in a cobwebbed corner.]
 
-Six Weeks Later:
+[Spiders weave webs around Beret Guy's creation. One of them hangs down above it from the ceiling.]
 
-[[The artist tears a sweater covered in spiders out.]]
+[Beret Guy pulls a shirt made of spider silk away from his creation. At the top of the panel is a frame that breaks the main panels frame. Inside this it says:]
 
+Six weeks later:

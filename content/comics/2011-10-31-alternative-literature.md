@@ -3,28 +3,25 @@ date: 2011-10-31
 title: "Alternative Literature"
 num: 971
 alt: >-
-  I just noticed CVS has started stocking homeopathic pills on the same shelves with--and labeled similarly to--their actual medicine. Telling someone who trusts you that you're giving them medicine, when you know you’re not, because you want their money, isn’t just lying--it’s like an example you’d make up if you had to illustrate for a child why lying is wrong.
+  I just noticed CVS has started stocking homeopathic pills on the same shelves with--and labeled similarly to--their actual medicine. Telling someone who trusts you that you're giving them medicine, when you know you're not, because you want their money, isn't just lying--it's like an example you'd make up if you had to illustrate for a child why lying is wrong.
 img: https://imgs.xkcd.com/comics/alternative_literature.png
 ---
-[[Person 1 and 2 stand in front of Person 2's bookcase.  Person 1 flips through a number of them]]
+[Cueball and a friend stand in front of Cueball's bookcase. His friend flips through a number of them.]
 
-Person 1: All your books are full of blank pages.
+Friend: All your books are full of blank pages.
 
-Person 2: Not true. That one has some ink on page 78.
+Cueball: Not true. That one has some ink on page 78.
 
-[[Person 1 looks at page 78]]
+Friend: A smudge.
 
-Person 1: A smudge.
+Cueball: So?
 
-Person 2: So?
+Friend: There are no words. You're not reading. There's no *story* there.
 
-Person 1: There are no words. You're not reading. There's no *story* there.
+Cueball: Maybe not for you. When I look at those books, I think about all *kinds* of stories.
 
-Person 2: Maybe not for you. When I look at those books, I think about all *kinds* of stories.
+Cueball: Reading is about more than what's on the page. Holding a book prompts my mind to enrich itself. Frankly, I suspect the book isn't even necessary.
 
-Person 2: Reading is about more than what's on the page. Holding a book prompts my mind to enrich itself.  Frankly, I suspect the book isn't even necessary.
+Cueball: The whole industry is evil. Greedy publishers and rich authors try to convince us our brains *need* their words. But I refuse to be a sucker.
 
-Person 2: The whole industry is evil. Greedy publishers and rich authors try to convince us our brains *need* their words. But I refuse to be a sucker.
-
-Person 1: Who sold you all these blank books?
-
+Friend: Who sold you all these blank books?

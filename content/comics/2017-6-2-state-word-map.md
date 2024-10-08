@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/state_word_map.png
 ---
 [Caption above the map, with sub caption:]
 
-Most-Used Word in Each State
+<big>Most-Used Word in Each State</big>
 
 Based on Something Something Search Data
 

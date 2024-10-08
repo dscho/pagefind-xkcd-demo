@@ -12,39 +12,39 @@ Cueball: Our forecast says there's a 20% chance of rain for each of the next fiv
 
 Cueball: How likely is it to rain this afternoon? It's a simple question, but I don't know the answer. Is each hour independent? Correlated? Or is rain guaranteed and we're just unsure of the timing?
 
-12pm  1pm  2pm  3pm  4pm
+12pm&nbsp; 1pm&nbsp; 2pm&nbsp; 3pm&nbsp; 4pm
 
-  20%  20%  20%  20%  20% 
+&nbsp;&nbsp;20%&nbsp; 20%&nbsp; 20%&nbsp; 20%&nbsp; 20%&nbsp;
 
-News
+<small>News</small>
 
-  4
+&nbsp;&nbsp;4
 
-Weather
+<small>*Weather*</small>
 
 [Cueball still sits at the table, but the weather graphic is gone and he looks to the right.]
 
-Cueball: It says "scattered showers." Is this the chance of rain somewhere in your area? How big is your area? What if you have two locations you're worried about?
+Cueball: It says "scattered showers." Is this the chance of rain ***somewhere*** in your area? How big is your area? What if you have two locations you're worried about?
 
 Cueball: I've asked management, but they've stopped answering my emails, so—Hang on, the security guy is coming over.
 
 [A black screen is shown with white text and two short white lines between each of the three segments of text. The TV logo is shown below the last text, with the white 4 inside a gray circle with a white border.]
 
-Technical Difficulties
+*Technical Difficulties*
 
 —
 
-We apologize for hiring a meteorologist with a pure math background.
+*We apologize for hiring a meteorologist with a pure math background.*
 
 —
 
-We'll be back on the air shortly.
+*We'll be back on the air shortly.*
 
 
 
-News
+<big>News</big>
 
-  4
+&nbsp;&nbsp;<big><big>4</big></big>
 
 [Blondie now sits at the desk, in the same position as Cueball, but without the graphic. She looks to the right towards a person who speaks to her from outside the panel. This voice is indicated with two square speech bubbles, connected with a double line and with a small arrow pointing to the right off-panel from the top bubble.]
 

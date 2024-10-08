@@ -6,13 +6,14 @@ alt: >-
   They could say "the connection is probably lost," but it's more fun to do naive time-averaging to give you hope that if you wait around for 1,163 hours, it will finally finish.
 img: https://imgs.xkcd.com/comics/estimation.png
 ---
-[[A man is in a car, talking on his phone.]]
+[Cueball is in a car, talking on his phone.]
 
-Man: I'm just outside town, so I should be there in fifteen minutes.
+Cueball: I'm just outside town, so I should be there in fifteen minutes.
 
-Man: Actually, it's looking more like six days.
+Cueball: Actually, it's looking more like six days.
 
-Man: No, wait, thirty seconds.
+Cueball: No, wait, thirty seconds.
+
+[Caption below the frame:]
 
 The author of the Windows file copy dialog visits some friends.
-

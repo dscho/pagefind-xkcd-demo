@@ -32,7 +32,7 @@ Ponytail: I see.
 
 [Scene changes back to Megan, once again lost in profound contemplation of the apple.]
 
-Megan: Are we on a frictionless plane? Is a train leaving Chicago at 40 mph? Should I solve for something??
+Megan: Are we on a frictionless plane? Is a train leaving Chicago at 40 mph? *Should I solve for something??*
 
 Ponytail: Okay, apples are $2.17 now.
 

@@ -6,33 +6,28 @@ alt: >-
   People into masturbatory navel-gazing have a lot to learn about masturbation.
 img: https://imgs.xkcd.com/comics/blurring_the_line.png
 ---
-[[A figure with a hat is talking to another figure.]]
+[White Hat and Cueball are walking.]
 
-Hat: ... No, but see, it's a movie 
+White Hat: ...No, but see, it's a movie *about* movies.
 
-about
+Cueball: Sounds like masturbatory navel-gazing.
 
- movies.
+[Close-up of White Hat.]
 
-Figure: Sounds like masturbatory navel-gazing.
+White Hat: No, it's about blurring the line between metaphor and reality.
 
-Hat: No, it's about blurring the line between metaphor and reality.
+White Hat: You just don't know much about art.
 
-Hat: You just don't know much about art.
+Cueball: *Seriously?*
 
-Figure: I know 
+[White Hat and Cueball are standing.]
 
-all
+Cueball: I know *all* about blurring the line between metaphor and reality. I'm the goddamn *Michael Jordan* of blurring the line between metaphor and reality.
 
- about blurring the line between metaphor and reality.  I'm the goddamn 
+[White Hat is now standing alone in the panel.]
 
-Michael Jordan
+White Hat: ...Huh?
 
- of blurring the line between metaphor and reality.
+[A basketball appears from nowhere and hits White Hat in the head.]
 
-[[The figure walks away.]]
-
-Hat: ... huh?
-
-[[A basketball flies into the panel and knocks the figure's hat off.]]
-
+BONK

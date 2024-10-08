@@ -16,4 +16,4 @@ Old man: It has been swinging for fifty years. As long as you remember me, you m
 
 [Caption below the panel:]
 
-A fun prank: as you're dying, leave people gifts that will be as difficult as possible to put into storage.
+A fun prank: As you're dying, leave people gifts that will be as difficult as possible to put into storage.

@@ -6,12 +6,14 @@ alt: >-
   The bottom of the list remains unchanged. Poor Rutherford Birchard Hayes.
 img: https://imgs.xkcd.com/comics/presidential_middle_names.png
 ---
-Prettiest
+<big>Prettiest</big>
 
 Presidential Middle Names Official Rankings
 
 (Updated for 2021)
 
- 1. Gamaliel (Warren Harding)
- 2. Robinette (Joe Biden) (NEW!)
- 3. Delano (Franklin Roosevelt)
+# Gamaliel (Warren Harding)
+
+#<span style="color:red">Robinette (Joe Biden) **(NEW!)**</span>
+
+#Delano (Franklin Roosevelt)<br>

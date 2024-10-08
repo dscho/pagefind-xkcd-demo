@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/sports_knowledge.png
 ---
 [Cueball and White Hat are walking together.]
 
-Cueball: Mike Trout's on-base plus slugging has been at career highs. After this injury, the Lakers will be lucky if he can hit even close to that.
+Cueball: Mike Trout's on-base plus slugging has been at career highs. After this injury, the Lakers will be lucky if he can hit even *close* to that.
 
 White Hat: ...Lakers?
 

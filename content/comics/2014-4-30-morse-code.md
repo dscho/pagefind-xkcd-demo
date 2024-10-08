@@ -6,25 +6,12 @@ alt: >-
   Oh, because Facebook has worked out SO WELL for everyone.
 img: https://imgs.xkcd.com/comics/morse_code.png
 ---
-[[Two people are sitting on a stony hill. One is sitting on the ground, the other is lying back and looking at the sky.]]
+[Cueball and Megan are lying in a grassy, lonely plain.]
 
-[[The first person turns to the other and says...]
+Cueball: When the French navy retired morse code in 1997, they broadcast a final message: "Calling all. This is our last cry before our eternal silence."
 
-Person 1: When the French navy retired Morse code in 1997, they broadcast a final message: - 
+Cueball: I wonder if I can find my Livejournal login.
 
-"Calling all. This is our last cry before our eternal silence."
+Megan: Hey, I *like* Livejournal.
 
-[[They sit in silence for a moment.]]
-
-[[The first person puts their hand to their chin.]]
-
-Person 1: I wonder if I can find my Livejournal login.
-
-Person 2: Hey I 
-
-like
-
- Livejournal.
-
-Person 1: It's a nice place to go for some peace and quiet, I suppose.
-
+Cueball: It's a nice place to go for some peace and quiet, I suppose.

@@ -6,7 +6,7 @@ alt: >-
   autoexec code posted by verified twitter users
 img: https://imgs.xkcd.com/comics/recent_searches.png
 ---
-[Coloured and styled as the real logo:]
+[Colored and styled as the real logo:]
 
 GOOGLE
 
@@ -44,4 +44,4 @@ Hardware acceleration red channel only
 
 [Caption below the frame:]
 
-I have no idea why my computers are always broken.
+**I have no idea why my computers are always broken.**

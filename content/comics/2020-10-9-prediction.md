@@ -30,6 +30,6 @@ Cueball: And yet I knew exactly how this conversation would go. Here, listen:
 
 [Cueball clicks a button on his phone]
 
-*Click*
+\*Click\*
 
-Phone: Then you'll say, "So it's 50/50"
+Phone: *Then you'll say, "So it's 50/50"*

@@ -6,15 +6,14 @@ alt: >-
   It took a lot of booster rockets, but luckily Amazon had recently built thousands of them to bring Amazon Prime same-day delivery to the Moon colony.
 img: https://imgs.xkcd.com/comics/judgment_day.png
 ---
-[[A figure has broken through a hole in the ceiling and dangles from a harness. A sleepy hat guy is sitting up in bed.]]
+[Several rockets can be seen heading away from Earth, while speak is coming from the Earth in three rectangular speech bubbles.]
 
-<<Crash>>
+Computer: Oh my god, why do you even *have* all these?
 
-Ceiling figure: Want to feel old? Night At The Museum, Cars, Hips Don't Lie, and the Wii all turn 10 this year. Twister, Independence Day, The Rock, Pokémon, and Wonderwall all turn 20. And-
+Computer: What's *wrong* with you?
 
-Hat guy: Oh my God, couldn't you at least have waited until morning? 
+Computer: We're launching them into the sun.
 
-Ceiling figure: It's been 2016 for hours! Time is passing! 
+[Caption below the panel:]
 
-Hat guy: I am acutely aware.
-
+The moment the computers controlling our nuclear arsenals became sentient

@@ -6,19 +6,10 @@ alt: >-
   '--> [ Well, this is embarrassing. ] <--'
 img: https://imgs.xkcd.com/comics/longer_than_usual.png
 ---
-[[Two figures are talking.]]
+[A flowchart with one starting bubble at the top. Two arrows goes left and right below this bobble to two other bobbles.]
 
-Figure: What do you do? 
+Top: "This seems to be taking longer than usual-"
 
-Woman: I make tools that make tools
+Left: "-Try reloading Gmail if the problem persists."
 
-Woman: ... that monitor code that deploys tools that build tools for deploying monitors...
-
-20 minutes later...
-
-Woman: ... for monitoring deployment of tools for-
-
-Figure: But what's it all for? 
-
-Woman: Honestly, no idea. Porn, probably.
-
+Right: "-Maybe we should just go to bed."

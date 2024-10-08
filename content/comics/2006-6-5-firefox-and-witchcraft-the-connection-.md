@@ -3,17 +3,19 @@ date: 2006-06-05
 title: "Firefox and Witchcraft - The Connection?"
 num: 111
 alt: >-
-  ThisadpaidforbythecounciltopromoteMicrosoftandChristianity.  Remember, The Bible is Closed Source.
+  ThisadpaidforbythecounciltopromoteMicrosoftandChristianity. Remember, The Bible is Closed Source.
 img: https://imgs.xkcd.com/comics/firefox_wicca.png
 ---
-membership in wicca
+[A graph is shown with a positive slope.]
 
-total firefox downloads
+[Y axis]: Membership in Wicca
 
-[[positive slope graph]]
+[X axis]: Total Firefox Downloads
 
-[[Internet Explorer icon]]
+[Internet Explorer icon.]
 
-Keep the Faith
+<big>K</big>EEP TH<big>E</big>
 
-[[Outline of a cross]]
+FAITH
+
+[Outline of a cross.]

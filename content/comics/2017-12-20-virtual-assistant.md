@@ -12,21 +12,21 @@ Megan: Ok, Google–
 
 Google Home: THUMP-THUMP-THUMP
 
-Google Home: CRASH  THUD!
+Google Home: CRASH&nbsp; THUD!
 
-Google Home: CLICK  THUMP THUMP
+Google Home: CLICK&nbsp; THUMP THUMP
 
 Google Home: [sink running]
 
-Google Home: ZIIIIIP!  CLICK
+Google Home: ZIIIIIP!&nbsp; CLICK
 
-Google Home: THUMP THUMP  CLICK
+Google Home: THUMP THUMP&nbsp; CLICK
 
 Google Home: SLAM!
 
 Google Home: THUMPATHUMPATHUMPA
 
-Google Home: H... *Pant* ...Hello... *Pant*
+Google Home: H... *\*Pant\** ...Hello... *\*Pant\**
 
 Google Home: How... How can I help you?
 

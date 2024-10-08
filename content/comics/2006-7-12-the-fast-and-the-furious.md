@@ -6,11 +6,28 @@ alt: >-
   Sometimes when I steer shopping carts around corners, I slide them a little and pretend I'm getting the blue spark boost.
 img: https://imgs.xkcd.com/comics/the_fast_and_the_furious.jpg
 ---
-On the other side of the world, a new style of street racing rules the Tokyo underground. The cars are lighter, the tires are slick. When you drift, if you ain't out of control, you ain't in control. And if you work the wheel back and forth just right,
+**on the other side of the world**
 
-[[Two cars race around a corner with blue sparks spraying from their tires.]]
+**a new style of street racing**
 
-you get blue sparks.
+**rules the tokyo underground**
 
-THE FAST AND THE FURIOUS: TOKYO DASH!!
+**the cars are lighter**
 
+**the tires are slick**
+
+**when you drift,**
+
+**if you ain't out of control,**
+
+**you ain't in control.**
+
+**and if you work the wheel**
+
+**back and forth just right,**
+
+[Two cars race around a corner with blue sparks spraying from their tires.]
+
+**You get blue sparks.**
+
+The FAST and the FURIOUS: *TOKYO DASH!!*

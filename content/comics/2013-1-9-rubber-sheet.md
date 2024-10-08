@@ -6,23 +6,26 @@ alt: >-
   It IS about physics. It ALL is.
 img: https://imgs.xkcd.com/comics/rubber_sheet.png
 ---
-[[A woman is standing on the left edge of a rubber sheet. In the middle is a bowling ball. A man in a beret is standing on top of the bowling ball.]]
+[Beret guy is standing on a giant bowling ball on a rubber sheet. Megan is watching.]
 
-Beret guy: Imagine a giant bowling ball on a rubber sheet. The ball's weight makes a dent in the sheet. 
+Beret Guy: Imagine a giant bowling ball on a rubber sheet.
 
-[[A rope has been attached to the sheet, and is pulling downwards. The woman peers down.]]
+Beret Guy: The ball's weight makes a dent in the sheet.
 
-Beret guy: Now imagine a rope that pulls the ball down even further. ...Annnnd...
+[A rope is pulling the ball down into the sheet.]
 
-[[The rope snaps. The woman loses her balance as the sheet shakes and the ball flies into the air.]]
+Beret Guy: Now imagine a rope that pulls the ball down even further.
 
-BOOOIING
+Beret Guy: ...Annnnd...
 
-Beret guy: Wheee
+[Rope lets go. Ball is catapulted with Beret Guy on it.]
 
-[[The woman stands on the now stable sheet. The ball falls down towards it.]]
+**BOOOIING**
 
-Woman: ... Oh. I thought this was about physics. 
+Beret Guy: Wheee
 
-Beret guy: Imagining is fun! 
+[Beret guy and ball are falling back down.]
 
+Megan: ...Oh. I thought this was about physics.
+
+Beret Guy: Imagining is *fun!*

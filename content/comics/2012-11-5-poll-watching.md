@@ -6,13 +6,10 @@ alt: >-
   The choices we make Tuesday could have MASSIVE and PERMANENT effects on the charts on Nate Silver's blog!
 img: https://imgs.xkcd.com/comics/poll_watching.png
 ---
-[[A man is kneeling on his desk chair, hunched over his laptop screen.]]
+[Cueball kneels on his desk chair, hunched over a laptop]
 
-Man: This Tuesday will be huge! If Obam wins the election, it could generate news coverage 
+Cueball: This Tuesday will be huge!
 
-devastating
+Cueball: If Obama wins the election, it could generate news coverage *devastating* to Romney's position in the tracking polls!
 
- to Romney's position in the tracking polls!
-
-Out of panel: ...maybe you should take a break.
-
+Offscreen character: ... Maybe you should take a break.

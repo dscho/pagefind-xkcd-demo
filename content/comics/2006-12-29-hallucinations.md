@@ -6,12 +6,12 @@ alt: >-
   And the possibility of lucid dreaming just makes it that much more fascinating.
 img: https://imgs.xkcd.com/comics/hallucinations.png
 ---
-Heading: Sometimes is seems bizarre to me that we take dreaming in stride.
+[Two Cueball-like guys are talking. Above them is the following caption:]
 
-[[Two people standing]]
+Sometimes it seems bizarre to me that we take dreaming in stride.
 
-Person 1: Are you coming to dinner?
+Friend: Are you coming to dinner?
 
-Person 2: Yeah, but first I'm gonna go comatose for a few hours, hallucinate vividly, and then maybe suffer amnesia about the whole experience.
+Cueball: Yeah, but first I'm gonna go comatose for a few hours, hallucinate vividly, and then maybe suffer amnesia about the whole experience.
 
-Person 1: Okay, cool.
+Friend: Okay, cool.

@@ -6,44 +6,44 @@ alt: >-
   Gotten the Ferris wheel operator's attention
 img: https://imgs.xkcd.com/comics/first_time_since_early_2020.png
 ---
-[Heading:]
+ [Heading:]
 
-"This is actually the first time I've _____ since early 2020."
+ "This is actually the first time I've \_\_\_\_\_ since early 2020."
 
-[Below is a long vertical arrow with the words "normal" and "alarming" at the top and the bottom of the arrow respectively. To the right side of the arrow is a list of text, with each item starting with a triangle.]
+ [Below is a long vertical arrow with the words "normal" and "alarming" at the top and the bottom of the arrow respectively. To the right side of the arrow is a list of text, with each item starting with a triangle.]
 
-◀ been to a birthday party
+ ◀ been to a birthday party
 
-◀ eaten at a restaurant
+ ◀ eaten at a restaurant
 
-◀ seen my family
+ ◀ seen my family
 
-◀ been on a plane
+ ◀ been on a plane
 
-◀ gone to a movie
+ ◀ gone to a movie
 
-◀ gone to a store
+ ◀ gone to a store
 
-◀ installed software updates
+ ◀ installed software updates
 
-◀ eaten a vegetable
+ ◀ eaten a vegetable
 
-◀ opened the fridge
+ ◀ opened the fridge
 
-◀ paid taxes
+ ◀ paid taxes
 
-◀ washed my hands
+ ◀ washed my hands
 
-◀ seen another person
+ ◀ seen another person
 
-◀ seen a ghost
+ ◀ seen a ghost
 
-◀ served as a decoy
+ ◀ served as a decoy
 
-◀ sighted land
+ ◀ sighted land
 
-◀ checked the news
+ ◀ checked the news
 
-◀ checked on the customers in the escape room
+ ◀ checked on the customers in the escape room
 
-◀ contracted a novel bat virus
+ ◀ contracted a novel bat virus

@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/timeline_of_the_universe.png
 ---
 [A large header is above the main drawing:]
 
-Timeline of the Universe
+<big>**Timeline of the Universe**</big>
 
 [The drawing shows a diagram of the evolution of the universe from the Big Bang (left) to the present right with lines indicating possible futures continuing right of the main drawing. The drawing is that of a black horn of plenty, very thin to the left and then it becomes broader, mainly in steps but also slightly between each step. n a few places the diameter decreases a bit. Along the "tube" are segments divided with thin white lines, with about equal distance between them. The first 20 the tube is black, but then stars form, shown as many white dots, and finally in the last 3-4 segments galaxies are shown. At the top and bottom of the opening to the right there are four dashed lines which behaves the same way. Two points inward, two continue the trend from before they begin, two goes out fast again, and then falls back to slow increase, and two goes almost straight up and down. At the far left there is a line going in to a small dot. On the line before the dot are two questions mark. A line points to the dot which has a starburst around it. It represents the Big Bang. After this firs labeled point on the drawing there are mange other labeled sections with a line going from the label to a segment on the drawing. There are 9 above, 9 below and one at each end. The one at the right end pointing to the four dashed future lines at the top. From left to right in the order they are labeled on the timeline, the labels are:]
 

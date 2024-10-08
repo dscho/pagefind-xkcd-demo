@@ -6,15 +6,14 @@ alt: >-
   I wanted us to try finding an approximate numeric solution, but noooo.
 img: https://imgs.xkcd.com/comics/threesome.png
 ---
-Woman: We had a threesome last night.
+Megan: We had a threesome last night.
 
-Man: How was it?
+Cueball: How was it?
 
-Woman: Awkward -- it was with a physicist.
+Megan: Awkward - it was with a physicist.
 
-Man: Why's that awkward?
+Cueball: Why's that awkward?
 
-Woman: They can't solve the three-body problem.
+Megan: They can't solve the three-body problem.
 
-Man: Ah, yes.
-
+Cueball: Ah, yes.

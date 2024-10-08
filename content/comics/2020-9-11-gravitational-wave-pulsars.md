@@ -10,6 +10,6 @@ img: https://imgs.xkcd.com/comics/gravitational_wave_pulsars.png
 
 Ponytail: Ask me what the secret to detecting gravitational waves using pulsars is.
 
-Cueball: What's the secret to detecting grav—
+Cueball: What's the secret to detecting grav&mdash;
 
-Ponytail: Timing!
+Ponytail: ***Timing!***

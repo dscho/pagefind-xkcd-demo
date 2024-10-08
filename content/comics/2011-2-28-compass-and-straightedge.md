@@ -8,7 +8,6 @@ img: https://imgs.xkcd.com/comics/compass_and_straightedge.png
 ---
 I learned in high school what geometers discovered long ago:
 
-[[Geometer, holding a compass and straightedge, looks sad.]]
+[Cueball, holding a compass and straightedge, looks sad.]
 
 Using only a compass and straightedge, it's impossible to construct friends.
-

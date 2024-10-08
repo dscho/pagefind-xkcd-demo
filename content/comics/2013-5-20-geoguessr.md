@@ -6,19 +6,22 @@ alt: >-
   I'm not sure if you can get Epcot, but my friend just got LegoLand. He guessed California but it was the one in Denmark. Meanwhile, I'm rapidly becoming a connoisseur of unmarked dirt roads over flat, barren landscapes.
 img: https://imgs.xkcd.com/comics/geoguessr.png
 ---
-Person 1:  This one's easy; There's the Parthenon. Athens.
+[Cueball is using a laptop, playing a game.]
 
-<<click>>
+Cueball: This one's easy; There's the Parthenon. Athens.
 
-What!? Why the hell is there a Parthenon in *Nashville*?
+ \*click\*
 
-<<click>>
+Cueball: What!? Why the hell is there a Parthenon in *Nashville*?
 
-Ok, I'm *clearly* in Germany.
+ \*click\*
 
-<<click>>
+Cueball: OK, I'm *clearly* in Germany.
 
-Dammit, Germany Pavilion at Epcot.
+ \*click\*
 
-My scores in Geoguessr would be higher if people would quit building replicas of everything.
+Cueball: Dammit, Germany Pavilion at Epcot.
 
+[Caption below the panel:]
+
+My scores in Geoguessr would be higher if people quit building replicas of everything.

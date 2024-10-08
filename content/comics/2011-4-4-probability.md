@@ -6,19 +6,22 @@ alt: >-
   My normal approach is useless here, too.
 img: https://imgs.xkcd.com/comics/probability.png
 ---
-[[A plot of years vs. percent, with a solid and a dashed line.  The solid line starts at 100%, and drops constantly.  The dashed line starts around 85%, rises to 95% after 5 years, then drops.]]
+[A plot of percent vs. years, with a solid and a dashed line. The solid line starts at 100%, and drops constantly. The dashed line starts around 85%, rises to 95% after 5 years, then drops.]
 
-[[A simple table.]]
+[A simple table.]
 
-5 years 81%
+;5 years
 
-10 years 77%
+81%
 
-[[Two people are sitting on a bench, next to an IV drip hanging from a rack.  One is holding a paper.]]
+;10 years
 
-Person: You know, probability used to be my favorite branch of math
+77%
 
-Person: Because it had so many real-life applications.
+[Cueball and Megan are sitting on a bench, next to an Intravenous drip hanging from a rack. Cueball is holding a paper.]
 
-[[They embrace, faces together.]]
+Cueball: You know, probability used to be my favorite branch of math
 
+Cueball: Because it had so many real-life applications.
+
+[They embrace, faces together.]

@@ -6,19 +6,18 @@ alt: >-
   The less common, even worse outcome: "3: [everyone in the financial system] WOW, where did all my money just go?"
 img: https://imgs.xkcd.com/comics/engineer_syllogism.png
 ---
-[[Empty panel with text]]
+[A white frame with text inside an underbrace and an overbrace.]
 
 An engineer syllogism
 
-[[Engineer sits at desk thoughtfully, thinking.]]
+[Cueball is at his desk in front of his computer, with his hands on his knees, thinking.]
 
-Engineer: One, I am good at understanding numbers.
+Cueball (thinking): 1: I am good at understanding numbers.
 
-[[Engineer puts hands to face, pondering]]
+[Cueball takes one hand to his chin, still thinking.]
 
-Engineer: Two, the stock market is made of numbers.
+Cueball (thinking): 2: The stock market is made of numbers.
 
-[[Engineer suddenly aghast]]
+[Cueball lifts both arms from his legs, still thinking.]
 
-Engineer: Three, therefore, I-- WOW where did all my money just go?
-
+Cueball (thinking): 3: Therefore I&ndash; ***Wow***, where did all my money just go?

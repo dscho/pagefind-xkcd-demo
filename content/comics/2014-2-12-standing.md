@@ -6,12 +6,10 @@ alt: >-
   At first I was making fun of them, but joke's on me--the deer is surprisingly ergonomic, except for the kicks.
 img: https://imgs.xkcd.com/comics/standing.png
 ---
-[[One figure stands at the left side of the frame, watching a second figure chase a deer that has a laptop strapped to its back.]]
+[Cueball is running after a deer with a laptop strapped to its back, while Megan looks on.]
 
-Second Figure: Humans aren't built to sit all day. This is much healthier.
+Cueball: Humans aren't built to sit all day. This is much healthier.
 
-My hobby: one-upping the standing desk people.
+[Caption below the panel]
 
-{{Title text: At first I was making fun of them, but joke's on me--the 
-
-deer is surprisingly ergonomic, except for the kicks.}}
+My Hobby: One-upping the standing desk people

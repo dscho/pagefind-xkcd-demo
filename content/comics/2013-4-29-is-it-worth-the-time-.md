@@ -6,53 +6,28 @@ alt: >-
   Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.
 img: https://imgs.xkcd.com/comics/is_it_worth_the_time.png
 ---
-How long can you work on making a routine task more efficient before you're spending more time than you save? (Across five years)
+[Above the frame is written the following text:]
 
-[[A table, with the columns labeled "how often you do the task" and the rows labeled "how much time you shave off".
+How long can you work on making a routine task more efficient before you're spending more time than you save?
 
-The column headings are, from left to right, "50
+<small>(across five years)</small>
 
-day", "5
+[The rest of the comic is given in a tabular format. At the top of the table is how often you do the task, with six time increments underneath, and then at the side is written How much time do you shave off at the leftmost part of the page, with 9 lengths of time to the left. The empty fields in the calendar are shaded dark gray.]
 
-day", "daily", "weekly", "monthly", and "yearly".
+[The first row is for 1 second, where the table values are 1 day (for 50 per day), 2 hours (for 5 per day), 30 minutes (for daily), 4 minutes (for weekly), 1 minute (for monthly), and 5 seconds (for yearly).]
 
-The row headings are, from top to bottom, "1 second", "5 seconds", "30 seconds", "1 minute", "5 minutes", "30 minutes", "1 hour", "6 hours", and "1 day".
+[The second row is for 5 seconds, where the table values are 5 days (for 50 per day), 12 hours (for 5 per day), 2 hours (for daily), 21 minutes (for weekly), 5 minutes (for monthly), and 25 seconds (for yearly).]
 
-Row values ("how long you can work") are as follows (heading, then values):
+[The third row is for 30 seconds, where the table values are 4 weeks (for 50 per day), 3 days (for 5 per day), 12 hours (for daily), 2 hours (for weekly), 30 minutes (for monthly), and 2 minutes (for yearly).]
 
-1 second: 1 day, 2 hours, 30 minutes, 4 minutes, 1 minute, 5 seconds.
+[The fourth row is for 1 minute, where the table values are 8 weeks (for 50 per day), 6 days (for 5 per day), 1 day (for daily), 4 hours (for weekly), 1 hour (for monthly), and 5 minutes (for yearly).]
 
-5 seconds: 5 days, 12 hours, 2 hours, 21 minutes, 5 minutes, 25 seconds.
+[The fifth row is for 5 minutes, where the table values are 9 months (for 50 per day), 4 weeks (for 5 per day), 6 days (for daily), 21 hours (for weekly), 5 hours (for monthly), and 25 minutes (for yearly).]
 
-30 seconds: 4 weeks, 3 days, 12 hours, 2 hours, 30 minutes, 2 minutes.
+[The sixth row is for 30 minutes, where the table values are greyed out (for 50 per day), 6 months (for 5 per day), 5 weeks (for daily), 5 days (for weekly), 1 day (for monthly), and 2 hours (for yearly).]
 
-1 minute: 8 weeks, 6 days, 1 day, 4 hours, 1 hour, 5 minutes.
+[The seventh row is for 1 hour, where the table values are greyed out (for 50 per day), 10 months (for 5 per day), 2 months (for daily), 10 days (for weekly), 2 days (for monthly), and 5 hours (for yearly).]
 
-5 minutes: 9 months, 4 weeks, 6 days, 21 hours, 5 hours, 25 minutes.
+[The eighth row is for 6 hours, where the table values are greyed out (for 50 per day, 5 per day and daily), 2 months (for weekly), 2 weeks (for monthly), and 1 day (for yearly).]
 
-30 minutes: n
-
-a, 6 months, 5 weeks, 5 days, 1 day, 2 hours.
-
-1 hour: n
-
-a, 10 months, 2 months, 10 days, 2 days, 5 hours.
-
-6 hours: n
-
-a, n
-
-a, n
-
-a, 2 months, 2 weeks, 1 day.
-
-1 day: n
-
-a, n
-
-a, n
-
-a, n
-
-a, 8 weeks, 5 days.]]
-
+[The ninth and final row is for 1 day, where the table values are greyed out (for 50 per day, 5 per day, daily and weekly), 8 weeks (for monthly), and 5 days (for yearly).]

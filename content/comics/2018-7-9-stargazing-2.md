@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/stargazing_2.png
 
 Host: Welcome back to stargazing.
 
-Host: When the stars disappeared this morning, I figured I had to find a new job, but they're back! This rules!
+Host: When the stars disappeared this morning, I figured I had to find a new job, but they're *back!* This *rules!*
 
 [A frame-less white panel in which the host points to the upper right with the Megan-like woman, Ponytail and Cueball looking in that direction.]
 
@@ -30,7 +30,7 @@ Host: Speaking of space trash, that dot is a satellite. There are apps that will
 
 Off-panel voice: What's that blinking one?
 
-Host: Airplane. They're full of snacks and money and stuff, but don't bother trying to catch them- they're way too high up.
+Host: Airplane. They're full of snacks and money and stuff, but don't bother trying to catch them- they're *way* too high up.
 
 Host: Learned that the hard way in grad school.
 

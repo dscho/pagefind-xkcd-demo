@@ -6,19 +6,22 @@ alt: >-
   Also on the agenda: what's with his hips?
 img: https://imgs.xkcd.com/comics/orion_nebula.png
 ---
-[[Opening speaker stands behind a lectern decorated with the indicators of the International Astronomical Union]]
+[Cueball stands behind a lectern decorated with the initials of the International Astronomical Union. There is a banner above him that also says 'International Astronomical Union,' decorated with small stars.]
 
-Speaker: Welcome to IAU Symposium #279.
+Cueball: Welcome to IAU Symposium #279.
 
-Speaker: We are no strangers to controversy, and we will not shy away from the tough issues.  Which brings us to the subject at hand.
+[Side view of Cueball standing on a podium behind the lectern]
 
-[[An anatomically uncensored projection of the Constellation Orion appears before the speaker]]
+Cueball: We are no strangers to controversy, and we will not shy away from the tough issues.
 
-Speaker: It's time to talk about the fact that Orion clearly has a dong.  
+Cueball: Which brings us to the subject at hand:
 
-Attendee in crowd #1: It's hard to miss.
+[A projection of the Orion constellation appears behind Cueball with a white arrow superimposed on the image pointing at the area between Orion's legs. Symposium attendees are off-screen to the bottom and right of the panel.]
 
-Attendee #2: we could keep telling people it's a sword.
+Cueball: It's time to talk about the fact that Orion clearly has a dong.
 
-Attendee #3: C'mon, no one's buying that anymore.
+Attendee #1 (off-screen): It's hard to miss.
 
+Attendee #2 (off-screen): We could keep telling people it's a sword.
+
+Attendee #3 (off-screen): C'mon, no one's buying that anymore.

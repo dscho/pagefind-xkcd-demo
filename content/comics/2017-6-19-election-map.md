@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/election_map.png
 
 Header: Results
 
-Title: Election Night
+Title: *Election* Night
 
 Live
 

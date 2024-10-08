@@ -1,6 +1,6 @@
 ---
 date: 2020-05-15
-title: "Alive or Not"
+title: "Alive Or Not"
 num: 2307
 alt: >-
   Computer viruses currently fall somewhere between prions and fire.

@@ -6,9 +6,6 @@ alt: >-
   You absolute-fucking-... shit.
 img: https://imgs.xkcd.com/comics/syllable_planning.png
 ---
-[[Two figures stand talking.]]
+[Cueball is standing next to Megan.]
 
-Figure 1: Man, that is ridicu-fucking-...
-
-Figure 1: ... hang on, I inserted "Fucking" too late and now there's just one awkward syllable left. Can I back up? 
-
+Cueball: Man, that is ***ridicu***-fucking—... ...Hang on, I inserted "fucking" too late and now there's just one awkward syllable left. Can I back up?

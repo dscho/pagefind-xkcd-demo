@@ -6,57 +6,70 @@ alt: >-
   At the bottom left: The mystery of why, when I know I needed to be asleep an hour ago, I decide it's a good time to read through every Wikipedia article in the categories 'Out-of-place artifacts', 'Earth mysteries', 'Anomalous weather', and 'List of people who disappeared mysteriously'.
 img: https://imgs.xkcd.com/comics/mysteries.png
 ---
-[[Title of this comic is MYSTERIES, it's a graph with two axis. The horizontal axis ranges from NOT THAT WEIRD to WEIRD AS HELL. The vertical axis ranges from I HAVE NO EXPLANATION to EXPLANATION SEEMS PRETTY CLEAR.]]
+[In a frame at the top left of the panel:]
 
-[[Not that weird and i have no explanation]]
+**Mysteries**
 
-who carly simon is singing about in you're so vain
+[A chart with two crossing lines with double arrows. Each arrow is labeled:]
 
-lindbergh baby
+X-axis left: Not that weird
 
-uvb-seventy-six
+X-axis right: Weird as Hell
 
-toynbee tiles
+Y-axis top: I have no explanation
 
-jimmy hoffa
+Y-axis bottom: Explanation seems pretty clear
 
-[[Not that weird and explanation seems pretty clear]]
+[In the chart there are 22 bullets. Each bullet is labeled. Below the labels are given from top to bottom in each of the four quadrants of the chart:]
 
-voynich manuscript
+[Top left quadrant:]
 
-jfk
+Who Carly Simon is singing about in *You're So Vain*
 
-why i keep putting ice cream back in the fridge instead of the freezer
+UVB-76
 
-oak island money pit
+Lindbergh baby
 
-[[I have no explanation and weird as hell]]
+Toynbee tiles
 
-the wow signal
+Jimmy Hoffa
 
-db cooper
+[Top right quadrant:]
 
-mh 370
+MH370
 
-lead masks case
+Lead Masks Case
 
-salish sea feet
+DB Cooper
 
-mary celeste
+The Wow signal
 
-[[weird as hell and explanation seems pretty clear]]
+Salish Sea feet
 
-zodiac letters
+Mary Celeste
 
-amelia earhart
+[Bottom left quadrant:]
 
-lost colony
+Voynich manuscript
 
-kentucky meat shower
+JFK
 
-bigfoot
+Why I keep putting ice cream back in the fridge instead of the freezer
 
-loch ness monster
+Oak Island Money Pit
 
-dyatlov pass incident
+[Bottom right quadrant:]
 
+Zodiac letters
+
+Amelia Earhart
+
+Lost Colony
+
+Kentucky meat shower
+
+Bigfoot
+
+Loch Ness Monster
+
+Dyatlov Pass incident

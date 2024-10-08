@@ -6,33 +6,36 @@ alt: >-
   An eternity later, the universe having turned out to have positive curvature and lots of mass, the boomerang hits him in the back of the head.
 img: https://imgs.xkcd.com/comics/further_boomerang_difficulties.png
 ---
-[[Man is throwing boomerang 
+[Cueball is throwing a boomerang.]
 
- Holding his hands up, man waits for return 
+[Holding his hands up.]
 
- Continual waiting
+[Cueball waits for return; continual waiting.]
 
- Man is dejected, head hangs low]]
+[Cueball is dejected, head hangs low.]
 
-[[Man throws boomerang]] 
+[Cueball throws a boomerang.]
 
- Man waits for boomerang]] 
+[Cueball waits for the boomerang.]
 
- Outside: Oh God 
+Outside: Oh God
 
- Outside: The Ozone layer! [[Man is suprised]]
+Outside: The ozone layer!
 
-[[Man throws boomerang banana 
+[Cueball is surprised.]
 
- Man waits]] 
+[Cueball throws a boomerang-like banana.]
 
- Girl who walks in: That was our last banana 
+[Cueball waits.]
 
- Girl: You're such an asshole.
+[Megan walks in.]
 
-[[Man throws boomerang 
+Megan: That was our last banana.
 
- Boomerang breaks out of the panel box]]
+Megan: You're such an asshole.
 
-[[Boomerang breaks out of a satellite, followed by the man]]
+[Cueball throws a boomerang.]
 
+[The boomerang breaks out of the panel box.]
+
+[The boomerang breaks out of a spacecraft, followed by Cueball.]

@@ -6,103 +6,226 @@ alt: >-
   My country's World Cup win was exciting and all, but c'mon, what if the players wore nylon wings and COULD LITERALLY FLY?
 img: https://imgs.xkcd.com/comics/solar_system_questions.png
 ---
-Title: Questions I have about the solar system. Some answered.
+**Questions I have**
 
-Why is the moon so blotchy?
+**about the solar system**
 
-Answer: Lava.
+(some answered)
 
-Why are all the blotches on the near side?
+{| class="wikitable" style="border: 0px;"
 
-Did mars have seas?
+|-
 
-Answer: Yes, briefly?
+| style="border: 0px; text-align: right" | Why is the the Moon so blotchy?
 
-Was their life on mars?
+| style="border: 0px; color:red;" | Lava
 
-What's titan like?
+|-
 
-Answer: Cold, yellow, lakes and rivers (methane)
+| style="border: 0px; text-align: right" | Why are all the blotches on the near side?
 
-What was earth like during the hadean?
+| style="border: 0px;" |
 
-Is the oort cloud a real thing?
+|-
 
-Why is the suns corona so hot?
+| style="border: 0px; text-align: right" | Did Mars have seas?
 
-Answer: Something about magnets?
+| style="border: 0px; color:red;" | Yes (briefly?)
 
-What are comets like?
+|-
 
-Answer: Precipitous
+| style="border: 0px; text-align: right" | Was there life on Mars?
 
-Where's Philae, exactly?
+| style="border: 0px;" |
 
-What's pluto like?
+|-
 
-Answer: SOON!
+| style="border: 0px; text-align: right" | What's Titan like?
 
-What's Charon like?
+| style="border: 0px; color:red;" | Cold, yellow, lakes + rivers (methane)
 
-Answer: Soon!
+|-
 
-Why don't we have in-between-sized planets?
+| style="border: 0px; text-align: right" | What was Earth like during the Hadean?
 
-What's Ceres like?
+| style="border: 0px;" |
 
-Answer: Working on it!
+|-
 
-Why is Europa so weird looking and pretty?
+| style="border: 0px; text-align: right" | Is the Oort Cloud a real thing?
 
-Answer: Ice over a water ocean
+| style="border: 0px;" |
 
-Why is IO so weird looking? 
+|-
 
-Answer: Sulfur volcanos.. in the wrong places??
+| style="border: 0px; text-align: right" | Why is the Sun's corona so hot?
 
-Why are so many Kyiper belt objects red?
+| style="border: 0px; color:red;" | Something about magnets?
 
-What are those spots on Ceres?
+|-
 
-What's in the sease under Europa's ice?
+| style="border: 0px; text-align: right" | What are comets like?
 
-Which of the other moons have seas?
+| style="border: 0px; color:red;" | Precipitous
 
-Answer: Several
+|-
 
-What are the big white things in Titans lakes?
+| style="border: 0px; text-align: right" | Where's Philae, exactly?
 
-What do Jupiter's clouds look like up close?
+| style="border: 0px;" |
 
-What's all that red stuff in the great red spot?
+|-
 
-What's pushing the pioneer probes? 
+| style="border: 0px; text-align: right" | What's Pluto like?
 
-Answer: Heat from the RTG
+| style="border: 0px; color:red;" rowspan="2" | [Soon!]
 
-What pushes spacecraft slightly during flybys?
+|-
 
-Where are all the sun's neutrinos?
+| style="border: 0px; text-align: right" | What's Charon like?
 
-Answer: Oscillating
+|-
 
-Why is there so much air on Titan?
+| style="border: 0px; text-align: right" | Why don't we have in-between-sized planets?
 
-Why does the Kuiper belt stop?
+| style="border: 0px;" |
 
-Why is Iapetus weird colored?
+|-
 
-Why does Iapetus have a belt?
+| style="border: 0px; text-align: right" | What's Ceres like?
 
-What's the deal with Miranda?
+| style="border: 0px; color:red;" | [Working on it!]
 
-Did Uranus and Neptune change places?
+|-
 
-Did the late heavy bombardment happen?
+| style="border: 0px; text-align: right" | Why is Europa so weird-looking and pretty?
 
-Did life start before it?
+| style="border: 0px; color:red;" | Ice over a water ocean
 
-Is Europa covered in ice spikes?
+|-
 
-Why haven't we built a big inflatable extreme sports complex on the moon?
+| style="border: 0px; text-align: right" | Why is Io so weird-looking?
 
+| style="border: 0px; color:red;" | Sulfur volcanoes (? in the wrong places?)
+
+|-
+
+| style="border: 0px; text-align: right" | Why are so many Kuiper Belt objects red?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | What are those spots on Ceres?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | What's in the seas under Europa's ice?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | Which of the other moons have seas?
+
+| style="border: 0px; color:red;" | Several
+
+|-
+
+| style="border: 0px; text-align: right" | What are the big white things in Titan's Lakes?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | What do Jupiter's clouds look like up close?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | What's all that red stuff in the Great Red Spot?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | What's pushing the Pioneer Probes?
+
+| style="border: 0px; color:red;" | Heat from the RTG
+
+|-
+
+| style="border: 0px; text-align: right" | What pushes spacecraft slightly during flybys?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | Where are all the Sun's Neutrinos?
+
+| style="border: 0px; color:red;" | Oscillating
+
+|-
+
+| style="border: 0px; text-align: right" | Why is there so much air on Titan?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | Why does the Kuiper Belt Stop?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | Why is Iapetus weird-colored?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | Why does Iapetus have a belt?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | What's the deal with Miranda?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | Did Uranus and Neptune change places?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | Did the Late Heavy Bombardment happen?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | Did life start before it?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | Is Europa covered in ice spikes?
+
+| style="border: 0px;" |
+
+|-
+
+| style="border: 0px; text-align: right" | Why haven't we built a big inflatable<br> extreme sports complex on the moon?
+
+| style="border: 0px;" |
+
+|}

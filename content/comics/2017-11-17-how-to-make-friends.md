@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/how_to_make_friends.png
 ---
 [First panel with words, with the words in the center white and on a black oval background, which is in turn on the white background:]
 
-Presenting:
+*Presenting:*
 
 How to make friends
 
@@ -20,8 +20,8 @@ Cueball: We could also sit together and talk without eating. I don't need to eat
 
 [Third panel with words, same format as first panel:]
 
-Okay
+*Okay*
 
 It turns out I still haven't figured out how to do this.
 
-Sorry
+*Sorry*

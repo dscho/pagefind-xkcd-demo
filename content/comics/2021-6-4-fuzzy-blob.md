@@ -22,7 +22,7 @@ Cueball: I don't know! I looked up and it was gone!
 
 White Hat: How can a giant structure vanish?
 
-Cueball and White Hat: ...Cloaking device?!!
+Cueball and White Hat: *...Cloaking device?!!*
 
 [Blondie is standing at the front of the panel with a microphone in her hand speaking towards the viewer. Behind her is a close up of the Blob (in black and white) on a screen. To the left of the screen is an almost bald man with hair behind his ears, holding a hand to his chin. To the right is Megan, who is holding one hand out palm up, towards the picture, which they are both looking at.]
 

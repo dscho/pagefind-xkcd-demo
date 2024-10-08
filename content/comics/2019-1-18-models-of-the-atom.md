@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/models_of_the_atom.png
 ---
 [Heading:]
 
-Models of the Atom
+<big>Models of the Atom</big>
 
 over time
 
@@ -16,25 +16,25 @@ over time
 
 [A ball.]
 
-1810
+<u>1810</u>
 
 Small hard ball model
 
 [A 'pudding' inside of which there are electrons.]
 
-1904
+<u>1904</u>
 
 Plum pudding model
 
 [A ball, with four birds perched on it and two of them singing.]
 
-1907
+<u>1907</u>
 
 Tiny bird model
 
 [A ball with electrons orbiting chaotically, in all directions, around it.]
 
-1911
+<u>1911</u>
 
 Rutherford model
 
@@ -46,30 +46,30 @@ Bohr model
 
 [A nunchuck swinging, with the left stick filled with protons and the right stick filled with electrons.]
 
-1928
+<u>1928</u>
 
 Nunchuck model
 
 [A nucleus with protons and neutrons, with electrons circling around it like the Bohr model.]
 
-1932
+<u>1932</u>
 
 Chadwick model
 
 [A pie chart. 38% is allocated to neutrons, 31% to protons, and 31% to electrons.]
 
-2008
+<u>2008</u>
 
 538 model
 
 [A nucleus with clover-like orbitals around it and surrounded by two outer partly dashed circles.]
 
-Today
+<u>Today</u>
 
 Quantum model
 
 [A ball surrounded with numbers.]
 
-Future
+<u>Future</u>
 
 "Small hard ball surrounded by math" model

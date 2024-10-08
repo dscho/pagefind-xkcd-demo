@@ -6,45 +6,40 @@ alt: >-
   People aren't going to change, for better or for worse. Technology's going to be so cool. All in all, the future will be okay! Except climate; we fucked that one up.
 img: https://imgs.xkcd.com/comics/idiocracy.png
 ---
-Man #1: Idiocracy is so true.
+[Cueball is standing in front of three shelves with DVDs, holding a single DVD in his hand looking at the cover. A guy with a white rounded safari hat (Safari Hat from now on) stands behind him.]
 
-Man #2: I know, right? It used to be that the intelligent, upper classes had more children.
+Cueball: *Idiocracy* is so true.
 
-Man #2: Sadly, the recent reversal of this trend has dragged IQ scores and average education steadily downward.
+Safari Hat: I know, right? It used to be that the intelligent, upper classes had more children.
 
-Man #1: Depressing, huh?
+[Zoom in on their heads as Cueball turns towards Safari Hat.]
 
-Man #2: Yeah, except 
+Safari Hat: Sadly, the recent reversal of this trend has dragged IQ scores and average education steadily downward.
 
-everything I just said was wrong.
+Cueball: Depressing, huh?
 
-Man #1: Huh?
+[Zoom out to show Cueball holding the DVD down as Safari Hat lifts on arm towards him.]
 
-Man #2: Wrong. False. The opposite of true.
+Safari Hat: Yeah, except *everything I just said was wrong.*
 
-Man #2: Your'e like the religious zealots who are 
+Cueball: Huh?
 
-burdened
+Safari Hat: Wrong. False. The opposite of true.
 
- by their superiority with the sad duty of decrying the 
+[Zoom in only on Safari Hat.]
 
-obvious
+Safari Hat: You're like the religious zealots who are *burdened* by their superiority with the sad duty of decrying the *obvious* moral decay of each new generation.
 
- moral decay of each new generation.
+Safari Hat: And you're just as wrong.
 
-Man #2: And you're just as wrong.
+[Zoom out to both as before, but this time it is Cueball who holds up a finger.]
 
-Man #1: But look at how popular --
+Cueball: But look at how popular—
 
-Man #2: More harm has been done by people panicked over societal decline than societal decline ever did.
+Safari Hat: More harm has been done by people panicked over societal decline than societal decline ever did.
 
-Man #1: Look -- all we need is a program that limits breeding to --
+[Cueball spreads out his arms (the DVD gone) as Safari Hat has walked out off the panel.]
 
-[[The second man is walking off panel.]]
+Cueball: Look — all we need is a program that limits breeding to—
 
-Man #2: New theory: Stupid people reproduce more because the alternative is sleeping with 
-
-you
-
-.
-
+Safari Hat (off-panel): New theory: Stupid people reproduce more because the alternative is sleeping with *you.*

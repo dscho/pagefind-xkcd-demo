@@ -6,17 +6,18 @@ alt: >-
   But the windows! What if there's a voyeur watchi-- wait, now I'm turned on too.
 img: https://imgs.xkcd.com/comics/consecutive_vowels.png
 ---
-He: I was running a factor analysis on this huge database, and check out what it found:
+[Megan stands at the left while Cueball comes from right holding up a chart.]
 
-[[He holds up the chart.]]
+Cueball: I was running a factor analysis on this huge database, and check out what it found:
 
-[[It's a graph plotting "sexual arousal" against "consecutive vowels." The trendline is a smooth exponential curve.]]
+[An xy-graph plotting "sexual arousal" against "consecutive vowels." The trendline through the dots is a smooth exponential increasing curve.]
 
-She: Huh? This chart makes no sense. What--
+[Frameless panel:]
 
-He: "Queueing"
+Megan: Huh? This chart makes no sense. What-
 
-[[She grabs him.]]
+Cueball: "Queueing"
 
-She: FUCK ME NOW.
+[Zoom in, Megan grabs Cueball.]
 
+Megan: *FUCK ME NOW.*

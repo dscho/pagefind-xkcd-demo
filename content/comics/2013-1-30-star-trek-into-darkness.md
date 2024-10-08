@@ -6,27 +6,20 @@ alt: >-
   Of course, factions immediately sprang up in favor of '~*~sTaR tReK iNtO dArKnEsS~*~', 'xX_StAr TrEk InTo DaRkNess_Xx', and 'Star Trek lnto Darkness' (that's a lowercase 'L').
 img: https://imgs.xkcd.com/comics/star_trek_into_darkness.png
 ---
-[[A man sits at a computer, talking to a woman off screen.]]
+[Cueball staring at computer screen.]
 
-Man: Oh, *wow*. Look at Wikipedia's talk page for Star Trek into Darkness. I have a new favorite edit war. 
+Cueball: Oh, *wow.* Look at Wikipedia's Talk page for ***Star Trek Into Darkness.*** I have a new favorite edit war.
 
-Woman: Oh? 
+Megan (off-panel): Oh?
 
-[[The woman walks up to look over his shoulder.]]
+Cueball: Forty *thousand* words of debate over whether to capitalize "into" in the movie's title. Still no consensus.
 
-Man: Forty *thousand* words of debate over whether to capitalise "into" in the movie's title. Still no consensus.
+Megan: That's *magnificent*.
 
-Woman: That's *magnificient*.
+Cueball: It's breathtaking.
 
-Man: It's breathtaking. 
+Megan: They should have sent a poet.
 
-Woman: They should have sent a poet. 
+Cueball: Well, I'm making an executive decision. I hope both sides accept this as a fair compromise.
 
-[[We see a close-up of the man. He's typing.]]
-
-Well, I'm making an executive decision. I hope both sides accept this as a fair compromise. 
-
-<<Type type>>
-
-[[We see the Wikipedia page. The title is now "~*~ StAr TrEk InTo DaRkNeSs ~*~"]]
-
+[A Wikipedia page titled "*~\*~ StAr TrEk InTo DaRkNeSs ~\*~*"]

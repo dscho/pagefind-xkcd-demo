@@ -12,4 +12,4 @@ Cueball: My sourdough starter is coming along nicely!
 
 [Caption below the panel]
 
-Theory: The coronavirus is a yeast symbiont with an extremely convoluted parasitic life cycle.
+Theory: The coronavirus is a yeast symbiont with an ***extremely*** convoluted parasitic life cycle.

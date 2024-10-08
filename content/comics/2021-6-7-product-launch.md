@@ -14,7 +14,7 @@ Hairy: Remember, people are wary of smart devices, so we want to strike a non-th
 
 [Pan over to just Cueball; Hairy and Ponytail are off of the left side of the panel.]
 
-Cueball: Hang on, did you say non-threatening?
+Cueball: Hang on, did you say ***non***-threatening?
 
 Hairy: Yes. Why-
 

@@ -6,9 +6,9 @@ alt: >-
   We've tested it on 30 different days and it hasn't gotten one wrong yet.
 img: https://imgs.xkcd.com/comics/is_it_christmas.png
 ---
-No*
+**<big><big><big>No\*</big></big></big>**
 
-*99.73% accurate
+\*99.73% accurate
 
 [Caption below the panel:]
 

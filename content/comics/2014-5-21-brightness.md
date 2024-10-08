@@ -6,9 +6,10 @@ alt: >-
   Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day.
 img: https://imgs.xkcd.com/comics/brightness.png
 ---
-[[The panel is white ink on a black background.  A character is staring at the ground.]]
+[This panel is white on black, instead of black on white. Megan is standing staring at the ground.]
 
-Character: Based on this decrease in the star's brightness, I believe it is orbited by at least one planet.
+Megan: Based on this decrease in the star's brightness, I believe it is orbited by at least one planet.
+
+[Caption below the panel:]
 
 Exoplanet astronomers at night
-

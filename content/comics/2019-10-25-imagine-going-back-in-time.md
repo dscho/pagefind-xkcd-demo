@@ -20,7 +20,7 @@ Cueball: Oh, I have a time machine! I'll try that.
 
 Bzzzzt
 
-[Two Cueballs standing, facing each other. The one on the right is holding the handheld device, and is thus Cueball from 2019. He is apparently repeating his statement to the other Cueball from 1999, with only the last 3 words shown. He gestures towards the left Cueball. Above the left Cueball there is a frame with a caption:]
+[Two Cueballs standing, facing each other. The one on the right is holding the handheld device, and is thus Cueball from 2019.  He is apparently repeating his statement to the other Cueball from 1999, with only the last 3 words shown. He gestures towards the left Cueball. Above the left Cueball there is a frame with a caption:]
 
 1999
 
@@ -42,4 +42,4 @@ Cueball from 2019: OK, I did not come here to be mocked.
 
 Cueball from 1999: This is a sobering cautionary tale.
 
-Cueball from 2019: Listen, self...
+Cueball from 2019: ***Listen, self...***

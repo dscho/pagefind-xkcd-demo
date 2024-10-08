@@ -6,7 +6,7 @@ alt: >-
   When we started distributing special status tokens that signify which people are important enough to join an elite group, we never could have imagined we might be creating some problems down the line.
 img: https://imgs.xkcd.com/comics/twitter_verification.png
 ---
-[A bearded figure, depicting the Twitter CEO Jack Dorsey, is standing behind a podium with the blue Twitter bird logo.]
+[A bearded figure, who is meant to be Jack Dorsey, the Twitter CEO at the time, is standing behind a podium with the blue Twitter bird logo.]
 
 Jack: Everyone calm down—
 

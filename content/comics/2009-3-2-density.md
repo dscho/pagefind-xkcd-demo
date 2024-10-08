@@ -6,13 +6,12 @@ alt: >-
   If only I had asked 4chan for ideas for what I should do to prevent this!
 img: https://imgs.xkcd.com/comics/density.png
 ---
-[[Guy is in a bed with a girl]]
+[Cueball is in a bed with Megan.]
 
-Guy: Sup dawg, I herd you didn't liek forming babby, but I accidentally in your base.
+Cueball: Sup dawg, I herd you didn't liek forming babby, but I accidentally in your base.
 
-[[Out of the panel text]]
+[Below the frame:]
 
 Cons: Ruined life.
 
-Pros: Sentence set the new meme destiny record.
-
+Pros: Sentence set the new meme density record.

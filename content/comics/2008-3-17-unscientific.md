@@ -3,29 +3,31 @@ date: 2008-03-17
 title: "Unscientific"
 num: 397
 alt: >-
-  Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism.  We'll also examine the existence of God and whether true love exists.
+  Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism. We'll also examine the existence of God and whether true love exists.
 img: https://imgs.xkcd.com/comics/unscientific.png
 ---
+[Cueball and Megan are sitting on a coach, watching Mythbusters.]
+
 TV: Can a ninja catch an arrow? On this episode, we'll find out!
 
-Guy: Mmm, science.
+Cueball: Mmm, science.
 
-Girl: Hey, Mythbusters is entertaining, but it's not science.
+Megan: Hey, Mythbusters is entertaining, but it's not science.
 
-ZF: BRAAAIIIINNS ...
+Zombie Feynman: *BRAAAAAIIINNS*...
 
-Guy: Zombie Feynman!
+Cueball: Zombie Feynman!
 
-ZF: You got a problem with Mythbusters?
+Zombie Feynman: You got a problem with Mythbusters?
 
-Girl: They fail at basic rigor!
+Megan: They fail at basic rigor!
 
-ZF: "Ideas are tested by experiment."  That is the _core_ of science.  Everything else is bookkeeping.
+Zombie Feynman: "Ideas are tested by experiment." That is the <u>core</u> of science. Everything else is bookkeeping.
 
-ZF: By teaching people to hold their beliefs up to experiment, Mythbusters is doing more to drag humanity out of the unscientific darkness than a thousand lessons in rigor. Show them some love.
+Zombie Feynman: By teaching people to hold their beliefs up to experiment, *Mythbusters* is doing more to drag humanity out of the unscientific darkness than a thousand lessons in rigor. Show them some love.
 
-ZF: Anyway, back to zombie stuff.  I hunger for BRAAAAAIIINNS!
+Zombie Feynman: Anyway, back to zombie stuff. I hunger for *BRAAAAAIIINNS!*
 
-Guy: Try the physics lab next door.
+Cueball: Uh, try the physics lab next door.
 
-ZF: I said _brains_.  All they've got are string theorists.
+Zombie Feynman: I said <u>brains</u>. All they've got are string theorists.

@@ -8,11 +8,11 @@ img: https://imgs.xkcd.com/comics/video_orientation.png
 ---
 [The image shows three columns by three rows with the following headers:]
 
-Video Orientation
+**Video Orientation**
 
-Pros
+**Pros**
 
-Cons
+**Cons**
 
 [First row:]
 
@@ -21,12 +21,16 @@ Cons
 Horizontal
 
 [Pros are:]
- * Looks normal to old people
- * Format used by a century of cinema
+
+\*Looks normal to old people
+
+\*Format used by a century of cinema
 
 [Cons are:]
- * Humans are taller than are wide
- * I'm not turning my phone sideways
+
+\*Humans are taller than are wide
+
+\*I'm not turning my phone sideways
 
 [Second row:]
 
@@ -35,10 +39,12 @@ Horizontal
 Vertical
 
 [Pros are:]
- * How most normal people shoot and watch video now so we may as well accept it
+
+\*How most normal people shoot and watch video now so we may as well accept it
 
 [Cons are:]
- * Human world is mostly a horizontal plane
+
+\*Human world is mostly a horizontal plane
 
 [Third row:]
 
@@ -47,9 +53,13 @@ Vertical
 Diagonal
 
 [Pros are:]
- * Bold and dynamic
- * Equally annoying to all viewers
- * Good compromise
+
+\*Bold and dynamic
+
+\*Equally annoying to all viewers
+
+\*Good compromise
 
 [Cons are:]
- * None
+
+\*None

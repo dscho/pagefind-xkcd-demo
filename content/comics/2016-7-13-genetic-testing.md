@@ -22,7 +22,7 @@ Cueball: Sweet, got my results back.
 
 Megan: Ooh, share!
 
-Ancestry Report
+<u>Ancestry Report</u>
 
 48% Labrador Retriever
 

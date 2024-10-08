@@ -6,29 +6,28 @@ alt: >-
   If it were a two or above I wouldn't be able to answer because it would mean a pause in the screaming.
 img: https://imgs.xkcd.com/comics/pain_rating.png
 ---
-[[A doctor is carrying a clipboard and consulting with a patient, who's sitting on a high medical table.]]
+[Ponytail in a doctor's coat is carrying a clipboard and consulting with Cueball, who's sitting on a high medical table one arm down the other holding on to this arm at the inside of the elbow.]
 
-Doctor: Any pain?
+Ponytail: Any pain?
 
-Patient: My arm really hurts.
+Cueball: My arm really hurts.
 
-[[The patient's friend is standing behind the doctor, as the panel widens.]]
+[Zoom out of same scene to include Megan is standing behind Ponytail.]
 
-Doctor: How would you rate the pain, from one to ten, where ten is the worst pain you can imagine?
+Ponytail: How would you rate the pain, from one to ten, where ten is the worst pain you can imagine?
 
-[[The patient sits on the table.]]
+[This frame-less panel zooms in on Cueball sitting on the table.]
 
-Patient: The worst pain I can imagine?
+Cueball: The worst pain I can imagine?
 
-[[The patient ponders this, raising a thoughtful hand to their jaw.]]
+[Zoom in on the top of Cueball who ponders this, raising a thoughtful hand to his jaw.]
 
-[[The patient appears to be shocked.]]
+[Same image but Cueball appears to be shocked having taken both hands in front of his mouth, four small lines coming out from the top of his head.]
 
-[[The patient is huddled up on the table.]]
+[Zoom out again as Cueball huddles up on the table, legs all the way up to his chin, arms tightly folded around the knees. Ponytail leans back towards Megan, both whispering as indicated with smaller font.]
 
-Patient: One.
+Cueball: One.
 
-Doctor: ... What the hell is wrong with his imagination?
+Ponytail: <small>...What the hell is wrong with his imagination?</small>
 
-Patient's Friend: It's not a normal place.
-
+Megan: <small>It's not a normal place.</small>

@@ -6,77 +6,136 @@ alt: >-
   You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.
 img: https://imgs.xkcd.com/comics/five_day_forecast.png
 ---
-((Comic consists of 6 rows of forecasts, each with a description of that time period's weather. ))
+[A grid with six rows of five columns, where each row is labeled to the left. For each of the 30 squares a temperature is given in Fahrenheit at the top left. The rest of the square represents the weather as in a weather forecast (or some other relevant items for the comic), mainly in bright colors. Below are the six labels given above each of their five weather symbols with temperature given below these symbols description.]
 
-Your 5-day forecast
+**Your 5-day forecast**
 
-Day 1: 38 F - Sunny
+[A bright yellow sun.]
 
-Day 2: 41 F - Cloudy
+38°F
 
-Day 3: 36 F - Rainy
+[A grey cloud.]
 
-Day 4: 40 F - Partially Cloudy
+41°F
 
-Day 5: 44 F - Sunny
+[A grey cloud with six lines of blue raindrops below.]
 
-Your 5-month forecast
+36°F
 
-Month 1: 38 F - Sunny
+[A grey cloud in front of a yellow sun.]
 
-Month 2: 29 F - Christmas Tree
+40°F
 
-Month 3: 21 F - Snow
+[A bright yellow sun.]
 
-Month 4: 24 F - Snow
+44°F
 
-Month 5: 35 F - Cloudy
+**Your 5-month forecast**
 
-Your 5-year forecast
+[A bright yellow sun.]
 
-Year 1: 38 F - Sunny
+38°F
 
-Year 2: 25 F - Cloudy
+[A green Christmas tree with red presents beneath it.]
 
-Year 3: 36 F - Sunny
+29°F
 
-Year 4: 37 F - Rainy
+[A grey cloud with four snowflakes below.]
 
-Year 5: 40 F - Sunny
+21°F
 
-Your 5-million-year forecast
+[A grey cloud with four snowflakes below.]
 
-2015: 38 F - Sunny
+24°F
 
-1,002,015: 52 F - Sunny
+[A grey cloud.]
 
-2,002,015: 40 F - Cloudy
+35°F
 
-3,002,015: 275 F - Flying Saucer Attack
+**Your 5-year forecast**
 
-4,002,015: Partially Cloudy
+[A bright yellow sun.]
 
-Your 5-billion-year forecast
+38°F
 
-2015: 38 F - Sunny
+[A grey cloud.]
 
-1,000,002,015: 105 F - Larger Orange Sunny
+25°F
 
-2,000,002,015: 371 F - Even Larger Red Sunny
+[A bright yellow sun.]
 
-3,000,002,015: 71,488,106 F - #F8FFBB
+36°F
 
-4,000,002,015: -452 F - Star Field
+[A grey cloud with six lines of blue raindrops  below.]
 
-Your 5-trillion-year forecast
+37°F
 
-2015: 38 F - Sunny
+[A bright yellow sun.]
 
-1,000,000,002,015: -452 F - Star Field
+41°F
 
-2,000,000,002,015: -452 F - Slightly Darker Star Field
+**Your 5-million-year forecast**
 
-3,000,000,002,015: -452 F - Even Darker Star Field
+[A bright yellow sun.]
 
-4,000,000,002,015: -452 F - Few Stars Left
+38°F
 
+[A bright yellow sun.]
+
+52°F
+
+[A grey cloud.]
+
+40°F
+
+[Two red flying saucers (with bright domes) are shooting energy beams downwards. One of the beams seems to impact with something at the bottom of the panel, which then explodes. Two plumes of smoke rises up from below, drifting to the right.]
+
+275°F
+
+[A grey cloud in front of a yellow sun.]
+
+40°F
+
+**Your 5-billion-year forecast**
+
+[A bright yellow sun.]
+
+38°F
+
+[A larger orange sun.]
+
+105°F
+
+[A very large red sun.]
+
+371°F
+
+[A pale yellow panel with no drawing.]
+
+71,488,106°F
+
+[A night sky with many bright stars.]
+
+-452°F
+
+**Your 5-trillion-year forecast**
+
+[A bright yellow sun.]
+
+38°F
+
+[A night sky with many bright stars.]
+
+-452°F
+
+[A night sky with many stars.]
+
+-452°F
+
+[A night sky with fewer not so bright stars.]
+
+-452°F
+
+[A night sky with few dim stars.]
+
+-453°F

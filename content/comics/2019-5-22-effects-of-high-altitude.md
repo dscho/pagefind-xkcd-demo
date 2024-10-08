@@ -6,7 +6,7 @@ alt: >-
   If she'd lived in Flagstaff (elevation 6,903 feet), Cruella de Vil would only have needed 89 dalmatians for her coat.
 img: https://imgs.xkcd.com/comics/effects_of_high_altitude.png
 ---
-Effects of High Altitude
+**Effects of High Altitude**
 
 How life is different at one mile above sea level
 

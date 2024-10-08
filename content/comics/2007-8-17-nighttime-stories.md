@@ -6,11 +6,11 @@ alt: >-
   Cue angry letters from all seven fans of Xenocide.
 img: https://imgs.xkcd.com/comics/nighttime_stories.jpg
 ---
-[[ Man sitting in an armchair in a darkened room, behind him a bookshelf and an open window. A girl is seen outside reading a book by an eerie glow]]
+[Cueball sitting in an armchair in a darkened room, with a bookshelf and an open window. Megan is seen outside reading a book by a glow.]
 
 For a few weeks now, sometime past midnight, a girl has wandered past my apartment reading by flashlight.
 
-[[Outside, the girl, walking down the street passing under a street lamp]]
+[Outside, Megan walking down the street passing under a street lamp.]
 
 I wonder why she's up so late.
 
@@ -20,28 +20,24 @@ Like me.
 
 I wonder what story she's wrapped up in.
 
-I wonder if she let's anyone into that island of light.
+I wonder if she lets anyone into that island of light.
 
-[[ Man sitting in dark room ]]
+[Cueball sitting in a dark room.]
 
-[[ Dark room minus man ]]
+[Cueball has left the room.]
 
-[[ Man standing on his doorstep at the top of a small flight of stairs, near the bottom of which the girl has stopped, no longer reading. ]]
+[Cueball standing on his doorstep at the top of a small flight of stairs, near the bottom of which Megan has stopped, no longer reading.]
 
-Man: Hi!  What are you reading?
+Cueball: Hi! What are you reading?
 
-Girl: Orson Scott Card's 'Xenocide.'  It's my favorite in the series!
+Megan: Orson Scott Card's 'Xenocide.' It's my favorite in the series!
 
-[[ The same, only man looks more dejected ]]
+Cueball: Wait, you like it more than Speaker for the Dead <u>or</u> Ender's Game?
 
-Man: Wait, you like it more than Speaker for the Dead OR Ender's Game?
+Megan: Yeah!
 
-Girl: Yeah!
+[Cueball has gone back in the house, leaving Megan standing alone.]
 
-[[ The same, only man has withdrawn ]]
-
-[[ Man back sitting in the chair within dark apartment ]]
+[Cueball is sitting in the chair again.]
 
 And to think I loved her.
-
-{{ alt: Cue angry letters from all seven fans of Xenocide. }}

@@ -16,13 +16,13 @@ Precise number + Garbage = Garbage
 
 Precise number × Garbage = Garbage
 
-√Garbage = Less bad garbage
+√<span style="border-top:1px solid; padding:0 0.1em;">Garbage</span> = Less bad garbage
 
 Garbage² = Worse garbage
 
 1/N Σ (N pieces of statistically independent garbage) = Better garbage
 
-(Precise number)Garbage = Much worse garbage
+(Precise number)<sup>Garbage</sup> = Much worse garbage
 
 Garbage – Garbage = Much worse garbage
 

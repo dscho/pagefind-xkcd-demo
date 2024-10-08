@@ -20,9 +20,9 @@ Earth forms
 
 Ground-nesting bees evolve
 
-The Land Before Time
+*The Land Before Time*
 
-Thymus genus diverges
+*Thymus* genus diverges
 
 Now
 
@@ -36,7 +36,7 @@ The Time Before Land
 
 The Time Before bees
 
-[Rocky Planets Form to Thymus Genus Diverges:]
+[Rocky Planets Form to *Thymus* Genus Diverges:]
 
 The Land Before Thyme
 

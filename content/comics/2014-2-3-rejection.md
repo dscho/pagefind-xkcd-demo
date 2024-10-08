@@ -6,21 +6,10 @@ alt: >-
   Perhaps you need a crash course in taking hints. Here's your first lesson: We're not actually walking somewhere together; I'm trying to leave this conversation and you're following me.
 img: https://imgs.xkcd.com/comics/rejection.png
 ---
-[[Two people are walking.]]
+[Cueball is walking, and a Cueball-like guy follows him.]
 
-Person #1: Women 
+Guy: Women *say* they want nice guys, but what they *really* want are—
 
-say
+Cueball: —Guys who respond to rejection by belittling their judgment and self-awareness?
 
- they want nice guys, but what they 
-
-really
-
- want are--
-
-Person #2: --guys who respond to rejection by belittling their judgment and self-awareness?  If so, don't worry -- you'll be 
-
-fine
-
-.
-
+Cueball: If so, don't worry — you'll be *fine.*

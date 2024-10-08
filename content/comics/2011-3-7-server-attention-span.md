@@ -6,15 +6,15 @@ alt: >-
   They have to keep the adjacent rack units empty. Otherwise, half the entries in their /var/log/syslog are just 'SERVER BELOW TRYING TO START CONVERSATION *AGAIN*.' and 'WISH THEY'D STOP GIVING HIM SO MUCH COFFEE IT SPLATTERS EVERYWHERE.'
 img: https://imgs.xkcd.com/comics/server_attention_span.png
 ---
-[[single blade in a server rack]]
+[Single server in a server rack.]
 
 Server: Hi! I'm a server! Who are you?
 
-[[mobile device with a web browser]]
+[Mobile device with a web browser.]
 
 Browser: I'm a browser. I'd like to see this article.
 
-Server:Oh boy! I can help! Let me get it for- ..whoa! You're a *smartphone* browser? 
+Server: Oh boy! I can help! Let me get it for— ...Whoa! You're a *smartphone* browser?
 
 Browser: Yeah.
 
@@ -24,18 +24,10 @@ Browser: Sure, but this is just your mobile site's main page. Where's the articl
 
 Server: What article?
 
-Browser: The one I-
+Browser: The one I—
 
 Server: Who are you?
 
-Browser: I-
+Browser: I—
 
 Server: Hi! I'm a server!
-
-{{Title text: They have to keep the adjacent rack units empty. Otherwise, half the entries in their 
-
-var
-
-log
-
-syslog are just 'SERVER BELOW TRYING TO START CONVERSATION *AGAIN*.' and 'WISH THEY'D STOP GIVING HIM SO MUCH COFFEE IT SPLATTERS EVERYWHERE.'}}

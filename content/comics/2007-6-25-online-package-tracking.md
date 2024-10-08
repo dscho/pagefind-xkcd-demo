@@ -3,25 +3,25 @@ date: 2007-06-25
 title: "Online Package Tracking"
 num: 281
 alt: >-
-  I don't even *want* this package!  Why did I join the stinging insect of the month club, anyway?
+  I don't even *want* this package! Why did I join the stinging insect of the month club, anyway?
 img: https://imgs.xkcd.com/comics/online_package_tracking.png
 ---
-{{Online Package Tracking}}
+Online Package Tracking:
 
-{{_Pros_: Convenient, Useful}}
+<u>Pros:</u> Convenient, Useful
 
-{{_Cons_: Makes You Crazy}}
+<u>Cons:</u> Makes you crazy
 
-[[A person is sitting at a computer.]]
+[Megan is sitting at a computer.]
 
-<<refresh>>
+\*refresh\*
 
-Person: Aww, still in Memphis.
+Megan: Aww, still in Memphis.
 
-<<refresh>>
+\*refresh\*
 
-Person: Aww, still in Memphis.
+Megan: Aww, still in Memphis.
 
-<<refresh>>
+\*refresh\*
 
-Person: Aww, still in Memphis.
+Megan: Aww, still in Memphis.

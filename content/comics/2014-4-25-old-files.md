@@ -6,9 +6,84 @@ alt: >-
   Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.
 img: https://imgs.xkcd.com/comics/old_files.png
 ---
-[[A cutaway view of a "ground" which is actually made up of layers labeled with various groups of files as one might see on a random person's computer fills the frame, such as "Documents, 47 GB" and "High School Zip Disk, 94 MB". A small crevice leads down through the middle, to a cave-like area where a figure stands looking through the smallest grouping of files. A second figure with long hair stands at ground level, looking down into the crevice.]]
+[Cross-sectional view of what look vaguely like stratigraphic layers underground. A crevice leads down through these concentric layers to a cave-like cavity in the middle, where Cueball is going through the deepest, most central, and incidentally smallest of the files. Above, Megan stands at "ground level", looking down into the crevice.]
 
-Long-haired Figure: You okay down there?
+Megan: You OK down there?
 
-Subterranean Figure: Oh my god. I wrote *poetry*.
+**Documents** (47 GB)
 
+misc.txt
+
+Video projects
+
+**Old desktop** (12 GB)
+
+Facebook pics
+
+Pics from other camera
+
+Temp
+
+Misc PDFs
+
+MP3
+
+**Recovered from drive crash** (4 GB)
+
+Temp
+
+Work misc
+
+Audio books
+
+**My Documents** (570 MB)
+
+Downloads
+
+Kazaa shared
+
+AYB
+
+EV Override
+
+Angband
+
+GIFs
+
+FIGHT CLUB.wmv
+
+Elasto Mania
+
+AIM Direct Connect files
+
+4chan
+
+ICQ logs
+
+**High school Zip disk** (94 MB)
+
+Korn MIDI
+
+Photos3 (Prom)
+
+lovenote.txt
+
+Gorilla.bas
+
+Dream.txt
+
+James.txt
+
+AOL (Citadel)
+
+QBasic
+
+NYET
+
+Jokes.txt
+
+**AAAFILES** (9.4 MB)
+
+**TXT** (850 K)
+
+Cueball (deep inside the AAAFILES section looking at his txt files): Oh my god. I wrote **poetry**.

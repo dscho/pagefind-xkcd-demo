@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/my_friend_catherine.png
 
 New favorite substitution:
 
-My Cat→My Friend Catherine
+<big>My Cat→My Friend Catherine</big>
 
 [A news feed with comments by six different people discussing their cat, but after the above substitution. Next to each post is a user image, and above the clear text of the substituted comment is a unreadable line of wiggles probably with information about the post time stamp.]
 

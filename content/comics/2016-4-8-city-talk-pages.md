@@ -12,7 +12,9 @@ I love reading the Wikipedia talk pages for articles on individual cites
 
 [A list of contents for a Wikipedia talk page regarding an article about a city. Except for the header and the square brackets, which are written in black text, the rest is in a blue font.]
 
-Contents [hide]
+Contents [<font color="#0746ad">hide</font>]
+
+<div style="color:#0645ad;">
 
 1 Origin of city's name?
 
@@ -28,9 +30,9 @@ Contents [hide]
 
 3.2 All cites have murders
 
-4 Quote verification: Even if Voltaire did visit (unlikely), why would he get so angry about our restaurants?
+4 Quote verification:  Even if Voltaire did visit (unlikely), why would he get so angry about our restaurants?
 
-5 Discuss: New picture
+5 Discuss:  New picture
 
 5.1 Current one looks awfully bleak
 
@@ -44,7 +46,7 @@ Contents [hide]
 
 5.6 Found a better picture, more colorful
 
-5.7 That's a shot from Disney's Zootopia
+5.7 That's a shot from Disney's *Zootopia*
 
 6 "Mining disasters" section too long
 
@@ -52,7 +54,7 @@ Contents [hide]
 
 6.2 Why is this town so bad at mining?
 
-7 Infobox picture: I just realized you can see a murder happening in the background
+7 Infobox picture:  I just realized you can see a murder happening in the background
 
 7.1 This city is terrible
 
@@ -68,7 +70,7 @@ Contents [hide]
 
 9 I think the murderer is reverting my edits
 
-10 Why does this article take any position on correct condom use, let alone such a weird and ambiguous one?
+10 Why does this article take ***any*** position on correct condom use, let alone such a weird and ambiguous one?
 
 11 Train station "Designed by Andrew Lloyd Webber"?
 
@@ -79,3 +81,5 @@ Contents [hide]
 11.3 Didn't know he did architecture
 
 11.4 Roof collapse
+
+</div>

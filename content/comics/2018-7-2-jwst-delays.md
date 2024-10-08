@@ -18,7 +18,7 @@ Launch Delays
 
 [In the graph are 15 points, starting at (1997,2007) and extending at a slope of a little less than one. The most recent one is labeled 'Now: 2021'.]
 
-[There are two lines on the graph: a red one and a dashed black one. The red one is a regression of the points on the graph. It has a slope of about ⅔. The black one is a line with a slope of one. They intersect at the point (2026,2026), marked by the label 'Late 2026'?]
+[There are two lines on the graph: a red one and a dashed black one. The red one is a regression of the points on the graph. It has a slope of about ⅔. The black one is a line with a slope of one. They intersect at the point (2026,2026), marked by the label 'Late 2026?']
 
 [Caption below the panel:]
 

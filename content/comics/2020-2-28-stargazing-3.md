@@ -6,13 +6,13 @@ alt: >-
   If we can destroy enough of the lights in our region, we may see more comets, but that's a risk we'll have to take.
 img: https://imgs.xkcd.com/comics/stargazing_3.png
 ---
-[In a dark panel, Megan as a TV host stands in front of a group of people: Science Girl, Ponytail and Cueball. The panel is inverse-colored, i.e. white text and drawings on black]
+[In a dark panel, Megan as a TV host stands in front of a group of people: Hairbun, Ponytail and Cueball. The panel is inverse-colored, i.e. white text and drawings on black]
 
 Host: Welcome back to Stargazing.
 
 Host: There are no new stars since last time, but you came back for some reason.
 
-[Zoomed out on the same scene, the host is now with Science Girl, Ponytail, Cueball, a Megan-like woman, and White Hat. The host is pointing upwards with her left hand.]
+[Zoomed out on the same scene, the host is now with Hairbun, Ponytail, Cueball, a Megan-like woman, and White Hat. The host is pointing upwards with her left hand.]
 
 Host: That star is Vega. At magnitude 0.03, it's the brightest star I'm currently talking about.
 

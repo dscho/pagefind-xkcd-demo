@@ -6,7 +6,6 @@ alt: >-
   I would say time is definitely one of my top three favorite dimensions.
 img: https://imgs.xkcd.com/comics/dimensions.png
 ---
-[[Two figures sit beneath a tree in a meadow]]
+[Cueball is sitting up against a tree, Megan lies with her hands behind her neck in front him under the foliage of the tree.]
 
-Figure: Of the four dimensions I could have spent my life being pushed inexorably forward through, I guess "Time" isn't the worst.
-
+Cueball: Of the four dimensions I could have spent my life being pushed inexorably forward through, I guess "time" isn't the worst.

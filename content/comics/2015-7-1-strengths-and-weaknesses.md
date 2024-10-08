@@ -6,17 +6,18 @@ alt: >-
   Do you need me to do a quicksort on the whiteboard or produce a generation of offspring or something? It might take me a bit, but I can do it.
 img: https://imgs.xkcd.com/comics/strengths_and_weaknesses.png
 ---
-[[Two characters sit at a table, opposite one another. One is an INTERVIEWER, the other an APPLICANT]]
+[Ponytail is shown sitting on a swivel chair, to the left of a desk.]
 
-Interviewer: What would you say is your biggest weakness?
+Ponytail: What would you say is your biggest weakness?
 
-Applicant: Probably that I'm a giant tangle of parts that don't always work right, so I can die easily.
+[The view expands to show Cueball sitting on another swivel chair, on the opposite side of the desk.]
 
-Interviewer: Biggest strength?
+Cueball: Probably that I'm a giant tangle of parts that don't always work right, so I can die easily.
 
-Applicant: There will come a day when I'm either an ancesotr to ALL living humans, or to NONE of them.
+Ponytail: Biggest strength?
 
-Interviewer: Where do you see yourself in five years?
+Cueball: There will come a day when I'm either an ancestor to *all* living humans, or to *none* of them.
 
-Applicant: Probably not the ancestor of all living humans yet. But you never know!
+Ponytail: Where do you see yourself in five years?
 
+Cueball: Probably not the ancestor of all living humans yet. But you never know!

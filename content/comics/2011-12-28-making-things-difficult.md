@@ -6,25 +6,28 @@ alt: >-
   Favorite mastectomy breast prosthesis idea: a fake boob containing a spare rechargable battery, accessed via a nipple USB port. Complete with a ring of LED charge indicators in the areola!
 img: https://imgs.xkcd.com/comics/making_things_difficult.png
 ---
-Breast Cancer Surgery Follow-Up
+[Ponytail in a doctor's coat is carrying a clipboard with lines indicating text, consulting it while Megan is sitting on a high medical table with a full body gown on. At the top there is a frame crossing over the top of the first panel with a caption:]
 
-Oncologist: You're looking great! Remove your top so I can check how the incision is healing.
+Caption: Breast Cancer Surgery Follow-Up...
 
-Delightfully Awesome Person: Nuh-uh.
+Ponytail: You're looking great! Remove your top so I can check how the incision is healing.
 
-Oncologist: *sigh*. Do we have to do this *every* time?
+Megan: Nuh-uh.
 
-Delightfully Awesome Person: You know the rules.
+[Ponytail has taken her arm with the clipboard down, while Megan is holding her hand with a thumb up.]
 
-Oncologist: This is so ridiculous.
+Ponytail: \*Sigh\*
 
-[[Oncologist fake-annoyedly searches for something in pockets]]
+Ponytail: Do we have to do this *every* time?
 
-Oncologist: Here.
+Megan: You know the rules.
 
-[[Oncologist waves around a Mardi Gras bead necklace]]
+[In a frame-less panel showing only Ponytail, she searches for something in both her pockets, three sets of two small lines indicate how she moves her hands around inside them.]
 
-Delightfully Awesome Person: Woooo!
+Ponytail (Mumbling to herself, in smaller text): This is so ridiculous...
 
-[[Delightfully Awesome Person disrobes]]
+[Ponytail holds a purple bead necklace up in an outstretched arm. Megan begins to disrobe, opening the dress at her neck pulling with both arms as shown with three sets of two small lines.]
 
+Ponytail: Here.
+
+Megan: Woooo!

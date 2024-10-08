@@ -6,19 +6,18 @@ alt: >-
   Guest comic by David Troupes of Buttercup Festival, who is living in that lovely tree outside your window.
 img: https://imgs.xkcd.com/comics/guest_week_david_troupes_buttercup_festival.png
 ---
-[[Two people are leaning against each other, sitting on top of the moon.  Trees are visible towards the bottom of the panel.]]
+[Megan and Cueball are leaning against each other, sitting on top of a giant moon in a black, star dotted sky. Trees are visible on the bottom of the panel.]
 
-[[The scene broadens.]]
+[The scene broadens.]
 
-Woman: I've never been so happy.  I --
+Megan: I've never been so happy. I—
 
-Man: Hold on -- that guy used to dump my notebooks in high school.  Give me a moment.  Try to keep the moon steady.
+Cueball: Hold on—that guy used to dump my notebooks in high school. Give me a moment. Try to keep the moon steady.
 
-[[A rock hits someone on the ground on the back of the head.]]
+[A rock hits a Cueball on the ground on the back of the head.]
 
-[[The person clutches the back of their head.]]
+[The guy falls and clutches the back of his head.]
 
-[[The moon, again.]]
+[Back to the moon again, where Cueball is leaning his head against Megan while holding a slingshot.]
 
-Guy: I've never been so happy.
-
+Cueball: I've never been so happy.

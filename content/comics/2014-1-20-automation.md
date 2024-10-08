@@ -8,7 +8,20 @@ img: https://imgs.xkcd.com/comics/automation.png
 ---
 "I spend a lot of time on this task. I should write a program automating it!"
 
-[[Panel titled "Theory:" at the top contains a line plot, with "work" on the y-axis and "time" on the x-axis. Two curves indicate "work on the original task" eventually being permanently reduced by temporarily spending more work on coding, and then having the produced automation take over.]]
+[Two graphs are shown, plotting workload against time.]
 
-[[Panel titled "Reality:" at the top contains a similar line plot, but the line for "work on the original task" does not decrease. The second curve, which starts out as "writing code", becomes "debugging", "rethinking", and then "ongoing development". The line for work on the original task becomes dotted, with the label "no time for original task anymore."]]
+Theory:
 
+[The line for "work on original task" is steady but then drops down to a much lower level.]
+
+[The line for the automating job increases heavily while "writing code" and then drops down when "automation takes over".]
+
+[Both lines end up with a big amount of "free time".]
+
+Reality:
+
+[The line for "work on original task" is steady with no drop to a lower level.]
+
+[The line for the automating job increases heavily while "writing code", then it increases again while "debugging", it drops down slightly while "rethinking", and grows up again with an infinite end while the task is still an "ongoing development".]
+
+[The line for "work on original task" ends up with "no time for original task anymore".]

@@ -6,12 +6,12 @@ alt: >-
   Proper User Policy apparently means Simon Says.
 img: https://imgs.xkcd.com/comics/sandwich.png
 ---
-[[ A man is sitting on a couch, talking to another man.  They are both stick figures. ]]
+[Cueball is sitting on a couch, talking to a Cueball-like friend.]
 
-First man:  Make me a sandwich.
+Cueball: Make me a sandwich.
 
-Second man:  What?  Make it yourself.
+Friend: What? Make it yourself.
 
-First man:  Sudo make me a sandwich.
+Cueball: Sudo make me a sandwich.
 
-Second man:  Okay
+Friend: Okay.

@@ -6,25 +6,26 @@ alt: >-
   When it explodes, it will cast off its outer layers, leaving behind nothing but a slowly fading PalmPilot, calculator, or two-way pager.
 img: https://imgs.xkcd.com/comics/my_phone_is_dying.png
 ---
-[[Beret guy walks up to a figure, holding his phone.]]
+[Cueball stands on the left while Beret Guy walks in from the right, carrying a smartphone.]
 
-Beret guy: My phone's about to die.
+Beret Guy: My phone's about to die.
 
-[[They stand and look at each other. Beret Guy's phone seems a bit bigger.]]
+[The phone is now subtly larger.]
 
-Figure: Where'd you get a big iPhone? I didn't think they were out yet. 
+Cueball: Where'd you get a big iPhone? I didn't think they were out yet.
 
-Beret guy: It's my regular one. It's just dying. 
+Beret Guy: It's my regular one. It's just dying.
 
-[[His phone is now the size of a tablet.]]
+[The phone increases in size again. Beret Guy now holds it in both hands.]
 
-Beret guy: As it consumes its battery, it heats up and expands. Soon it will swell to enormous size, engulfing us both. 
+Beret Guy: As it consumes its battery, it heats up and expands.
 
-[[His phone is now the size of a badger.]]
+Beret Guy: Soon it will swell to enormous size, engulfing us both.
 
-Beret guy: Then it will collapse in a violent explosion! 
+[The phone is now in the size of Beret Guy's torso; he is clutching it to himself. Cueball is pointing off-panel.]
 
-Figure: ... Do you want to borrow my charger? 
+Beret Guy: Then it will collapse in a violent explosion!
 
-Beret guy: That would only make it run out faster! 
+Cueball: ...do you want to borrow my charger?
 
+Beret Guy: That would only make it run out *faster!*

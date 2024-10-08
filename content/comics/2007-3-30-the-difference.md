@@ -6,24 +6,22 @@ alt: >-
   How could you choose avoiding a little pain over understanding a magic lightning machine?
 img: https://imgs.xkcd.com/comics/the_difference.png
 ---
-[[A man pulls a lever.]]
+[All the panels are circular.]
 
-<<Pull>>
+[Cueball pulls a lever.]
 
-[[Lightning hits the man.]]
+*Pull*
 
-<<ZAP>>
+[Lightning hits Cueball.]
 
-[[The man still stands, obviously battered]]
+*ZAP*
 
-[[Arrow labeled "Normal Person"]]
+[Cueball still stands, obviously battered.]
 
-Thinks: I guess I shouldn't do that.
+[An arrow labelled "normal person" points to a panel of Cueball thinking.]
 
-[[Arrow labeled "Scientist"]]
+Cueball (thinking): I guess I shouldn't do that.
 
-Thinks: I wonder if that happens every time.
+[An arrow labelled "scientist" points to a panel of Cueball about to pull the level again.]
 
-[[He reaches for the lever again.]]
-
-{{ alt: How could you choose avoiding a little pain over understanding a magic lightning machine? }}
+Cueball (thinking): I wonder if that happens every time.

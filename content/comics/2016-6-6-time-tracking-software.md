@@ -8,19 +8,19 @@ img: https://imgs.xkcd.com/comics/time_tracking_software.png
 ---
 [This comic shows a pie chart with 5 slices, each with a label and a line pointing to these five different sized slices. There is a caption above the chart:]
 
-Your activity report
+<u>Your activity report</u>
 
 [The labels on each slice is given in clockwise order starting top left. The percentages are estimated from the image and are noted in the square brackets before the transcript:]
 
 [38%]: Going through the Star Wars movies and digitally replacing all the lightsabers with regular metal swords
 
-[16%]: Reading every entry in the Wikipedia article List of helicopter prison escapes
+[16%]: Reading every entry in the Wikipedia article *List of helicopter prison escapes*
 
 [23%]: Installing and configuring time-tracking software
 
 [02%]: Actual productive work
 
-[21%]: Making a remix of that Jack and Diane song where every line is just "Suckin' on a chili dog outside the tastee-freez" over and over
+[21%]: Making a remix of that *Jack and Diane* song where every line is just "Suckin' on a chili dog outside the tastee-freez" over and over
 
 [Below the frame there is a caption:]
 

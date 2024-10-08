@@ -6,49 +6,22 @@ alt: >-
   Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.
 img: https://imgs.xkcd.com/comics/jurassic_world.png
 ---
-[[White Hat guy and another person are walking along.]]
+[White Hat holding one hand up in front om him and Megan are walking together.]
 
-WH: In 
+White Hat: In *Jurassic World*, we've used genetic engineering to create a *better* dinosaur.
 
-Jurassic World
+Megan: Tyrannosaurus is the most charismatic animal that ever lived, and you think you'll *upstage* it?
 
-, we've used genetic engineering to invent a 
+[White Hat now holds both his hands up in front of him as he and Megan walk on.]
 
-better
+White Hat: *Tyrannosaurus* was cool, but it's two decades old!
 
- Dinosaur.
+Megan: I think it's a *little* older than that.
 
-OP: Tyrannosaurus is the most charismatic animal that ever lived, and you think you'll 
+[In this frame-less panel White Hat points up as they continue to walk.]
 
-upstage
+White Hat: We took *Tyrannosaurus* and we *improved* it. Made it scarier, deadlier, smarter.
 
- it?
+White Hat: Look–there it is!
 
-[[They continue to walk along.]]
-
-WH: 
-
-Tyrannosaurus
-
- was cool, but it's two decades old!
-
-OP: I think it's a 
-
-little
-
- older than that.
-
-[[As they walk along, White Hat points up at something in front of them.]]
-
-WH: We took 
-
-Tyrannosaurus
-
- and we 
-
-improved
-
- it. Made it scarier, deadlier, smarter. == Look- there it is!
-
-[[The pair are dwarfed in comparison to the T-Rex from Dinosaur Comics.]]
-
+[White Hat (drawn without his hat) and Megan are dwarfed in the bottom left corner as they stare up at a facsimile of the green T-Rex from *Dinosaur Comics*. They only reach T-Rex to it's knees.]

@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/space_mission_hearing.png
 
 Ponytail: All ready for the hearing? Let's go over things one more time.
 
-Ponytail: *ahem*
+Ponytail: \*ahem\*
 
 Ponytail: What is the main reason to fund this mission?
 
@@ -22,12 +22,12 @@ Ponytail (off-panel): Great.
 
 [Megan and Ponytail are standing and talking. Megan's arms are raised.]
 
-Megan: And because it's space!
+Megan: And because it's ***space!***
 
 Megan: Spaaaaaace.
 
 Megan: Pew pew pew!
 
-Megan: Space!
+Megan: ***Space!***
 
 Ponytail: Dial it back.

@@ -6,18 +6,16 @@ alt: >-
   Your IDE's color may vary.
 img: https://imgs.xkcd.com/comics/commented.png
 ---
-[[two men are talking, one is hat-man]]
+[Cueball calls out to and Black Hat while they are some distance apart as seen from the side. Black Hat is holding an arm out towards Cueball making a gesture and speaking one word.]
 
-First man: Hey, can you do me a favor?
+Cueball: Hey, can you do me a favor?
 
-[[Hat man holds his hand out toward the first man]]
+Black Hat: Commented!
 
-Hat man: Commented!
+[The same setting seen from behind Black Hat with Cueball drawn much smaller in the background.]
 
-First man: Huh?
+Cueball: Huh?
 
-[[Hat man is holding his first and second fingers parallel and at an angle, and they are green. First man and his next line are also green.]]
+[Black Hat's hand is shown in close up. He is holding his first and second fingers parallel and at an angle towards the "small" Cueball to the left of the hand. The two fingers, as well as Cueball and his next line, are green.]
 
-First man: Wait, what does that gesture even mean?
-
-{{Your IDE's color may vary.}}
+<font color="green">Cueball: Wait, what does that gesture even mean?</font color>

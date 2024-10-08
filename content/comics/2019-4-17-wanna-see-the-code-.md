@@ -12,7 +12,7 @@ Cueball: I wrote a script to automate that thing.
 
 Ponytail: Oh cool!
 
-Ponytail: ...wait, you wrote it?
+Ponytail: ...wait, ***you*** wrote it?
 
 Ponytail: Oh no.
 
@@ -24,6 +24,6 @@ Ponytail: I would, if you hadn't said that in the tone of voice of "Wanna see a 
 
 [Same scene as before, except Cueball has his hand on his chin.]
 
-Cueball: My code is sort of similar to a dead body, in that you can either come look at it now, or wait a few weeks until it becomes a problem.
+Cueball: My code *is* sort of similar to a dead body, in that you can either come look at it now, or wait a few weeks until it becomes a problem.
 
 Ponytail: And because you're lucky that the people around you understand that they create more problems than they solve.

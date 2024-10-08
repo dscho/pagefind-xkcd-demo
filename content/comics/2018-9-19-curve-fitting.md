@@ -6,7 +6,7 @@ alt: >-
   Cauchy-Lorentz: "Something alarmingly mathematical is happening, and you should probably pause to Google my name and check what field I originally worked in."
 img: https://imgs.xkcd.com/comics/curve_fitting.png
 ---
-Curve-Fitting Methods
+**Curve-Fitting Methods**
 
 and the messages they send
 
@@ -82,4 +82,4 @@ Ad-Hoc filter
 
 House of Cards
 
-"As you can see, this model smoothly fits the- wait no no don't extend it AAAAAA!!"
+"As you can see, this model smoothly fits the- *wait no no don't extend it AAAAAA!!*"

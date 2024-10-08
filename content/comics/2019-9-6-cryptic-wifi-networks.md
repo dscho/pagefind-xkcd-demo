@@ -12,7 +12,7 @@ Phone: Available WiFi Networks
 
 Phone: Toshiba-U2187-OfficeLink-Net46UHZ
 
-Phone: Join other network
+Phone: <font color="gray"> Join other network  </font>
 
 [Caption below the panel:]
 

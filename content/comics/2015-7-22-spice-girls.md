@@ -6,25 +6,22 @@ alt: >-
   The Earth's five major mass extinctions were the Posh Extinction, the Sporty Extinction, the Scary Extinction, the Ginger Extinction, and the Baby Extinction.
 img: https://imgs.xkcd.com/comics/spice_girls.png
 ---
-[[Two characters in dialogue]]
+Cueball: Your turn: Can you name all of the Spice Girls?
 
-Questioner: your turn. Can you name all the spice girls?
+Megan: Hmm… Hearing Spice, Vision Spice, Smell Spice, Touch Spice, Taste Spice?
 
-Answerer: Hmm. Hearing spice, vision spice, smell spice, touch spice, taste spice?
+Cueball: That’s senses.
 
-Questioner: That's senses.
+Megan: Denial Spice, Anger Spice, Bargaining Spice, Depression Spice, Acceptance Spice.
 
-Answerer: Denial spice, anger spice, bargaining spice, depression spice, acceptance spice.
+Cueball: Stages of grief.
 
-Questioner: Stages of grief.
+Megan: War Spice, Famine Spice, Plague Spice, Death Spice?
 
-Answerer: War spice, famine spice, plague spice, death spice?
+Cueball: You're not even trying.
 
-Questioner: You're not even trying.
+Megan: No, wait, I can get this for real. Uhh…
 
-Answerer: No, wait, I can get this for real. uhh...
+Megan: Pog Spice, Story Spice, Sarah Spice, Gender Spice, Baleen Spice?
 
-Answerer: Pog spice, story spice, sarah spice, gender spice, baleen spice?
-
-Questioner: ...close enough.
-
+Cueball: …Close enough.

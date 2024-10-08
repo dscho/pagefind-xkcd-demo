@@ -14,4 +14,4 @@ The Contiguous 41 States
 
 [Caption below the panel:]
 
-Tired of being left off maps of the US, Alaska and Hawaii begin producing maps with other states missing, too.
+Tired of being left off maps of the US, Alaska and Hawaii begin producing maps with *other* states missing, too.

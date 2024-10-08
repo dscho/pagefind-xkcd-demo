@@ -6,16 +6,18 @@ alt: >-
   I need an extension for my research project because I spent all month trying to figure out whether learning Dvorak would help me type it faster.
 img: https://imgs.xkcd.com/comics/efficiency.png
 ---
+[A bar chart is shown below its title:]
 
+<big>**Time Cost**</big>
 
-Time Cost
+[The chart consist of a dividing line, with three labels to the left, and the three black bars to the right. The first two bars are short, the second slightly longer than the first. The last bar is much longer, about 13 time as long as the first shortest bar.]
 
-[[Bar graph]]
+Strategy A
 
-Strategy A [[Small bar]]
+Strategy B
 
-Strategy B [[Slightly larger bar than A]]
+Analyzing whether strategy A or B is more efficient
 
-Analyzing whether strategy A or B is more efficient [[Bar several times the length of A or B]]
+[Caption below the panel:]
 
 The reason I am so inefficient

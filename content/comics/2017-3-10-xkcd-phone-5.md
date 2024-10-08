@@ -14,7 +14,7 @@ Bluetooth speaker
 
 Stained-glass display
 
-Gallium chassis remains solid up to 85°F
+Gallium chassis remains solid up to 85&deg;F
 
 Soundproof
 
@@ -40,7 +40,7 @@ Cot-caught merger switch
 
 60x optical zoom camera
 
-LORAN navigation
+*LORAN* navigation
 
 28-factor authentication
 
@@ -48,6 +48,6 @@ LORAN navigation
 
 Introducing
 
-The xkcd Phone 5
+<big>The</big> <big><big>xkcd Phone 5</big></big>
 
-We're trying to catch up to Apple but refuse to skip numbers®TM
+*We're trying to catch up to Apple but refuse to skip numbers<sup>®TM</sup>*

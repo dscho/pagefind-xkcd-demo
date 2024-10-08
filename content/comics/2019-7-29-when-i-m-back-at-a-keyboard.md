@@ -12,4 +12,4 @@ Cueball (texting): Sure, I can reply once I'm back at a keyboard and can type mo
 
 [Caption below the panel:]
 
-I say this a lot for someone who routinely types thousands of words in text message conversations when someone brings up Jurassic Park.
+I say this a lot for someone who routinely types thousands of words in text message conversations when someone brings up *Jurassic Park*.

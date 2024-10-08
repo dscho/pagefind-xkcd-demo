@@ -16,7 +16,7 @@ Cueball: Sick of changing those smoke detector batteries? Eliminate any fires in
 
 Smoke detector (off panel): Beep beep beep
 
-[A frame-less panel shows a a toilet with the toilet seat up and also the lid has been removed from the cistern at the top. It is hanging in the air above and behind the cistern. There is an X with an arrow pointing towards the cistern and a checkmark with an arrow pointing towards the toilet bowl.]
+[A frame-less panel shows a toilet with the toilet seat up and also the lid has been removed from the cistern at the top. It is hanging in the air above and behind the cistern. There is an X with an arrow pointing towards the cistern and a checkmark with an arrow pointing towards the toilet bowl.]
 
 Cueball (off-panel): Tired of clogged toilets? Try leaving the lid on the upper chamber and use only the lower bowl!
 

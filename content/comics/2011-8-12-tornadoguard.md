@@ -6,25 +6,44 @@ alt: >-
   The bug report was marked 'could not reproduce'.
 img: https://imgs.xkcd.com/comics/tornadoguard.png
 ---
-((The comic is a single panel which resembles a reviews page for a mobile phone application))
+[The comic is a single panel which resembles a reviews page for a mobile phone application. Next to the app title is a pictogram of a tornado touching the ground]
 
-Application name: Tornado Guard
+----App store----
 
-Author: DroidCoder2187
+TornadoGuard
 
-Description: Plays a loud alert sound when there is a tornado warning for your area.
+From DroidCoder2187
 
-Rating: 4 out of 5 stars. (Based on 4 reviews)
+-----------------
+
+Plays a loud alert sound
+
+when there is a tornado
+
+warning for your area.
+
+-----------------
+
+Rating:
+
+★★★★☆
+
+Based on 4 reviews
+
+-----------------
 
 User Reviews:
 
-Reviewer 1: <<Rated 5 stars>> Good UI! Many alert choices.
+[The first three reviews show five black stars. The last review shows one black and four white stars.]
 
-Reviewer 2: <<Rated 5 stars>> Running great, no crashes
+Reviewer 1 (Dark silhouette): ★★★★★ Good UI! Many alert choices.
 
-Reviewer 3: <<Rated 5 stars>> I like how you can set multiple locations
+Reviewer 2 (Helicopter without rotors): ★★★★★ Running great, no crashes
 
-Reviewer 4: <<Rated 1 star>> App did not warn me about tornado.
+Reviewer 3 (White square with black triangles at the top left and bottom right corner): ★★★★★ I like how you can set multiple locations
 
-[[The caption below the comic reads: The problem with averaging star ratings]]
+Reviewer 4 (White car): ★☆☆☆☆ App did not warn me about tornado.
 
+[Caption below the comic:]
+
+The problem with averaging star ratings

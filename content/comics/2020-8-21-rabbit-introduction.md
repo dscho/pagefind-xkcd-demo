@@ -28,17 +28,17 @@ Blondie: Then...Why would you do this?
 
 Cueball: I don't understand.
 
-Cueball: Did you see how small they are?
+Cueball: Did you ***see*** how small they are?
 
 Cueball: They're so round!
 
-Cueball: Those tiny ears!
+Cueball: *Those tiny ears!*
 
 [Back to the four people behind the desk. Blondie and White Hat are in the same positions but Megan has both her hands up into her hair, and Hairy has one arm on the table, and the other is held up high with a finger pointing up.]
 
 Blondie: I see. I'm afraid we'll be denying your grant.
 
-White Hat: Hang on. He is right about their ears...
+White Hat: Hang on. He ***is*** right about their ears...
 
 Megan: The little feet!
 

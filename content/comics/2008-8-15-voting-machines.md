@@ -3,24 +3,25 @@ date: 2008-08-15
 title: "Voting Machines"
 num: 463
 alt: >-
-  And that's *another* crypto conference I've been kicked out of.  C'mon, it's a great analogy!
+  And that's *another* crypto conference I've been kicked out of. C'mon, it's a great analogy!
 img: https://imgs.xkcd.com/comics/voting_machines.png
 ---
-[[First Man sitting at computer reading an article]]
+[Caption above panels:]
 
-Article: Premier Election Solutions (formerly Diebold) has blamed ohio voting machine errors on problems with the machines' McAfee antivirus software.
+Premier Election Solutions (formerly Diebold) has blamed Ohio voting machine errors on problems with the machines' McAfee antivirus software.
 
-First Man: Wait. "Antivirus software"? On voting machines? {{italics}} You're doing it wrong.
+[Cueball is sitting at a computer, facepalming.]
 
-[[Second Man enters the frame and speaks to First Man]]
+Cueball: Wait. "Antivirus software"? On voting machines? *You're doing it wrong.*
 
-Second Man: Why? Security is good, right?
+[Cueball's friend enters the frame and speaks to Cueball.]
 
-First Man: Of course. But, well-
+Friend: Why? Security is good, right?
 
-First Man: Imagine you're at a parent-teacher conference, and the teacher reassures you that he always wears a condom while teaching.
+Cueball: Of course. But, well—
 
-Second Man: Ah. Strictly speaking, it's better than the alternative.
+Cueball: Imagine you're at a parent-teacher conference, and the teacher reassures you that he always wears a condom while teaching.
 
-First Man: -Yet someone is clearly doing their job horribly wrong.
+Friend: Ah. Strictly speaking, it's better than the alternative—
 
+Cueball: —Yet someone is clearly doing their job horribly wrong.

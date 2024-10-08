@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/unfulfilling_toys.png
 
 [Cueball slaps his wrist with a strap-like item in his hand.]
 
-Smack
+*Smack*
 
 Rigid slap bracelet
 
@@ -20,29 +20,29 @@ Sealed stomp rocket
 
 [Ponytail holds a water gun and makes use of its hand-operated pump system.]
 
-Pump pump pump
+*Pump pump pump*
 
-Pump
+*Pump*
 
-Click
+*Click*
 
 Pump-only SuperSoaker
 
 [Megan pulls an item apart between her hands. The middle section breaks into many pieces on the ground and liquid is falling from the end parts.]
 
-Pop
+*Pop*
 
 Glass glow stick
 
 [Cueball holds a figurine sitting on top of a hand-held device and pulls a string connected to it.]
 
-Spin
+*Spin*
 
 Wingless sky dancer
 
 [Megan holds a yo-yo until the yo-yo falls from the string and starts rolling on the ground.]
 
-Roll
+*Roll*
 
 No-strings-attached yo-yo
 

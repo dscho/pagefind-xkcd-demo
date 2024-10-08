@@ -3,28 +3,29 @@ date: 2007-05-18
 title: "Certainty"
 num: 263
 alt: >-
-  a(b+c)=(ab)+(ac).  Politicize that, bitches.
+  a(b+c)=(ab)+(ac). Politicize that, bitches.
 img: https://imgs.xkcd.com/comics/certainty.png
 ---
-[[A door seen from a hallway, with "Teachers' Lounge" on the glass. Inside, two teachers are talking.]]
+[A door seen from a hallway, with "Teachers' Lounge" on the glass. Next to the door, a framed "Award" certificate is displayed. Silhouetted through the glass, two teachers can be seen talking.]
 
-Teacher 1: My students drew me into another political argument.
+Megan: My students drew me into another political argument.
 
-Teacher 2: Eh; it happens.
+Cueball: Eh; it happens.
 
-Teacher 1: Lately, political debates bother me. They just show how good smart people are at rationalizing.
+Megan: Lately, political debates bother me. They just show how good smart people are at rationalizing.
 
-[[The two teachers continue talking. A third one is seen reading a book on a sofa.]]
+[Internal view of the room. The two teachers, Megan and Cueball, continue talking. Megan has her arms raised. Miss Lenhart is seen reading a book on a sofa.]
 
-Teacher 1: The world is so complicated - the more I learn, the less clear anything gets. There are too many ideas and arguments to pick and choose from. How can I trust myself to know the truth about anything?
+Megan: The world is so complicated - the more I learn, the less clear anything gets. There are too many ideas and arguments to pick and choose from. How can I trust myself to know the truth about anything?
 
-And if everything I know is so shaky, what on Earth am I doing teaching?
+Megan: And if everything I know is so shaky, what on Earth am I doing teaching?
 
-Teacher 2: I guess you just do your best. No one can impart perfect universal truths to their students.
+[Megan and Cueball continue talking. Cueball has his hand raised. Miss Lenhart has looked up from her book.]
 
-Teacher 3: <<ahem>>
+Cueball: I guess you just do your best. No one can impart perfect universal truths to their students.
 
-Teacher 2: ...Except math teachers.
+Miss Lenhart: \*ahem\*
 
-Teacher 3: Thank you.
+Cueball: ...Except math teachers.
 
+Miss Lenhart: Thank you.

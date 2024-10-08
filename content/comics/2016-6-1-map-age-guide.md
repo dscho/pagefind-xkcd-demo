@@ -10,9 +10,9 @@ img: https://imgs.xkcd.com/comics/map_age_guide.png
 
 [At the top of the chart there is a large caption, with a smaller caption below:]
 
-Guide to figuring out the age of an undated world map
+<big>Guide to figuring out the age of an undated world map</big>
 
-(Assuming it's complete, labeled in English, and detailed enough)
+<small>(Assuming it's complete, labeled in English, and detailed enough)</small>
 
 [Below the starting bracket in the small caption is a start box. It has rounded corners and it is gray with white text. From this box there is a gray line to a box consisting of a black frame with rounded corners. In these kind of boxes there are questions regarding the map in black text. Below this box there are three gray boxes like the start box, superimposed over the bottom frame. In these boxes are the possible answers to the question in the frame above. From each of these options there is a gray line going to similar black framed boxes with other questions either below, or to either side. There can either be two, three or four gray boxes, two the most common. Only at the very bottom of the central branch where it turns out it was a home made map, are there two frames with only one gray question box each. This trend continues over this entire large image. When reaching the end of a branch in the flow chart, there is no line away from one, more or all of the gray boxes for a black frame. When this happens a year range or a guess at what the map shows, or what it is (if it turns out to not be a map) is written below the gray box in gray text. Of the text in the gray boxes are Yes/No, but not always. There are 74 boxes with black frames with 158 gray boxes and 78 endpoints with text below the gray box and one end point without text below (the one with the home made map).]
 
@@ -22,10 +22,13 @@ Istanbul or Constantinople?
 
 Constantinople
 
-Do any of these exist?
- * Independent Canada
- * US Territory of Alaska
- * Tokyo
+<span id="canada-alaska-tokyo"><u>Do any of these exist</u>? </span>
+
+\*Independent Canada
+
+\*US Territory of Alaska
+
+\*Tokyo
 
 No
 
@@ -55,19 +58,19 @@ Spain
 
 Paraguay?
 
-No 1806–10
+No <span style="color:gray">1806–10</span>
 
-Yes 1811–17
+Yes <span style="color:gray">1811–17</span>
 
 The US
 
 Venezuela and/or Ecuador?
 
-No 1818–29
+No <span style="color:gray">1818–29</span>
 
-Yes 1830–33
+Yes <span style="color:gray">1830–33</span>
 
-Independent 1834–45
+Independent <span style="color:gray">1834–45</span>
 
 Part of the US
 
@@ -77,11 +80,11 @@ No
 
 The US's southern border looks...
 
-Weird 1846–53
+Weird <span style="color:gray">1846–53</span>
 
-Normal 1854–56
+Normal <span style="color:gray">1854–56</span>
 
-Yes 1858–67
+Yes <span style="color:gray">1858–67</span>
 
 Yes
 
@@ -99,19 +102,19 @@ No
 
 "Buda" and "Pest" or "Budapest"?
 
-Buda and Pest 1868–72
+Buda and Pest <span style="color:gray">1868–72</span>
 
-Budapest 1873–83
+Budapest <span style="color:gray">1873–83</span>
 
-Yes 1884–95
+Yes <span style="color:gray">1884–95</span>
 
 Yes
 
 Is Norway part of Sweden?
 
-Yes 1896–1905
+Yes <span style="color:gray">1896–1905</span>
 
-No 1906–09
+No <span style="color:gray">1906–09</span>
 
 Yes
 
@@ -121,23 +124,23 @@ Yes
 
 Albania?
 
-No 1910–12
+No <span style="color:gray">1910–12</span>
 
-Yes 1913–18
+Yes <span style="color:gray">1913–18</span>
 
 No
 
 Leningrad?
 
-No 1919–23
+No <span style="color:gray">1919–23</span>
 
-Yes 1924–29
+Yes <span style="color:gray">1924–29</span>
 
 Neither
 
 Does the Ottoman Empire exist?
 
-Yes #canada-alaska-tokyo
+Yes <span style="color:gray">[[#canada-alaska-tokyo]]</span>
 
 No
 
@@ -149,11 +152,11 @@ Saudi Arabia?
 
 Yes
 
-Is most of West Africa a giant french blob?
+<span id="west-africa-french-blob">Is most of West Africa a giant french blob?</span>
 
 Yes
 
-Pakistan?
+<span id="pakistan">Pakistan?</span>
 
 No
 
@@ -163,13 +166,13 @@ One
 
 Persia or Iran?
 
-Persia 1930–34
+Persia <span style="color:gray">1930–34</span>
 
-Iran 1935–40
+Iran <span style="color:gray">1935–40</span>
 
-One, but it's huge 1941–45
+One, but it's *huge* <span style="color:gray">1941–45</span>
 
-Two 1946–47
+Two <span style="color:gray">1946–47</span>
 
 Yes
 
@@ -183,25 +186,25 @@ Italy
 
 Canada is...
 
-Missing a piece 1948
+Missing a piece <span style="color:gray">1948</span>
 
 Fine
 
 The town on I-25 between Albuquerque and El Paso is...
 
-Hot Springs 1948-49
+Hot Springs <span style="color:gray">1948-49</span>
 
-Truth or Consequences 1950–52
+Truth or Consequences <span style="color:gray">1950–52</span>
 
-Ethiopia 1952–53
+Ethiopia <span style="color:gray">1952–53</span>
 
 Yes
 
 The United Arab Republic?
 
-No 1954–57
+No <span style="color:gray">1954–57</span>
 
-Yes 1958–60
+Yes <span style="color:gray">1958–60</span>
 
 No
 
@@ -215,29 +218,29 @@ No
 
 Is the area south of Lake Victoria...
 
-British 1960
+British <span style="color:gray">1960</span>
 
-Tanganyika 1961–64
+Tanganyika <span style="color:gray">1961–64</span>
 
-Tanzania 1965–71
+Tanzania <span style="color:gray">1965–71</span>
 
-Yes 1972–75
+Yes <span style="color:gray">1972–75</span>
 
 One
 
 Jimmy Carter is...
 
-Being attacked by a giant swimming rabbit April 20, 1979
+Being attacked by a giant swimming rabbit <span style="color:gray">April 20, 1979</span>
 
 Fine
 
 The Sinai is part of what country?
 
-Israel 1976–79
+Israel <span style="color:gray">1976–79</span>
 
-Mostly Israel 1980
+Mostly Israel <span style="color:gray">1980</span>
 
-Mostly Egypt 1981
+Mostly Egypt <span style="color:gray">1981</span>
 
 Egypt
 
@@ -247,21 +250,21 @@ Kolonia
 
 Republic of the Upper Volta or Burkina Faso?
 
-Upper Volta 1982–84
+Upper Volta <span style="color:gray">1982–84</span>
 
-Burkina Faso 1985–88
+Burkina Faso <span style="color:gray">1985–88</span>
 
 Palikir
 
-(number of Yemens) + (number of Germanys) = ?
+(number of Yemens) + (number of Germanys) = ?
 
-Four 1989-early 1990
+Four <span style="color:gray">1989-early 1990</span>
 
-Three mid-1990
+Three <span style="color:gray">mid-1990</span>
 
-Two late 1990–1991
+Two <span style="color:gray">late 1990–1991</span>
 
-No 1922–1932
+No <span style="color:gray">1922–1932</span>
 
 No
 
@@ -269,9 +272,9 @@ North Korea?
 
 Yes
 
-Zaire? or: "Hong Kong (UK)"
+<span id="zaire">Zaire? or: "Hong Kong (UK)"</span>
 
-Yes 1992–96
+Yes <span style="color:gray">1992–96</span>
 
 No
 
@@ -281,15 +284,15 @@ One country
 
 East Timor?
 
-No 1997–2001
+No <span style="color:gray">1997–2001</span>
 
-Yes 2002–06
+Yes <span style="color:gray">2002–06</span>
 
 Two countries
 
 How many Sudans are there?
 
-One 2007–11
+One <span style="color:gray">2007–11</span>
 
 Two
 
@@ -299,17 +302,17 @@ Yes
 
 "Colorado" or "Danger—Radioactive Exclusion Zone—Avoid"?
 
-Colorado 2014–21
+Colorado <span style="color:gray">2014–21</span>
 
 Danger
 
 Does the warning mention the spiders?
 
-No 2022
+No <span style="color:gray">2022</span>
 
-Yes 2023 or later
+Yes <span style="color:gray">2023 or later</span>
 
-No 2012–13
+No <span style="color:gray">2012–13</span>
 
 No
 
@@ -321,7 +324,7 @@ Is Jan Mayen part of the Kingdom of Norway?
 
 Not yet
 
-#canada-alaska-tokyo
+[[#canada-alaska-tokyo]]
 
 What?
 
@@ -339,33 +342,33 @@ No
 
 How far east do the American Prairies reach?
 
-Indiana before 1830
+Indiana <span style="color:gray">before 1830</span>
 
-The Mississippi 1830s-80s
+The Mississippi <span style="color:gray">1830s-80s</span>
 
 Nebraska
 
 Is there a big lake in the middle of Southern California? (created by mistake)
 
-No 1860s-1900s
+No <span style="color:gray">1860s-1900s</span>
 
-Yes 1910s
+Yes <span style="color:gray">1910s</span>
 
 What prairies?
 
 Is there a big lake in the middle of Ghana? (created on purpose)
 
-No 1920s-50s
+No <span style="color:gray">1920s-50s</span>
 
-Yes 1960s-70s
+Yes <span style="color:gray">1960s-70s</span>
 
 Yes
 
 Is the Aral Sea missing?
 
-No 1970s-90s
+No <span style="color:gray">1970s-90s</span>
 
-Yes 2000s+
+Yes <span style="color:gray">2000s+</span>
 
 No
 
@@ -379,25 +382,25 @@ No
 
 Beleriand?
 
-Yes First Age
+Yes <span style="color:gray">First Age</span>
 
-No Early Second Age
+No <span style="color:gray">Early Second Age</span>
 
 Yes
 
 Númenor?
 
-Yes Late Second Age
+Yes <span style="color:gray">Late Second Age</span>
 
 No
 
 The forest east of the Misty Mountains is...
 
-Greenwood Early Third Age
+Greenwood <span style="color:gray">Early Third Age</span>
 
-Mirkwood Late Third Age
+Mirkwood <span style="color:gray">Late Third Age</span>
 
-The Wood of Greenleaves Fourth Age
+The Wood of Greenleaves <span style="color:gray">Fourth Age</span>
 
 No
 
@@ -415,19 +418,19 @@ No
 
 Beruna
 
-Ford The Lion, the Witch and the Wardrobe
+Ford <span style="color:gray">The Lion, the Witch and the Wardrobe</span>
 
-Bridge Prince Caspian
+Bridge <span style="color:gray">Prince Caspian</span>
 
-Yes Dawn Treader
+Yes <span style="color:gray">Dawn Treader</span>
 
 Yes
 
 Weird recursive heaven?
 
-No One of the random later books
+No <span style="color:gray">One of the random later books</span>
 
-Yes The Last Battle
+Yes <span style="color:gray">The Last Battle</span>
 
 No
 
@@ -441,11 +444,11 @@ No
 
 Is the world on the back of a turtle?
 
-Yes Discworld
+Yes <span style="color:gray">Discworld</span>
 
 No
 
-Are you sure this is a map?
+Are you *sure* this is a map?
 
 Yes
 
@@ -465,25 +468,25 @@ No
 
 Is it larger than a breadbox?
 
-Yes tuba
+Yes <span style="color:gray">tuba</span>
 
-No stapler
+No <span style="color:gray">stapler</span>
 
-About the same breadbox
+About the same <span style="color:gray">breadbox</span>
 
 Yes
 
 If you let it go, what does it do?
 
-Hisses and runs away cat
+Hisses and runs away <span style="color:gray">cat</span>
 
-Screeches and flaps around the room breaking things seagull
+Screeches and flaps around the room breaking things <span style="color:gray">seagull</span>
 
 Yes
 
-#pakistan
+[[#pakistan]]
 
-Yes No, I made that one up.
+Yes <span style="color:gray">No, I made that one up.</span>
 
 Istanbul
 
@@ -491,12 +494,8 @@ Does the Soviet Union exist?
 
 Yes
 
-#west-africa-french-blob
+[[#west-africa-french-blob]]
 
 No
 
-#zaire
-
-
-
-Title text: Does the screeching chill your blood and herald death? If yes, banshee. If no, seagull.
+[[#zaire]]

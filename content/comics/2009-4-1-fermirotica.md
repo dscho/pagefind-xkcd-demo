@@ -3,28 +3,23 @@ date: 2009-04-01
 title: "Fermirotica"
 num: 563
 alt: >-
-  I love how Google handles dimensional analysis.  Stats are ballpark and vary wildly by time of day and whether your mom is in town.
+  I love how Google handles dimensional analysis. Stats are ballpark and vary wildly based on time of day and whether your mom is in town.
 img: https://imgs.xkcd.com/comics/fermirotica.png
 ---
-Pd   Regional Population Density (e.g. 18,600
+[A formula is shown with the variables explained above:]
 
-mi^2)
+P<sub>d</sub> Regional population density (e.g. 18,600/mi²)
 
-Xf   Average Person's Frequency of Sex (e.g. 80
+X<sub>f</sub> Average person's frequency of sex (e.g. 80/year)
 
-Year)
+X<sub>d</sub> Average duration of sex (e.g. 30 minutes)
 
-Xd   Average Duration of Se (e.g. 30 Minutes)
+r=sqrt(2/(π\*P<sub>d</sub>\*X<sub>f</sub>\*X<sub>d</sub>))
 
-r=sqrt(2
+On average, someone within distance r of you is having sex.
 
-pi*Pd*Xr*Xd)
+[Cueball standing in front of an easel.]
 
-On average, someone within distance r of you is having sex
-
-[[Man standing at easel]]
-
-Man: Mmm, That probable couple 150 meters away is so hot.  Oh yeah, theoretically work it, baby.
+Cueball: Mmm, That probable couple 150 meters away is so hot. Oh yeah, theoretically work it, baby.
 
 From out of frame: Hey! No statistical voyeurism!
-

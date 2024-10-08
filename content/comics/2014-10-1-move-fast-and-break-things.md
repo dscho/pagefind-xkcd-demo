@@ -6,17 +6,15 @@ alt: >-
   I was almost fired from a job driving the hearse in funeral processions, but then the funeral home realized how much business I was creating for them.
 img: https://imgs.xkcd.com/comics/move_fast_and_break_things.png
 ---
+[Cueball sits in a chair, leaning back with his arm resting on the back of the chair during a job interview. Ponytail is sitting in a chair behind her desk which is between them.]
 
+Cueball: My motto is "Move fast and break things."
 
-[[Man being interviewed at a desk by a woman]]
+[Below the panel follows a list:]
 
-Man: My motto is "move fast and break things."
+**Jobs I've been**
 
-((below scene))
-
-Jobs I've been fired from
-
---
+**<u>fired from</u>**
 
 Fedex driver
 

@@ -8,15 +8,15 @@ img: https://imgs.xkcd.com/comics/horror_movies_2.png
 ---
 [White Hat and Cueball are walking, with Cueball holding his arms out in front of him.]
 
-White Hat: So you don't like any horror movies?
+White Hat: So you don't like ***any*** horror movies?
 
-Cueball: Spooky stuff is neat but I hate jump scares and watching people get murdered. Why would you want to see that?
+Cueball: Spooky stuff is neat but I hate jump scares and watching people get murdered. Why would you ***want*** to see that?
 
 [Zoom in on the two.]
 
 White Hat: It's like roller coasters. People like experiencing powerful feelings in a safe, controlled setting.
 
-Cueball: But why not good feelings?
+Cueball: But why not ***good*** feelings?
 
 [In a frame-less panel Cueball stops and turns towards White Hat.]
 
@@ -26,6 +26,6 @@ Cueball: See, that's another thing I don't get!
 
 [Zoom out again as White Hat walks past Cueball who now hold his arms out to the side as he looks after White Hat.]
 
-Cueball: I loved Titanic because Rose and Jack found each other and seemed so happy! I just hated the ending.
+Cueball: I loved *Titanic* because Rose and Jack found each other and seemed so happy! I just hated the ending.
 
 White Hat: I'll be sure to give James Cameron and Shakespeare your feedback.

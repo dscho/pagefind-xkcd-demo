@@ -10,11 +10,11 @@ img: https://imgs.xkcd.com/comics/m87_black_hole_size_comparison.png
 
 Size comparison:
 
-The M87 Black Hole
+**The M87 Black Hole**
 
 and
 
-Our Solar System
+**Our Solar System**
 
 [Caption at top left of the panel:]
 

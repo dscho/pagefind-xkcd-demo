@@ -8,13 +8,13 @@ img: https://imgs.xkcd.com/comics/ensemble_model.png
 ---
 [Inside this single panel comic the header on top reads:]
 
-In an ensemble model, forecasters run many different versions of a weather model with slightly different initial conditions. This helps account for uncertainty and shows forecasters a spread of possible outcomes.
+In an *ensemble model*, forecasters run many different versions of a weather model with slightly different initial conditions. This helps account for uncertainty and shows forecasters a spread of possible outcomes.
 
 [To the left side a picture shows several gray overlapping swirling lines emitted from a point, then gradually diverging rightwards. Below are two smaller pictures; the first shows the lines connected to several loops and in the second it's still a similar figure to the above but moving into the opposite direction with the point emerged to a spiral.]
 
 [The text right to the pictures reads:]
 
-Members in a typical ensemble:
+**Members in a typical ensemble:**
 
 A universe where…
 
@@ -32,7 +32,7 @@ A universe where…
 
 …snakes are wide instead of long
 
-…Will Smith took the lead in The Matrix instead of Wild Wild West
+…Will Smith took the lead in *The Matrix* instead of *Wild Wild West*
 
 …swimming pools are carbonated
 

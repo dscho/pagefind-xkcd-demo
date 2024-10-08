@@ -30,8 +30,8 @@ Cannot hover
 
 Never stalls
 
-Extremely safe, unless you do the one thing you instinctively do to escape a stall in a normal airplane, in which case it will crash immediately.
+Extremely safe, unless you do the ***one*** thing you instinctively do to escape a stall in a normal airplane, in which case it will crash immediately.
 
 [Caption below the panel:]
 
-Autogyros are weird.
+Autogyros are ***weird***.

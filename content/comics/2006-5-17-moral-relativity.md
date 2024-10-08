@@ -6,10 +6,10 @@ alt: >-
   It's science!
 img: https://imgs.xkcd.com/comics/moral_relativity.jpg
 ---
-[[A graph, rationalization as a function of speed, increasing exponentially with an asymptote at c]]
+[A graph, rationalization as a function of speed, increasing asymptotically at *c*.]
 
-Related to moral relativism, it states that ethics become subjective only when you approach the speed of light.  That is, it's okay to be self-serving, steal, and murder as long as you're going really, really fast.
+Related to moral relativism, it states that ethics become subjective only when you approach the speed of light.
 
-(Note:  This is why rap sounds better on the highway at 90 mph)
+That is, it's okay to be self-serving, steal, and murder as long as you're going really, really fast.
 
-{{It's science!}}
+(Note: This is why rap sounds better on the highway at 90 mph)

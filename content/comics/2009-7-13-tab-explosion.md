@@ -3,70 +3,101 @@ date: 2009-07-13
 title: "Tab Explosion"
 num: 609
 alt: >-
-  Cracked.com is another inexplicable browser narcotic.  They could write a list of '17 worst haircuts in the Ottoman Empire' and I'd read through to the end, then click on all the links at the end.
+  Cracked.com is another inexplicable browser narcotic. They could write a list of '17 worst haircuts in the Ottoman Empire' and I'd still read through to the end, then click on all the links at the end.
 img: https://imgs.xkcd.com/comics/tab_explosion.png
 ---
-[[A man is sitting at a computer.]]
+[Cueball is sitting at a desk, looking at a computer.]
 
-<<Click>>
+[Cueball is looking at the computer.]
 
-Man: Huh.
+Computer mouse: *Click*
 
-<<Click>>
+[Cueball is looking at the computer.]
 
-<<Click>>
+Cueball: Huh.
 
-<<Click>>
+[Cueball is looking at the computer.]
 
-[[The man stares at the computer.]]
+Computer mouse: *Click*
 
-Man: I never noticed that!
+Computer mouse: *Click*
 
-<<Click>>
+[Cueball is looking at the computer.]
 
-Man: Haha, yeah.
+Computer mouse: *Click*
 
-<<Click>>
+[Cueball stares at the computer.]
 
-<<Click>>
+Cueball: I never noticed that!
 
-<<Click>>
+[Cueball is looking at the computer.]
 
-<<Click>>
+Computer mouse: *Click*
 
-<<Click>>
+[Cueball is looking at the computer.]
 
-Man: So true.
+Cueball: Haha, yeah.
 
-<<Click>>
+[Cueball is looking at the computer.]
 
-[[The man stares at the computer.]]
+Computer mouse: *Click*
 
-[[The man stares at the computer.]]
+[Cueball is looking at the computer.]
 
-<<Click>>
+Computer mouse: *Click*
 
-<<Click>>
+Computer mouse: *Click*
 
-<<Click>>
+[Cueball is looking at the computer.]
 
-<<Click>>
+Computer mouse: *Click*
 
-[[The man stares at the computer.]]
+[Cueball is looking at the computer.]
 
-<<Click>>
+Computer mouse: *Click*
 
-Voice: Are you in there?
+[Cueball is looking at the computer.]
 
-Man: Help!
+Cueball: So true.
 
-Woman: Okay, who linked you to TVTropes? What's 
+[Cueball is looking at the computer.]
 
-with
+Computer mouse: *Click*
 
- that site?
+[Cueball stares at the computer.]
 
-Man: Can't... stop...
+[Cueball stares at the computer.]
 
-Woman: It's like Rickrolling, but you're trapped all day.
+[Cueball is looking at the computer.]
 
+Computer mouse: *Click*
+
+[Cueball is looking at the computer.]
+
+Computer mouse: *Click*
+
+Computer mouse: *Click*
+
+[Cueball is looking at the computer.]
+
+Computer mouse: *Click*
+
+[Cueball stares at the computer.]
+
+[Cueball is looking at the computer.]
+
+Computer mouse: *Click*
+
+[Cueball is looking at the computer.]
+
+Megan (off-screen): Are you in there?
+
+Cueball: Help!
+
+[Megan walks in behind Cueball who is still sitting at the computer. The bottom of the image is covered in Megan's last line]
+
+Megan: Okay, who linked you to TVTropes? What's *with* that site?
+
+Cueball: Can't ... stop...
+
+Megan: It's like Rickrolling, but you're trapped all day.

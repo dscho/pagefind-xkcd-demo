@@ -6,13 +6,10 @@ alt: >-
   'It's either 'your mom' jokes or me' 'Then I, like so many men before me, must reluctantly choose your mom.'
 img: https://imgs.xkcd.com/comics/your_mom.png
 ---
-[[A guy and a girl stand]]
+Cueball: Well, your <font size="+1"> <u>mom</u> </font> turns every conversation into a "your mom" joke and it's becoming unbearable.
 
-Guy: Well, your mom turns every conversation into a "your mom" joke and it's becoming unbearable.
+Megan: I'm serious; I can't take this anymore. I'm leaving.
 
-Girl: I'm serious; I can't take this anymore. I'm leaving.
+Cueball: ...That's what <font size="+1"> <u>she</u> </font> said!
 
-Boy: ... That's what she said!
-
-Guy: Yes. Yes, it is.
-
+Megan: Yes. Yes, it is.

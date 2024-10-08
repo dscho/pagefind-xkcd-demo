@@ -14,9 +14,9 @@ Megan: It's probably not great.
 
 [Zoom in to the head of Hairbun.]
 
-Hairbun: Back in my day, we had to pay people to print out infuriating news stories and bring them to our door. And we waited until we had stumbled out to the kitchen to read them.
+Hairbun: Back in my day, we had to pay people to ***print out*** infuriating news stories and bring them to our door. And we waited until we had stumbled out to the ***kitchen*** to read them.
 
-Hairbun: Totally different.
+Hairbun: ***Totally*** different.
 
 [Frameless panel, zoom out on both while Megan has lowered her hand holding the phone.]
 
@@ -32,4 +32,4 @@ Hairbun: Yyyyyes.
 
 Hairbun: All our opinions were good. It was a remarkable time.
 
-Hairbun: Please don't go check.
+Hairbun: <span style="font-size:90%">Please don't go check.</span>

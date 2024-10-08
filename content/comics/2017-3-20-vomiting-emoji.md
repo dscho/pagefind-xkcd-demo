@@ -12,7 +12,7 @@ Cueball: The proposed emoji for Unicode 10.0 look good.
 
 Megan: Hmm.
 
-Megan: "U+1F92E Face with open mouth vomiting"
+Megan: 🤮 "U+1F92E Face with open mouth vomiting"
 
 [Cueball is holding his phone down looking at Megan's screen.]
 
@@ -26,7 +26,7 @@ Megan: I'm gonna write up a proposal.
 
 [Megan's proposal with six examples of vomiting emoji. All six are colorful also apart from the green stream of vomit gushing out of mouth or holes when there is no mouth. Above the list is Megan's suggested title for the modifier, and the title for each emoji is next to them in the list. The cowboy is like the original version but with a hat. The Statue of Liberty is blue and bends forward to vomit. The gray dove has lost its green olive branch, now above its head. The yellow moon is in first quarter and has a face. The red and blue rocket has fire out the rear and the vomit out an open hatch. The yellow hand has a big hole in its center.]
 
-U+1F93F Vomiting modifier
+<big>U+1F93F Vomiting modifier</big>
 
 U+1F920 U+1F93F Vomiting cowboy
 

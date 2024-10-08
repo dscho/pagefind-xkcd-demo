@@ -6,37 +6,22 @@ alt: >-
   This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it's basically a lump of gravel glued into the shape of a sword. A SPACE sword!
 img: https://imgs.xkcd.com/comics/metallurgy.png
 ---
-[[A man and a woman stand at the counter of a shop. A man with a beard and a beret stands behind the counter, holding a sword.]]
+[Cueball and Megan are in a weapon store talking to a bearded salesman wearing a hat.]
 
-Beard: This sword was forged from a fallen star. Antimony impurities make the blade surprisingly 
+[Salesman holds up a sword.]
 
-brittle
+Salesman: This sword was forged from a fallen star. Antimony impurities make the blade surpassingly *brittle* and *weak*.
 
- and 
+[Salesman holds up a dagger.]
 
-weak
+Salesman: And this dagger is made of metal from a far-off kingdom. It glows blue.
 
-. 
+Off-panel: When orcs are near?
 
-[[A close-up on the man with the beard.]]
+Salesman: No, always. Radiation from the Actinium content.
 
-Beard: And 
+Megan: ...Does it have Eldritch powers?
 
-this
+Salesman: It gives the wearer +2 to cancer risk.
 
- dagger is made of metal from a far-off kingdom. It glows blue.
-
-Out of panel: When orcs are near?
-
-[[The man with the beard holds a dagger.]]
-
-Beard: No, always. Radiation from the Actinum content. 
-
-Woman: ...does it have eldritch powers?
-
-[[The bearded man puts the dagger back behind the counter.]]
-
-Beard: It gives the wielder +2 to cancer risk.
-
-Other Man: I think we should find another shop.
-
+Cueball: I think we should find another shop.

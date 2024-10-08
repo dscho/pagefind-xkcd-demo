@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/hippo_attacks.png
 
 Cueball: I hate unsourced statistics.
 
-Cueball: This viral post says hippos kill 2,900 people a year, but this random listicle says 500.
+Cueball: *This* viral post says hippos kill 2,900 people a year, but *this* random listicle says 500.
 
 Megan: Makes sense.
 

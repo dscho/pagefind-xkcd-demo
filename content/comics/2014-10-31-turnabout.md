@@ -6,19 +6,18 @@ alt: >-
   Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.
 img: https://imgs.xkcd.com/comics/turnabout.png
 ---
-[[Two figures are engaged in a fight with laser pistols. Figure 1 is standing behind a small box, firing his gun at figure 2.]]
+[A guy and Cueball are engaged in a fight with laser pistols. The guy is standing behind a small box, firing his gun at Cueball.]
 
-[[Figure 2 is kneeling behind a larger box, returning fire.]]
+[Cueball is kneeling behind a larger box, returning fire.]
 
-[[Figure 1 leaps on top of the larger box, knocking figure 2 backwards and off balance. Figure 2 fires wildly into the air.]]
+[The guy leaps on top of the larger box, knocking Cueball backwards and off balance. Cueball fires wildly into the air.]
 
-[[Figure 1 is standing on the box. Figure 2 is sprawled on the ground, laser pistol out of reach, at gunpoint.]]
+[Now the guy is standing on the box. Cueball is sprawled on the ground, laser pistol out of reach, at gunpoint.]
 
-Figure 1: Any last words? 
+Guy: Any last words?
 
-Figure 2: "Apollo retroreflectors."
+Cueball: "Apollo retroreflectors."
 
-Figure 1: What?
+Guy: What?
 
-[[Figure 1 gets shot in the back by the returning beam of figure 2's wild shot.]]
-
+[The guy gets shot in the back by the returning beam of Cueball's wild shot.]

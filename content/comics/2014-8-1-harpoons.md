@@ -6,9 +6,24 @@ alt: >-
   To motivate it to fire its harpoons hard enough, Rosetta's Philae lander has been programmed to believe it is trying to kill the comet.
 img: https://imgs.xkcd.com/comics/harpoons.png
 ---
-NUMBER OF HARPOONS IN SPACE
+**Number of harpoons in space**
 
 by year
 
-[[A line graph with the x-axis numbered from 1950-2020 in ten year increments an the y-axis numbered 0-3. A red line rests at 0 until 1970 at which pints it spikes to 1, which is labeled 'Apollo 12 rum incident'. It return to 0 and shoots up to 2 at 2004. This is marked 'Rosetta Comet Mission launched carrying lander with harpoon tethers'. The line plateaus at 2 into the future.]]
+[A chart with a red graph is drawn below.]
 
+[The y-axis.]
+
+0 1 2 3
+
+[The x-axis.]
+
+1950 1960 1970 1980 1990 2000 2010 2020
+
+[The graph is at zero until a sharp peak to 1 in 1970. The peak is labeled.]
+
+Apollo 12 rum incident
+
+[The graph then stays at 0 until 2004. Then it rises to 2 and stays there until today, continuing as a dotted line after 2014. The rise is labeled.]
+
+Rosetta comet mission launched carrying lander with harpoon tethers

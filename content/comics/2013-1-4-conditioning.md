@@ -6,17 +6,12 @@ alt: >-
   'Why are you standing in the yard wearing a papal hat and a robe covered in seeds?' 'Well, the Pope is visiting our town next month ...'
 img: https://imgs.xkcd.com/comics/conditioning.png
 ---
-[[A Rube-Goldberg-ish device]]
+Every few hours, subwoofer plays throbbing bass for 10 seconds... [With arrow pointing to subwoofer.]
 
-Every few hours, subwoofer plays throbbing bass for 10 seconds..
+...then bread crumbs are dispensed into box [With arrow pointing to bread feeder machine.]
 
-..then breadcrumbs are dispensed into box
+Opening [With arrow pointing to feeder opening shaped like a driver side car window.]
 
-[[Box of breadcrumbs attached to a box that looks suspiciously like the front door of a car with an open window]]
-
-Local wildlife
-
-[[Birds and a squirrel are nearby]]
+Local wildlife [With arrows pointing to birds and a squirrel.]
 
 Protip: Leave this device in your yard for a week, then watch as the problem of loud music from passing cars solves itself.
-

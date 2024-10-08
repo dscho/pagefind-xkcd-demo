@@ -3,21 +3,23 @@ date: 2007-08-31
 title: "Commitment"
 num: 310
 alt: >-
-  Could be worse.  The last guy in that situation fell for one of the transient trumpeting angels.
+  Could be worse. The last guy in that situation fell for one of the transient trumpeting angels.
 img: https://imgs.xkcd.com/comics/commitment.png
 ---
-[[Guy proposing to girl on his knee]]
+[Cueball proposing on his knee holding a box with a ring in it up to a girl with long blond hair. The text is written above them in a frame with yellow background.]
 
-Narrator: I understand now. There's no choir of angels when you meet the right person. It's about growing out of your fears to realize what you have is what you want.
+I understand now. There's no choir of angels when you meet the right person. It's about growing out of your fears to realize what you have is what you want.
 
-Guy: I do.
+[Cueball and the woman are getting married. They stand under a gate of honor with a priest in front of them.]
 
 Girl: I do.
 
-[[A cloud with trumpeting angels appears]]
+Cueball: I do.
 
-Girl 2: Hi.
+[Cueball walks hand in hand with blond girl when a cloud with trumpeting angels appears over Megan.]
 
-Narrator: Well, shit.
+Megan: Hi.
 
-{{Could be worse. The last guy in that situation fell for one of the transient trumpeting angels.}}
+[Same picture but without the cloud and angels. Cueball's thought is written in a frame with yellow background.]
+
+Well, shit.

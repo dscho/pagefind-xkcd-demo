@@ -16,4 +16,4 @@ Cueball: I think it's the wind.
 
 [Caption below the panel:]
 
-The shadow biosphere exists, but if you study it, you become a shadow biologist.
+ The shadow biosphere exists, but if you study it, you become a shadow biologist.

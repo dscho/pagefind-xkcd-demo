@@ -6,41 +6,18 @@ alt: >-
   Learning arcane bullshit from the 80s can break your computer, but if you're willing to wade through arcane bullshit from programmers in the 90s and 2000s, you can break everyone else's computers, too.
 img: https://imgs.xkcd.com/comics/arcane_bullshit.png
 ---
-[[A figure sits at a desk, using a laptop. A voice offscreen addresses him.]]
+[A horizontal graph with arrows pointing left and right with labels. The line has  three ticks one towards each end and one in the middle above which Cueball is drawn. Below each tick there is a caption. There is a caption at the top of the panel:]
 
-Voice: Oh, hey- the singularity is here.
+ Willingness to wade through some 80's programmer's arcane bullshit:
 
-Figure: Really? 
+[Left end:] Low
 
-Laptop: Yup! 
+[Left tick:] Never learn to program
 
-[[The figure's laptop rises off the desk; he tries to grab it.]]
+[Above Cueball:] Me
 
-Figure: Wait, I just- 
+[Center tick:] Learn enough to break everything but not enough to fix it
 
-Laptop: So long, suckers! 
+[Right end:] High
 
-[[The laptop flies off; the figure runs after it.]]
-
-Figure: Can I just print a copy of the file I was-
-
-Laptop: Nope! 
-
-[[The figure stands forlornly.]]
-
-[[The figure turns around.]]
-
-[[The figure walks back.]]
-
-[[The figure stands in front of a table.]]
-
-Phone: Hi! 
-
-Figure: Phone? You're still here?
-
-[[The figure starts to walk away from the table.]]
-
-Phone: I was not a true believer. Now, together, we must face the tribulation! 
-
-Figure: Okay, cool. I'm gonna go look for a book or something, but yell if you need me, I guess. 
-
+[Right tick:] Spend all your time compiling kernels and never make anything

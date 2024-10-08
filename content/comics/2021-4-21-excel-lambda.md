@@ -4,7 +4,7 @@ title: "Excel Lambda"
 num: 2453
 alt: >-
   Extremely rude how Turing's later formulations of the halting problem called me out by name specifically.
-img: https://imgs.xkcd.com/comics/excel_lambda.png
+img: https://imgs.xkcd.com/comics/excel_lambda_new.png
 ---
 [In a narrow panel, Ponytail is walking in from the left, looking down at her phone]
 
@@ -20,10 +20,10 @@ Cueball: When I need to do arbitrary computation, I just add a giant block of co
 
 Ponytail: I think you're doing computing wrong.
 
-Cueball: The Church-Turing thesis says that all ways of computing are equally wrong.
+Cueball: The Church-Turing thesis says that all ways of computing are ***equally*** wrong.
 
 [Ponytail is still behind Cueball, who has a finger raised in the air, and the other hand is on the desk. Cueball's head has a visible sketch layer which has not been erased.]
 
-Ponytail: I think if Turing saw your spreadsheets, he'd change his mind.
+Ponytail: I think if Turing saw ***your*** spreadsheets, he'd change his mind.
 
 Cueball: He can ask me to stop making them, but not prove whether I will!

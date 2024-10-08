@@ -6,57 +6,64 @@ alt: >-
   Except in reality crossing a stream of marshmallows would create a giant Bill Murray.
 img: https://imgs.xkcd.com/comics/marshmallow_gun.png
 ---
-Narrator: I got this gun that shoots marshmallows.
+[A box above the first frame:]
 
-[[A man removes a marshmallow gun from a box.]]
+I got this gun that shoots marshmallows.
 
-[[Man shoots woman with marshmallow gun from offpanel.]]
+[Cueball removes the red marshmallow gun from a box.]
 
-<<POP POP POP>>
+[Cueball shoots at Megan with marshmallow gun from offscreen.]
 
-<<WHAP WHAP WHAP>>
+Pop pop pop
 
-<<POP>>
+Whap whap whap
 
-[[Woman sighs]]
+[Megan facepalms.]
 
-<<POP POP>>
+Pop
 
-[[Woman removes a super soaker from desk drawer.]]
+Megan: Sigh.
 
-[[Woman shoots offscreen man with super soaker.]]
+[Megan removes a super soaker from desk drawer.]
 
-Man: (offscreen) AUGH!
+Pop pop
 
-<<FWOOSH>>
+[Megan shoots Cueball (offscreen) with the super soaker.]
 
-Man: (offscreen) Man, I forgot that was there.
+Cueball (offscreen): Augh!
 
-Narrator: The next day, everyone else got them too.
+*Fwoosh*
 
-[[Woman and beret guy brandish marshmallow guns.]]
+Cueball (offscreen): Man, I forgot that was there.
 
-Woman: Hey noob!  Eat stay-puft(R)!
+[A box above the first frame of the second part of the comic:]
 
-[[Woman shoots marshmallow gun.]]
+The next day, everyone else got them too.
 
-<<POP POP POP>>
+[Megan and Beret Guy brandish marshmallow guns.]
 
-[[Man shoots marshmallow gun.]]
+Megan: Hey, noob! Eat Stay-Puft®!
 
-<<POP POP POP>>
+[Megan shoots a marshmallow gun.]
 
-[[Woman and man shoot marshmallows into the air, crossing the streams of fire.]]
+Pop pop pop
 
-Beret Guy: (offscreen) No, don't cross the ~
+[Cueball shoots a marshmallow gun.]
 
-<<FOOM>>
+Poppop pop
 
-<<ROAAAR>>
+[Megan and Cueball shoot marshmallows into the air, crossing the streams.]
 
-[[Woman, Man, and Beret Guy are all standing with weapons pointed at the ground]]
+Beret Guy (offscreen): No! Don't cross the—
 
-Woman: Okay, this is bad.
+[Between the last two frames is a wide gap with the following text:]
 
-Offscreen: You're shooting what?
+**Foom**
 
+Giant monster (offscreen): Roaaar!
+
+[Megan, Cueball, and Beret Guy are all standing with weapons pointed at the ground looking up.]
+
+Megan: Okay, this is bad.
+
+Giant monster (offscreen): **You're shooting <u>what</u>?**

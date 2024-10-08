@@ -16,11 +16,11 @@ Ponytail: It's like when you promise your firstborn to a witch for five magic be
 
 Cueball (off-panel): Is that a common–
 
-Ponytail: She's a sucker, right? You know your awful kid will be worth one or two beans at best.
+Ponytail: She's a sucker, right? You know your awful kid will be worth one or two beans at *best*.
 
 [Ponytail and Cueball stopped, facing each other]
 
-Ponytail: But then it turns out you love your kid, a love worth 200 beans! You can't afford that loss!
+Ponytail: But then it turns out you *love* your kid, a love worth 200 beans! You can't afford that loss!
 
 Ponytail: There's only one way out:
 

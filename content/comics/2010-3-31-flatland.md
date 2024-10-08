@@ -6,23 +6,26 @@ alt: >-
   Also, I apologize for the time I climbed down into your world and everyone freaked out about the lesbian orgy overseen by a priest.
 img: https://imgs.xkcd.com/comics/flatland.png
 ---
-[[Person encounters a square on the ground.]]
+[Cueball talks to a square on the ground.]
 
-Person: Hey, A. Square. How's Flatland?
+Cueball: Hey, A. Square. How's Flatland?
 
 A. Square: Still flat. What's up?
 
-Person: I just spent an hour playing a demo of this 4D game called Miegakure.
+Cueball: I just spent an hour playing a demo of this 4D game called Miegakure.
 
-[[A character in Miegakure jumps around the 4D landscape.]]
+[In a frameless panel, a character in Miegakure jumps around the 4D landscape.]
 
-Trying to jump from block to block in four dimensions hurt my brain.
+Caption above the panel: Trying to jump from block to block in four dimensions hurt my brain.
 
-Person: So I apologize for giving you a hard time when you were slow to understand 3D space. I sympathize now.
+[Cueball continues talking to A. Square on the ground.]
+
+Cueball: So I apologize for giving you a hard time when you were slow to understand 3D space. I sympathize now.
 
 A. Square: It's okay.
 
-Person: Also, I apologize for drawing arms, legs, and eyes on you to make you look like Spongebob. That was out of line.
+[Zoom in on Cueball's head]
+
+Cueball: Also, I apologize for drawing arms, legs, and eyes on you to make you look like SpongeBob. That was out of line.
 
 A. Square: Yes, it was.
-

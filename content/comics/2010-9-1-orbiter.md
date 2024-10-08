@@ -6,25 +6,16 @@ alt: >-
   Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.
 img: https://imgs.xkcd.com/comics/orbiter.png
 ---
-[[A man sits at a control screen, wearing a headset.]]
+Cueball: Okay, people. The orbiter is passing south of Iceland. The next scheduled check-in will be at 32.0N 35.5E, over the Palestinian territories.
 
-Man: Okay, people. The orbiter is passing south of Iceland. The next scheduled check-in will be at 32.0°N 35.5°E, over the Palestinian territories.
+Off-screen character (left): You mean over the state of Palestine?
 
-Voice off-screen #1: You mean over the State of Palestine?
+Off-screen character (right): You mean over Israel?
 
-Voice off-screen #2: You mean over 
+[Frameless beat panel.]
 
-Israel
+Cueball: I've rescheduled the check-in for 35.2N 96.6W, over Oklahoma.
 
-?
+Frank (off-screen, right): You mean occupied North Texas?
 
-[[The man looks up and says nothing.]]
-
-[[The man looks back down at his screen.]]
-
-Man: I've rescheduled the check-in for 35.2°N 96.6°W, over Oklahoma.
-
-Voice off-screen #2: You mean occupied North Texas?
-
-Man: Dammit, Frank.
-
+Cueball: Dammit, Frank.

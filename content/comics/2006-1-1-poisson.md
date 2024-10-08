@@ -6,17 +6,20 @@ alt: >-
   Poisson distributions have no value over negative numbers
 img: https://imgs.xkcd.com/comics/poisson.jpg
 ---
-[[A stick figure says to another black-hat-wearing figure.]]
+[Cueball is talking to Black Hat. Cueball has his mouth wide open and has both of his arms up.]
 
-Man: I'm a poisson distribution!
+Cueball: I'm a poisson distribution!
 
-Man: Still a poisson distribution.
+[Same scene, except Cueball has only one arm up.]
 
-Hat Guy: What the hell, man.  Why do you keep saying that?
+Cueball: Still a Poisson distribution!
 
-Man: Because I'm totally a poisson distribution.
+Black Hat: what the hell, man. Why do you keep saying that?
 
-Hat Guy: I'm less than zero.
+[Cueball's face is gone, and he is not holding any arms up.]
 
-[[Man is gone; Hat Guy is whistling.]]
+Cueball: Because I'm totally a poisson distribution.
 
+Black Hat: I'm less than zero.
+
+[Cueball is gone. Black Hat is now whistling.]

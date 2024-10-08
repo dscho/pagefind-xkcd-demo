@@ -6,17 +6,16 @@ alt: >-
   I have nothing to apologize for.
 img: https://imgs.xkcd.com/comics/organic_fuel.png
 ---
-[[Man sitting at computer second man standing nearby]]
+[Cueball at a computer and a friend standing nearby.]
 
-Man at Computer: Wow â Engines can burn vegetable oil.
+Cueball: Wow – Engines can burn vegetable oil.
 
-Standing man: Well, sure. You can burn most any organic matter. Corn, leaves, spices...
+Friend: Well, sure. You can burn most any organic matter. Corns, leaves, spices...
 
-Man at Computer: Spices? Really?
+Cueball: Spices? Really?
 
-Standing man: Sure â Mussolini made the trains run on thyme.
+Friend: Sure – Mussolini made the trains run on thyme.
 
-Man at Computer: ...
+Cueball: ...
 
-Man at Computer: We are no longer friends.
-
+Cueball: We are no longer friends.

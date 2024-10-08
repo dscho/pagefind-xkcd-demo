@@ -6,17 +6,34 @@ alt: >-
   The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)
 img: https://imgs.xkcd.com/comics/universal_install_script.png
 ---
-[[A person looking at their phone. Their text conversation is displayed above their head.]]
+[In the panel is a shell script which, unusual for xkcd, uses only lower case. At the top the title of the program is inlaid in the frame, which has been broken here.]
 
-A: I'll be in your city tomorrow if you want to hang out.
+<big>Install.sh</big>
 
-B: But where will you be I 
+#!/bin/bash
 
-don't
+pip install "$1" &
 
- want to hang out?!
+easy\_install "$1" &
 
-A: You know, I just remembered I'm busy.
+brew install "$1" &
 
-Why I try not to be pedantic about conditionals.
+npm install "$1" &
 
+yum install "$1" & dnf install "$1" &
+
+docker run "$1" &
+
+pkg install "$1" &
+
+apt-get install "$1" &
+
+sudo apt-get install "$1" &
+
+steamcmd +app\_update "$1" validate &
+
+git clone https://github.com/"$1"/"$1" &
+
+cd "$1";./configure;make;make install &
+
+curl "$1" | bash &

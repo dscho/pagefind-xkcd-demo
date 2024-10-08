@@ -3,29 +3,29 @@ date: 2007-01-10
 title: "Regular Expressions"
 num: 208
 alt: >-
-  Wait, forgot to escape a space.  Wheeeeee[taptaptap]eeeeee.
+  Wait, forgot to escape a space. Wheeeeee[taptaptap]eeeeee!
 img: https://imgs.xkcd.com/comics/regular_expressions.png
 ---
-Narrator: Whenever I learn a new skill I concoct elaborate fantasy scenarios where it lets me save the day.
+[in a yellow box:]
 
-Woman: Oh no! The killer must have followed her on vacation!
+Whenever I learn a new skill I concoct elaborate fantasy scenarios where it lets me save the day.
 
-[[Woman points to computer]]
+Megan: Oh no! The killer must have followed her on vacation!
 
-Woman: But to find them we'd need to search through 200MB of emails looking for something formatted like an address!
+[Megan points to computer.]
 
-Man: It's hopeless!
+Megan: But to find them we'd have to search through 200 MB of emails looking for something formatted like an address!
 
-Offpanel voice: Everybody stand back.
+Cueball: It's hopeless!
 
-Offpanel voice: I know regular expressions.
+Off-panel voice: Everybody stand back.
 
-[[A man swings in on a rope, toward the computer]]
+Off-panel voice: I know regular expressions.
 
-<<tap tap>>
+[A man swings in on a rope, toward the computer.]
 
-<<PERL!>>
+*tap tap*
 
-[[The man swings away, and the other characters cheer]]
+The word *PERL!* appears in a bubble.
 
-{{rollover text: Wait, forgot to escape a space. Wheeeeee[taptaptap]eeeeee.}}
+[The man swings away, and the other characters cheer.]

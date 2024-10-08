@@ -14,7 +14,7 @@ img: https://imgs.xkcd.com/comics/desert_golfing.png
 
 [The clock is showing 1:47 when Cueball, now sitting up against the right armrest, finally speaks while continuing to play, with the brown screen visible, as he holds it on his knees, but the screen display is not shown. An off-panel voice answers him from the right.]
 
-Cueball: Technically, I've been playing Desert Golfing nonstop since late 2017.
+Cueball: Technically, I've been playing *Desert Golfing* nonstop since late 2017.
 
 Off-panel voice: Might want to take a break sometime in 2018.
 

@@ -24,8 +24,8 @@ What they're actually like
 
 Cueball: Wow! Look how close they are!
 
-Ponytail: It's so cool!!
+Ponytail: It's ***so cool!!***
 
-Cueball: Now kiiiisssss!!
+Cueball: *Now kiiiisssss!!*
 
-Ponytail: Dooo iiit!
+Ponytail: ***Dooo iiit!***

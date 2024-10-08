@@ -6,23 +6,32 @@ alt: >-
   Since people rarely try to cut down cell phone towers, after millions of years, as cell phone towers have gotten more treelike, trees have started growing fake cell phone tower attachments and shiny gray bark to protect themselves. This is a standard textbook example of convergent evolution.
 img: https://imgs.xkcd.com/comics/magic_tree.png
 ---
-[[Beret guy excitedly points to a pillar about a meter across. There's a sign on the side. Beret guy is pointing it out to his friend, Fancy Haircut]]
+[Beret Guy and Megan stand next to a large pole with a note on it. Beret Guy points at the pole.]
 
-Beret: Check it out! I threw my magic beans on the ground here yesterday, and this big tree appeared!
+Beret Guy: Check it out! I threw my magic beans on the ground here yesterday, and this big tree appeared!
 
-[[Now in silhouette we see the pillar is several hundred feet tall, covered in antennae, and the figures are as ants in its shadow.]]
+[Zoom out, the pole is revealed to have branches. Around the pole are trees about 1/9th of the height of the pole.]
 
-haircut: that's a cell tower.
+Megan: That's a cell tower.
 
-beret: no way-- it has branches! See? I'm gonna climb it!
+Beret Guy: No way - it has branches!
 
-[[Beret guy begins to shimmy up the side of the pole. Somehow. With impressively powerful thighs I guess.]]
+Beret Guy: See?
 
-haircut: No, they just put those there to make it look-- ...never mind.
+Beret Guy: I'm gonna climb it!
 
-[[Later...]]
+[Same as frame as the first. Beret Guy starts climbing the pole.]
 
-haircut: Why do I have no signal?
+Megan: No, they just put those there to make it look-
 
-beret, with an axe: there were scary giants with yellow helmets in that tree! luckily, I cut it down before they ate me.
+Megan: ...Never mind.
 
+[There is a caption in a small frame inlaid at the top of the last frame:]
+
+Later...
+
+[Megan looks at her phone while Beret Guy walks towards her holding an axe.]
+
+Megan: Why do I have no signal?
+
+Beret Guy: There were scary giants with yellow helmets in that tree! Luckily I cut it down before they ate me.

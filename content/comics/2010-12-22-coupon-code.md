@@ -6,43 +6,42 @@ alt: >-
   This also guarantees he won't be one of the ones to get a bobcat.
 img: https://imgs.xkcd.com/comics/coupon_code.png
 ---
-[[The panel shows an online shopping form.]]
+[The panel shows an online shopping form.]
 
 Shipping: $14.08
 
-Total:    $80.02
+Total: $80.02
 
 If you have a coupon code, enter it here:
 
-[[An empty form.]]
+[An empty form.]
 
 Check out
 
-A person is looking at their computer.
+[In a frameless panel, Cueball is looking at his computer.]
 
-[[The empty form is now filled in - the rest of the panel shows the same page.]]
+[The empty form is now filled in. The rest of the panel shows the same page.]
 
-Form: In 1987 you quietly took something from the house of a dying woman. You thought nobody knew -- you were wrong.
+Form: In 1987, you quietly took something from the house of a dying woman. You thought nobody knew. You were wrong.
 
-[[The person is sitting at their computer.]]
+[Cueball is sitting at his computer.]
 
-<<Click>>
+*Click*
 
-[[The form is updated.]]
+[The form is updated.]
 
-Shipping:   $14.08
+Shipping: $14.08
 
-Total:      $80.02
+Total: $80.02
 
 ----------------
 
 Discount
 
-Applied:   -$80.02
+Applied: -$80.02
 
 Final price: $0.00
 
 Thank you
 
-- Your order has been placed -
-
+-Your order has been placed-

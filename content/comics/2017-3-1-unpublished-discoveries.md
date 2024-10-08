@@ -26,7 +26,7 @@ Megan (off-panel): Makes sense.
 
 Ponytail: Sooo... What are you working on?
 
-Megan: It isn't me!
+Megan: *It isn't me!*
 
 Ponytail: I promise I won't tell.
 

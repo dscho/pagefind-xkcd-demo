@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/weird_hill.png
 ---
 [Cueball, frustrated, is sitting on a chair in front of a computer and Beret Guy pulling the chair back]
 
-Computer: *[email protected] [/cdn-cgi/l/email-protection]
+Computer: \*!$@
 
 Beret Guy: Why pick a weird hill to die on...
 
@@ -22,4 +22,4 @@ Beret Guy: Why pick a weird hill to die on...
 
 Beret Guy: ... when you could pick a soft hill to lie on?
 
-Cueball: This is nice.
+Cueball: This *is* nice.

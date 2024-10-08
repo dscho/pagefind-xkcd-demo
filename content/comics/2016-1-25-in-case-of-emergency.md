@@ -6,7 +6,6 @@ alt: >-
   I keep first aid kits in those emergency lockers. Sure, it's expensive to have them installed in the wall, but at least for those ones there's no need to pay extra for safety glass.
 img: https://imgs.xkcd.com/comics/in_case_of_emergency.png
 ---
-[[Two figures are walking.]]
+[On a box behind a panel of glass, with a hammer hung below, is written:]
 
-Woman: A man, a plan, a god's 'nam tables, nitrate, tar, tinsel, Batman's dog: anal Panama.
-
+Glass repair kit

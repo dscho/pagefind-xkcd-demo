@@ -8,11 +8,11 @@ img: https://imgs.xkcd.com/comics/wifi_vs_cellular.png
 ---
 [A graph with two curves that cross each other. The two areas beneath the curve at the top, and down to either the X-axis or the other curve are shaded with vertical gray lines. The Y-axis has no label, but represents reliability, the X-axis is a timeline, with labels indicating years beneath the axis, without any ticks. The two curves are labeled with text interrupting the curves, in the second case using two lines for the text. In the left shaded area there is a label inside and the right shaded area the label is beneath the curves with an arrow pointing to the area. All this text and the arrow is gray. Above the curves there is a caption also in gray font:]
 
-To get something to load on my phone, sometimes I have to...
+<font color="gray">To get something to load on my phone, sometimes I have to...</font>
 
-Label left area: ...Connect to WiFi
+Label left area: <font color="gray">...Connect to WiFi</font>
 
-Label right area: ...Turn off WiFi
+Label right area: <font color="gray">...Turn off WiFi</font>
 
 Label curve one: Home WiFi reliability
 

@@ -6,19 +6,20 @@ alt: >-
   Sticks and stones may break my bones, but words can make me think I deserved it.
 img: https://imgs.xkcd.com/comics/sticks_and_stones.png
 ---
+[A child, who looks like a miniature Cueball, is running with arms outstretched toward Cueball.]
+
 Child: Did you hear what he said about me!?
 
-Parent: Well, remember: sticks and stones may break my bones, but words--
+Cueball: Well, remember: sticks and stones may break my bones, but words—
 
-Child: Can make someone else feel happy or sad, which is literally the only thing that matters in this stupid world?
+Child: —can make someone else feel happy or sad, which is literally the only thing that matters in this stupid world?
 
-[[Beat.]]
+[Brief pause.]
 
 Child: Right?
 
-Parent: The world isn't *that* bad.
+Cueball: The world isn't *that* bad.
 
 Child: Explain the line about sticks and stones?
 
-Parent: ... OK, maybe it's kind of horrific.
-
+Cueball: ...OK, maybe it's kind of horrific.

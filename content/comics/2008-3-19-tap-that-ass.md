@@ -6,27 +6,18 @@ alt: >-
   Hey, when you're done draining the syrup, just leave the hole, okay?
 img: https://imgs.xkcd.com/comics/tap_that_ass.png
 ---
-[[Man in a hallway looking in on a board meeting.]]
+[Cueball in a hallway looking in on a board meeting.]
 
-I'd tap that ass
+Cueball: I'd tap that ass to be the new committee chair.
 
-To be the new committee chair.
+[Cueball wearing headphones with a briefcase and a laptop. Another man on a telephone.]
 
-[[Man wearing headphones with a briefcase and a laptop.  Another man on a telephone.]]
+Cueball: I'd tap that ass without a warrant.
 
-I'd tap that ass
+[Cueball with his hand on his chin, looking at a tree.]
 
-Without a warrant.
+Cueball: I'd tap that ass and extract delicious maple syrup.
 
-[[Man with his hand on his chin, looking at a tree.]]
+[Cueball standing in a blank frame.]
 
-I'd tap that ass
-
-And extract delicious maple syrup.
-
-[[Man standing in a blank frame.]]
-
-I'd have sex
-
-With that tree.
-
+Cueball: I'd have sex with that tree.

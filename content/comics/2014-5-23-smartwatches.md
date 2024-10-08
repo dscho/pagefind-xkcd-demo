@@ -6,15 +6,16 @@ alt: >-
   This is even better than my previous smartphone casemod: an old Western Electric Model 2500 desk phone handset complete with a frayed, torn-off cord dangling from it.
 img: https://imgs.xkcd.com/comics/smartwatches.png
 ---
-A use for smartwatches:
+A USE FOR SMARTWATCHES:
 
-[[Two smartwatches are shown on the left side of the panel, with an arrow pointing to them saying "working"; an iPhone is shown on the right side, with another arrow saying "dead".]]
+[Depicted are two smartwatches, both labelled as "Working" and showing generic color displays, and one smartphone labelled as "Dead" with a blank screen.]
 
-[[A hacksaw cuts the iPhone in half across the shorter axis of the screen.]]
+[A hacksaw cutting through the smartphone, throughout the middle of the long edge of the case.]
 
-[[The electronics and screens from the two smartwatches are removed from the bands and placed onto the iPhone halves.]]
+[The two smartwatches are shown with the wristband and case broken around the edge of the display because the displays with the associated electronics are removed. Arrows are shown coming from the smartwatch cases to the smartwatch displays, then from the displays to the smartphone case halves.]
 
-[[A hinge is installed between the two iPhone halves.]]
+[The smartphone halves are installed with the smartwatch components and a hinge with screws beside is shown. Another view shows the hinge screwed into the back of the smartphone case.]
 
-[[The hinge is shown closing, folding the iPhone halves together, with the text "World's first flip iPhone".]]
+[The smartphone with the working smartwatch components installed is shown, with the hinge three-quarters open and fully closed - resembling an early flip-phone.]
 
+World's first flip iPhone

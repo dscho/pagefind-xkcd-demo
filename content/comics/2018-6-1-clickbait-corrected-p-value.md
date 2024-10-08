@@ -10,10 +10,10 @@ img: https://imgs.xkcd.com/comics/clickbait_corrected_p_value.png
 
 Clickbait-corrected p-value:
 
-PCL = Ptraditional ∙ click(H1)/click(H0)
+P<sub>CL</sub> = P<sub>traditional</sub> ∙ click(H<sub>1</sub>)/click(H<sub>0</sub>)
 
-H0: NULL hypothesis ("Chocolate has no effect on athletic performance")
+H<sub>0</sub>: NULL hypothesis ("Chocolate has no effect on athletic performance")
 
-H1: Alternative hypothesis ("Chocolate boosts athletic performance")
+H<sub>1</sub>: Alternative hypothesis ("Chocolate boosts athletic performance")
 
 click(H): Fraction of test subjects who click on a headline announcing that H is true

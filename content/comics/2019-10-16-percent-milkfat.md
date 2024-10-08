@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/percent_milkfat.png
 ---
 [Ponytail, raising her palm, and Cueball are talking.]
 
-Ponytail: "2% milk" is 2% milkfat. But "whole milk" isn't 100% milkfat–it's 3.5%.
+Ponytail: "2% milk" is 2% milkfat. But "whole milk" isn't 100% milkfat&ndash;it's 3.5%.
 
 Cueball: Weird. What's the rest of it?
 

@@ -28,9 +28,9 @@ Laptop: Click
 
 Phone:
 
-GAAAGGTAAGATGGAGAGGCCTTGTCCCTGGTTCAACGAGAA
+GAAAGGTAAGATGGAGAGGCCTTGTC<span style="background-color:pink">CCTGGTTCAACGAGAA</span>
 
--29,602 (+) Tweet
+<font color="red">-29,602</font> <font color="skyblue">(+)</font> <span style="background-color:skyblue; color:white">Tweet</span>
 
 [Back to the original setting but with Megan still typing on her laptop while Cueball looks at his phone that he holds up in one hand.]
 

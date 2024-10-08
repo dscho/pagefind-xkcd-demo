@@ -8,35 +8,34 @@ img: https://imgs.xkcd.com/comics/branding.png
 ---
 Browsing without adblock
 
-[[A man is sitting at a computer.]]
+[Cueball is sitting at a computer.]
 
-[[Pop-up window with red background.]]
+[Pop-up window with red background.]
 
 The Facebook of SEX! Click now!
 
-Man: Sigh.
+Cueball: Sigh.
 
-<<Close>>
+\*Close\*
 
-[[Pop-up window with green background.]]
+[Pop-up window with green background.]
 
 Twitter for 18+ singles! Join today!
 
-Man: Does every porn site have to brant itself like this?
+Cueball: Does every porn site have to brand itself like this?
 
-<<Close>>
+\*Close\*
 
-[[Pop-up window with blue background.]]
+[Pop-up window with blue background.]
 
 We're like Google Reader for S&M!
 
-Man: ((in italics)) Really?
+Cueball: *Really?*
 
-<<Close>>
+\*Close\*
 
-[[Pop-up window with orange background.]]
+[Pop-up window with orange background.]
 
 Try the new GitHub for lesbians!
 
-Man: Ok, wait, what?
-
+Cueball: Ok, wait, what?

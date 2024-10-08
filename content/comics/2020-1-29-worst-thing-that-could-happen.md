@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/worst_thing_that_could_happen.png
 ---
 [Ponytail is standing in front of a desk with a computer. One of her hands is on the keyboard. Behind her, Cueball, Hairy, and Megan are looking at the computer screen.]
 
-Ponytail: We should upgrade. What's the worst that could happen?
+Ponytail: We should upgrade.  What's the worst that could happen?
 
 Cueball: Supervolcano.
 
@@ -22,12 +22,12 @@ Cueball: Instead of hitting the tallest thing around, lightning starts hitting t
 
 Megan: Seagulls all get handguns.
 
-Hairy: A really slow nuclear war.
+Hairy: A really ***slow*** nuclear war.
 
 [Large panel with the original setting. Ponytail has turned towards the other three but is now facepalming, as Cueball gesturing with his hands at chest-height are still looking at the other two facing him.]
 
 Cueball: We all have to go on a game show where they show you photos of people you've met once and ask you their names, and if you get one wrong a trapdoor opens and you fall into a garbage disposal.
 
-Hairy: Ooh, that's a good one.
+Hairy: **Ooh,** that's a good one.
 
 Megan: Yeah, let's put off the upgrade.

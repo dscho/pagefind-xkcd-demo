@@ -8,19 +8,18 @@ img: https://imgs.xkcd.com/comics/large_hadron_collider.png
 ---
 The Large Hadron Collider, CERN...
 
-Woman: Okay, moment of truth. <<click>>
+Megan: Okay, moment of truth. "click"
 
-<<VVVVVRRMMMMM>>
+Large Hadron Collider: "VVVVVRRMMMMMM"
 
-Man: Do you see the Higgs Boson?
+Cueball: Do you see the Higgs Boson?
 
-Woman: Nope.
+Megan: Nope.
 
-Man: Huh.
+Cueball: Huh.
 
-Woman: Well, then.
+Megan: Well, then.
 
-Man: Until the theorists get back to us, wanna try hitting pigeons with the proton stream?
+Cueball: Until the theorists get back to us, wanna try hitting pigeons with the proton stream?
 
-Woman: Already on it. Cool! I just gave a helicopter cancer.
-
+Megan: Already on it. Cool! I just gave a helicopter cancer.

@@ -14,10 +14,10 @@ Use this power wisely.
 
 Key Code (secret!!):
 
-Alt + Tilde + Scroll Lock + Number
+<span style="border: 1px solid black"><kbd>Alt</kbd></span> + <span style="border: 1px solid black"><kbd>Tilde</kbd></span> + <span style="border: 1px solid black"><kbd>Scroll Lock</kbd></span> + Number
 
 1234567890
 
 [Caption below the panel:]
 
-After 30 years, I finally beat the end boss of Mavis Beacon and unlocked the ability to type capital numbers.
+After 30 years, I finally beat the end boss of *Mavis Beacon* and unlocked the ability to type capital numbers.

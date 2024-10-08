@@ -14,7 +14,7 @@ Phone: Click
 
 Ugh, check out how much tax paperwork I have to do.
 
-Cancel  Post
+<span style="color:gray">Cancel</span>&nbsp; Post
 
 [Caption below the panel:]
 

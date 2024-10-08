@@ -24,8 +24,7 @@ Geocities/Tripod Link
 
 Copy-and-paste example from paper's appendix
 
-
-
+<br>
 
 Anything that "requires only minimal configuration and tweaking"
 

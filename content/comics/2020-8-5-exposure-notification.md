@@ -10,19 +10,19 @@ img: https://imgs.xkcd.com/comics/exposure_notification.png
 
 Alert 1:43 PM
 
-Good news: You recently had close contact with someone who has not tested positive for COVID.
+**Good news:** You recently had close contact with someone who has not tested positive for COVID.
 
 Alert 1:38 PM
 
-Good news: You recently had close contact with someone who has not tested positive for COVID.
+**Good news:** You recently had close contact with someone who has not tested positive for COVID.
 
 Alert 1:36 PM
 
-Good news: You recently had close contact with someone who has not tested positive for COVID.
+**Good news:** You recently had close contact with someone who has not tested positive for COVID.
 
 Alert 1:31 PM
 
-Good news: You recently had close contact with someone who has not tested positive for COVID.
+**Good news:** You recently had close contact with someone who has not tested positive for COVID.
 
 [Caption below the panel:]
 

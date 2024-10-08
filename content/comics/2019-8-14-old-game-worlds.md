@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/old_game_worlds.png
 ---
 [A light gray drop down menu is shown with three sections split up with three grays lines split up with section titles in the same gray font. Beneath each section title is 3, 4 and 6 lines of black text. An white arrow cursor hovers over the second last option, which is thus highlighted with a dark gray background and white text.]
 
-New Games
+<font color="gray">New Games</font>
 
 Subnautica
 
@@ -16,7 +16,7 @@ Russian Subway Dogs
 
 Kerbal Space Program
 
-Old Games
+<font color="gray">Old Games</font>
 
 Worms Armageddon
 
@@ -26,7 +26,7 @@ Katamari Damacy
 
 Mario Kart
 
-Very Old Games
+<font color="gray">Very Old Games</font>
 
 Link's Awakening
 
@@ -36,7 +36,7 @@ SimCity
 
 Prince of Persia
 
-Super Mario Bros
+<span style="color:white; background:gray">Super Mario Bros</span>
 
 MS Flight Simulator 3
 
@@ -48,7 +48,7 @@ Goomba: Mario?
 
 Mario: It'sa me!
 
-Goomba: What are you doing here?
+Goomba: What are *you* doing here?
 
 [Mario stands between an e-scooter, a dismounted and broken Question Mark Box lying on its side and a cellphone tower. Narration continues above:]
 

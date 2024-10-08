@@ -14,7 +14,7 @@ The SkiFree monster
 
 Siri
 
-Ellie from Up
+Ellie from *Up*
 
 Zordon
 

@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/life_goals.png
 ---
 [A to-do list with a caption above:]
 
-Life Goals
+<big><u>Life Goals</u></big>
 
 ☐ Meet Skrillex in Phoenix
 

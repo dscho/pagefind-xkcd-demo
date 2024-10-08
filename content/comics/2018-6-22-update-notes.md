@@ -48,7 +48,7 @@ Update Notes:
 
 v7.0
 
-It peaks August 12-13th.
+It peaks August 12-13<sup>th</sup>.
 
 v6.8.16
 
@@ -68,23 +68,20 @@ Introduced bugs and degraded performance[.]
 
 My friend and I both have apps we've stopped maintaining, so we just use the updates to chat.
 
-
-
-
 [For convenience, here are the update notes in order of release (note that the first is not part of the conversation with Mike):]
 
-"A" app (v6.8.14): Introduced bugs and degraded performance[.]
+"3-star" app (v6.8.14): Introduced bugs and degraded performance[.]
 
-"3-star" app (v2.8.3): Hey Mike, you there?
+"A" app (v2.8.3): Hey Mike, you there?
 
-A (v6.8.15): Yeah, what's up?
+3-star (v6.8.15): Yeah, what's up?
 
-3-star (v.2.8.31): Are you around this weekend? We're heading to the beach.
+A (v.2.8.31): Are you around this weekend? We're heading to the beach.
 
-A (v6.8.16): Sorry, no, going to a wedding. But do you want to camp out for the meteor shower in August?
+3-star (v6.8.16): Sorry, no, going to a wedding. But do you want to camp out for the meteor shower in August?
 
-3-star (v3.0): Oh, that sounds fun! What night?
+A (v3.0): Oh, that sounds fun! What night?
 
-A (v7.0): It peaks August 12-13th.
+3-star (v7.0): It peaks August 12-13th.
 
-3-star (v3.0.1): I'm actually off work Monday so that's perfect.
+A (v3.0.1): I'm actually off work Monday so that's perfect.

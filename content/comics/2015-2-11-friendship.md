@@ -6,51 +6,60 @@ alt: >-
   The only other Wikipedia vandalism that I would feel zero remorse about is editing the article on active US militia groups to replace "militia" with "fanclub".
 img: https://imgs.xkcd.com/comics/friendship.png
 ---
-{{A fictional wikipedia article is depicted here}}
+[A Wikipedia style layout is shown for extracts from an article titled Friendship.]
 
-[[Title: FRIENDSHIP]]
+<div style="border-bottom: 1px solid #bbbbbb">**Friendship**</div>
 
-A friendship is a close non romantic relationship between two or more men, a form of affectional or homosocial intimacy.
+<span style="color: #A0A0A0"><sup>From Wikipedia, the free encyclopedia</sup></span>
 
-[[Table of contents]]
+A Friendship is a close non-romantic relationship between two (or more) men, a form of <span style="color: #0645AD">affectional</span> or <span style="color: #0645AD">homosocial</span> intimacy.<sup><span style="color: #0645AD">[1]</span></sup>
 
-One, etymology.
+ Contents [<span style="color: #0645AD">hide</span>]
 
-Two, characteristics.
+<span style="color: #0645AD">1 Etymology</span>
 
-Three, portrayal of friendships.
+<span style="color: #0645AD">2 Characteristics</span>
 
-Three point one, celebrity and fictional friendships.
+<span style="color: #0645AD">3 Portrayal of friendship</span>
 
-Three point two, historical and political friendships.
+<span style="color: #0645AD">3.1 Celebrity and fictional friendships</span>
 
-Three point three, gay-straight friendships.
+<span style="color: #0645AD">3.2 Historical and political friendships</span>
 
-Four, see also.
+<span style="color: #0645AD">3.3 Gay-straight friendships</span>
 
-Five, references.
+<span style="color: #0645AD">4 See also</span>
 
-[[Title heading: Etymology]]
+<span style="color: #0645AD">5 References</span>
 
-Friendship is a portmanteau of the words FRIEND and SHIP. Editor Dave Carnie coined the term in the skateboard magazine BIG BROTHER in the 1990s to refer to the sort of relationships that develop between skaters who spend-- [[section is truncated]]
+<div style="border-bottom: 1px solid #bbbbbb">**Etymology**</div>
 
-[[Title heading: Portrayal of friendship]]
+*Friendship* is a <span style="color: #0645AD">portmanteau</span> of the words *friend* and *ship*. Editor <span style="color: #0645AD">Dave Carnie</span> coined the term in the skateboard magazine *<span style="color: #0645AD">Big Brother</span>* in the 1990s to refer to the sort of relationships that develop between skaters who spend
 
-[[Sub heading: celebrity and fictional friendships]]
+[...]
 
-A number of celebrities have engaged in friendships with fellow celebrities. Examples include Ben Affleck and Matt Damon, described as quote perhaps THE pioneering friendship in showbiz history unquote which led to a hit off-broadway play-- [[section is truncated]]
+<div style="border-bottom: 1px solid #bbbbbb">**Portrayal of Friendship**</div>
 
-[[untitled clipping]]
+**Celebrity and Fictional Friendships**
 
-friendship on television has also become more commonplace, with some critics tracing its origins back to such shows as THE ODD COUPLE. In october 2008, TV GUIDE placed Gregory House (Hugh Laurie) and James-- [[section is truncated]]
+A number of celebrities have engaged in friendships with fellow celebrities. Examples include <span style="color: #0645AD">Ben Affleck</span> and <span style="color: #0645AD">Matt Damon</span>, described as "perhaps *the* pioneering friendship in showbiz history"<sup><span style="color: #0645AD">[9]</span></sup> which led to a hit <span style="color: #0645AD">off-broadway</span> play
 
-[[untitled clipping]]
+[...]
 
-The Japanese and Korean music industry actively encourages friendship among male celebrities (particularly members of boy bands) as part of the fan service to please the audience. In fiction, what had once been called buddy films have to a degree been rebranded as friendship films, although-- [[section is truncated]]
+Friendship on television has also become more commonplace, with some critics tracing its origins back to shows such as *<span style="color: #0645AD">The Odd Couple</span>*.<sup><span style="color: #0645AD">[14]</span></sup> In October 2008, *<span style="color: #0645AD">TV Guide</span>* placed <span style="color: #0645AD">Gregory House</span> (<span style="color: #0645AD">Hugh Laurie</span>) and <span style="color: #0645AD">James</span>
 
-Caption: How to improve the quote bromance unquote wikipedia article
+[...]
 
-[[Title heading: Historical and political friendships]]
+The Japanese and <span style="color: #0645AD">Korean music industry</span> actively encourages friendship among male celebrities (particularly members of <span style="color: #0645AD">boy bands</span>) as part of the <span style="color: #0645AD">fan service</span> to please the audience.<sup><span style="color: #0645AD">[19][20]</span></sup>
 
-Politically, the relationship between Bill Clinton and Al Gore has been called a precursor to the friendship. THe relationship between George W Bush and Former press-- [[section is truncated]]
+In fiction, what had once been called <span style="color: #0645AD">buddy films</span> have to a degree been rebranded as friendship films, although
 
+[...]
+
+<div style="border-bottom: 1px solid #bbbbbb">**Historical and political friendships**</div>
+
+Politically, the relationship between <span style="color: #0645AD">Bill Clinton</span> and <span style="color: #0645AD">Al Gore</span> has been called a precursor to the friendship.<sup><span style="color: #0645AD">[6]</span></sup> The relationship between <span style="color: #0645AD">George W. Bush</span> and former press
+
+[Below the extracts is this caption:]
+
+**How to improve the "Bromance" Wikipedia article**

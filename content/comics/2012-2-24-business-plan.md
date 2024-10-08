@@ -6,17 +6,22 @@ alt: >-
   The investor elevator pitch is "Wheeeeeeee! Elevators are fun!"
 img: https://imgs.xkcd.com/comics/business_plan.png
 ---
-[[A person in a beret stands on a shoreline and takes the environment in in silent contemplation]]
+[6 small panels extend across the width of the comic...]
 
-[[The person heads off with an idea fresh in their head]]
+[Beret Guy stands on a shoreline and takes in the environment in silent contemplation.]
 
-[[The person saunters back with a jar, some bread, and a signboard]]
+[In a frame-less panel, Beret Guy heads off with an idea fresh in his head.]
 
-[[The person tears the bread off into pieces]]
+[Beret Guy saunters back with a jar, some bread, and a signboard.]
 
-[[The person sets up the signboard, with its contents yet to be revealed]]
+[Beret Guy tears the bread off into pieces.]
 
-[[The person heads off and waits for the plan to unfold]]
+[Beret Guy sets up the signboard, with its contents yet to be revealed.]
 
-[[The same beach, this time with a couple walking past.  One person scratches their head with a "Whuh?" thought.  The bread has attracted quite a few birds.  The jar has a "$" on it.  The sign says: "Gulls for sale"]]
+[Beret Guy heads off and waits for the plan to unfold.]
 
+[A large full-width panel below the first 6 small panels shows the same beach, this time with Megan and Cueball standing in front of and reading the sign. Cueball scratches his head. The bread has attracted quite a few gulls. There is a label on the jar.]
+
+Jar label: $
+
+Sign: Gulls for sale

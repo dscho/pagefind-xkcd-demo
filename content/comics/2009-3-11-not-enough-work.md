@@ -6,35 +6,36 @@ alt: >-
   It's even harder if you're an asshole who pronounces <> brackets.
 img: https://imgs.xkcd.com/comics/not_enough_work.png
 ---
-Narration: Signs your coders don't have enough work to do:
+[Above the first two panels there is a caption:]
 
-[[A man sitting at his workstation; a female co-worker behind him]]
+Signs your coders don't have enough work to do:
 
-Man: I'm almost up to my old typing speed in dvorak
+[Cueball sitting in an office chair at his workstation, with Ponytail standing behind him.]
 
-[[Two men standing by a server rack]]
+Cueball: I'm almost up to my old typing speed in Dvorak
 
-Man #1: Our servers now support gopher.
+[Cueball is standing next to a server rack pointing at it while looking the other way at a Cueball-like guy. There are three sections filled with servers, two of them together, and space for several more above and below and between those two and the one at the bottom. Behind the rack wires comes down tot he floor from all three servers together and the wires then exits the panel to he right along the floor.]
 
-Man #1: Just in case.
+Cueball: Our servers now support Gopher.
 
-[[A woman standing near her workstation speaking to a male co-worker]]
+Cueball: Just in case.
 
-Woman: Our pages are now HTML, XHTML-STRICT, and haiku-compliant
+[In a frame-less panel Megan is standing near her workstation to the right speaking to Cueball to the left.]
 
-Man: Haiku?
+Megan: Our pages are now HTML, XHTML-Strict, and Haiku-compliant.
 
-Woman: <div class="main">
+Cueball: Haiku?
 
-Woman: <span id="marquee">
+Megan:
 
-Woman: Blog!<
+<div class="Main">
 
-span><
+<span ID="Marquee">
 
-div>
+Blog!</span></div>
 
-[[A woman sitting at her workstation]]
+[Ponytail sitting in an office chair at her workstation.]
 
-Woman: Hey!  Have you guys seen this webcomic?
+Ponytail: Hey!
 
+Ponytail: Have you guys seen this webcomic?

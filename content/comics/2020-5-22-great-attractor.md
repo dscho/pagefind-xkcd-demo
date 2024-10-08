@@ -32,4 +32,4 @@ Beret Guy: This time of year, it's below us all day, so I stand vertically. But 
 
 Beret Guy: Let me know if you have any errands to run to the south!
 
-Beret Guy: Goodniiighttt
+Beret Guy: Good*niiight<sup>t<sup>t</sup></sup>*

@@ -20,6 +20,6 @@ Hairy: C'mon, let's check it-
 
 [Hairy exits the building]
 
-Hairy: -was so cool! Wow!!
+Hairy: -was *so cool!* Wow!!
 
 Hairy: Thanks for coming along, and don't forget to smash that like button!

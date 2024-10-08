@@ -6,27 +6,32 @@ alt: >-
   After meeting with a few of the subjects, the IRB actually recommended that you stop stressing out so much about safety guidelines.
 img: https://imgs.xkcd.com/comics/human_subjects.png
 ---
-[[Two people are sitting at a desk reviewing things.]]
+[Ponytail and Megan sit at a desk.]
 
-Person 1: We're concerned that some of your results may be tainted by the fact that your human subjects are *awful*.
+Ponytail: We're concerned that some of your results may be tainted by the fact that your human subjects are *awful*.
 
-Person 2: What do you mean?
+Megan: What do you mean?
 
-Person 1: Several participants in your drug trial were arrested for arson.
+[Ponytail picks up a sheet of paper.]
 
-Person 2: Side effects can be unpredictable.
+Ponytail: Several participants in your drug trial were arrested for arson.
 
-Person 1: They were in the control group.
+Megan: Side effects can be unpredictable.
 
-Person 1: In your prisoner's dilemma study, 80% of the participants chose to betray their partners *before* the experimenter had a chance to tell them about the reward.
+Ponytail: They were in the control group.
 
-Person 2: Definitely troubling.
+[Zoom in on Ponytail.]
 
-Person 1: In one experiment, your subjects repeatedly gave electric shocks to a stranger in another room.
+Ponytail: In your prisoner's dilemma study, 80% of the participants chose to betray their partners ***before*** the experimenter had a chance to tell them about the reward.
 
-Person 2: That's a famous psychological-
+Megan (off-panel): Definitely troubling.
 
-Person 1: This was a study of moisturizing creams!
+[Ponytail shows Megan another sheet of paper.]
 
-Person 2: Yes, we're not sure how they snuck in all that equipment.
+Ponytail: In one experiment, your subjects repeatedly gave electric shocks to a stranger in another room.
 
+Megan: That's a famous psychological-
+
+Ponytail: This was a study of moisturizing creams!
+
+Megan: Yes, we're not sure how they snuck in all that equipment.

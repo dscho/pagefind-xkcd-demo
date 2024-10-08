@@ -16,6 +16,6 @@ Megan: And it becomes just another circulating common cold virus,
 
 [Megan holds her hand up in a fist, while Cueball hold his hand to his chin as they walk on.]
 
-Megan: I think we should pursue global eradication of SARS-CoV-2 out of spite.
+Megan: I think we should pursue global eradication of SARS-CoV-2 out of *spite*.
 
 Cueball: Revenge-based public health policy. I like it.

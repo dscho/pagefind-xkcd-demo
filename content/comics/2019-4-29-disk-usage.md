@@ -3,7 +3,7 @@ date: 2019-04-29
 title: "Disk Usage"
 num: 2143
 alt: >-
-  Menu -> Manage -> [Optimize space usage, Encrypt disk usage report, Convert photos to text-only, Delete temporary files, Delete permanent files, Delete all files currently in use, Optimize menu options, Download cloud, Optimize cloud , Upload unused space to cloud]
+  Menu -> Manage -> [Optimize space usage, Encrypt disk usage report, Convert photos to text-only, Delete temporary files, Delete permanent files, Delete all files currently in use, Optimize menu options, Download cloud, Optimize cloud, Upload unused space to cloud]
 img: https://imgs.xkcd.com/comics/disk_usage.png
 ---
 [This comic shows a pie chart with 10 slices, each with a label and a line pointing to these ten different sized slices. There is a caption above the chart:]

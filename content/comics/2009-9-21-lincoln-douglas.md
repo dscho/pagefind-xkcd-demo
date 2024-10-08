@@ -6,9 +6,8 @@ alt: >-
   Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
 img: https://imgs.xkcd.com/comics/lincoln_douglas.png
 ---
-[[Lincoln stands before an audience.]]
+[Abraham Lincoln stands before an audience.]
 
-Heckler: Oh yeah? Well, fourscore and seven years ago your MOM brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal!
+Stephen Douglas: Oh yeah? Well, fourscore and seven years ago your MOM brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal!
 
-Narrator: After his 1860 loss to Lincoln, Stephen Douglas's famed debating skills entered a rapid decline.
-
+After his 1860 loss to Lincoln, Stephen Douglas's famed debating skills entered a rapid decline.

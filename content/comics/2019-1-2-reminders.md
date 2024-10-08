@@ -12,7 +12,7 @@ Laptop: You got this email six days ago. Do you want to follow up?
 
 Cueball: Oh, right, I should do that.
 
-[Cueball types on laptop.] *type type*
+[Cueball types on laptop.] \*type type\*
 
 Laptop: Did you forget the attachment?
 

@@ -6,33 +6,20 @@ alt: >-
   GENERAL JAN DODONNA: An analysis of the plans provided by Princess Leia has reinvigorated the arguments of the 'artificial moonlet' and 'rogue planet-station' camps. I fear this question is fracturing the Rebellion.
 img: https://imgs.xkcd.com/comics/small_moon.png
 ---
-[[The exterior of the Millennium Falcon, watching as an Imperial Fighter approaches the Death Star in the distance. Voices from inside...]]
+[Millennium Falcon follows a Tie Fighter towards an unidentified orb in the distance.]
 
-Luke: He's heading for that small moon.
+Luke Skywalker: He's heading for that small moon.
 
-Obi-Wan: That's no moon - it's a space station.
+Ben Kenobi: That's no moon - it's a space station.
 
-[[The same view.]]
+Luke Skywalker: It's too big to be a space station.
 
-Luke: It's too big to be a space station.
+Ben Kenobi: But it's too ***small*** to be a moon.
 
-Obi-Wan: But it's too 
+[Three hours pass]
 
-small
+Ben Kenobi: Fine! What if we agree it's not a moon, but we make a new category called "Dwarf Moon"?
 
- to be a moon. 
+Luke Skywalker: And what's the cutoff, asshole?! Is this ***ship*** a dwarf moon now?
 
-[[Three hours pass]]
-
-[[The Millennium Falcon in side view.]]
-
-Obi-Wan: Fine! What if we agree it's not a moon, but we make a new category called "dwarf moon"?
-
-Luke: And what's the cutoff, asshole?! Is this 
-
-ship
-
- a dwarf moon now?
-
-Obi-Wan: Screw you.
-
+Ben Kenobi: Screw you.

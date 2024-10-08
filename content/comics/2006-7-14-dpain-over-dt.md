@@ -3,30 +3,21 @@ date: 2006-07-14
 title: "dPain over dt"
 num: 128
 alt: >-
-  You laugh to keep from crying, you do math to keep from crying . . .
-img: https://imgs.xkcd.com/comics/dPain_over_dt.png
+  You laugh to keep from crying, you do math to keep from crying...
+img: https://imgs.xkcd.com/comics/dPain_over_dt.png‎
 ---
-Will it ever stop hurting?
+dPain/dt = (-k<sub>1</sub> Pain + [Image of Megan]) (1/(1 + e ^ -(t-k<sub>2</sub>)/d))
 
-dPain
+*k*<sub>1</sub>=?
 
-dt = (-k_1 Pain + [Image of girl]) (1 
+*k*<sub>2</sub>=?
 
- (1 + e ^ -(t - k_2)
+[Image of Megan]=How much she's still in my life
 
-d))
+Please let *d* only be a few days... or weeks
 
-k_1=?
+I guess there's some kind of a cutoff after years, where it stops mattering and we can be friends. Do I <u>want</u> that?
 
-k_2=?
-
-[Image of girl]=How much she's still in my life
-
-Please let d only be a few days... or weeks
-
-I guess there's some kind of a cutoff after years, where it stops mattering and we can be friends. Do I _want_ that?
-
-Is k_1 positive? Is k_2 large?
+Is *k*<sub>1</sub> positive? Is *k*<sub>2</sub> large?
 
 Will I ever stop feeling like this?
-

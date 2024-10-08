@@ -4,10 +4,8 @@ title: "Depth and Breadth"
 num: 2407
 alt: >-
   A death-first search is when you lose your keys and travel to the depths of hell to find them, and then if they're not there you start checking your coat pockets.
-img: https://imgs.xkcd.com/comics/depth_and_breadth.png
+img: https://imgs.xkcd.com/comics/depth_and_breadth_2x.png
 ---
-
-
 [Five panels, each containing identical copies of a rooted tree graph, grayed out in the background. The tree has a height of 3 and 15 nodes.]
 
 [In all five panels, a black twisty arrow in the foreground indicates the order in which nodes are traversed. The arrow does not complete the entire traversal but cuts off at some point. Backtracking is indicated with a dotted line.]
@@ -22,7 +20,7 @@ Depth-first search
 
 Breadth-first search
 
-[The arrow visits nodes 1, 2, 3, 4, 5, 7[sic], 6, 8.]
+[The arrow visits nodes 1, 2, 3, 4, 5, 7<sup>[*sic*]</sup>, 6, 8.]
 
 Brepth-first search
 

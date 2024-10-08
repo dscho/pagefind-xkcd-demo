@@ -6,63 +6,50 @@ alt: >-
   I've developed a more logical set of rules but the people on the chess community have a bunch of stupid emotional biases and won't reply to my posts.
 img: https://imgs.xkcd.com/comics/think_logically.png
 ---
-[[A guy in a knit hat is sitting at a desk, typing on a laptop. Another guy is looking over his shoulder.]]
+[Knit Cap is sitting down at a computer touching the keyboard with one hand. Cueball is standing behind watching the screen.]
 
-Laptop: 
+Laptop: *\*Move\**
 
-*move*
+Cueball: Why'd you move your knight away?
 
-Other guy: Why'd you move your knight away?
+[Knit Cap turns around and rests an arm on the chair looking at Cueball who holds out both arms.]
 
-[[The guy in the hat turns around to look at the other guy.]]
+Cueball: Just think *logically*. The goal is checkmate, so you should always move pieces *toward* the other player's king.
 
-Other guy: Just think 
+[Closeup of Cueball holding a hand to his chin.]
 
-logically
+Cueball: I guess occasionally you need to move backward, but it'd be trivial to make a list of those circumstances and-
 
-. The goal is checkmate, so you should always move pieces 
+[Knit Cap is leaning back in chair facing Cueball, panel is so slim that the lap top is not included.]
 
-toward the other player's king.
+Knit Cap: Have you ever *played* chess?
 
-[[A close-up on the other guy, hand to chin in thought.]]
+Cueball: Not much, but—
 
-Other guy: I guess occasionally you need to move backward, but it'd be trivial to make a list of those circumstances and--
+Knit Cap: Wanna?
 
-[[The guy in the hat leans back in his chair.]]
+Cueball: Uh, ok.
 
-Hat guy: Have you ever 
+[Knit Cap sitting and Cueball standing is playing chess with a board standing between them on a very small table or a four legged stool. The board extends quite far out on either side. Their moves are indicated above with four by Knit Cap and three towards Cueball. It is clear both from this and from the pieces visible on the board that Knit Cap is playing white]
 
-played
+\*Move\*
 
- chess?
+ <font color="white">\_\_\_\_\_</font>\*Move\*
 
-Other guy: Not buch, but--
+\*Move\*
 
-Hat guy: Wanna?
+ <font color="white">\_\_\_\_\_</font>\*Move\*
 
-Other guy: Uh, ok.
+\*Move\*
 
-[[The two have set up a chessboard on a stool between them, the guy in the hat playing from his chair, the other guy standing. The guy in the hat takes the first move.]]
+ <font color="white">\_\_\_\_\_</font>\*Move\*
 
-*move*
+\*Move\*
 
-*move*
+Knit Cap: Checkmate.
 
-*move*
+[In a frameless panel Cueball is standing staring at the chess board, where there clearly are more pieces on his side of the board.]
 
-*move*
+[Knit Cap has turned back to the laptop with both hands on the keyboard. Cueball is standing behind the chess board holding a finger up in the air.]
 
-*move*
-
-*move*
-
-*move*
-
-Hat guy: Checkmate.
-
-[[The other guy stares at the board.]]
-
-[[The guy in the knit hat has turned back to his laptop, and the other guy is standing behind him, still looking at the chessboard on the stool.]]
-
-Other guy: This game isn't very well-designed. For starters, knights are too weak...
-
+Cueball: This game isn't very well-designed. For starters, knights are too weak...

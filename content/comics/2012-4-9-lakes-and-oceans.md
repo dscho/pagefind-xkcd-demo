@@ -6,110 +6,216 @@ alt: >-
   James Cameron has said that he didn't know its song would be so beautiful. He didn't close the door in time. He's sorry.
 img: https://imgs.xkcd.com/comics/lakes_and_oceans.png
 ---
+[A Map of lakes and oceans showing the depths of various lakes and ocean attributes.]
 
+Lakes and Oceans Depths and animal/ship/boat lengths are to scale; horizontal distance is not.
 
-((Map of lakes and oceans showing the depths of various lakes and ocean attributes))
+Fun Fact: The *Edmund Fitzgerald*, The Kursk, and The Lusitania all sank in water shallower than they were long.
 
-Lakes and Oceans
+[Vertical axis of depths, ranging from 1,000 m to 12,000 m.]
 
-Depths and animal
+{| class="wikitable"
 
-ship
+ | Edmund Fitzgerald
 
-boat lengths are to scale; horizontal distance is not
+ |-
 
-Fun Fact: The Edmund Fitzgerald, The Kursk, and The Lusitania all sank in water shallower than they were long.
+ | Lake Superior
 
-Edmund Fitzgerald
+ |-
 
-Lake Superior
+ | Lake Michigan
 
-Lake Michigan
+ |-
 
-Lake Huron
+ | Lake Huron
 
-Lake Erie
+ |-
 
-Lake Ontario
+ | Lake Erie
 
-Death Valley
+ |-
 
-Great Slave Lake
+ | Lake Ontario
 
-Crater Lake
+ |-
 
-Loch Ness
+ | Death Valley
 
-Lake Baikal
+ |-
 
-Burj Khalifa
+ | Great Slave Lake
 
-Kursk
+ |-
 
-Lusitania
+ | Crater Lake
 
-Aircraft carrier
+ |-
 
-Titanic
+ | Loch Ness
 
-Seawise Giant (largest ship ever)
+ |-
 
-Free-diving depth record
+ | Lake Baikal
 
-Andrea Gail (probably)
+ |-
 
-Scuba record
+ | Burj Khalifa
 
-Bike tires go flat
+ |-
 
-Pressure at this deapth would force water up a household faucet
+ | Kursk
 
-Emperor penguin
+ |-
 
-Ohio-class nuclear sub depth limit
+ | Lusitania
 
-Typhoon-class nuclear sub depth limit
+ |-
 
-Blue whale
+ | Aircraft Carrier
 
-Leahterback turtle
+ |-
 
-Deepwater horizion
+ | Titanic
 
-Dead sea
+ |-
 
-Kola borehole: Soviet project to try to drill through the Earth's crust to the mantle just to see what would happen.  Russians are awesome.
+ | Seawise Giant (largest ship ever)
 
-Chilean mine
+ |-
 
-   collapse
+ | Free-diving depth record
 
-   miner refuge
+ |-
 
-Sperm whales dive this deep (they come up covered in wounds and sucker marks, so presumably there are big squid down here?  ... man, we know nothing about the ocean.)
+ | Scuba record
 
-Mid-ocean ridge
+ |-
 
-Titanic (sunk bow & stern)
+ | Andrea Gail (probably)
 
-Abyssal plain
+ |-
 
-Alvin depth limit
+ | Bike tires go flat
 
-David Bowie & Freddie Mercury
+ |-
 
-Puerto Rico Trench
+ | Pressure at this depth would pop the cork into a champagne bottle
 
-Milwaukee Deep
+ |-
 
-Marianas Trench
+ | Pressure at this depth would force water back up a household faucet
 
-Challenger Deep
+ |-
 
-Mysterious door which James cameron built his sub to reach and open.  He will not say what he found within.
+ | Emperor penguin
 
-Mauna Kea, Hawaii (accurate horizontal scale)
+ |-
 
-Marianas trench
+ | Ohio-class nuclear sub depth limit
 
-OIL
+ |-
+
+ | Typhoon-class nuclear sub depth limit
+
+ |-
+
+ | Blue whale
+
+ |-
+
+ | Leatherback turtle
+
+ |-
+
+ | Deepwater horizion
+
+ |-
+
+ | Oil well
+
+ |-
+
+ | Dead sea
+
+ |-
+
+ | Kola borehole: Soviet project to try to drill through the Earth's crust to the mantle just to see what would happen. Russians are awesome.
+
+ |-
+
+ | Chilean mine
+
+ |-
+
+ | Collapse
+
+ |-
+
+ | Miner refuge
+
+ |-
+
+ | Sperm whales dive this deep. They come up covered in wounds and sucker marks, so presumably there are big squid down here? ... Man, we know nothing about the ocean.
+
+ |-
+
+ | Mid-ocean ridge
+
+ |-
+
+ | Titanic (sunk bow & stern)
+
+ |-
+
+ | At this depth, if you shoot a hole in a pressurized scuba tank, instead of air rushing out, water rushes in.
+
+ |-
+
+ | Abyssal plain
+
+ |-
+
+ | Alvin depth limit
+
+ |-
+
+ | David Bowie & Freddie Mercury
+
+ |-
+
+ | Puerto Rico Trench
+
+ |-
+
+ | Milwaukee Deep
+
+ |-
+
+ | Marianas Trench
+
+ |-
+
+ | Challenger Deep
+
+ |-
+
+ | Mysterious door which James Cameron built his sub to reach and open. He will not say what he found within.
+
+ |-
+
+ | The abyss. It's rude to stare.
+
+ |-
+
+ | Mauna Kea, Hawaii (accurate horizontal scale)
+
+ |-
+
+ | Marianas trench (accurate horizontal scale)
+
+ |-
+
+ | Oil
+
+ |}

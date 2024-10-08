@@ -6,61 +6,56 @@ alt: >-
   The 8th panel is my favorite
 img: https://imgs.xkcd.com/comics/five_thirty.jpg
 ---
-Comics from 5.30 AM
+Comics from 5:30 AM
 
-[[A succession of unrelated and completely random panels]]
+[A succession of unrelated and completely random panels.]
 
-Man 1: It's 80's night at the club. Wanna go?
+Cueball: It's 80's night at the club. Wanna go?
 
-Man 1: There is no Tuesday.
+Friend: There is no Tuesday.
 
-Man 2: Jack the Ripper or Jack Black?
+Cueball: Jack the Ripper or Jack Black?
 
-[[The second man in this panel is holding a glinting sword]]
+[Cueball in this panel is holding a glinting sword.]
 
-Man 1: You crashed my helicopter!
+Friend: You crashed my helicopter!
 
-Man 2: Verily!
+Cueball: Verily!
 
-[[A small figure is talking with a larger figure]]
+[A small figure is talking with a larger figure.]
 
 Figure 1: Basically, neither of us have shins.
 
 Figure 2: Over and out.
 
-[[Two men are shown: one with three arms, and another with just two. All arms have round appendages at their ends]]
+[Two men are shown: one with three arms, and another with just two. All arms have round appendages at their ends.]
 
-Men: shitshitshitshitshit
+Men: shitshitshitshitshitshitdaylightsavingsshitshitshitshitsh
 
-Men: shitdaylightsavings
-
-Men: shitshitshitshitsh
-
-[[Two figures with pumpkins (carved with faces) for heads]]
+[Two figures with pumpkins (carved with faces) for heads.]
 
 Figure 1: You're out of ointment and out of time!
 
-[[A diagram of a right-angled triangle, with a theta at the smallest angle]]
+[A diagram of a right-angled triangle, with a theta at the smallest angle.]
 
 FUCK THE COSINE
 
-Man 1: Does being a mermaid for five minutes make you gay?
+Friend: Does being a mermaid for five minutes make you gay?
 
-Man 2: I hope so!
+Cueball: I hope so!
 
-[[A man is holding a gun to the head of another]]
+[The friend is holding a gun to Cueball's head.]
 
-Man 1: Barbershops are for pussies.
+Friend: Barbershops are for pussies.
 
-Man 1: My hair is bleeding.
+Friend: My hair is bleeding.
 
-Man 2: [square root]3
+Cueball: √3
 
-[[Man seems to be walking on the ceiling]]
+[Cueball seems to be walking on the ceiling.]
 
-Man 1: Bachelor party!
+Cueball: Bachelor party!
 
-[[Warning sign with picture of spider]]
+[Warning sign with picture of an ant.]
 
 WARNING: STRETCHY DEATH
-

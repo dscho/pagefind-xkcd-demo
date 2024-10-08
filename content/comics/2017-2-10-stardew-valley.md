@@ -14,13 +14,13 @@ Stardew Valley morning routine
 
 [Cueball wakes and rises up from his pillow sitting beneath his blanket in his four poster bed with round knobs. He yawns with a hand to his mouth. Above him floats a large sound bubble:]
 
-Cueball: Yawn
+Cueball: ***Yawn***
 
 [Cueball walks to the right with a small watering can held in front of him.]
 
 [Cueball pours water from the can over the three small plants. A line goes from the water to another bubble:]
 
-Water: Splish
+Water: *Splish*
 
 [Cueball walks back to the left with the watering can.]
 
@@ -30,8 +30,8 @@ Cat: Z
 
 [Cueball proceeds to pour water on the cat which immediately jumps up away from him trying to escape as water cascades on it. Again there is a line from the water to a speech bubble, but both the cats angry sound and Cueball's comment is written without bubbles.]
 
-Water: Splish
+Water: *Splish*
 
-Cat: Mrowl!!
+Cat: *Mrowl!!*
 
-Cueball: –Dammit.
+Cueball: ***–Dammit. ***

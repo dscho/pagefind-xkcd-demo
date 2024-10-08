@@ -6,41 +6,36 @@ alt: >-
   There's planned downtime every night when we turn on the Roomba and it runs over the cord.
 img: https://imgs.xkcd.com/comics/the_cloud.png
 ---
-[[A man finds a computer tower with a wire leading away from it.]]
+[Cueball finds a computer tower with a wire leading away from it.]
 
-Man: What's this?
+Cueball: What's this?
 
 Off-screen: The Cloud.
 
-[[The man looks behind him. The wire leads to an outlet in the wall next to where the Hat Man sits at a desk with a computer. Another wire leads from that outlet to the Hat Man's computer.]]
+[Cueball looks behind him. The wire leads to an outlet in the wall next to where Black Hat sits at a desk with a computer. Another wire leads from that outlet to Black Hat's computer.]
 
-Man: Huh? I always thought "The Cloud" was a huge, amorphous network of servers somewhere.
+Cueball: Huh? I always thought "The Cloud" was a huge, amorphous network of servers somewhere.
 
-Hat Man: Yeah, but everyone buys server time from everyone else. In the end, they're all getting it here.
+Black Hat: Yeah, but everyone buys server time from everyone else. In the end, they're all getting it here.
 
-[[A close-up of Hat Man.]]
+[A close-up of Black Hat.]
 
-Man (off-screen): How? You're on a 
+Cueball: How? You're on a cable modem.
 
-cable
+Black Hat: There's a lot of caching.
 
- modem.
+[A close-up of Cueball, looking down at the tower at his feet.]
 
-Hat Man: There's a lot of caching.
+Cueball: Should the cord be stretched across the room like this?
 
-[[A close-up of the man, looking down at the tower at his feet.]]
+Black Hat: Of course. It has to reach the server, and the server is over there.
 
-Man: Should the cord be stretched across the room like this?
+[Cueball turns back to the Black Hat, still sitting at the computer.]
 
-Hat Man (off-screen): Of course. It has to reach the server, and the server is over there.
+Cueball: What if someone trips on it?
 
-[[The man turns back to the Hat Man, still sitting at the computer.]]
+Black Hat: Who would want to do that? It sounds unpleasant.
 
-Man: What if someone trips on it?
+Cueball: Uh. Sometimes people do stuff by accident.
 
-Hat Man: Who would want to do that? It sounds unpleasant.
-
-Man: Uh. Sometimes people do stuff by accident.
-
-Hat Man: I don't think I know anybody like that.
-
+Black Hat: I don't think I know anybody like that.

@@ -6,41 +6,28 @@ alt: >-
   But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.
 img: https://imgs.xkcd.com/comics/cautionary_ghost.png
 ---
-[[ A figure wakes up to an apparition hovering over their bed. ]]
+[A man wakes up to an apparition hovering over his bed.]
 
-Apparition: OOOOOOOOOOOOooooo
+Apparition: *ooOOOOOOOOOOooooo*
 
-Figure: A ghost!?
+Man: A ghost!?
 
-Apparition: I bring a 
-
-cautionary vision
-
- of things to come!
+Apparition: *I bring a **cautionary vision** of things to come!*
 
 Apparition: This is the future:
 
-[[ Two people are standing between a pair of houses.  There is a tree.  An airplane flies past. ]]
+[Two people are standing between a pair of houses. There is a tree. An airplane flies past.]
 
-Apparition: And 
+Apparition: And ***this*** is the future if you give up the fight over the word "literally":
 
-this
+[Two people are standing between a pair of houses. There is a tree. An airplane flies past. The cynical might suggest the panel is copy pasted.]
 
- is the future if you give up the fight over the word "literally":
+[Back to the man in bed.]
 
-[[ Two people are standing between a pair of houses.  There is a tree.  An airplane flies past.  The cynical might suggest the panel is copy pasted.
+Man: They looked exactly the same.
 
-[[ Back to the figure in bed. ]]
+Apparition: *ooOOOOOOOOOOOooo*
 
-Figure: They looked exactly the same.
+Man: Ok, I get it.
 
-Apparition: OOOOOOOOOOOooooo
-
-Figure: Ok, I get it.
-
-Apparition: Seriously, this is 
-
-duuuuumb
-
-.
-
+Apparition: Seriously, this is duuuuumb.

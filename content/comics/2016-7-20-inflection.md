@@ -20,4 +20,4 @@ Megan: Our language family is inflected, but the English branch has lost most of
 
 Cueball: Could that mean English writing is ripe to become more pictographic?
 
-Megan: 👍 👏 😊
+Megan: <font color="orange">👍 👏 😊</font>

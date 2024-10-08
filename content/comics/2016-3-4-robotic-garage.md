@@ -24,7 +24,7 @@ Label: Cars
 
 [The robotic arm open up to release the car which crashes down into the bin, a sound already emanating from it when the rear end of the car (with one wheel still showing) is still visible.]
 
-Car: Crunch
+Car: *Crunch*
 
 Label: Cars
 

@@ -32,12 +32,12 @@ White Hat: Hmm, would the hair grow steadily, or would it suddenly shoot out 5 f
 
 Ponytail: If the latter, what noise would it make?
 
-Ponytail: Ziiip? Pwiff?
+Ponytail: *Ziiip? Pwiff?*
 
-White Hat: Fwip?
+White Hat: *Fwip?*
 
 Ponytail: Blip.
 
-White Hat: Zhooop.
+White Hat: *Zhooop.*
 
 Ponytail: Pew!

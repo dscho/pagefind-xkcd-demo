@@ -6,17 +6,16 @@ alt: >-
   It may be a fundamentally empty experience, but holy crap the Droid's 265 ppi screen is amazing.
 img: https://imgs.xkcd.com/comics/iphone_or_droid.png
 ---
-[[A woman sitting at her computer is talking to a man standing behind her.]]
+[Megan sitting at her computer is talking to Cueball standing behind her.]
 
-Woman: Well, it depends what you want. The iPhone wins on speed and polish, but the Droid has that gorgeous screen and physical keyboard.
+Megan: Well, it depends what you want. The iPhone wins on speed and polish, but the Droid has that gorgeous screen and physical keyboard.
 
-Man: What if I want something more than the pale facsimile of fulfillment brought by a parade of ever-fancier toys? To spend my life restlessly producing instead of sedately consuming?
+Cueball: What if I want something more than the pale facsimile of fulfillment brought by a parade of ever-fancier toys? To spend my life restlessly producing instead of sedately consuming?
 
-Man: Is there an app for THAT?
+Cueball: Is there an app for *that*?
 
-Woman: Yeah, on both.
+Megan: Yeah, on both.
 
-Woman: Wait, no, looks lke it was rejected from the iPhone store.
+Megan: Wait, no, looks like it was rejected from the iPhone store.
 
-Man: Droid it is, then.
-
+Cueball: Droid it is, then.

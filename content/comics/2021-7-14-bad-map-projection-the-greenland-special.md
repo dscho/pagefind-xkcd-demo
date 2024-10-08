@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/bad_map_projection_the_greenland_special.png
 ---
 Bad Map Projection #299:
 
-The Greenland Special
+<big>The Greenland Special</big>
 
 Equal-area map preserves size everywhere except Greenland, which uses the Mercator projection.
 

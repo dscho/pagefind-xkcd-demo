@@ -6,11 +6,14 @@ alt: >-
   'Come to what?' 'You. Me. This moment.'
 img: https://imgs.xkcd.com/comics/so_it_has_come_to_this.png
 ---
-Person: We ran out of cat food.
+[Megan holds up an open and empty bag with the white silhouette of a cat's face on it. Cueball looks down at the bag.]
 
-Roommate: SO
+Megan: We ran out of cat food.
 
-Roommate: IT HAS COME TO THIS.
+Cueball: *So*
 
-Protip: If you're not sure what to say, try "So it has come to this"--it creates instant dramatic tension and is a valid observation in literally any situation.
+Cueball: *It has come to this.*
 
+[Caption below the panel:]
+
+Protip: If you're not sure what to say, try "So it has come to this" &ndash; it creates instant dramatic tension and is a valid observation in literally any situation.

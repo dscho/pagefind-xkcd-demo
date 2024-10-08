@@ -8,11 +8,11 @@ img: https://imgs.xkcd.com/comics/home_itch_remedies.png
 ---
 [Megan and Cueball stand together while Megan loudly scratches her itches and Cueball holds a hand up.]
 
-Megan: Argh, bug bites are the worst. I shouldn't scratch, but... so itchy.
+Megan: Argh, bug bites are the *worst*. I shouldn't scratch, but... so itchy.
 
 Cueball: Oh, you know what's great for that?
 
-Scratch scratch
+*Scratch scratch*
 
 [Zoom-in to Megan's head.]
 
@@ -24,7 +24,7 @@ Cueball (off-panel): No, this one isn't weird, I promise. It really helps!
 
 Cueball: First, take a hot shower. Then dip some ice cubes in vinegar and use them to crush one baby aspirin. Then make some tea, and...
 
-Scratch scratch
+*Scratch scratch*
 
 [Megan walks past Cueball and away from him while Cueball turns and looks after her.]
 

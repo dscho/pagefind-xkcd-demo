@@ -6,15 +6,16 @@ alt: >-
   'Dude, wait -- I'm not American! So my risk is basically zero!'
 img: https://imgs.xkcd.com/comics/conditional_risk.png
 ---
-[[Lightning strikes the ground, illuminating trees with a bright white light.  Two people are standing near it.  One has a walking stick.]]
+[Lightning strikes the ground, illuminating trees with a bright white light. Two people are standing near it. One has a walking stick.]
 
-<<CRACK>>
+*CRACK*
 
-<<BOOM>>
+*BOOM*
 
 First person: Whoa! We should get inside!
 
-Second person: It's okay! Lightning only kills about 45 Americans a year, so the chances of dying are only one in 7,000,000.  Let's go on!
+Second person: It's okay! Lightning only kills about 45 Americans a year, so the chances of dying are only one in 7,000,000. Let's go on!
+
+[Caption below the panel:]
 
 The annual death rate among people who know that statistic is one in six.
-

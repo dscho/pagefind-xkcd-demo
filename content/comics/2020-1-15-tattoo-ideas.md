@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/tattoo_ideas.png
 ---
 [A list with an underlined heading and then 14 items, the first 13 being struck out with a red line. The red lines are straight through the center of the text if the item is only on one line. The red lines are curly up and down if the items take up more than one line on the list. The last item has a red line around it in an ellipse.]
 
-Tattoo Ideas
+<u><big>Tattoo Ideas</big></u>
 
 Lorem Ipsum Text
 
@@ -34,6 +34,6 @@ Tattoo artist's social security number
 
 Boarding pass for an upcoming flight
 
-Recap of the plot of Memento
+Recap of the plot of *Memento*
 
 This list, in its entirety

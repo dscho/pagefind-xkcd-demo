@@ -3,28 +3,29 @@ date: 2014-06-27
 title: "Clumsy Foreshadowing"
 num: 1387
 alt: >-
-  '... hosts were unexpectedly fired from ABC's 'The View' today. ABC will likely announce new ...'
+  '... hosts were unexpectedly fired from ABC's 'The View' today. ABC will likely announce new...'
 img: https://imgs.xkcd.com/comics/clumsy_foreshadowing.png
 ---
-TODAYS NEWS
+[Heading and text above the panel:]
 
-[[Little thumbnails accompany each headline.]]
+**Today's News**
 
-North Korea Threatens U.S. Over Upcoming Movie
+North Korea threatens U.S. over upcoming movie
 
-Shark Populations Booming Off East Coast
+Shark populations booming off east coast
 
-SpaceX to Attempt New Rocket Launch Today
+SpaceX to attempt new rocket launch today
 
-[[A down arrow leads from the above headlines to this panel. A person walks away toward the edge of the panel, coat over arm. A TV in the background shows a talking head reading the news.]]
+[Arrow pointing down towards the comics only panel.]
 
-Person: Bye! See you tonight!
+[Cueball, holding a towel, walks past a TV with a news report shown on-screen.]
 
-Out of Panel: Have a good day!
+Cueball: Bye! See you tonight!
 
-TV: 
+Offscreen person: Have a good day!
 
-Researchers are reporting record numbers of sharks...
+TV: *Researchers are reporting record numbers of sharks...*
+
+[Caption below the panel:]
 
 To make news stories seem way more ominous, imagine you're hearing them from a background TV in a movie as the main character leaves.
-

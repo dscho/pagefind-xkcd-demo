@@ -6,37 +6,16 @@ alt: >-
   Last-minute course change: Let's see if we can hit Steve's house.
 img: https://imgs.xkcd.com/comics/new_horizons.png
 ---
-[[Two people stand at a mission control terminal.]]
+[Cueball and Ponytail are standing in front of a large computer console. Cueball's hands are on the keyboard; both are looking at the screen.]
 
-One: We made it! After all these years, 
+Cueball: We made it! After all these years, *New Horizons* is finally revealing the surface of Pluto!
 
-New Horizons
+Ponytail: Take *that*, *Dawn* team.
 
- is finally revealing the surface of Pluto!
+[In the next four frames, we see photos, entirely black except for a circle in the middle. The circle is initially small, indistinct and appears in shades of grey. Successive circles are larger showing more color and shade variation. In the last, we see a blurry but recognizable outline of Africa, the Middle East and part of Western Asia, along with some clouds. The lighting pattern suggests that it is daytime in Africa, sometime in the northern summer.]
 
-Two: Take 
+[A close-up of the two at the console.]
 
-that
+Cueball: OK, who did the calculations for the Jupiter slingshot maneuver?
 
-, 
-
-Dawn
-
- team.
-
-[[On the black screen, a small grayish circle appears.]]
-
-[[It grows slightly larger, and a differentiation of colors can be seen, white and gray.]]
-
-[[Larger still, now landmasses and water are visible.]]
-
-[[It is now large enough to see that we are looking at the Earth, with Africa, Europe, and some of Asia visible.]]
-
-[[One person is still looking at the screen while the other is walking away.]]
-
-One: Ok, who did the calculations for the Jupiter slingshot maneuver?
-
-Two: 
-
-Dammit, Steve...
-
+Ponytail: (facing away from the computer console) Dammit, Steve...

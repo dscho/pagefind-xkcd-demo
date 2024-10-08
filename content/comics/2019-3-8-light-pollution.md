@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/light_pollution.png
 ---
 [Four views of the night sky are shown in separate panels. They look more like photographs than drawn comics. A caption at the top reads:]
 
-Light Pollution and the Disappearing Night Sky
+**Light Pollution and the Disappearing Night Sky**
 
 [The first view shows only a few bright stars visible on a fairly light gray-brownish background. The inline text on the left top is:]
 

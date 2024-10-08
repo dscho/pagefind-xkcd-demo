@@ -6,23 +6,28 @@ alt: >-
   Fortunately, the charging one has been solved now that we've all standardized on mini-USB. Or is it micro-USB? Shit.
 img: https://imgs.xkcd.com/comics/standards.png
 ---
-HOW STANDARDS PROLIFERATE
+[Caption above the panels:]
 
-(See: A
+How Standards Proliferate
 
-C chargers, character encodings, instant messaging, etc.)
+(See: A/C chargers, character encodings, instant messaging, etc.)
 
-SITUATION:
+[A text-only panel.]
+
+Situation:
 
 There are 14 competing standards.
 
-Geek: 14?! Ridiculous! We need to develop one universal standard that covers everyone's use cases.
+[Cueball and Ponytail stand facing each other.]
 
-Fellow Geek: Yeah!
+Cueball: 14?! Ridiculous! We need to develop one universal standard that covers everyone's use cases.
+
+Ponytail: Yeah!
+
+[Another text-only panel. The word "Soon:" appears in its own box at the upper left of the panel.]
 
 Soon:
 
-SITUATION:
+Situation:
 
 There are 15 competing standards.
-

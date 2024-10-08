@@ -14,27 +14,27 @@ Right red line: Number of computers destroyed by hurling them into Jupiter
 
 Labels on right red line:
 
-Galileo probe
+<font color="gray">Galileo probe</font>
 
-Galileo orbiter
+<font color="gray">Galileo orbiter</font>
 
-Juno (scheduled)
+<font color="gray">Juno (scheduled)</font>
 
 Y-axis:
 
-1 billion
+<font color="gray">1 billion</font>
 
-1 million
+<font color="gray">1 million</font>
 
-1,000
+<font color="gray">1,000</font>
 
-100
+<font color="gray">100</font>
 
-10
+<font color="gray">10</font>
 
-1
+<font color="gray">1</font>
 
-X-axis: 1960 1980 2000 2020
+X-axis: <font color="gray">1960 1980 2000 2020</font>
 
 [Caption below the panel:]
 

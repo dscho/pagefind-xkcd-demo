@@ -6,15 +6,8 @@ alt: >-
   I looked up "insanity" in like 10 different dictionaries and none of them said anything like that. Neither did the DSM-4. But I'll keep looking. Maybe it's in the DSM-5!
 img: https://imgs.xkcd.com/comics/insanity.png
 ---
-[[There's a clock, set to 3 minutes to midnight. It has a caption:]]
+[Cueball is walking towards the right of the panel with White Hat walking behind him holding a finger up as to make a point.]
 
-Bulletin of the Atomic Scientists Doomsday Clock
+White Hat: They say the definition of insanity is doing the same thing over and over and expecting different results.
 
-[[A character walks into the panel.]]
-
-Character: Oh hey, spring forward. 
-
-[[The character grabs the hour hand and pulls it to 1AM.]]
-
-[[We see 6 mushroom clouds and 3 other explosions.]]
-
+Cueball: You've been quoting that cliché for years. Has it convinced anyone to change their mind yet?

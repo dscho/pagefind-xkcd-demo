@@ -10,14 +10,14 @@ img: https://imgs.xkcd.com/comics/birdsong.png
 
 Cueball (singing): The sun is shining, the birds are singing—
 
-[Cueball stops and looks up when the bird above him starts to sing using human language; four notes are floating around the text. The text of the bird's song is in italic text to indicate this.]
+[Cueball stops and looks up when the bird above him starts to sing using human language; four notes are floating around the text. The text of the bird's song is in *italic text* to indicate this.]
 
-Bird (singing): Got the kind of lovin' that can be so smooth, yeah
+Bird (singing): *Got the kind of lovin' that can be so smooth, yeah*
 
 [Cueball looks down and black smoke emanates from the top of his head. The bird now flies above the panel but still sings in human language, four notes are floating below the text.]
 
-Bird (singing - off-panel): Give me your heart, make it real
+Bird (singing - off-panel): *Give me your heart, make it real*
 
 [Cueball is chasing the bird with a butterfly net, the bird is flying away from Cueball, continuing to sing, four notes are floating around the text.]
 
-Bird (singing): Or else forget about it
+Bird (singing): *Or else forget about it*

@@ -36,4 +36,4 @@ Aliens: Then we shall build a ring of stones aligned with the stars, so at the s
 
 Megan: Oh, like Stonehenge?
 
-Aliens: Dammit, humans.
+Aliens: *Dammit, humans.*

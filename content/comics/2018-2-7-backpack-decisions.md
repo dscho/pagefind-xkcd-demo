@@ -10,9 +10,9 @@ img: https://imgs.xkcd.com/comics/backpack_decisions.png
 
 It's down to two: the one with the charger pocket and the one with—
 
-Wait, that other one is waterproof!
+Wait, that other one is *waterproof!*
 
-Ugh. Do I even want a backpack?
+Ugh. Do I even *want* a backpack?
 
 Maybe I should be looking at messenger bags again.
 

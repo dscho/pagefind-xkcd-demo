@@ -12,7 +12,7 @@ Dark matter candidates:
 
 [The labels read:]
 
-µeV, meV, eV, keV, MeV, GeV, TeV, 10-18kg, ng, µg, mg, g, kg, TON, 106kg, 1012kg, 1018kg, 1024kg, 1030kg
+µeV, meV, eV, keV, MeV, GeV, TeV, 10<sup>-18</sup>kg, ng, µg, mg, g, kg, TON, 10<sup>6</sup>kg, 10<sup>12</sup>kg, 10<sup>18</sup>kg, 10<sup>24</sup>kg, 10<sup>30</sup>kg
 
 [All items are shown in bars ranging between two approximately values:]
 
@@ -24,32 +24,32 @@ Dark matter candidates:
 
 10 GeV - 10 TeV: Neutralino
 
-100 TeV - 10-17 kg: Q-ball
+100 TeV - 10<sup>-17</sup> kg: Q-ball
 
 1 ng - 100 ng: Pollen
 
 0.1 mg - 1 mg: No-See-Ums
 
-10-1 g (exactly): Bees
+10<sup>-1</sup> g (exactly): Bees
 
 10 g - 100 g: 8-balls
 
 100 kg - TON: Space cows
 
-TON - 109 kg: Obelisks, monoliths, pyramids
+TON - 10<sup>9</sup> kg: Obelisks, monoliths, pyramids
 
-109 kg - 1033 kg: Black holes ruled out by:
+10<sup>9</sup> kg - 10<sup>33</sup> kg: Black holes ruled out by:
 
-109 kg - 1013 kg: Gamma rays
+10<sup>9</sup> kg - 10<sup>13</sup> kg: Gamma rays
 
-1013 kg - 1017 kg: GRB lensing
+10<sup>13</sup> kg - 10<sup>17</sup> kg: GRB lensing
 
-1015 kg - 1022 kg: Neutron star data
+10<sup>15</sup> kg - 10<sup>22</sup> kg: Neutron star data
 
-1021 kg - 1030 kg: Micro lensing
+10<sup>21</sup> kg - 10<sup>30</sup> kg: Micro lensing
 
-1024 kg - 1030 kg: Solar system stability
+10<sup>24</sup> kg - 10<sup>30</sup> kg: Solar system stability
 
-1030 kg - 1033 kg: Buzzkill astronomers
+10<sup>30</sup> kg - 10<sup>33</sup> kg: Buzzkill astronomers
 
-1033 kg - >1036 kg: Maybe those orbit lines on space diagrams are real and very heavy
+10<sup>33</sup> kg - >10<sup>36</sup> kg: Maybe those orbit lines on space diagrams are real and very heavy

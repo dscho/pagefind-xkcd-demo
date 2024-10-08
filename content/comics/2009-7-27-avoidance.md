@@ -6,32 +6,32 @@ alt: >-
   Hobby: seeing how many menu selections you can get someone to go through before they realize you're not an automated system and/or hang up.
 img: https://imgs.xkcd.com/comics/avoidance.png
 ---
-[[A man is standing talking to a man in a chair, who is holding a phone.]]
+[Cueball is sitting in a chair holding a phone to his ear while his Cueball-like friend talks to him.]
 
-Man #1: Did you call that hot girl from the party yet?
+Friend: Did you call that hot girl from the party yet?
 
-Man #2: I've been trying.
+Cueball: I've been trying.
 
-Man #2: It's weird. I swear I got her the first time.  But now it says the number's wrong.
+[In a frame-less panel Cueball looks at his phone and talks to his friend.]
 
-Man #1: What did you say she did, again? 
+Cueball: It's weird. I swear I got her the first time. But now it says the number's wrong.
 
-Man #2: Voice work. At Verizon, I think.
+[Zoom in on the friend, Cueball talking to him off-panel.]
 
-Man #2: Why?
+Friend: What did you say she did, again?
 
-Man #1: No reason.
+Cueball (off-panel): Voice work. At Verizon, I think.
 
-[[A woman is talking into a phone, in an italic voice.]]
+Cueball (off-panel): Why?
 
-Woman: We're sorry, your call could not be completed as dialed.
+Friend: No reason.
 
-Man #2: Damn.
+[Megan is talking into a phone, in an italic voice. Cueball's remark is shown emanating from the phone with a zig-zag line, also the click from hanging up the phone is shown like that.]
 
-<<Click>>
+Megan: *We're sorry, your call could not be completed as dialed.*
 
-Woman: Please check the number and try again.
+Cueball (over the phone): Damn.
 
-{{Title text: Hobby: seeing how many menu selections you can get someone to go through before they realize you're not an automated system and
+*\*Click\**
 
-or hang up.}}
+Megan: *Please check the number and try again.*

@@ -8,7 +8,9 @@ img: https://imgs.xkcd.com/comics/scientific_paper_graph_quality.png
 ---
 [Heading on top of the graph:]
 
-General quality of charts and graphs in scientific papers
+**General quality of charts and graphs in scientific papers**
+
+
 
 [A graph is shown with the y-axis on the origin labeled "bad", on the arrowhead labeled "good", and the x-axis being a timeline labeled with decades from 1950s to 2010s.]
 

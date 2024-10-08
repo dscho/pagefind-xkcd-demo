@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/incognito_mode.png
 ---
 [A woman with long blonde hair (maybe a version of Blondie) holds both arms up as she addresses Cueball who is sitting in an office chair working on his laptop.]
 
-Woman: ...But remember—if you browse in incognito mode for more than two hours, you'll be trapped there forever!
+Woman: ...But remember—if you browse in incognito mode for more than two hours, you'll be trapped there *forever!*
 
 [Caption below the panel:]
 

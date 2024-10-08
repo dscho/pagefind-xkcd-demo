@@ -8,11 +8,9 @@ img: https://imgs.xkcd.com/comics/game_show.png
 ---
 [Cueball, Black Hat, and Megan are game show contestants standing behind lecterns with Hairy standing in front of them as the game show host. Black Hat, standing in the middle of the three, is holding a finger up while speaking.]
 
-Black Hat: A boat. A plane. Amelia Earhart's plane. Amelia Earhart's skeleton. The Statue of Liberty's internal support frame. The Crown Jewels. This show's entire television audience. The Greenland ice sheet. Earth's north magnetic pole.
+Black Hat: A boat. A plane. Amelia Earhart's plane. Amelia Earhart's *skeleton*. The Statue of Liberty's internal support frame. The Crown Jewels. This show's entire television audience. The Greenland ice sheet. Earth's north magnetic pole.
 
-Black Hat: Am I in the Pacific Ocean?
-
-Black Hat: If so, the Atlantic Ocean.
+Black Hat: Am I in the Pacific Ocean? If so, the Atlantic Ocean.
 
 Hairy: Uhh.
 

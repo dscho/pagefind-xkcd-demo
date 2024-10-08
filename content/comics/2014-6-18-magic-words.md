@@ -6,9 +6,10 @@ alt: >-
   'And then whisper 'anapest' in my ear as you hold me?'
 img: https://imgs.xkcd.com/comics/magic_words.png
 ---
-[[Two characters are in bed.]]
+[Cueball and Megan are in a bed.]
 
-Linguist: Can you repeat "Story water paper doorway" at the start, then switch to "Disarm Adele's giraffe grenade" as we get going, and finally "Strawberry scorpion poetry" as I finish?
+Megan: Can you repeat "Story Water Paper Doorway" at the start, then switch to "Disarm Adele's Giraffe Grenade" as we get going, and finally "Strawberry Scorpion Poetry" as I finish?
+
+[Below the frame.]
 
 Linguist with a foot fetish
-

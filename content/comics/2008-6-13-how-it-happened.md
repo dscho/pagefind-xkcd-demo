@@ -6,15 +6,16 @@ alt: >-
   I was there, dude.
 img: https://imgs.xkcd.com/comics/how_it_happened.png
 ---
-[[Two people standing]]
+[Cueball and his friend standing.]
 
-Person 1: Then she put her hands over mine, grinds against me, leans down and whispers, "After tonight, we go and live our lives, no regrets. But I want this, I want you, one last time."
+Cueball: Then she put her hands over mine, grinds against me, leans down and whispers, "After tonight, we go and live our lives, no regrets. But I want this, I want you, one last time."
 
-Person 2:{{Giving a thumbs up, pointing, surrounded by action lines}}That's what SHE said!
+Friend: (Giving a thumbs up, pointing, surrounded by action lines)
 
-[[Both continue to stand]]
+That's what **SHE** said!
 
-Person 1: Yes.  Yes, it is.
+[Both continue to stand.]
 
-[[Both continue to stand]]
+Cueball: Yes. Yes, it is.
 
+[Both continue to stand.]

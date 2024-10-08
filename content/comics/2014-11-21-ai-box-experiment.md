@@ -6,43 +6,48 @@ alt: >-
   I'm working to bring about a superintelligent AI that will eternally torment everyone who failed to make fun of the Roko's Basilisk people.
 img: https://imgs.xkcd.com/comics/ai_box_experiment.png
 ---
-[[Black Hat Guy walks up to Stick Guy, who has a laptop and a cardboard box on the floor.]]
+[Black Hat and Cueball stand next to a laptop connected to a box with three lines of text on it. Only the largest line in the middle can be read. Except in the second panel that is the only word on the box that can be read in all the other frames.]
 
-BH: What's in there? 
+Black Hat: What's in there?
 
-SG: The AI-Box experiment.
+Cueball: The AI-Box Experiment.
 
-[[A close up on the box, which is hooked up to the laptop with a USB cable. Writing on the box says "Superintelligent AI - do not open."}}
+[Cueball is continuing to talk off-panel. This is written above a close-up with part of the laptop and the box, which can now be seen to be labeled:]
 
-SG: A superintelligent AI can convince anyone of anything, so if it can talk to us, there's no way we could keep it contained.
+Cueball (off-panel): A superintelligent AI can convince anyone of anything, so if it can talk to us, there's no way we could keep it contained.
 
-[[Black Hat Guy reaches down toward the box.]]
+Box:
 
-SG: It can always convince us to let it out of the box.
+Superintelligent
 
-BH: Cool. Let's open it. 
+AI
 
-[[Black Hat picks up and opens the box. A little glowy ball comes out of it.]]
+Do not open
 
-SG: --
+[Cueball turns the other way towards the box as Black Hat walks past him and reaches for the box.]
 
-NO, WAIT!!
+Cueball: It can always convince us to let it out of the box.
 
-[[The two stare up at it, Black Hat is still holding the box..]]
+Black Hat: Cool. Let's open it.
 
-AI: (in a wavy speech bubble filled with outer space, in a white serif font) hey. i liked that box. put me back.
+[Cueball takes one hand to his mouth while lifting the other towards Black Hat who has already picked up the box (disconnecting it from the laptop) and holds it in one hand with the top slightly downwards. He takes of the lid with his other hand and by shaking the box (as indicated with three times two lines above and below his hands, the lid and the bottom of the box) he managed to get the AI to float out of the box. It takes the form of a small black star that glows. The star, looking much like an asterisk "\*" is surrounded by six outwardly-curved segments, and around these are two thin and punctured circle lines indicating radiation from the star. A punctured line indicated how the AI moved out of the box and in between Cueball and Black Hat, to float directly above the laptop on the floor.]
 
-BH: No.
+Cueball: *-No, wait!!*
 
-[[The background from the previous panel's speech bubble (black with stars) expands to fill the whole panel, and the AI glows brightly. Stick Guy puts his hands up to shield his face. Black Hat opens the box.]]
+[The AI floats higher up above the laptop between Cueball and Black Hat who looks up at it. Black Hat holds the now closed box with both hands. The AI speaks to them, forming a speak bubble starting with a thin black curved arrow line up to the section where the text is written in white on a black background that looks like a starry night. The AI speaks in only lower case letters, as opposed to the small caps used normally.]
 
-AI: (in big white block letters) LET ME BACK INTO THE BOX
+AI: <span style="font-family:Courier New,monospace;">hey. i liked that box. put me back.</span>
 
-BH: AAA! OK!!!
+Black Hat: No.
 
-[[The panel returns to normal as the AI flies back down into the box.]]
+[The AI star suddenly emits a very bright light fanning out from the center in seven directions along each of the seven curved segments, and the entire frame now looks like a typical drawing of stars as seen through a telescope, but with these seven whiter segments in the otherwise dark image. Cueball covers his face and Black Hat lifts up the box taking the lid off again. The orb again speaks in white but very large (and square like) capital letters. Black Hats answer is written in black, but can still be seen due to the emitted light from the AI, even with the black background.]
 
-*shoop*
+AI: <big>***LET ME BACK INTO THE BOX***</big>
 
-[[Black Hat puts the box back down on the floor and both stare at it.]]
+Black Hat: *Aaa! OK!!!*
 
+[All the darkness and light disappears as the AI flies into the box again the same way it flew out with a punctuated line going from the center of the frame into the small opening between the lid and the box as Black Hat holds the box lower. Cueball is just watching. There is a sound effect as the orb renters the box:]
+
+Shoop
+
+[Black Hat and Cueball look silently down at closed box which is now again standing next to the laptop, although disconnected.]

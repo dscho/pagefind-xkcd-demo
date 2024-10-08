@@ -6,35 +6,58 @@ alt: >-
   I am never going out to buy an air conditioner with my sysadmin again.
 img: https://imgs.xkcd.com/comics/shopping_teams.png
 ---
-[[Each team is looking at a counter with two cubes on it.]]
+[Three teams are looking at a counter with two cubes on it. Above it all is written in very large letters:]
 
-Bad: Two non-nerds
+<big><big>Shopping teams</big></big>
 
-First man: Let's get that one.
+[Above the first team consisting of two Cueball-like guys is written the following text (the first line written with larger letters):]
 
-Second man: okay.
+<big>Bad:</big>
 
-Good: non-nerd + nerd
+Two non-nerds
 
-Woman: Let's get that one.
 
-Man: Wait, I think that one might be a better deal.
 
-Woman: Okay, that one. 
+Non-nerd 1: Let's get that one.
 
-Very Bad: Two Nerds
+Non-nerd 2: Okay.
 
-Man: How about that one?
+[Above the second team consisting of a Blondie and a Cueball-like guy is written the following text (the first line written with larger letters):]
 
-Second man: i think the other one might be the better deal...
+<big>Good:</big>
 
-First man: Hmm, I'm not sure...'
+Non-nerd + nerd
 
-Two Hours Later
 
-[[Nerds are sitting in front of laptops with papers strewn about in front of display counter]]
 
-Man: I think our main problem is our unclear definition of value
+Blondie non-nerd: Let's get that one.
 
-Woman: That is not your main problem!
+Cueball nerd: Wait, I think that one might be a better deal.
 
+Blondie non-nerd: Okay, that one.
+
+[Above the third team consisting of two Cueball-like guys is written the following text (the first line written with larger letters):]
+
+<big>Very Bad:</big>
+
+Two Nerds
+
+
+
+Nerd 1: How about that one?
+
+Nerd 2: I think the other one might be the better deal...
+
+Nerd 1: Hmm, I'm not sure...
+
+[Inside a big arrow pointing straight down:]
+
+Two Hours
+
+Later
+
+[The two Cueball-like guys are sitting on the floor in front of the counter, both having their laptops open and with lots of paper sheets spread around them, as well as a pen. Blondie from the second team comes in from the right and raises her arms:]
+
+Nerd 1: I think our main problem is our unclear definition of value.
+
+Blondie non-nerd: That is not your main problem!

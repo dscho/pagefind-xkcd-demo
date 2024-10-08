@@ -8,9 +8,9 @@ img: https://imgs.xkcd.com/comics/ken_burns_theory.png
 ---
 [Cueball is standing next to Megan.]
 
-Cueball: Lincoln was "President" in The Civil War (1990), the same office held by Johnson in The Vietnam War (2017).
+Cueball: Lincoln was "President" in *The Civil War* (1990), the same office held by Johnson in *The Vietnam War* (2017).
 
-Cueball: And Baseball (1994) briefly showed 1960s "protesters." I think they were protesting Johnson's war!
+Cueball: And *Baseball* (1994) briefly showed 1960s "protesters." I think they were protesting Johnson's war!
 
 Cueball: It all fits!
 

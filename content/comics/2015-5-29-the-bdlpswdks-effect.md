@@ -6,29 +6,6 @@ alt: >-
   This well-known effect has of course been replicated in countless experiments.
 img: https://imgs.xkcd.com/comics/the_bdlpswdks_effect.png
 ---
-[[A person with a ponytail stands in front of a projector screen with an image of a speeding firetruck hurtling toward a person on it. They hold a pointer, and indicate towards the image.]]
+[Ponytail stands next to a screen displaying a firetruck hurtling toward Cueball on what appears to be a layer of gas.]
 
-Ponytail: The Bernoulli-Dopper-Leidenfrost-Peltzman-Sapir-Whorf-Dunning-Kruger-Stroop Effect states that if a speeding fire truck lifts off and hurtles toward you on a layer of superheated gas, you'll dive out of the way faster if the driver screams "RED!" in a 
-
-non
-
--tonal language that 
-
-has
-
- a word for "firefighter" than if they scream "GREEN!" in a 
-
-tonal
-
- language with 
-
-no
-
- word for "firefighter" which you 
-
-think
-
- you're fluent in but 
-
-aren't.
-
+Ponytail: The Bernoulli-Doppler-Leidenfrost-Peltzman-Sapir-Whorf-Dunning-Kruger-Stroop Effect states that if a speeding fire truck lifts off and hurtles towards you on a layer of superheated gas, you'll dive out of the way faster if the driver screams ***"red!"*** in a ***non***-tonal language that ***has*** a word for "firefighter" than if they scream ***"green!"*** in a ***tonal*** language with ***no*** word for "firefighter" which you ***think*** you're fluent in but ***aren't***.

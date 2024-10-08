@@ -52,4 +52,4 @@ Inter-stage dogfight
 
 [The remaining trajectory, indicated with dashed-lines and question marks, continues towards the right and off the edge of the page.]
 
-Winner proceeds to space
+ Winner proceeds to space

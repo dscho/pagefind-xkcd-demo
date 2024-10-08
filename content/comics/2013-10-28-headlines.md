@@ -6,33 +6,38 @@ alt: >-
   1916: 'PHYSICIST DAD' TURNS HIS ATTENTION TO GRAVITY, AND YOU WON'T BELIEVE WHAT HE FINDS. [PICS] [NSFW]
 img: https://imgs.xkcd.com/comics/headlines.png
 ---
-20th Century headlines rewritten to get more clicks
+[Caption above the frame:]
 
-1905 - How A Shocking New Theory, Discovered By A Dad, Proves Scientists Are Wrong About *Everything!
+**20th Century Headlines**
 
-1912 - 6 Titanic Survivors Who Should've Died
+Rewritten to get more clicks
 
-1920 - 17 Things That Will Be Outlawed Now That Women Can Vote
+[The years are always written at the center. The text has a line pointing to the relevant year. The first text is written to the left of the year. Then the texts below are alternately written to the right and to the left, finishing at the right in 1990.]
 
-1928 - This One Weird Mold Kills All Germs
+1905 - How a shocking new theory, discovered by a dad, proves scientists are wrong about *everything!*
 
-1929 - Most Embarrassing Reactions to the Stock Market Crash [GIFs]
+1912 - 6 *Titanic* survivors who should have died
 
-1945 - Thes 9 Nazi Atrocities Will Make You Lose Faith In Humanity
+1920 - 17 things that will be outlawed now that women can vote
 
-1948 - 5 Insane Plans For Feeding West Berlin You Wan't Believe Are Real
+1928 - This one weird mold kills all germs
 
-1955 - Avoid Polio With This One Weird Trick
+1929 - Most embarrassing reactions to the stock market crash [GIFs]
 
-1957 - 12 Nip Slips Potentially Visible To Sputnik
+1945 - These 9 Nazi atrocities will make you lose faith in humanity
 
-1968 - This Year's Assasinations Ranked From Most To Least Tragic
+1948 - 5 insane plans for feeding West Berlin you won't believe are real
 
-1969 - This is The Most Important Photo Of An Astronaut You'll See All Day
+1955 - Avoid polio with this one weird trick
 
-1986 - This Video of a Terminally Ill Child Watching The Challenger Launch Will Break Your Heart
+1957 - 12 nip slips potentially visible to Sputnik
 
-1989 - You Won't Believe What These People Did to the Berlin Wall [Video]
+1968 - This year's assassinations ranked from most to least tragic
 
-Jan 1, 1990 - 500 Signs You're a 90s Kid
+1969 - This is the most important photo of an astronaut you'll see all day
 
+1986 - This video of a terminally ill child watching the *Challenger* launch will break your heart
+
+1989 - You won't *believe* what these people did to the Berlin Wall! [Video]
+
+Jan 1, 1990 - 500 signs you're a 90s kid

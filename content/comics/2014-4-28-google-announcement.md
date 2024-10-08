@@ -6,13 +6,12 @@ alt: >-
   The less popular 8.8.4.4 is slated for discontinuation.
 img: https://imgs.xkcd.com/comics/google_announcement.png
 ---
-[Person stands behind a podium labeled Google.]
+[Cueball is standing at a lectern marked Google.]
 
-Person: The rumors are true. Google will be shutting down Plus--
+Cueball: The rumors are true. Google will be shutting down Plus—
 
-Person: along with Hangouts, Photos, Voice, Docs, Drive, Maps, Gmail, Chrome, Android, and Search--
+Cueball: Along with Hangouts, Photos, Voice, Docs, Drive, Maps, Gmail, Chrome, Android, and Search—
 
-Person: to focus on our core project:
+Cueball: To focus on our core project:
 
-Person: the 8.8.8.8 DNS server.
-
+Cueball: The 8.8.8.8 DNS Server.

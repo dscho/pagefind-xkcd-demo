@@ -8,8 +8,16 @@ img: https://imgs.xkcd.com/comics/apple_spectrum.png
 ---
 [A mapping, showing types of apples. Each apple is in a bubble]
 
-Bad ⟵ Red Delicious — Regular apples — Honeycrisp ⟶ Good
-|
-Granny Smith
-↓
-Doing their own thing
+<div style="text-align: center;">
+
+<span style="color: gray;">Bad ⟵</span> Red Delicious <span style="color: gray;">—</span> Regular apples <span style="color: gray;">—</span> Honeycrisp <span style="color: gray;">⟶ Good</span>
+
+<br><span style="color: gray;">|</span>
+
+<br>Granny Smith
+
+<br><span style="color: gray;">↓
+
+<br>Doing their own thing</span>
+
+</div>

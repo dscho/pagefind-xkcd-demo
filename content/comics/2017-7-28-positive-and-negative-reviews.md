@@ -12,7 +12,7 @@ SmartQuench 9000
 
 Sports Drink
 
-20 oz  12-pack
+20 oz&nbsp;&nbsp;12-pack
 
 [Below is a list with reviews; a picture for the user (avatar) and the name below, the rating (in stars) and the text to the right.]
 

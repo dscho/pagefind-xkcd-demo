@@ -20,6 +20,6 @@ Cueball: But even their worst-case model underestimated the number of student pa
 
 Megan: Can't understand why someone with a physics degree would be bad at judging how often college students get invited to parties.
 
-Cueball: Excuse me, I was invited to multiple parties.
+Cueball: Excuse me, I was invited to ***multiple*** parties.
 
-Cueball: And attended both of them!
+Cueball: And attended *both* of them!

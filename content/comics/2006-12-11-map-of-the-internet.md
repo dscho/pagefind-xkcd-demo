@@ -6,31 +6,23 @@ alt: >-
   For the IPv6 map just imagine the XP default desktop picture.
 img: https://imgs.xkcd.com/comics/map_of_the_internet.jpg
 ---
-Map of the Internet
-
-The IPv4 Space, 2006
-
-This chart shows the IP address space on a plane using a fractal mapping which preserves grouping--any consecutive string of IPs will translate to a single, compact, contiguous region on the map.  Each of the 256 numbered blocks represents one 
-
-8 subnet (containing all IPs that start with that number).  The upper left section shows the blocks sold directly to corporations and coverments in the 1990's before the RIRs took over allocation.
-
-[[Diagram displaying IP addresses using Hibbert Curve]]
+Map of the Internet The IPv4 Space, 2006 This chart shows the IP address space on a plane using a fractal mapping which preserves grouping--any consecutive string of IPs will translate to a single, compact, contiguous region on the map. Each of the 256 numbered blocks represents one  8 subnet (containing all IPs that start with that number).  The upper left section shows the blocks sold directly to corporations and goverments in the 1990's before the RIRs took over allocation.
 
 Diagram showing IP ownership:
 
 0: Local
 
-1-2: Unallocated
+1-2: <font color="green">Unallocated</font>
 
 3: General Electric
 
 4: BB&N INC
 
-5: Unallocated
+5: <font color="green">Unallocated</font>
 
 6: Army AISC
 
-7: Unallocated
+7: <font color="green">Unallocated</font>
 
 8: BB&N INC
 
@@ -62,7 +54,7 @@ Diagram showing IP ownership:
 
 22: DISA
 
-23: Unallocated
+23: <font color="green">Unallocated</font>
 
 24: Cable TV
 
@@ -70,13 +62,13 @@ Diagram showing IP ownership:
 
 26: DISA
 
-27: Unallocated
+27: <font color="green">Unallocated</font>
 
 28: DSI
 
 29-30: DISA
 
-31: Unallocated
+31: <font color="green">Unallocated</font>
 
 32: NORSK
 
@@ -86,17 +78,17 @@ Diagram showing IP ownership:
 
 35: Merit
 
-36-37: Unallocated
+36-37: <font color="green">Unallocated</font>
 
 38: PSI
 
-39: Unallocated
+39: <font color="green">Unallocated</font>
 
 40: Eli Lily
 
 41: ARINIC
 
-42: Unallocated
+42: <font color="green">Unallocated</font>
 
 43: Japan INET
 
@@ -110,7 +102,7 @@ Diagram showing IP ownership:
 
 48: Prudential
 
-49-50: Unallocated
+49-50: <font color="green">Unallocated</font>
 
 51: UK Social Security
 
@@ -126,17 +118,17 @@ Diagram showing IP ownership:
 
 62: Europe
 
-63-76: USA & Canada (contains: UUNET, Google, Digg, Slashdot, Ebay, Craigslist, XKCD, Flickr)
+63-76: USA & Canada (contains: UUNET, Google, Digg, Slashdot, Ebay, Craigslist, XKCD,<!-- sic --> Flickr)
 
 77-79: Europe (unused)
 
 80-91: Europe
 
-92-95: Unallocated
+92-95: <font color="green">Unallocated</font>
 
 96-99: North America
 
-100-120: Unallocated
+100-120: <font color="green">Unallocated</font>
 
 121-125: Asia-Pacific
 
@@ -150,25 +142,25 @@ Diagram showing IP ownership:
 
 134-172: Various Registrars
 
-173-189: Unallocated
+173-189: <font color="green">Unallocated</font>
 
 188: Various
 
 189-190: Latin America & Caribbean
 
-191-192: Various (contains Private (RFC 1918)
+191-192: Various (contains Private (RFC 1918))
 
 193-195: Europe
 
 196: Africa
 
-197: Unallocated
+197: <font color="green">Unallocated</font>
 
 198: US & Various
 
 199: North America
 
-200-201: Latin America & Carribbean
+200-201: Latin America & Caribbean
 
 202-203: Asia-Pacific
 
@@ -186,9 +178,8 @@ Diagram showing IP ownership:
 
 218-222: Asia-Pacific
 
-223: Unallocated
+223: <font color="green">Unallocated</font>
 
 224-239: Multicast
 
-240-255: Unallocated
-
+240-255: <font color="green">Unallocated</font>

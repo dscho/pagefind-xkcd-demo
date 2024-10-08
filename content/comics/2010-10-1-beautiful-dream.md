@@ -6,33 +6,18 @@ alt: >-
   Lucky. In MY dream, all the people who grew up loving The Giving Tree paired up with all the students who had weird dreams after reading The Metamorphosis. That one was more confusing.
 img: https://imgs.xkcd.com/comics/beautiful_dream.png
 ---
-[[A person with disheveled hair stretches their arms.  A sunburst indicating sleepiness is above their head.]]
+[Megan with disheveled hair stretches her arms. A sunburst indicating sleepiness is above her head.]
 
-<<YAWN>>
+*YAWN*
 
-Person: I just woke up [...]
+Megan: I just woke up
 
-[[The person continues speaking from off panel, to a second person who's sitting at a table with a laptop and cup.  They've leaned their elbow on the chair, turning to face the first person.]]
+[Megan continues speaking from off panel, to Cueball who's sitting at a table with a laptop and cup. He's leaned his elbow on the chair, turning to face Megan.]
 
-Person: From the most 
+Megan: from the most *beautiful* dream.
 
-beautiful
+Cueball: Which was?
 
- dream.
+Megan: All the girls who read and follow *The Rules* and all the guys who swear by the techniques in *The Game* paired off with each other and left the rest of us alone forever.
 
-Second person: Which was?
-
-Person: All the girls who read and follow 
-
-The Rules
-
- and all the guys who swear by the techniques in 
-
-The Game
-
- paired off with each other and left the rest of us alone forever.
-
-Second person: 
-
-Mmmmmm...
-
+Cueball: *Mmmmmm...*

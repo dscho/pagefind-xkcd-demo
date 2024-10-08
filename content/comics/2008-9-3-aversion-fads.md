@@ -3,36 +3,39 @@ date: 2008-09-03
 title: "Aversion Fads"
 num: 471
 alt: >-
-  Hey, are you friends with any hamsters?  This kite needs a passenger.
+  Hey, are you friends with any hamsters? This kite needs a passenger.
 img: https://imgs.xkcd.com/comics/aversion_fads.png
 ---
-[[Two guys stand together as a young guy dressed up with small ears and a tail approaches.]]
+[Two Cueball-like guys stand together as a young guy dressed up with small ears and a tail approaches.]
 
-First Man: OH GOD, A FURRY. DON'T LET IT TOUCH YOU.
+Cueball: Oh God, a furry. Don't let it touch you.
 
-[[The Furry hears someone call out to him]]
+[The furry hears someone call out to him.]
 
-Unknown: HEY, KID.
+Off-screen: Hey, kid.
 
-[[A young woman is seen preparing a kite to be flown.]]
+[Megan is seen preparing a kite to be flown.]
 
-Woman: FORGET THOSE ASSHOLES.  COME HELP ME.
+Megan: Forget those assholes. Come help me.
 
-[[The Furry begins to help the woman set up the kite.]]
+[The furry begins to help Megan set up the kite.]
 
-Furry: THANKS, SO YOU'RE COOL WITH FURRIES?
+Furry: Thanks. So you're cool with furries?
 
-Woman: WELL, I THINK YOUR FETISH IS AS WEIRD AS HELL.  IT JUST BOTHERS ME HOW YOU'RE THIS DESIGNATED INTERNET PUNCHING BAG AMONG PEOPLE WHO ARE OTHERWISE DOWN WITH WEIRD FETISHES.  SO I STICK UP FOR YOU WHEN I CAN.
+[The two are now standing far apart, the furry with the kite and the line going over to Megan.]
 
-[[The kite now successfully up in the air, the two continue.]]
+Megan: Well, I think your fetish is weird as hell. It just bothers me how you're this designated Internet punching bag among people who are otherwise down with weird fetishes. So I stick up for you when I can.
 
-Furry: WELL, THANKS.  I OWE YOU ONE.
+[The kite is now successfully up in the air, and Megan pulls the line with both hands moving backwards.]
 
-Woman: NO BIG DEAL.
+Furry: Well, thanks. I owe you one.
 
-Furry: NO, THIS IS LIKE THE LION AND THE MOUSE.
+Megan: It's no big deal.
 
-Woman: ...LISTEN, CAN WE PICK A COMPARISON LESS LIKELY TO TURN YOU ON?
+[Megan stops some distance from the furry holding the line with one hand. The furry lifts one hand up apologizing.]
 
-Furry: SORRY.
+Furry: No, this is like the lion and the mouse.
 
+Megan: ...Listen, can we pick a comparison less likely to turn you on?
+
+Furry: Sorry.

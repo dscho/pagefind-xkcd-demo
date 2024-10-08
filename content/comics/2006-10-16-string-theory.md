@@ -6,11 +6,14 @@ alt: >-
   This works on pretty much every level.
 img: https://imgs.xkcd.com/comics/string_theory.png
 ---
-String Theory summarized:
+[Heading above panel:]
 
-I just had an awesome idea. Suppose all matter and energy is made of tiny, vibrating "strings".
+String theory summarized:
 
-Okay. What would that imply?
+[Two Cueballs are talking.]
 
-I dunno.
+Cueball: I just had an awesome idea. Suppose all matter and energy is made of tiny, vibrating "strings".
 
+Friend: Okay. What would that imply?
+
+Cueball: I dunno.

@@ -6,45 +6,40 @@ alt: >-
   The problem with perspective is that it's bidirectional.
 img: https://imgs.xkcd.com/comics/hamiltonian.png
 ---
-[[Classroom]]
-
 Lecturer: And therefore, based on the existence of a Hamiltonian path, we can prove that the routing algorithm gives the optimal result in all cases.
 
-Man: Oh my God.
+Cueball: Oh my God.
 
-[[Close-up of Man]]
+[Close-up of Cueball.]
 
-(Out of frame): What? What is it?
+Offscreen: What? What is it?
 
-Man: A sudden rush of perspective. What am I doing here? Life is so much bigger than this!
+Cueball: A sudden rush of perspective. What am I doing here? Life is so much bigger than this!
 
-[[Man Running out of Room]]
+[Cueball running out of room.]
 
-Man: I have to go.
+Cueball: I have to go.
 
-[[Man enters darkened room, where woman waits by window.]]
+[Cueball enters darkened room, where Megan waits by window.]
 
-[[Man and woman embrace...]]
+[Cueball and Megan embrace...]
 
-[[...and get into bed.]]
+[...and get into bed.]
 
-[[A heart appears over the supine bodies]]
+[A heart appears over the supine bodies.]
 
-Woman: Ohh...
+Megan: Ohh...
 
-[[Hands <<grip>>]]
+*grip*
 
-Man (out of frame): Wait a moment.
+Cueball (out of frame): Wait a moment.
 
-Woman (out of frame): What is it?
+Megan (out of frame): What is it?
 
-[[Silence]]
+[Silence.]
 
-Man (out of frame): His proof only holds if there's a Hamiltonian _cycle_ as well as a path!
+Cueball (out of frame): His proof only holds if there's a Hamiltonian <u>cycle</u> as well as a path!
 
-Woman (out of frame): ...excuse me?
+Megan (out of frame): ...excuse me?
 
-Man (out of frame): Paper, I need some paper.
-
-Man (out of frame): Hey, do you mind if I jot down some notes on your chest?
-
+Cueball (out of frame): Paper, I need some paper. Hey, do you mind if I jot down some notes on your chest?

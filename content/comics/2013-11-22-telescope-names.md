@@ -6,33 +6,50 @@ alt: >-
   The Thirty Meter Telescope will be renamed The Flesh-Searing Eye on the Volcano.
 img: https://imgs.xkcd.com/comics/telescope_names.png
 ---
-[[A checklist, with the boxes lined up on the right-hand side and the names going down to their left.]]
+[A list of telescope names is given, with a series of checkboxes at right.]
 
-The Very Large Telescope [
+{|
 
-]
+|align="right"|The Very Large Telescope||☑
 
-The Extremely Large Telescope [
+|-
 
-]
+|align="right"|The Extremely Large Telescope||☑
 
-The Overwhelmingly Lare Telescome [
+|-
 
-] (canceled)
+|align="right"|The Overwhelmingly Large Telescope||☑ (Canceled)
 
-The Oppressively Colossal Telescope [ ]
+|-
 
-The Mind-numbingly Vast Telescope [ ]
+|align="right"|The Oppressively Colossal Telescope||☐
 
-The Despair Telescope [ ]
+|-
 
-The Cataclysmic Telescope [ ]
+|align="right"|The Mind-numbingly Vast Telescope||☐
 
-The Telescope of Devastation [ ]
+|-
 
-The Nightmare Scope [ ]
+|align="right"|The Despair Telescope||☐
 
-The Infinite Telescope [ ]
+|-
 
-The Final Telescope [ ]
+|align="right"|The Cataclysmic Telescope||☐
 
+|-
+
+|align="right"|The Telescope of Devastation||☐
+
+|-
+
+|align="right"|The Nightmare Scope||☐
+
+|-
+
+|align="right"|The Infinite Telescope||☐
+
+|-
+
+|align="right"|The Final Telescope||☐
+
+|}

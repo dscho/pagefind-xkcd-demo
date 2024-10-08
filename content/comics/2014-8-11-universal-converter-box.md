@@ -6,9 +6,7 @@ alt: >-
   Comes with a 50-lb sack of gender changers, and also an add-on device with a voltage selector and a zillion circular center pin DC adapter tips so you can power any of those devices from the 90s.
 img: https://imgs.xkcd.com/comics/universal_converter_box.png
 ---
-
-
-[[Universal converter box with cables leading to various real, fictional, and nonsensical connectors]]
+[Universal converter box with wires to connectors:]
 
 VGA
 
@@ -22,43 +20,33 @@ Firewire
 
 Component
 
+[sharing connectors with Component:]
+
 RCA
 
-1
+1/8" Audio
 
-8" audio
+1/8" Video
 
-1
-
-8" video
-
-Parallel port
+Parallel Port
 
 S-Video
 
-Airline pneumatic tube audio
+Airline Pneumatic Tube Audio
 
-PS
-
-2
-
-3
-
-4
+PS/2/3/4
 
 120V AC
 
-((Removable pointing to grounding pin))
+[pointing to ground pin:]
 
-Floppy
+Removable
 
-IDE
+Floppy/IDE/2.5"/SCSI
 
-2.5"
+[pointing to sections in IDC connector:]
 
-SCSI
-
-((Arrows pointing to break points in connector))
+Break here
 
 USB
 
@@ -78,20 +66,22 @@ RJ11
 
 Ethernet
 
-Token ring
+Token Ring
 
-Magsafe
+MagSafe
 
-Magsafe 2
+MagSafe 2
 
-Magsafe 3
+MagSafe 3
 
-Magsafe 4
+MagSafe 4
 
-Bluetooth dongle
+Bluetooth Dongle
 
 SCART
 
 String (fits most cans)
 
-((Standard US fueling nozzle with selector for 87, 91, 93 octane and Diesel))
+[Fuel nozzle with selector for:]
+
+87/91/93/Diesel

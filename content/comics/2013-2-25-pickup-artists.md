@@ -6,13 +6,16 @@ alt: >-
   It sounds like a great way to make friends! Is it near that Friend Zone you keep talking about? I wanna go!
 img: https://imgs.xkcd.com/comics/pickup_artists.png
 ---
-[[Beret guy and another man stand talking to each other.]]
+[Beret Guy is talking with Hairy.]
 
-Beret guy: What've you been up to lately? 
+Beret Guy: What've you been up to lately?
 
-Man: I've been hanging out with some pickup artists. I'm learning a *lot!*
+Hairy: I've been hanging out with some pickup artists.
 
-Beret guy: Oh, that sounds like fun! 
+Hairy: I'm learning a *lot!*
 
-The world seems like a happier place if you think "Pickup artist" is like "Pickup basketball player." 
+Beret Guy: Oh, that sounds like fun!
 
+[Caption below the panel:]
+
+The world seems like a happier place if you think "pickup artist" is like "pickup basketball player".

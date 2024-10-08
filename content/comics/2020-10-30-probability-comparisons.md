@@ -4,11 +4,11 @@ title: "Probability Comparisons"
 num: 2379
 alt: >-
   Call me, MAYBE.
-img: https://imgs.xkcd.com/comics/probability_comparisons.png
+img: https://imgs.xkcd.com/comics/probability_comparisons_new.png
 ---
 [Large heading, centered.]
 
-Probability Comparisons
+<big>Probability Comparisons</big>
 
 [Left column.]
 
@@ -168,7 +168,7 @@ A random Scrabble tile is a letter in Carly Rae Jepsen
 
 85% You roll a d20 and get at least a 4
 
-87% An NBA team up by 10 going into the 4th quarter wins
+87% An NBA team up by 10 going into the 4<sup>th</sup> quarter wins
 
 Someone fails to guess your card given 7 tries
 
@@ -214,6 +214,6 @@ Steph Curry makes a free throw
 
 0.00000001% You add "Hang on, this is big — I'm going to loop in Carly Rae Jepsen", dial another random 10-digit number, and she picks up
 
-[In light grey colour and in the lower left corner there is text.]
+[In light grey color and in the lower left corner there is text.]
 
-Sources: https://xkcd.com/2379/sources/ [https://xkcd.com/2379/sources/]
+Sources: https://xkcd.com/2379/sources/

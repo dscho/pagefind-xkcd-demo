@@ -14,7 +14,7 @@ Calculate your
 
 Expiration Date High Score
 
-(must be something you purchased)
+(must be something *you* purchased)
 
 [Equation in a circle:]
 

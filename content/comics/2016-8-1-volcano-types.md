@@ -40,7 +40,7 @@ Science Fair Cone
 
 [Standard cone like the previous, but with more jagged sloped and crater. This volcano erupts with a large explosion with fire and smoke coming out in all directions above the crater. A large sound is written above the explosion:]
 
-Sound. Doooooot
+Sound. <big>**Doooooot**</big>
 
 Doot Cone
 

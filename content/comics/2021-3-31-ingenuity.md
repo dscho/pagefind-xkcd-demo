@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/ingenuity.png
 ---
 [Ingenuity/Perseverance is on the surface of Mars.]
 
-Perseverance: Ingenuity helicopter has been lowered.
+Perseverance: *Ingenuity* helicopter has been lowered.
 
 Perseverance: Preparing to release it onto the surface.
 
@@ -23,6 +23,8 @@ Trip
 [Back on Mars, Ingenuity's rotor blades start spinning.]
 
 Ingenuity: Bzzzzzz
+
+	
 
 [Perseverance is being lifted into the air atop Ingenuity.]
 

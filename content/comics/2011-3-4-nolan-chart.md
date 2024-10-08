@@ -6,17 +6,16 @@ alt: >-
   Also in the right quadrant are NFPA-compliant chemical manufacturers and Sir Charles Wheatstone. Sharing the top with the internet libertarians are Nate Silver and several politically-active kite designers.
 img: https://imgs.xkcd.com/comics/nolan_chart.png
 ---
-[[diamond-shaped four-panel diagram]]
+[Diamond-shaped four-panel diagram with each panel labeled. Two arrows indicate axis up along the left and right lower side of the diamond:]
 
-[[top panel labeled "internet libertarians]]
+[Left]: Political opinions
 
-[[left panel labeled "Democrats, Republicans"]]
+[Right]: Love of diamond-shaped diagrams
 
-[[bottom panel labeled "other"]]
+[Top panel]: Internet libertarians
 
-[[right panel labeled "baseball fans"]]
+[Left panel]: Democrats, Republicans
 
-[[axis increasing in the upper-left direction labeled "political opinions"]]
+[Right panel]: Baseball fans
 
-[[axis increasing in the upper-right direction labeled "love of diamond-shaped diagrams"]]
-
+[Bottom panel]: Other

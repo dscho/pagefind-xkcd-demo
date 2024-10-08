@@ -6,65 +6,66 @@ alt: >-
   Completely implausible? Yes. Nevertheless, worth keeping a can of shark repellent next to the bed.
 img: https://imgs.xkcd.com/comics/outreach.png
 ---
-[[A group of scientists with goggles and labcoats stand around a pair of beakers.]]
+[Ponytail faces two Cueball-like guys. All three are wearing goggles and lab-coats. Between them on a shelf stands a microscope and a beaker.]
 
-Scientist: The tracking tag will record the shark's movement and habits.
+Ponytail: The tracking tag will record the shark's movement and habits.
 
-[[The capsule floats upward.]]
+[The capsule is shown to float upward towards a water surface.]
 
-Scientist: Then, it will pop free and float to the surface.
+Ponytail (narrating): Then, it will pop free and float to the surface.
 
-[[A coast is shown, with arrows directed from water to land.]]
+[A coast is shown, with arrows directed from water to land. A small white circle on one of the arrows indicate the balloon.]
 
-Scientist:  We can't afford a recovery program, so the capsules will inflate helium balloons, drift over land,
+Ponytail (narrating): We can't afford a recovery program, so the capsules will inflate helium balloons, drift over land,
 
-Scientist: And hopefully be found and mailed to us. Any questions?
+[The capsule is shown in close up. It has a caption on it.]
 
-[[The capsule has a caption on it.]]
+Ponytail (narrating):  And hopefully be found and mailed to us. Any questions?
 
-If found please call
+Caption: If found please call
 
-[[The scientist is standing over a groggy shark.]]
+[Ponytail is standing over a groggy shark on a boat, with water behind her and a coastline in the background. She attaches the tracking tag to the shark.]
 
-<<Chunk>>
+*Chunk*
 
-[[The shark is dropped off a boat, into the water.]]
+[The shark is dropped headfirst off the boat, into the water with a large splash.]
 
-<<Sploosh>>
+*Sploosh*
 
 Shark: !!!
 
-[[The course of the shark is shown, weaving around islands.]]
+[The course of the shark is shown, weaving around islands.]
 
-[[The capsule is shown stickign out of the shark.]]
+[The capsule is shown sticking out of the shark at the moment it is ready to pop free.]
 
-<<Click>>
+*Click*
 
-[[The capsule remains attached to the shark.]]
+[The capsule remains attached to the shark.]
 
-[[The balloon starts to inflate, still attached to the shark and underwater.]]
+[The balloon starts to inflate, still attached to the shark and underwater.]
 
-<<Hissss>>
+*Hissss*
 
-[[As the balloon inflates, it starts to pull the shark to the surface.]]
+[As the balloon inflates, it starts to pull the shark to the surface.]
 
 Shark: ??
 
-[[The balloon breaks the surface, pulling the shark with it.]]
+[The balloon breaks the surface, pulling the shark with it.]
 
-[[A man and a child are standing together.]]
+[Jill, eating an ice cream cone is standing together with Cueball to the right in an otherwise empty frame.]
 
-[[Two scientists run past, screaming.  One is holding a microscope.]]
+[Two screaming scientists (A Cueball-like guy and Ponytail) runs past the two, who turns to look after them. The guy is holding the microscope and Ponytail the beaker from the first frame.]
 
-Scientists: AAAAAAAA
+Scientists: Aaaaaaaa
 
-[[A shark attached to a huge balloon floats past following the scientists.]]
+[A shark attached to a huge balloon floats past the girl and Cueball, it follows the scientists while snapping its jaws.]
 
-Shark: <<Chomp chomp>>
+Shark: *Chomp chomp*
 
-Child: Daddy?
+[After the shark is gone, Jill turns to Cueball.]
 
-Father: Yes?
+Jill: Daddy?
 
-Child: I want to be a scientist.
+Cueball: Yes?
 
+Jill: I want to be a scientist.

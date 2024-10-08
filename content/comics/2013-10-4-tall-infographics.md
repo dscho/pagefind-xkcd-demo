@@ -6,37 +6,26 @@ alt: >-
   'Big Data' doesn't just mean increasing the font size.
 img: https://imgs.xkcd.com/comics/tall_infographics.png
 ---
-By the year
+BY THE *YEAR*
 
-((First two words are blue, "year" is white))
+<small>2018</small> <big>**2019**</big> <small>2020</small>
 
-2018 2019 2020
+**ALL** *INFO*rmation
 
-((2019 is three times as large as its neighbors))
+[Graph representing all information.]
 
-all information
+[X axis of graph: **6** YEARS from now (**72** months)]
 
-[[graph to the right, with a line that trends upwards towards "all" at a point marked 2019]]
+**WILL** BE [in two segments of a pie chart]
 
-will be
+Megan: COMMUNICATED
 
-(("will" and "be" are labels for segments of a pie chart))
+Hairy: Yes!
 
-[[a large 6 with "years from now" next to it, and below that, a large 72 with "months" broken over two lienes next to it]]
+**in THIS**
 
-communicated
+*CLEAR* ***and*** **CONCISE** [in a Venn diagram]
 
-[[Two figures face each other, with the "communicated" in a speech bubble rising up from one of them, the other saying "yes!"]]
+**F O R M A *T*** [on the x axis of a bar graph of where these letters fall in the alphabet (the bar labeled T is shaded with a different color)]
 
-in this
-
-((the "in" is the label for a dimensional indication, which spans the much larger "this"))
-
-clear and concise
-
-((each of the above words is in a segment of a venn diagram))
-
-f o r m a t
-
-((each letter is the label of a bar on a bar chart, with the heights equal to the letter's position in the alphabet))
-
+[Arrow pointing to the bar labeled "T": **T**]

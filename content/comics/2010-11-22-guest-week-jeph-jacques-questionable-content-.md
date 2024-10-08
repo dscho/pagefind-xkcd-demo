@@ -6,51 +6,48 @@ alt: >-
   Guest comic by Jeph Jacques of Questionable Content, whose internal monologue hasn't been speaking to him for the past three years.
 img: https://imgs.xkcd.com/comics/guest_week_jeph_jacques_questionable_content.png
 ---
-((This comic was written by Jeph Jacques, and follows the vertical panel style typical of Questionable Content.  The art is more in the xkcd style, with stick figures.))
+[A girl is sitting on a bench, reading a book. There is a tree. Far away, Cueball has a backpack on.]
 
-[[A girl is sitting on a bench, reading a book.  There is a tree.  Far away, a guy has a backpack on.]]
+Cueball's thought bubble: There she is. The most beautiful girl you've ever seen.
 
-Guy's thought bubble: There she is. The most beautiful girl you've ever seen.
+[The focus is on the girl on the bench.]
 
-[[The focus is on the girl on the bench.]]
+Cueball's thought bubble: Every day you take this route to class, she's sitting on that bench, reading.
 
-Guy's thought bubble: Every day you take this route to class, she's sitting on that bench, reading.
+[It goes even closer to her face.]
 
-[[It goes even closer to her face.]]
+Cueball's thought bubble: You'd introduce yourself, but you wouldn't know what to say. Besides, she's way out of your league.
 
-Guy's thought bubble: You'd introduce yourself, but you wouldn't know what to say. Besides, she's way out of your league.
+[Back to the full panel.]
 
-[[Back to the full panel.]]
-
-Guy's thought bubble: What chance could an average guy like you have with such a radiant -
+Cueball's thought bubble: What chance could an average guy like you have with such a radiant-
 
 Girl's thought bubble: Hey.
 
-[[The girl looks up at her thought bubble with a question over her head.]]
+[The girl looks up at her thought bubble with a question mark over her head.]
 
-Guy's thought bubble: E-Excuse me?
+Cueball's thought bubble: E-Excuse me?
 
-Girl's thought bubble: I said hey.  You come by here a lot.
+Girl's thought bubble: I said hey. You come by here a lot.
 
-[[The girl looks over at the guy, who is scratching his head at his thought bubble.]]
+[The girl looks over at Cueball, who is scratching his head at his thought bubble.]
 
-Guy's thought bubble: Oh, uh, yeah.  On the way to class.
+Cueball's thought bubble: Oh, uh, yeah. On the way to class.
 
 Girl's thought bubble: Wanna skip class and go get a coffee?
 
-[[The guy is pondering what's happening.]]
+[Cueball is pondering what's happening.]
 
-Guy's thought bubble: Sure, I'd - I'd like that a lot.
+Cueball's thought bubble: Sure, I'd - I'd like that a lot.
 
 Girl's thought bubble: Great, let's ditch these losers.
 
 Girl: Hey!
 
-[[The thought bubbles are behind the guy now, moving away.]]
+[The thought bubbles are behind Cueball now, moving away.]
 
-Guy's thought bubble: Man, I gotta tell you, I'm SICK of being that guy's internal monologue! So whiny!
+Cueball's thought bubble: Man, I gotta tell you, I'm SICK of being that guy's internal monologue! So whiny!
 
-Girl's thought bubble: Seriously! I swear, he and Little Miss Daddy Issues over there were _made_ for each other.
+Girl's thought bubble: Seriously! I swear, he and Little Miss Daddy Issues over there were <u>made</u> for each other.
 
-[[The two look at each other silently.]]
-
+[The two look at each other silently.]

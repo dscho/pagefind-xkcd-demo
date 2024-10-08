@@ -12,7 +12,7 @@ Hairy: Tell us, are you scientists excited for the eclipse?
 
 Megan: Sure, lots of people are!
 
-[Zoom in on Megans head.]
+[Zoom in on Megan's head.]
 
 Hairy (off-panel): Is this a big moment for science?
 
@@ -42,7 +42,7 @@ Megan: I'm excited because it's a nearly once-in-a-lifetime chance to watch the 
 
 [Back to same setting as in the first panel.]
 
-Hairy : Will you be making any scientific observations?
+Hairy : Will you be making any scientific observations?
 
 Megan: I will be like, "Holy shit, look at the sky."
 

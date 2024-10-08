@@ -80,6 +80,6 @@ Exclusive Audubon Society app identifies birds and lets you control their flight
 
 Introducing
 
-The xkcd Phone 6, VIII, 10, X, 26, and 1876
+**The xkcd Phone 6, VIII, 10, X, 26, and 1876**
 
-We didn't start this nonconsecutive version number war, but we will not lose it.™®©°
+*We didn't start this nonconsecutive version number war, but we will not lose it.*™®©°

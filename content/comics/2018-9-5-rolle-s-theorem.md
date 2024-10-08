@@ -8,9 +8,9 @@ img: https://imgs.xkcd.com/comics/rolles_theorem.png
 ---
 [A single framed picture shows a colored x-y-graph with a text above:]
 
-Rolle's Theorem
+**Rolle's Theorem**
 
-From Wikipedia, the free encyclopedia
+<small>From Wikipedia, the free encyclopedia</small>
 
 Rolle's theorem states that any real, differentiable function that has the same value at two different points must have at least one "stationary point" between them where the slope is zero.
 

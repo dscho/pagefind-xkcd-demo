@@ -6,26 +6,26 @@ alt: >-
   Why can't you have normal existential angst like all the other boys?
 img: https://imgs.xkcd.com/comics/nihilism.png
 ---
+[Beret Guy and Cueball approach a tree while talking.]
 
+Cueball: There is no God. Our existence is without purpose.
 
-[[Two men - one capped with a beret, the other hatless - approach a tree while talking.]]
+Beret Guy: Oh, definitely.
 
-MAN: There is no God. Our existence is without purpose.
+Beret Guy: We are adrift in an uncaring void indifferent to all our mortal toil.
 
-MAN IN BERET: Oh, definitely. 
+Cueball: Exactly! In the end, nothing we do matters.
 
-MAN IN BERET: We are adrift in an uncaring void indifferent to all our mortal toil.
+[Beret Guy climbs the tree.]
 
-MAN: Exactly! In the end, nothing we do matters.
+Beret Guy: Totally.
 
-MAN IN BERET: [[climbing the tree]] Totally.
+Cueball: We just... Why are you climbing that tree?
 
-MAN: We just... Why are you climbing that tree?
+[Beret Guy is now completely submerged in the tree.]
 
-[[THe man in beret is now completely submerged in the tree]]
+Beret Guy: Because the future is an adventure! Come on!
 
-MAN IN BERET: Because the future is an adventure! Come on!
+Cueball: But--
 
-MAN: But--
-
-MAN IN BERET: Hey! I found squirrels!
+Beret Guy: Hey! I found *squirrels*!

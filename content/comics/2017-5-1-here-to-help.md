@@ -12,7 +12,7 @@ Megan: Our field has been struggling with this problem for years.
 
 [Cueball holds his laptop high up in one arm above Megan's head while holding his other arm out as well. Megan has turned to look at him.]
 
-Cueball: Struggle no more! I'm here to solve it with algorithms!
+Cueball: Struggle no more! I'm here to solve it with *algorithms!*
 
 [In a frame-less panel Cueball sits on a chair at a desk with his laptop working on it, while Hairy and Megan looks on from behind.]
 
@@ -22,4 +22,4 @@ Six months later:
 
 Cueball: Wow, this problem is really hard.
 
-Megan: You don't say.
+Megan: ***You don't say.***

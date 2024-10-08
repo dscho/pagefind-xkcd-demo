@@ -3,14 +3,14 @@ date: 2019-09-13
 title: "Earth-Like Exoplanet"
 num: 2202
 alt: >-
-  Fire is actually a potential biosignature, since it means something is filling the atmosphere with an unstable gas like oxygen. If we find a planet covered in flames, it might be an indicator that it supports life. Or used to, anyway, before the fire.
+  Fire is actually	a potential biosignature, since it means something is filling the atmosphere with an unstable gas like oxygen. If we find a planet covered in flames, it might be an indicator that it supports life—or used to, anyway, before the fire.
 img: https://imgs.xkcd.com/comics/earth_like_exoplanet.png
 ---
 [Side view of Megan standing behind a lectern, speaking to an off-panel audience in front of her. Two people from the audience react to her statement.]
 
 Megan: We've discovered the most earth-like exoplanet yet!
 
-Off-panel voices: Yay!!
+Off-panel voices: *Yay!!*
 
 [Front view of Megan behind lectern:]
 

@@ -12,8 +12,8 @@ Screen Time Report
 
 Staying informed about politics like a good civic-minded person
 
-[tiny blue bar] 26m
+<span style="background-color: #4f7ef9; color: #ffffff">[tiny blue bar]</span> 26m
 
 Reading election updates that won't affect your actions in any way but slightly improve your knowledge about what's going to happen in a few weeks
 
-[really extremely long blue bar-chart bar] 9h14m
+<span style="background-color: #4f7ef9; color: #ffffff">[really extremely long blue bar-chart bar]</span> 9h14m

@@ -8,27 +8,27 @@ img: https://imgs.xkcd.com/comics/exa_exabyte.png
 ---
 [Miss Lenhart is holding a pointer, and is pointing it towards a blackboard behind her, while she addresses her student Cueball who is sitting on a chair at a desk to the left of her, holding his hands on his knees.]
 
-Miss Lenhart: Biology is hard because there's so much of it. Earth hosts about 10 exa-exabytes worth of DNA.
+Miss Lenhart: Biology is hard because there's so *much* of it. Earth hosts about 10 exa-exabytes worth of DNA.
 
 [In a frame-less panel, the panel has panned to the left and is now showing Miss Lenhart holding the pointer to her side, but without the blackboard. In front of her is now both Cueball and Megan sitting at their desks. Cueball has taken one hand on to the table. Megan has both hands folded on the table in front of her.]
 
 Cueball: What's an exa-exabyte?
 
-Miss Lenhart: It's 1036 bytes.
+Miss Lenhart: It's 10<sup>36</sup> bytes.
 
-Cueball: How do I picture that?
+Cueball: How do I picture ***that?***
 
-Miss Lenhart: Imagine you had an exabyte of data, but each byte contained an exabyte of data.
+Miss Lenhart: Imagine you had an exabyte of data, but each byte *contained* an exabyte of data.
 
 [Zoom in on Cueball's head. A starburst to the right indicates Miss Lenhart's voice from off-panel.]
 
 Cueball: I can't even picture what an exabyte is.
 
-Miss Lenhart (off-panel): It's 1018 bytes.
+Miss Lenhart (off-panel): It's 10<sup>18</sup> bytes.
 
-Cueball: But how do I picture 1018?
+Cueball: But how do I picture 10<sup>18</sup>?
 
-[Zoomed out to showing Megan, Cueball, and Miss Lenhart along with the blackboard. Megan has raised a hand palm up. Cueball is looking back at her over his shoulders. Miss Lenhart is forming a closed first with her empty hand, the one without the pointer.]
+[Zoomed out to showing Megan, Cueball, and Miss Lenhart along with the blackboard. Megan has raised a hand palm up. Cueball is looking back at her over his shoulders.  Miss Lenhart is forming a closed first with her empty hand, the one without the pointer.]
 
 Megan: Imagine you had 10 apples.
 
@@ -36,4 +36,4 @@ Megan: Now imagine 18 smaller apples, floating next to them and a little above.
 
 Cueball: Cool, got it.
 
-Miss Lenhart: No!
+Miss Lenhart: ***No!***

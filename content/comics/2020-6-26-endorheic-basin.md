@@ -6,7 +6,7 @@ alt: >-
   My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones.
 img: https://imgs.xkcd.com/comics/endorheic_basin.png
 ---
-[Megan, holding a glass of water up in one hand, is talking to Beret Guy, who has water surrounding his feet, with small droplets falling off the two small water triangles that cover his feet. The water in her glass is leaning towards Beret Guy.]
+[Megan, holding a glass of water up in one hand, is talking to Beret Guy, who has water surrounding his feet, with small droplets falling off the two small water triangles that cover his feet.  The water in her glass is leaning towards Beret Guy.]
 
 Megan: Why are your feet wet?
 

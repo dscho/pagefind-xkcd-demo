@@ -6,7 +6,6 @@ alt: >-
   Nothing personal, high schoolers.
 img: https://imgs.xkcd.com/comics/nerd_girls.jpg
 ---
-[[Girl with shoulder length brown hair and glasses, wearing a shirt which says "Do not meddle in the affairs of dragons"]]
+[Girl with shoulder length brown hair and glasses, wearing a shirt which says "Do not meddle in the affairs of dragons".]
 
-Girl: At least, thanks to your constant fawning, we have an *excuse* for our social ineptness. What's *yours*?
-
+Girl: At least, thanks to your constant fawning, we have an **excuse** for our social ineptness. What's **yours**?

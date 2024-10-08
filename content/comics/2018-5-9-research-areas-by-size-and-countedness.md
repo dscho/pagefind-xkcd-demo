@@ -40,17 +40,17 @@ Ancient Literature
 
 [Upper right quadrant (Big & count known):]
 
-Presidential History
+Presidential History 	
 
-Marine Mammology
+Marine Mammology 	
 
-Railway Engineering
+Railway Engineering 	
 
-Geology
+Geology 	
 
-Cosmology*
+Cosmology\*
 
-(*Depends who you ask)
+<small>(\*Depends who you ask)</small>
 
 [Lower left quadrant (Small & count unknown):]
 
@@ -64,12 +64,12 @@ Mycology
 
 [Upper right quadrant (Big & count unknown):]
 
-Botany
+Botany 	
 
-Paleontology
+Paleontology 	
 
-Exobiology
+Exobiology 	
 
-Black Hole Astronomy
+Black Hole Astronomy 	
 
 Theology

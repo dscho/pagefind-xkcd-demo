@@ -6,7 +6,6 @@ alt: >-
   It's much better than the other one.
 img: https://imgs.xkcd.com/comics/other_car.jpg
 ---
-[[A blue driving Mitsubishi with spoiler]]
+[The back of a blue Mitsubishi with a spoiler is shown.]
 
-Bumper sticker: This IS my other car.
-
+Bumper sticker: This **<big>IS</big>** my other car.

@@ -10,6 +10,6 @@ img: https://imgs.xkcd.com/comics/color_pattern.png
 
 Cueball: I took a picture of my computer screen—why is the photo covered in these weird rainbow patterns?
 
-Megan: When a grid's misaligned with another behind
+Megan: *When a grid's misaligned with another behind*
 
-Megan: That's a moiré...
+Megan: *That's a moiré...*

@@ -6,21 +6,24 @@ alt: >-
   Oh, weird, Amazon is out of butterfly nets.
 img: https://imgs.xkcd.com/comics/microdrones.png
 ---
-[[Two figures. One is standing, one is sitting at a desk with a laptop computer.]]
+[Cueball is standing behind Megan who sits at a desk typing on her laptop.]
 
-Standing: So how do we regulate all these micro drones? I mean, amazon delivery bots sound cool...
+Cueball: So how do we regulate all these micro drones?
 
-[[Standing figure is suddenly surrounded by tiny robots.]]
+Cueball: I mean, Amazon delivery bots sound cool...
 
-Standing: But I worry that overnight we'll realize we're surrounded by these things, no one will know who's controlling them, and then BAM, sci-fi dystopia.
+[Cueball stands alone surrounded by three micro drones.]
 
-[[Standing figure is back next to sitting figure. Sitting figure turns their full attention to standing figure.]]
+Cueball: But I worry that overnight we'll realize we're surrounded by these things, no one will know who's controlling them, and then *bam*, sci-fi dystopia.
 
-Sitting: If you wanna slow it down, why not just remove all regulations, but then make drone theft legal?
+[Megan turns in her chair towards Cueball.]
 
-[[Standing figure, ponders while sitting figure returns to the laptop.]]
+Megan: If you wanna slow it down, why not just remove all regulations, but then make drone theft legal?
 
-Standing: ...I LIKE that.
+[Cueball takes his hand to his chin and Megan turns back to type on the laptop.]
 
-Sitting: You write to congress. I'll stock up on butterfly nets.
+Cueball: ...I *like* that.
 
+Megan: You write to congress.
+
+Megan: I'll stock up on butterfly nets.

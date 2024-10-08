@@ -6,21 +6,21 @@ alt: >-
   Ontology is way off to the left and geography is way off to the right.
 img: https://imgs.xkcd.com/comics/in_your_classroom.png
 ---
-
-
 [Caption above scatter plot with labeled axes]
 
 Caption: The thing you study just showed up in your classroom! That's...
 
-Upper y-axis label: Good
+Top: good
 
-Lower y-axis label: Bad
+Bottom: bad
 
-Upper x-axis label: Normal
+Left: normal
 
-Lower x-axis label: Weird
+Right: weird
 
-[First quadrant (left to right, top to bottom):]
+Items are listed row by row, left to right, top to bottom.
+
+[First quadrant (good and weird)]
 
 20th century authors
 
@@ -40,7 +40,7 @@ Child psychology
 
 Tourism
 
-[Second quadrant]
+[Second quadrant (good and normal)]
 
 Atmospheric physics
 
@@ -66,7 +66,7 @@ Ergonomics
 
 Botany
 
-[Third quadrant]
+[Third quadrant (bad and normal)]
 
 Entomology
 
@@ -84,7 +84,7 @@ Physiology of stress
 
 Oncology
 
-[Fourth quadrant]
+[Fourth quadrant (bad and weird)]
 
 Ornithology
 

@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/smart_home_security.png
 
 How long you've had your smart appliance
 
-6 months     1 year     5 years     10 years
+6 months &nbsp;&nbsp;&nbsp; 1 year &nbsp;&nbsp;&nbsp; 5 years &nbsp;&nbsp;&nbsp; 10 years
 
 [Along the left part of the frame there runs a double arrow and at the top and bottom of these arrows there are legends at the top and bottom of the panels height:]
 

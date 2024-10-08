@@ -3,18 +3,17 @@ date: 2008-06-02
 title: "Delivery"
 num: 431
 alt: >-
-  Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!
+  Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery! Ha, ha get it? Oh god, don't throw those syringes! Your baby's fine!
 img: https://imgs.xkcd.com/comics/delivery.png
 ---
-[[In a delivery room]]
+[In a delivery room.]
 
-Doctor:  There's the head... he's looking at me... Wait, he's crawling back into the womb.
+Doctor: There's the head... he's looking at me... Wait, he's crawling back into the womb.
 
-Mother:  What?!
+Megan: What?!
 
-Doctor:  Yeah, it's the darnedest thing.
+Doctor: Yeah, it's the darnedest thing.
 
-Mother: Um, what does it mean?
+Megan: Um, what does it mean?
 
-Doctor:  My guess?  Six more weeks of winter.
-
+Doctor: My guess? Six more weeks of winter.

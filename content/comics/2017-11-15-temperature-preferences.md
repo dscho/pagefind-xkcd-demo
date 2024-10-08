@@ -8,13 +8,13 @@ img: https://imgs.xkcd.com/comics/temperature_preferences.png
 ---
 [A chart labeled:]
 
-Where to live
+<big>Where to live</big>
 
 based on your temperature preferences
 
 [In gray, the data source is mentioned below:]
 
-Climate data from weatherbase.com [http://weatherbase.com]
+Climate data from [weatherbase.com](https://weatherbase.com)
 
 [A chart with two lines with single arrows. Each arrow is labeled:]
 

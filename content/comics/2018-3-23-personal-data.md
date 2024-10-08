@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/personal_data.png
 ---
 [Cueball is talking to Ponytail and White Hat. Both of them are looking at Cueball.]
 
-Cueball: Everyone keeps talking about "personal data." To be honest, I don't really know what it is.
+Cueball: Everyone keeps talking about "personal data." To be honest, I don't really know what it *is*.
 
 Cueball: I mean, I understand the idea and know it's a thing I should protect. But it's so... abstract.
 
@@ -20,9 +20,11 @@ Ponytail: It's like "the economy." I don't really know what the economy is, if w
 
 Ponytail: Whatever "stocks" are.
 
+
+
 [White Hat responds with his arms slightly out and palms open. Both Ponytail and Cueball are looking at him.]
 
-White Hat: Yeah, or taxes. Everyone talks about taxes. What are they? Do I have to pay them? And to who?
+White Hat: Yeah, or taxes. Everyone talks about taxes. What ***are*** they? Do ***I*** have to pay them? And to who?
 
 Cueball: OK, wait, you definitely need to learn about that one.
 

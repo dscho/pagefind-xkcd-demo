@@ -3,12 +3,11 @@ date: 2008-07-02
 title: "Macgyver Gets Lazy"
 num: 444
 alt: >-
-  At the time of this writing, Wikipedia has a wonderful article titled 'List of problems solved by Macgyver'.
+  At the time of this writing, Wikipedia has a wonderful article titled 'List of problems solved by Macgyver'
 img: https://imgs.xkcd.com/comics/macgyver_gets_lazy.png
 ---
-[[Outside of a building with a door marked No Entry and a guard standing outside, Character 1 and Macgyver are hiding]]
+[Outside of a building with a door marked No Entry and a guard standing outside, Cueball and MacGyver are hiding.]
 
-Character 1: Any ideas?
+Cueball: Any ideas?
 
-Macgyver: I can use the trigger mechanism of this gun to ignite a small explosive charge, propelling a metal slug into the guard's head.
-
+MacGyver: I can use the trigger mechanism of this gun to ignite a small explosive charge, propelling a metal slug into the guard's head.

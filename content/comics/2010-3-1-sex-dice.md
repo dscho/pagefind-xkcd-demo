@@ -3,32 +3,29 @@ date: 2010-03-01
 title: "Sex Dice"
 num: 708
 alt: >-
-  You roll for initiative, and ... [roll] ... wow, do you ever take it.
+  You roll for initiative, and... [roll]... wow, do you ever take it.
 img: https://imgs.xkcd.com/comics/sex_dice.png
 ---
-[[A man and a woman kneel on a bed, the man is shaking a cup of dice.]]
+[Cueball and Megan kneel on a bed, Cueball, on the foot of the bed, is shaking a cup of dice. Behind Megan is a pillow and the bed poles.]
 
-Man: All right, baby. Get ready for...
+Cueball: All right, baby. Get ready for...
 
-<<Shake shake shake roll>>
+*Shake shake shake roll*
 
-((Between the first two panels.))
+[There is no frame around the next drawing of the two dice that have been rolled. The first is a regular five (seen almost from the top, but the sides with one and three can be seen). The second die has text written on it:]
 
-[[Two dice have been rolled, the first has five dots, the second says "BREASTS".]]
+Breasts
 
-[[The man and woman, stare at the dice.]]
+[Cueball and Megan are bent over the dice lying on the bed staring at them. Beat panel.]
 
-Man: I really need to organize the game cupboard.
+[Cueball leans back on one hand while taking the other to his chin while Megan sits straighter.]
 
-Woman: Wait, so where's the other sex die?
+Cueball: I really need to organize the game cupboard.
 
-[[Two men and two women are sitting on the floor around a game.]]
+Megan: Wait, so where's the other sex die?
 
-Man #1: I... 
+[A Cueball-like guy lies on his stomach, and another Cueball-like guy sits to the left. Hairbun is sitting and Ponytail also lying on her stomach, hands beneath her chin. They are sitting/lying down around a game board. On the board is what appears to be two dice.]
 
-fondle
+Guy lying: I... *fondle* the castle guard? That doesn't seem right.
 
- the castle guard? That doesn't seem right.
-
-Woman #1: It did 6 damage, though.
-
+Hairbun: It did 6 damage, though.

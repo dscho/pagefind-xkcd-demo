@@ -6,11 +6,12 @@ alt: >-
   "Technically that sentence started with 'well', so--" "Ooh, a rock with a fossil in it!"
 img: https://imgs.xkcd.com/comics/technically.png
 ---
-[[A character with a jaunty hat holds forth to character paying rather more attention to a nearby insect.]]
+[White Hat talks to Cueball who looks at a flying insect.]
 
-First character: Well, technically, food is a "drug", since it's a substance that alters how your body works, so yes, I'm-
+White Hat: Well, technically, food is a "drug", since it's a substance that alters how your body works, so yes, I'm—
 
-Second character: Hey, look at that weird bug!
+Cueball: Hey, look at that weird bug!
 
-Caption: My life improved when I realized I could just ignore any sentence that started with "Technically".
+[Caption below the panel:]
 
+My life improved when I realized I could just ignore any sentence that started with "technically."

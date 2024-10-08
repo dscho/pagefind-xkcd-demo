@@ -6,11 +6,12 @@ alt: >-
   ::click:: Come back! You didn't see the one of Whistler's mother!
 img: https://imgs.xkcd.com/comics/rembrandt_photo.png
 ---
-Person 1: Hey look-- Rembrandt's parents having sex!
+[Megan is holding a laptop. Cueball is sitting at a desk and turned around to face Megan.]
 
-Person 2: Waugh! Why do you--
+Megan: Hey, look - Rembrandt's parents having sex!
 
-..Wait, how can there be a photo of that?
+Cueball: *Waugh!* Why do you-
 
-Person 1: It's an artist's conception.
+Cueball: ...Wait, how can there be a photo of that?
 
+Megan: It's an artist's conception.

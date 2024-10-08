@@ -6,57 +6,57 @@ alt: >-
   Oh no, they set up a roadblock which is just a sign with the entire 'Czech hedgehog' article printed on it.
 img: https://imgs.xkcd.com/comics/wikipedia_caltrops.png
 ---
-[Cueball drives a car, followed by another car driven by Hairy. Cueball is leaning on the open window looking back as 24 large paper slips with Wikipedia links are flying out of the open trunk of the car. They extend to the front of Hairy's car, obscuring that all the way up to Hairy's position in the car. None of the links can be read in full, and only on a few can parts of the actual link be seen. Many has only part of the pages title visible, some parts are obstructed partly by other slips in front of them or they have not entirely left the trunk. In once case the link is so long that it has been split on two lines on a thicker slip. There is a large part of the link that cannot be seen after the first line, but the end of the second line can be seen as well. Here the (fairly) readable parts are give, roughly in normal reading order.]
+[Cueball drives a car, followed by another car driven by Hairy. Cueball is leaning on the open window looking back as 24 large paper slips with Wikipedia links are flying out of the open trunk of the car. They extend to the front of Hairy's car, obscuring that all the way up to Hairy's position in the car. None of the links can be read in full, and only on a few can parts of the actual link be seen. Many has only part of the pages title visible, some parts are obstructed partly by other slips in front of them or they have not entirely left the trunk. In once case the link is so long that it has been split on two lines on a thicker slip. There is a large part of the link that cannot be seen after the first line, but the end of the second line can be seen as well. Here the (fairly) readable parts are given, roughly in normal reading order.]
 
 a.org/wiki/Elsagate
 
-wiki/Bubbly_Creek
+wiki/Bubbly\_Creek
 
-wiki/Pheasant_Island
+wiki/Pheasant\_Island
 
-a.org/wiki/American_death_triangle
+a.org/wiki/American\_death\_triangle
 
-List_of_fictional_colors
+List\_of\_fictional\_colors
 
-/wiki/Future_of_Earth#Introversion
+/wiki/Future\_of\_Earth#Introversion
 
-pedia.org/wiki/Fastest_animals#Invertebrates
+pedia.org/wiki/Fastest\_animals#Invertebrates
 
-ki/Defence_Scheme_No._1
+ki/Defence\_Scheme\_No.\_1
 
-i/Boeing_YAL-1
+i/Boeing\_YAL-1
 
 ki/Bald-hairy
 
-/Walkalong_glider
+/Walkalong\_glider
 
-Burned_house_horizon
+Burned\_house\_horizon
 
 /wiki/AVE Mizar
 
-Flying_ice_cube
+Flying\_ice\_cube
 
 Time in Australia#Anomalies:
 
-Unexplained_sounds
+Unexplained\_sounds
 
-Talk:List_of_U.S._states_and_
+Talk:List\_of\_U.S.\_states\_and\_
 
-Ebright_Azimuth
+Ebright\_Azimuth
 
-Mosquito_laser
+Mosquito\_laser
 
-January_0
+January\_0
 
-/1808_mystery_eruption
+/1808\_mystery\_eruption
 
-/Hairy_Hands
+/Hairy\_Hands
 
-Cumberland_vs._Georgia_Tech_football_game
+Cumberland\_vs.\_Georgia\_Tech\_football\_game
 
-Timeline_of_the_far_future
+Timeline\_of\_the\_far\_future
 
-/wiki/1994_Caribbean_Cup#Anomaly
+/wiki/1994\_Caribbean\_Cup#Anomaly
 
 [Caption below the panel:]
 

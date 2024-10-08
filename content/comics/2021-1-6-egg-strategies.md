@@ -8,8 +8,7 @@ img: https://imgs.xkcd.com/comics/egg_strategies.png
 ---
 [3x3 grid of egg cartons, each containing between 5-8 eggs in an arrangement matching a description of lawful/neutral/chaotic paired with good/neutral/evil. Each egg carton is depicted from a top-down view, with the lid open and the eggs and their places visible.]
 
-
-Top Left - Lawful Good
+**Top Left - Lawful Good**
 
 [6 eggs centered
 
@@ -17,8 +16,7 @@ Top Left - Lawful Good
 
 3 in the bottom row, shifted to the left]
 
-
-Top Center - Neutral Good
+**Top Center - Neutral Good**
 
 [7 eggs
 
@@ -26,18 +24,15 @@ Top Center - Neutral Good
 
 3 in the right side, with one in the top row and two in the bottom row]
 
-
-Top Right - Chaotic Good
+**Top Right - Chaotic Good**
 
 [6 eggs spread randomly while preserving reflective symmetry between eggs and non-eggs]
 
-
-Middle Left - Lawful Neutral
+**Middle Left - Lawful Neutral**
 
 [5 eggs all on the bottom row, starting on the left side]
 
-
-Middle Center - True Neutral
+**Middle Center - True Neutral**
 
 [7 eggs all to the left side
 
@@ -45,8 +40,7 @@ Middle Center - True Neutral
 
 3 in the bottom row]
 
-
-Middle Right - Chaotic Neutral
+**Middle Right - Chaotic Neutral**
 
 [6 eggs staggered in every other space so that each egg is diagonal from the two nearest
 
@@ -56,8 +50,7 @@ no two eggs are directly next to each other side-to-side or up-and-down
 
 3 in the bottom row; starting position second from the left side]
 
-
-Bottom Left - Lawful Evil
+**Bottom Left - Lawful Evil**
 
 [8 eggs
 
@@ -65,8 +58,7 @@ Bottom Left - Lawful Evil
 
 2 eggs are on top of the 6 that are placed in the carton]
 
-
-Bottom Center - Neutral Evil
+**Bottom Center - Neutral Evil**
 
 [8 eggs
 
@@ -76,8 +68,7 @@ Bottom Center - Neutral Evil
 
 3 centered on the edge and on top of/between the eggs on the lid and the eggs in the proper positions]
 
-
-Bottom Right - Chaotic Evil
+**Bottom Right - Chaotic Evil**
 
 [broken eggs in the center of the carton and spilling/splattering over the rest of the carton and onto the lid
 

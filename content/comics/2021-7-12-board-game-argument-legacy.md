@@ -14,4 +14,4 @@ Ponytail: Next, we'll resume the debate over ordering expansion packs.
 
 [Caption beneath the panel:]
 
-We got tired of having the same repetitive arguments every week over which game to play, so we developed Board Game Argument: Legacy.
+We got tired of having the same repetitive arguments every week over which game to play, so we developed *Board Game Argument: Legacy*.

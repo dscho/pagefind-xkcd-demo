@@ -6,29 +6,32 @@ alt: >-
   'At least humans are better at quietly amusing ourselves, oblivious to our pending obsolescence' thought the human, as a nearby Dell Inspiron contentedly displayed the same bouncing geometric shape screensaver it had been running for years.
 img: https://imgs.xkcd.com/comics/reassuring.png
 ---
-[[A woman sits at her computer. A man stands behind her.]]
+[Megan is sitting at a computer, and Cueball is standing behind her.]
 
-Woman: Looks like computers will beat humans at Go pretty soon. 
+Megan: Looks like computers will beat humans at **Go** pretty soon.
 
-Man: Wow. That's the last of the big ones. 
+Cueball: Wow.
 
-Woman: Yeah. 
+Cueball: That's the last of the big ones.
 
-[[She looks back over her shoulder at him.]]
+Megan: Yeah.
 
-Man: Well, at least humans are still better at, uh, coming up with reassuring parables about things humans are better at?
+[Megan looks back over her shoulder at him.]
 
-Woman: Hmm.
+Cueball: Well, at least humans are still better at, uh,
 
-[[The woman types on her computer.]]
+Cueball: coming up with reassuring parables about things humans are better at?
 
-<<Type type>>
+Megan: Hmm.
 
-[[She leans back over her chair again and addresses the man.]]
+[Megan types on her computer.]
 
-Woman: I made a Python script that generates thousands of reassuring parables per second.
+*type type*
 
-Man: Dammit.
+[She leans back over her chair again and addresses Cueball.]
 
-Computer: Computers will never understand a sonnet computers will never enjoy a salad comp-
+Megan: I made a Python script that generates thousands of reassuring parables per second.
 
+Cueball: *Dammit.*
+
+Computer: Computers will never understand a sonnet computers will never enjoy a salad comp—

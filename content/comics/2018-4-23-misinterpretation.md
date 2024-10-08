@@ -10,6 +10,6 @@ img: https://imgs.xkcd.com/comics/misinterpretation.png
 
 Cueball: Ugh, people are mad at me again because they don't read carefully.
 
-Cueball: I'm being perfectly clear. It's not my fault if everyone misinterprets what I say.
+Cueball: I'm being perfectly clear. It's not ***my*** fault if everyone misinterprets what I say.
 
 Off-panel person: Wow, sounds like you're great at communicating, an activity that famously involves just one person.

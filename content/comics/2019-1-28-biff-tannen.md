@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/biff_tannen.png
 
 Cueball: You know, in the universe where Biff Tannen took Marty McFly’s sports almanac back in time, the people wouldn’t have any counterfactuals to work with.
 
-Cueball: Their world would be the world.
+Cueball: Their world would be *the* world.
 
 [In a frame-less panel White Hat turns his head to look at Cueball as he keeps talking.]
 
@@ -20,6 +20,6 @@ Cueball: Everyone would find reasons it confirmed their pet theory.
 
 [White Hat turns his head back to his book.]
 
-Cueball: I'm going to write a book set in that universe. I'll call it Hill Valley Elegy.
+Cueball: I'm going to write a book set in that universe. I'll call it *Hill Valley Elegy*.
 
-White Hat: ... I hate you.
+White Hat: ... I *hate* you.

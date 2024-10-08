@@ -14,7 +14,7 @@ White Hat: Good, I think?
 
 [Cueball holds his hand up in a fist, while Ponytail, holding her phone down, and White Hat looks at him.]
 
-Cueball: That's nothing. Our state gave college players rights to use the names and images of any California athletes.
+Cueball: That's nothing. ***Our*** state gave college players rights to use the names and images of ***any*** California athletes.
 
 Ponytail: It did not.
 

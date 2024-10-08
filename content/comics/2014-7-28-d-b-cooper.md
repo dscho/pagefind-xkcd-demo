@@ -6,53 +6,50 @@ alt: >-
   'Why on Earth would someone commit air piracy just to finance a terrible movie decades later?' 'People are very strange these days.'
 img: https://imgs.xkcd.com/comics/d_b_cooper.png
 ---
-[[A stick person stands in front of a board with a bulleted list, using a pointer to indicate. The board reads:]]
+[Cueball is using a baton to point towards a projector.]
 
 D.B. Cooper
 
-("Dan Cooper")
+<small>("Dan Cooper")</small>
 
-Hijacked a plane in the 1970s. On landing, demanded money and parachutes. Jumped from plane mid-flight and was never found.
+Hijacked a plane in the 1970s.
 
--Vanished mysteriously with large amount of money
+On landing, demanded money and
 
--Real age
+parachutes. Jumped from plane
 
-name unknown
+mid-flight and was never found.
 
--Ambiguous, possibly affected speaking style ("negotiable American currency") 
+\*Vanished mysteriously with large amount of money
 
--Fate unknown
+\*Real age/name unknown
 
-[[Again the stick person gestures towards a board behind him which reads:]
+\*Ambiguous, possibly affected speaking style ("negotiable American currency")
+
+\*Fate unknown
+
+[Cueball has his palm out.]
 
 Tommy Wiseau
 
-("Johnny")
+<small>("Johnny")</small>
 
-Wrote, directed, and starred in 
+Wrote, directed, and starred in
 
-The Room
+*The Room*, a film widely hailed as
 
-, a film widely hailed as "The 
+"The *Citizen Kane* of bad movies."
 
-Citizen Kane
+\*Appeared mysteriously with large amount of money
 
- of bad movies".
+\*Colleague says he's much older than he claims.
 
--Appeared mysteriously with large amount of money
+\*Ambiguous, possibly affected speaking style ("You are tearing me apart, Lisa!")
 
--Colleague says he's much older than he claims.
+\*Background unknown
 
--Ambiguous, possibly affected speaking style ("You are tearing me apart, Lisa!")
+[Two images captioned "Cooper (FBI sketch)" and "Wiseau (Flickr photo by Al Pavangkanan)".]
 
--Background unknown
+Offscreen voice: This is the dumbest theory I've ever heard.
 
-[[An FBI sketch of Cooper appears side-by-side with a flickr photo by Al Pavangkana of Wiseau. The person is standing at the board, responding to someone in the audience, who is out of panel.]]
-
-Audience member: This is the dumbest theory I've ever heard.
-
-Stick figure: But it explains 
-
-everything!!
-
+Cueball: But it explains *everything!!*

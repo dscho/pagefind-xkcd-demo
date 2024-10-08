@@ -3,22 +3,21 @@ date: 2006-12-06
 title: "The Perfect Sound"
 num: 193
 alt: >-
-  Oh, what a pity, can't you understand . . .
+  Oh, what a pity, can't you understand...
 img: https://imgs.xkcd.com/comics/the_perfect_sound.png
 ---
-[[Two people are listening to music on a stereo]]
+[Cueball and his friend are listening to music on a stereo.]
 
-Person 1: I'm telling you, listen right here to the sets of rising notes following the opening section.
+Cueball: I'm telling you, listen right here to the sets of rising notes following the opening section.
 
-Person 2: Uh huh.
+Friend: Uh huh.
 
-[[Person 1 indicates stereo]]
+[Cueball indicates stereo.]
 
-Person 1: And then right here, the transition into the chorus. _This_ is music. This is _art_!
+Cueball: And then right here, the transition into the chorus. <u>This</u> is music. This is <u>art</u>!
 
-[[Person 1 dances along with the music]]
+[Cueball dances along with the music.]
 
-Stereo: Oh Mickey, you so fine, you so fine you blow my mind, hey Mickey! *clap* *clap* Hey Mickey!
+Stereo: Oh Mickey, you so fine, you so fine you blow my mind, hey Mickey! \*clap\* \*clap\* Hey Mickey!
 
-Person 2: There's something wrong with you.
-
+Friend: There's something wrong with you.

@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/new_phone_thread.png
 
 Whoa, weird
 
-I'm looking at my timeline on my friends phone, and some of my posts look normal
+I'm looking at my timeline on my friend's phone, and some of my posts look normal
 
 What the hell?
 

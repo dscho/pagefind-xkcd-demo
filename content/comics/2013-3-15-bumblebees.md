@@ -6,7 +6,10 @@ alt: >-
   Did you know sociologists can't explain why people keep repeating that urban legend about bumblebees not being able to fly!?
 img: https://imgs.xkcd.com/comics/bumblebees.png
 ---
-[[A bumble bee sits on the control column in the cockpit of an airplane.]]
+[Caption above the panel:]
+
+Science fact:
+
+[A black and yellow bumblebee sits on the control column in the cockpit of an airplane. With lots of instruments and buttons in front of it. There is a caption below the panel:]
 
 Physicists still can't explain how bumblebees can fly airplanes.
-

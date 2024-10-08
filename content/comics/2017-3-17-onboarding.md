@@ -42,4 +42,4 @@ Ponytail: ...The songwriter? Is he also an engineer?
 
 Beret Guy: Nope, huge misunderstanding on our part. Cost a fortune. But he's really nice and it makes karaoke nights fun.
 
-Lin-Manuel Miranda (off-panel): How far I'll gooo
+Lin-Manuel Miranda (off-panel): *How far I'll gooo*

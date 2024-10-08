@@ -8,11 +8,11 @@ img: https://imgs.xkcd.com/comics/worrying_scientist_interviews.png
 ---
 [A chart consisting of a line with double arrows that has 12 dots progressing from left to right. Each dot has a line going to a label above or below the line. Above the labels is another label belonging to an arrow to its right that points right. Above this is a larger caption:]
 
-How worried you should be if you see local reporters interviewing scientists about a breaking news story, by field:
+<big>How worried you should be if you see local reporters interviewing scientists about a breaking news story, by field: </big>
 
 More worried --->
 
-[The chart shows the following titles left to right (least to most worrisome), some above and some below the line however that doesn't affect their relative positions. They are listed here in ascending worrisomeness for ease of viewing.]
+[The chart shows the following titles left to right (least to most worrisome), some above and some below the line however that doesn't affect their relative positions.  They are listed here in ascending worrisomeness for ease of viewing.]
 
 Archeologist
 

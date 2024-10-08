@@ -6,23 +6,22 @@ alt: >-
   Dinosaurs totally jumped the ichthyosaur when they got rid of Brontosaurus.
 img: https://imgs.xkcd.com/comics/paleontology.png
 ---
-[[A man and a woman in a museum, near a reconstructed dinosaur fossil.]]
+[Cueball and Ponytail in a museum, near a reconstructed dinosaur fossil and a display cabinet.]
 
-Woman: Man, paleontology sucks these days.
+Ponytail: Man, paleontology sucks these days.
 
-Man: Why?
+Cueball: Why?
 
-Woman: Jurassic Park came out 15 years ago.
+Ponytail: *Jurassic Park* came out 15 years ago.
 
-Man: So?
+Cueball: So?
 
-Woman: Today's grad students got into dinosaurs after seeing it as kids. They don't care about fossils. Brats.
+Ponytail: Today's grad students got into dinosaurs after seeing it as kids. They don't care about fossils. Brats.
 
-[[A woman in a hat exploring a barren landscape.]]
+[A woman in a hat exploring a barren landscape.]
 
-Woman: Before they had living dinosaurs handed to them by Hollywood, I was out in Texas digging up Arcocanthosaur teeth.
+Ponytail: Before they had living dinosaurs handed to them by Hollywood, I was out in Texas digging up Arcocanthosaur teeth.
 
-Man: So, you were into dinosaurs when they were still underground?
+Cueball: So, you were into dinosaurs when they were still underground?
 
-Woman: Exactly!
-
+Ponytail: Exactly!

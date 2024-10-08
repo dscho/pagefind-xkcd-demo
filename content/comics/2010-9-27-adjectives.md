@@ -8,25 +8,23 @@ img: https://imgs.xkcd.com/comics/adjectives.png
 ---
 Frequency with which various adjectives are intensified with obscenities (based on Google hits)
 
-((The legend above the plot reads:))
+[The legend above the plot reads:]
 
-Red marker: "fucking ____"
+Red marker: "fucking \_\_\_\_"
 
-Blue marker: "____ as shit"
+Blue marker: "\_\_\_\_ as shit"
 
-((Mathematical formula for scale next to the legend:))
+[Mathematical formula for scale next to the legend:]
 
-Scale: ln(hits for intensified phrase 
+Scale: ln(hits for intensified phrase/hits for adjective alone)
 
- hits for adjective alone)
+[The plot itself lists a series of adjectives in approximately descending order.  Each has a red and a blue marker corresponding to the scale described.]
 
-((The plot itself lists a series of adjectives in approximately descending order.  Each has a red and a blue marker corresponding to the scale described.))
+[Horizontal axis starts with none, then has a vertical dashed line, then 'rarely' at -17, increasing to 'often' at -5.]
 
-((Horizontal axis starts with none, then has a vertical dashed line, then 'rarely' at -17, increasing to 'often' at -5.))
+[Each adjective is listed with approximate red and blue values, in that order.]
 
-((Each adjective is listed with approximate red and blue values, in that order.))
-
-Annoying -5 -5
+Annoying -5 -4.5
 
 Pissed -5 -6
 
@@ -44,7 +42,7 @@ Calm -7 -10
 
 Delicious -8 -13
 
-Obscene -6 -14 
+Obscene -6 -14
 
 Prosaic -10 -13.5
 
@@ -68,21 +66,12 @@ Stochastic -14 never
 
 Fungible -12 never
 
-Peristeronic never never ("Of or pertaining to pigeons")
+Peristeronic ("Of or pertaining to pigeons") never never
 
-[[there are two small scenes in the bottom right of the plot.  The first shows a pair of women holding wine glasses.]]
+[There are two small scenes in the bottom right of the plot. The first shows a pair of women holding wine glasses.]
 
-Second woman: Yes, the Cabernet is piquant as 
+Megan: Yes, the Cabernet is piquant as *shit* this year.
 
-shit
+[The second shows Cueball sitting at a computer desk.]
 
- this time of year.
-
-[[The second shows a person sitting at a computer desk.]]
-
-Person: Whoa, these commodities are fucking 
-
-fungible
-
-!
-
+Cueball: Whoa — these commodities are fucking *fungible!*

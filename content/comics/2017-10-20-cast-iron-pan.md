@@ -18,7 +18,7 @@ White Hat: If you ever let soap touch the pan, throw it away. You're clearly not
 
 Cueball: Wow, okay.
 
-[In a frame-less panel White Hat has taken the pan back to the first hand holding on the the edge while he holds his other hand close to the frying surface.]
+[In a frame-less panel White Hat has taken the pan back to the first hand holding on the edge while he holds his other hand close to the frying surface.]
 
 White Hat: Apply moisturizer to the pan daily to keep it fresh.
 
@@ -34,4 +34,4 @@ White Hat: Twice a year, fill the pan with iron filings and leave it in direct s
 
 Cueball: Wait. 24 hours of sun?
 
-White Hat: If you're not willing to travel to the Arctic, you don't deserve cast iron.
+White Hat: If you're not willing to travel to the Arctic, you don't ***deserve*** cast iron.

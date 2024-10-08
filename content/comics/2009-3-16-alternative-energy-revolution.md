@@ -6,61 +6,64 @@ alt: >-
   The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.
 img: https://imgs.xkcd.com/comics/alternative_energy_revolution.jpg
 ---
-[[A field of windmills is silhouetted against dusk sky.]]
+[A field with seven wind turbines is silhouetted against a dusk sky. One of the turbines is much closer than the others. The panel is double height and width of the two next panels to the right.]
 
-[[Man and woman are standing and sitting on the ground overlooking the windmills.]]
+[Cueball standing and Megan sitting on the ground are overlooking the wind turbines.]
 
-Man: I'm all for green energy, but those turbines creep me out. They remind me of War of the Worlds, or the Tripod books.
+Cueball: I'm all for green energy, but those turbines creep me out. They remind me of War of the Worlds, or the Tripod books.
 
-Woman: They -are- unnerving.
+[While the two are in the same position but longer to the left in the panel wiggly lines form around the last word to indicate a high rumbling sound.]
 
-Man: I can't shake the feeling that at any moment they'll--
+Megan: They *are* unnerving.
 
-<<RUMBLE>>
+Cueball: I can't shake the feeling that at any moment they'll—
 
-[[A leg begins to split off one windmill.]]
+*Rumble*
 
-<<crack>>
+[The next line in the comic has five small square panels:]
 
-[[The leg separates from the body of the windmill.]]
+[A leg begins to split off one wind turbine.]
 
-[[The new leg lands on the ground.]]
+*Crack*
 
-<<BOOM>>
+[The leg separates from the body of the wind turbine.]
 
-[[Another leg begins to split off the other side of the windmill's body.]]
+[The new leg lands on the ground.]
 
-<<crack>>
+*Boom*
 
-[[The new leg hits the ground, forming a tripod base.]]
+[Another leg begins to split off the other side of the wind turbine's body.]
 
-<<BOOM>>
+*Crack*
 
-[[Smoke rises from destroyed buildings as the windmills rampage across the field.]]
+[The new leg hits the ground, forming a tripod base.]
 
-[[Man and woman are now standing.]]
+*Boom*
 
-Woman: Oh no.
+[A panel even wider than the first, but the same height as the 2nd and 3rd panel. Four of the wind turbines rampage across the field. Six smoke plumes rise from the ground where there are also nine to ten distinct red fires burning. The turbines move towards towers and buildings to the right.]
 
-Man: Al Gore, you've doomed us all.
+[Cueball and Megan are now both standing. This panel and the last three panels in the last row is all the same size, a third of the total comic in width and the same height as the previous panel.]
 
-Woman: It's coming this way!
+Megan: Oh no.
 
-Man: Run!
+Cueball: Al Gore, you've doomed us all.
 
-[[One of the enormous tripod windmill feet lands right behind the running couple, sending debris flying.]]
+Megan: It's coming this way!
 
-<<BOOM>>
+Cueball: Run!
 
-[[Man and woman run.]]
+[One of the enormous tripod wind turbine feet lands right behind the running couple, sending debris flying.]
 
-Woman: What now?
+**Boom**
 
-Man: Someone has to stop them.
+[Cueball and Megan run up a small hill (that continue up in the next panel).]
 
-Woman: But who could--
+Megan: What now?
 
-Voice from next panel: Stand aside!
+Cueball: Someone has to stop them.
 
-[[Don Quixote sits mounted at the top of a hill, lance at the ready.]]
+Megan: But who could-
 
+Voice (off panel): **Stand aside!**
+
+[A man with a black hat  and a beard sits mounted on a horse at the top of the hill, lance at the ready.]

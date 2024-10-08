@@ -10,12 +10,12 @@ img: https://imgs.xkcd.com/comics/steepen_the_curve.png
 
 [Caption above the graph:]
 
-2020 1
+<u>202<s>0</s></u> <span style="color:red">1</span>
 
 [Y-Axis:]
 
-COVID Deaths Vaccinations
+COVID <s>Deaths</s> <span style="color:red">Vaccinations</span>
 
 [Caption below the graph:]
 
-Flatten Steepen The Curve
+<s>Flatten</s> <span style="color:red">Steepen</span> The Curve

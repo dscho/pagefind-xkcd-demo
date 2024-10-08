@@ -6,13 +6,16 @@ alt: >-
   Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.
 img: https://imgs.xkcd.com/comics/correlation.png
 ---
-[[A man is talking to a woman]]
+[Cueball is talking to Megan.]
 
-Man: I used to think correlation implied causation.
+Cueball: I used to think correlation implied causation.
 
-Man: Then I took a statistics class.  Now I don't.
+[Cueball lift his hand while continuing to talk to Megan.]
 
-Woman: Sounds like the class helped.
+Cueball: Then I took a statistics class. Now I don't.
 
-Man: Well, maybe.
+[Back to the same situation as the first frame.]
 
+Megan: Sounds like the class helped.
+
+Cueball: Well, maybe.

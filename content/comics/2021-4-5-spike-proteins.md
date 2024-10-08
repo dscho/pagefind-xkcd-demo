@@ -16,7 +16,7 @@ Beret Guy: Time to go make spike proteins.
 
 [Cueball continues to work on his laptop while Megan is looking on.]
 
-[In a frameless, narrow panel, Beret Guy walks back carrying a large object in his arms that looks like a spike protein. But it is about half as long as he is tall, fluffy and dripping wet, flexing slightly along its length, with the Y-shaped head pointed forwards, away from Beret Guy]
+[In a frameless, narrow panel, Beret Guy walks back carrying a large object in his arms that looks like a spike protein. But it is about half as long as he is tall, fluffy, and dripping wet, flexing slightly along its length, with the Y-shaped head pointed forwards, away from Beret Guy]
 
 Beret Guy: OK!
 
@@ -28,8 +28,8 @@ Spike Protein: Plop
 
 [Beret Guy turns to leave, with an outstretched finger pointing skyward. The overhanging part of the spike protein has sagged, and it is dripping some wet material over both the floor and desk. Cueball is sitting with his hands on the partially closed laptop, Megan stands normally again.]
 
-Beret Guy: More!
+Beret Guy: *More!*
 
 Cueball: Ewww.
 
-Megan: Why is it so wet??
+Megan: Why is it so *wet??*

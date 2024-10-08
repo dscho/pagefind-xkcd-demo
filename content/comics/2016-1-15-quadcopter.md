@@ -6,25 +6,24 @@ alt: >-
   I always have to turn off nature documentaries when they show these scenes.
 img: https://imgs.xkcd.com/comics/quadcopter.png
 ---
-[[A figure holding a phone is talking to a woman.]]
+[Cueball to the left talks to Megan, Ponytail and a Cueball-like person, with a remote control. They are standing to the right. Behind Cueball, on the ground, there is a quadcopter.]
 
-Figure: Magnus Carlsen has an app where you can play chess against a simulated version of him at different ages. I can beat the 8½-year-old, but lose to him at 9. 
+Cueball: Welcome to Quadcopter-flying school.
 
-Woman: I want that, but for other games. Can I beat 8-year-old Serena Williams at tennis? Swim laps faster than a 6-year-old Michael Phelps? 
+[Cueball looks over his shoulder as three other quadcopters fly in towards him from above and left. The other three people are in the same position.]
 
-Figure: We should make a simulator. 
+Cueball: Today we'll be learning the basics of-
 
-Figure: ...Why limit it to games? Can I cook a better chicken than 11-year-old Martha Stewart? 
+Cueball: ...Uhh...
 
-Woman: Win an election against 12-year-old JFK? 
+[In this frameless image the three quadcopters all grabs hold of Cueball, two in each of his arms, one takes hold of his legs. And then they lift him up from the ground. He is thus hanging almost horizontally, with his head over Megan and his feet over the place where he stood before. The other three just stands there looking up at him.]
 
-[[The figures are sitting at laptops, with a stack of books between them.]]
+Cueball: Um
 
-Soon...
+[Cueball is carried off by quadcopters, his head has already exited the top right corner, only his legs and the last quadcopter still in the frame. The other three have turned around looking up and right after him.]
 
-Woman: Looks like 8-year old Magnus Carlsen can swim faster than 9-year-old Martha Stewart. 
+[Megan looks down again and the other two turns towards Megan. Cueball is gone and has only left his "tame" quadcopter behind on the ground.]
 
-Figure: But they both lose a hot-dog-eating contest to 2-year-old Secretariat. 
+Megan: Should we have helped?
 
-Woman: This project has gotten weird.
-
+Ponytail: No. It's cruel, but we have to let nature take its course.

@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/flash_gatsby.png
 ---
 [Cueball is sitting at a desk using his laptop.]
 
-Off-panel voice: 3... 2... 1... Happy New Year!
+Off-panel voice: 3... 2... 1... *Happy New Year!*
 
 Cueball: Okay, it’s up!
 
@@ -16,4 +16,4 @@ Cueball: Annnnnd ... support was pulled, it’s down again.
 
 [Caption below the panel:]
 
-There's only a very short window of time in which I can post my unauthorized Flash® adaptation of The Great Gatsby.
+There's only a very short window of time in which I can post my unauthorized Flash® adaptation of *The Great Gatsby*.

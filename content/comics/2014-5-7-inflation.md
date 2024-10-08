@@ -6,43 +6,28 @@ alt: >-
   Wait till they notice the faint reflection of Michael Jordan and Bugs Bunny in the E-mode.
 img: https://imgs.xkcd.com/comics/inflation.png
 ---
-[[Scientists are standing and sitting at a computer.]]
+[Megan sits at a computer, conversing with Ponytail.]
 
-Sitting: Imprinted on the sky
+Megan: Imprinted on the sky are the gravity waves that were sloshing across the universe when it was *this* big.
 
-Sitting: Are the gravity waves that were sloshing across the universe.
+Megan: So really, we're using the entire universe as a giant microscope pointed at itself when it was small.
 
-[[The sitting character holds hands a short distance apart.]]
+[Megan turns to face the computer.]
 
-Sitting: When it was 
+Ponytail: That's neat.
 
-this big
+Megan: Yeah. But...
 
-.
+Ponytail: But what?
 
-Sitting: So really, we're using the entire universe
+Megan: Well, look.
 
-Sitting: As a giant microscope
+Ponytail: Oh. Hmm.
 
-Sitting: Pointed at itself when it was small.
+Megan: Yeah.
 
-[[Sitting turns to the computer.]]
+Ponytail: What...
 
-Standing: That's neat.
+Megan: I don't know.
 
-Sitting: Yeah. But...
-
-Standing: But what?
-
-Sitting: Well, look.
-
-Standing: Oh. Hmm.
-
-Sitting: Yeah.
-
-Standing: What...
-
-Sitting: I don't know.
-
-[[ The final panel is a picture of the early universe, through a Mollweide projection.  The lines typical of a basketball can be seen, as well as the word 'Spalding' ]]
-
+[Below is an image of the universe showing the cosmic microwave background, featuring a series of circles and the Spalding basketball logo, as though the universe had been imprinted with the image of a basketball.]

@@ -3,19 +3,17 @@ date: 2008-02-15
 title: "The Drake Equation"
 num: 384
 alt: >-
-  But seriously, there's loads of intelligent life.  It's just not screaming constantly in all directions on the handful of frequencies we search.
+  But seriously, there's loads of intelligent life. It's just not screaming constantly in all directions on the handful of frequencies we search.
 img: https://imgs.xkcd.com/comics/the_drake_equation.png
 ---
 The Drake Equation:
 
-N = R * f_p n_e f_l f_i f_c L B_s
+N = R\* f<sub>p</sub> n<sub>e</sub> f<sub>l</sub> f<sub>i</sub> f<sub>c</sub> L B<sub>s</sub>
 
 N: Number of communicating civilizations in our galaxy
 
-n_e: Number of life-supporting planets per solar system
+n<sub>e</sub>: Number of life-supporting planets per solar system
 
-f_i: Probability that life on a planet becomes intelligent
+f<sub>i</sub>: Probability that life on a planet becomes intelligent
 
-B_s: Amount of bullshit you're willing to buy from Francis Drake
-
-{{ title text: But seriously, there's loads of intelligent life. It's just not screaming constantly in all directions on the handful of frequencies we search. }}
+B<sub>s</sub>: Amount of bullshit you're willing to buy from Frank Drake

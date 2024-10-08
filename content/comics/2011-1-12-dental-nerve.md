@@ -3,25 +3,19 @@ date: 2011-01-12
 title: "Dental Nerve"
 num: 846
 alt: >-
-  WAKE up in the MORning and my BREATH ain't PREtty / and noBODY'S gonna KISS me if my MOUTH smells SHItty / so I ALways brush my TEETH before I START on the JACK / sure, my DRINKing's out of HAND, but I'm conTROLLing my PLAQUE.
+  WAKE up in the MORning and my BREATh ain't PRETty / and noBODY'S gonna KISS me if my MOUTH smells SHItty / so I ALways brush my TEETH before I START on the JACK / sure, my DRINKing's out of HAND, but I'm conTROLLing my PLAQUE.
 img: https://imgs.xkcd.com/comics/dental_nerve.png
 ---
-Woman: Dear Ke$ha,
+Megan: Dear Ke$ha,
 
-Woman: It's hard to describe the pain of a deeply infected dental nerve.
+Megan: It's hard to describe the pain of a deeply infected dental nerve.
 
-(continuing) To get an idea, put your hands in a bowl full of ice cubes. Hold them there for 90 seconds. [[Panel shows speaker with her hands in a bowl of ice.]]
+[Megan putting her hands in a bowl.]
 
-Now imagine that pain in your jaw, every minute of every hour, bright and searing, washing out everything. You can't party all night. You can barely stand up. There's only the pain.
+Megan: To get an idea, put your hands in a bowl full of ice cubes. Hold them there for 90 seconds.
 
-Woman: So, some friendly advice: When you wake up in the morning, before you brush your teeth with a bottle of Jack,
+Megan: Now imagine that pain in your jaw, every minute of every hour, bright and searing, washing out everything. You can't party all night. You can barely stand up. There's only the pain.
 
-Woman: Brush them with actual toothpaste.
+Megan: So, some friendly advice: When you wake up in the morning, before you brush your teeth with a bottle of Jack,
 
-{{Title text: WAKE up in the MORning and my BREATH ain't PREtty 
-
- and noBODY'S gonna KISS me if my MOUTH smells SHItty 
-
- so I ALways brush my TEETH before I START on the JACK 
-
- sure, my DRINKing's out of HAND, but I'm conTROLLing my PLAQUE.}}
+Megan: Brush them with actual toothpaste.

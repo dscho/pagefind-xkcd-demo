@@ -6,26 +6,20 @@ alt: >-
   'Can't you just use the LHC you already built to find it again?' 'We MAY have disassembled it to build a death ray.' 'Just one, though.' 'Nothing you should worry about.' 'The death isn't even very serious.'
 img: https://imgs.xkcd.com/comics/higgs_boson.png
 ---
+Offscreen: Tell us about your proposal.
 
+Ponytail: We're requesting $3 billion in funding to find the Higgs boson.
 
-[[Woman standing at a podium with man behind her]]
+Offscreen: ...wait. Didn't you already find it a year or two ago?
 
-Person off scene: Tell us about your proposal.
+Cueball: Yes, well, um.
 
-Woman: We're requesting $3 billion in funding to find the Higgs Boson.
+Ponytail: ...OK, this is embarrassing.
 
-Person off scene: ... wait.  Didn't you already find it a year or two ago?
+Cueball: See, the thing is—
 
-Man: Yes, well, um.
+Offscreen: Don't tell us you lost it already.
 
-[[Zoom into woman]]
+Ponytail: Look.
 
-Woman: ... ok, this is embarrassing.
-
-Man off scene: See, the thing is---
-
-[[Zoom out to original scene]]
-
-Person off scene: Don't tell us you lost it already.
-
-Woman: Look.  In our defense it's really small.
+Ponytail: In our defense, it's *really* small.

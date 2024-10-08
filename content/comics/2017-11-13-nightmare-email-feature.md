@@ -10,9 +10,9 @@ img: https://imgs.xkcd.com/comics/nightmare_email_feature.png
 
 Enjoyed it! I'm busy this weekend, but let me know if you're free sometime next week and want to get dinner or something.
 
-Total time spent revising this email before sending: 47 minutes 12 seconds
+<span style="color:gray">Total time spent revising this email before sending: 47 minutes 12 seconds</span>
 
-...
+<span style="color:gray">...</span>
 
 [Caption below the panel:]
 

@@ -6,9 +6,8 @@ alt: >-
   The Singularity happened, but not to us.
 img: https://imgs.xkcd.com/comics/tamagotchi_hive.png
 ---
-TITLE: My hobby.
+My Hobby
 
-[[GRAPHIC: A tree diagram of many tiny ovals.]]
+[A tree graph of Tamagotchis.]
 
-Running a massive distributed computing project that simulates trillions and trillions of Tamagotchis and keeps them all constantly fed and happy.
-
+Running a massive distributed computing project that simulates trillions and trillions of Tamagotchis and keeps them all constantly fed and happy

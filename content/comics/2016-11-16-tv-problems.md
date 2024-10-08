@@ -22,4 +22,4 @@ Cueball: (off-screen): No.
 
 White Hat: Don't you have a computer science degree?
 
-Cueball: That just means I understand how everything went so wrong.
+Cueball: That just means I *understand* how everything went so wrong.

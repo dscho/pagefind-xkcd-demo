@@ -6,15 +6,12 @@ alt: >-
   I have never been totally satisfied by the explanations for why e to the ix gives a sinusoidal wave.
 img: https://imgs.xkcd.com/comics/e_to_the_pi_times_i.png
 ---
-{{Note my use of ^(x) and â(x) standing in for the normal maths syntax in the comic}}
+[Two Cueballs are standing at a board with writing on. One Cueball is pointing at the board.]
 
-[[Two people (anonymous: no hair or hats) stand in conversation, one gesturing over a flipchart of indistinct algebra.]]
+Cueball: Numbers of the form n√-1 are "imaginary," but can still be used in equations.
 
-EXPLAINER: NUMBERS OF THE FORM nâ(-1) ARE "IMAGINARY" BUT WE CAN STILL USE THEM IN EQUATIONS.
+Friend: Okay.
 
-OTHER: OKAY.
+Cueball: And e^(π√-1)=-1.
 
-EXPLAINER: AND e^(Ï â(-1))=-1.
-
-OTHER: NOW YOU'RE JUST FUCKING WITH ME.
-
+Friend: Now you're just fucking with me.

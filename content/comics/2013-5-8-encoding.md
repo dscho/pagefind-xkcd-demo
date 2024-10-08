@@ -6,11 +6,12 @@ alt: >-
   I don't see how; the C0 block is right there at the beginning.
 img: https://imgs.xkcd.com/comics/encoding.png
 ---
-[[He and she are holding radios and looking up.]]
+[Cueball and Megan are both holding walkie-talkies. Cueball is talking into his, Megan is holding hers down. Both are looking up in the sky.]
 
-He: No, the combining diacritics go OVER the interrobang!
+Cueball: No, the combining diacritics go ***over*** the interrobang!
 
-She: Oh jeez, I think he's lost control.
+Megan: Oh jeez, I think he's lost control.
 
-The skywriter we hired has terrible unicode support.
+[Caption below the panel:]
 
+The skywriter we hired has terrible Unicode support.

@@ -3,32 +3,39 @@ date: 2008-08-20
 title: "Quantum Teleportation"
 num: 465
 alt: >-
-  Science should be exactly as cool as the headlines sound.  Like the 'RUSSIANS CUT APART AND REASSEMBLE DOGS' thing.
+  Science should be exactly as cool as the headlines sound. Like the "RUSSIANS CUT APART AND REASSEMBLE DOGS" thing
 img: https://imgs.xkcd.com/comics/quantum_teleportation.png
 ---
-[[Reporter and a Scientist are facing each other, sitting in chairs.]]
+[A Cueball-like reporter and Cueball are facing each other, sitting in chairs.]
 
-Reporter:  So, Quantum Teleportation-
+Reporter: So, Quantum Teleportation-
 
-Scientist:  The name is misleading.  It's a particle statistics thing.
+Cueball: The name is misleading. It's a particle statistics thing.
 
-Reporter:  So it's not like Star Trek?  That's boring.
+[Zoom in on the reporter.]
 
-Scientist:  Okay, I'm sick of this.  Every time there's a paper on Quantum Teleportation, you reporters write the same disappointed story.
+Reporter: So it's not like Star Trek? That's boring.
 
-[[Scientist leaves seat and moves behind it]]
+[Zoom out again to both. Cueball leaves his seat and moves behind it.]
 
-Reporter:  But-
+Cueball: Okay, I'm sick of this. Every time there's a paper on quantum teleportation, you reporters write the same disappointed story.
 
-[[Scientist has gone to device that was behind him and was out of the scope of the three previous panels.]]
+[Cueball has gone to a device that was behind him and was out of the scope of the three previous panels. He turns a knob that makes a sound in a zigzag sound buble.]
 
-Scientist:  Talk to someone else.  I'm going to the Bahamas.  <<Click>>
+Reporter (Off panel): But-
 
-[[The Scientist switches a device on.]]
+Cueball: Talk to someone else. I'm going to the Bahamas.
 
-[[Device labeled "TELEPORTER" is switched from "Quantum" to "Regular".]]
+Knob: *Click*
 
-<<VRMMM>>
+[Inserted panel with a zoom in on the device that is labeled, and the knob is now turned to the right position. Both possible positions are labeled.]
 
-{{The scientist is beamed up in classic Star Trek fashion}}
+Label: Teleporter
 
+Left: Quantum
+
+Right: Regular
+
+[Cueball is beamed up in classic Star Trek fashion.]
+
+*Vrmmm*

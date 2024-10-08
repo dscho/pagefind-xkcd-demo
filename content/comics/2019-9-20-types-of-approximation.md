@@ -8,17 +8,17 @@ img: https://imgs.xkcd.com/comics/types_of_approximation.png
 ---
 [Three panels show the same setup with three different characters. In the upper-right corner of each panel is the lower-left portion of a wheel and hub diagram, showing two spokes going out to a curved rail. The two spokes connect to the rail with a small raised portion on the inside of the rail. There are both readable and unreadable text/symbols both outside and inside the curve and an equation below the curved rail. There are two small squares with readable labels. The three different characters are all holding a pointer up to the diagram while explaining an assumption. In the last panel an off-panel voice interrupts the speaker. This means the text from the reply to this comment goes further down over the diagram, so the top is hidden by text, compared to the first two. Above each panel is a label with the character's profession. As the text on the diagram is the same on all three panel, this text is shown here:]
 
-r1
+r<sub>1</sub>
 
-r2
+r<sub>2</sub>
 
-d=2π(r1+r2)/2
+d=2π(r<sub>1</sub>+r<sub>2</sub>)/2
 
 [Panel 1 - Cueball. Caption above:]
 
 Physicist Approximations
 
-Cueball: We'll assume the curve of this rail is a circular arc with radius R.
+Cueball: We'll assume the curve of this rail is a circular arc with radius *R*.
 
 [Panel 2 - Megan. Caption above:]
 

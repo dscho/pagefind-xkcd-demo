@@ -14,11 +14,11 @@ Cueball: Should be interesting.
 
 [Beat panel.]
 
-Megan: I recently re-watched Terminator.
+Megan: I recently re-watched *Terminator*.
 
 Cueball: Yeah?
 
-Megan: It's weird that the thing that evolved into Skynet wasn't our nuclear launch systems or our humanoid robots.
+Megan: It's weird that the thing that evolved into Skynet wasn't our nuclear launch systems ***or*** our humanoid robots.
 
 Megan: It was the phone book where the Terminator looked up Sarah Connor's address.
 

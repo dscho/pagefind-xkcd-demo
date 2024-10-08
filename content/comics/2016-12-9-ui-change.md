@@ -6,12 +6,12 @@ alt: >-
   I know they said this change is permanent, but surely when they hear how much we're complaining someone will find a way to change things back.
 img: https://imgs.xkcd.com/comics/ui_change.png
 ---
-[Cueball is doing something on his phone]
+[Cueball is doing something on his phone.]
 
 Cueball: Ugh, I hate when apps make arbitrary changes to their UI.
 
-Cueball: Stuff I do all the time just got harder for no reason!
+Cueball: Stuff I do all the time just got way harder for no reason!
 
-Off-Screen Voice: Man.
+Off-panel voice: Man.
 
-Off-Screen Voice: You are not gonna like getting old.
+Off-panel voice: You are ***not*** gonna like getting old.

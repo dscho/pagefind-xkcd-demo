@@ -6,13 +6,12 @@ alt: >-
   At least I never gave her the root password.
 img: https://imgs.xkcd.com/comics/letting_go.png
 ---
-[[A picture of a man and a woman in a heart is being held by someone, it has been ripped down the middle, separating the two people]]
+[Cueball is holding a picture of himself and Megan in a heart; it has been ripped down the middle, separating the two people.]
 
-[[Man sits at computer, looking at the picture]]
+[Cueball sits at computer, looking at the picture.]
 
-[[It is night, man still sits at computer with the picture in front of him and his head drooped]]
+[The panel has been inverted. Cueball still sits at the computer with the picture in front of him and his head drooped.]
 
-[[It is day again, man types on computer]]
+[Cueball types on the computer.]
 
-Text from computer: root@homebox:~# userdel megan
-
+Text from computer: <code>root@homebox:~# userdel megan</code>

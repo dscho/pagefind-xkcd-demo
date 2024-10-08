@@ -22,4 +22,4 @@ Boy: This is ... not great.
 
 [Caption below:]
 
-The Narnia books gave me a really unrealistic impression of how good Turkish delight tastes.
+The *Narnia* books gave me a really unrealistic impression of how good Turkish delight tastes.

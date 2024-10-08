@@ -6,31 +6,80 @@ alt: >-
   m-x machineofdeath-mode
 img: https://imgs.xkcd.com/comics/types_of_editors.png
 ---
-WYSIWYG
+[There are four panels, each with different headings and explanations of the headings above the panels.]
 
-What you see is what you get
+[The first three panels show two titled text boxes, one above the other, with text inside. This text is formatted with both small and capital letters as opposed to all capital letters in the rest of the comic.]
 
-[[Two boxes, the first labeled "What you see:" contains an italic "Hi", the second labeled "What you get:" contains an italic "Hi".]]
+[Heading panel 1:]
 
-WYSINWYG
+**WYSIWYG**
 
-What you see is not what you get
+What you see is
 
-[[Two boxes, the first labeled "What you see:" contains "<em>Hi<
+what you get
 
-em>", the second labeled "What you get:" contains an italic "Hi".]]
+[Panel 1.]
 
-WYSITUTWYG
+What you see:
 
-What you see is totally unrelated to what you get
+*Hi*
 
-[[Two boxes, the first labeled "What you see:" contains "<em>Hi<
+What you get:
 
-em>", the second labeled "What you get:" contains "The HORSE is a noble animal."]]
+*Hi*
 
-WYSIHYD
+[Heading panel 2:]
 
-What you see is how you die
+**WYSINWYG**
 
-[[Two boxes, the first labeled "What you see:" contains "EATEN BY WOLVES" as white text on a black background, the second labeled "What you get:" without a border is says "eaten by wolves".]]
+What you see is
 
+not what you get
+
+[Panel 2.]
+
+What you see:
+
+<em>Hi</em>
+
+What you get:
+
+*Hi*
+
+[Heading panel 3:]
+
+**WYSITUTWYG**
+
+What you see is totally
+
+unrelated to what you get
+
+[Panel 3.]
+
+What you see:
+
+<em>Hi</em>
+
+What you get:
+
+The HORSE is a noble animal.
+
+[The fourth panel shows two titled text areas, the top is a black rectangle with white text in a very large font, and the bottom text area is not outlined with a border.]
+
+[Heading panel 4:]
+
+**WYSIHYD**
+
+What you see is
+
+how you die
+
+[Panel 4.]
+
+What you see:
+
+**EATEN BY WOLVES**
+
+What you get:
+
+Eaten by wolves

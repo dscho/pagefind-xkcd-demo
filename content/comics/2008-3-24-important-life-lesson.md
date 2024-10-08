@@ -6,11 +6,10 @@ alt: >-
   I didn't even know I *had* the Monty Python 'Lumberjack' song.
 img: https://imgs.xkcd.com/comics/important_life_lesson.png
 ---
-Important life lesson: if there's any possibility of sex, do not leave your music library on "shuffle all.
+Important life lesson: If there's any possibility of sex, do *not* leave your music library on "shuffle all."
 
-[[A woman lies down in a bed, while someone is beneath the bed sheets with the head between her legs. ON the other side of the room, a computer is turned on and playing music]]
+[Megan lies down in a bed, while Cueball is beneath the bed sheets with his head between her legs. On the other side of the room, a computer is turned on and playing music.]
 
-Woman: *GASP* MMMMM_
+Megan: \*GASP\* MMMMM-
 
-Computer: GO GO POWER RANGERS
-
+Computer: GO GO POWER RANGERS!

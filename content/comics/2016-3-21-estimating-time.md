@@ -6,11 +6,32 @@ alt: >-
   Corollary to Hofstadter's Law: Every minute you spend thinking about Hofstadter's Law is a minute you're NOT WORKING AND WILL NEVER FINISH! PAAAAAANIIIIIIC!
 img: https://imgs.xkcd.com/comics/estimating_time.png
 ---
-[[We see a social media post from a woman posting a link to the local news.]]
+[Ponytail is sitting back from her a laptop lifting her hands of the keyboard, having presumably just paused work on a project.]
 
-Woman: It begins.
+Ponytail: Aaaa! I'm so bad at estimating how long projects will take.
 
-Local News: Seagull steals phone, drops it in ocean
+[Danish walks into the panel towards Ponytail who seems to relax back against the chair.]
 
-Protip: to make your day more dramatic, post a random minor news story with the comment "It begins."
+Danish: Don't panic-there's a simple trick for that:
 
+Danish:  Take your most realistic estimate and double it.
+
+Ponytail: Okay, but-
+
+[A frameless panel with only Danish holding a hand up.]
+
+Danish: Now double it again. Add five minutes.
+
+Danish: Double it a third time.
+
+Ponytail (from off panel): Okay...
+
+[Danish raises her arms above her head in mock hysteria. Ponytail runs away from her desk screaming.]
+
+Danish: 30 seconds have gone by and you've done nothing but double imaginary numbers! You're making no progress and will never finish!
+
+Ponytail: <big>*Aaaaaa!*</big>
+
+Danish: *Paaaniic!*
+
+Ponytail: <big>*Aaaaaaa!*</big>

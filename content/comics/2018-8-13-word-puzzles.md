@@ -14,4 +14,4 @@ Megan (thinking): ...parts...start...eno...aria...
 
 [Caption below the frame:]
 
-My hobby: Messing with word game enthusiasts by using words that make them sure there's a puzzle to solve
+My hobby: Messing with word game enthusiasts by using words that make them ***sure*** there's a puzzle to solve

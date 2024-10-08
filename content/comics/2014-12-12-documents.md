@@ -6,33 +6,38 @@ alt: >-
   Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Untitled.doc
 img: https://imgs.xkcd.com/comics/documents.png
 ---
-[[White Hat Guy sits at a desk and types at a computer. Stick Guy looks over his shoulder. A balloon shows a list of documents on the screen:
+[White Hat is sitting at his PC. Cueball stands behind him looking over his shoulder at the screen.]
 
-Untitled 138.docx
+PC: Untitled 138.docx
 
-Untitled 241.doc
+&nbsp;Untitled 241.doc
 
-Untitled 138 copy.docx
+&nbsp;Untitled 138 copy.docx
 
-Untitled 138 copy2.docx
+&nbsp;Untitled 138 copy2.docx
 
-Untitled 139.docx
+&nbsp;Untitled 139.docx
 
-Untitled 40 MOM ADDRESS.jpg
+&nbsp;Untitled 40 MOM ADDRESS.jpg
 
-Untiled 242.doc
+&nbsp;Untitled 242.doc
 
-Untitled 243.doc
+&nbsp;Untitled 243.doc
 
-Untitled 243 IMPORTANT.doc
+&nbsp;Untitled 243 IMPORTANT.doc
 
-Untitled41.doc
+&nbsp;Untitled 41.jpg
 
-..and so on.]]
+[The remaining file names are only partially visible through the tail of the PC's "speech" bubble.]
 
-SG: 
+&nbsp;&nbsp;42
 
-OH MY GOD.
+&nbsp;&nbsp;43
 
-Protip: never look in someone else's documents folder.
+&nbsp;&nbsp;4
 
+Cueball: *Oh my god.*
+
+[Caption below the panel:]
+
+Protip: Never look in someone else's documents folder.

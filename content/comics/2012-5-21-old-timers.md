@@ -6,37 +6,30 @@ alt: >-
   You were on the internet before I was born? Well, so was I.
 img: https://imgs.xkcd.com/comics/old_timers.png
 ---
-[[A man with a neck beard types away at his computer screen.]]
+[A man with black hair and a neck beard types away at his computer screen.]
 
-Neckbeard: (typing) Whatever, noob. I've been on the internet since the BBS days.
+Man (typing): Whatever, noob. I've been on the internet since the BBS days.
 
-Screen: 
+Screen (reply from the noob): *Wrong.*
 
-Wrong.
+ *type type*
 
-<<type type>>
+[The noob turns out to be Jill, with two hair buns, who kneels on her chair, typing at a laptop on a table in this frame-less panel.]
 
-[[A girl with buns on her head kneels on her chair, typing at a laptop on a table.]]
+Jill (typing): Before I was born, a lab took egg and sperm samples from my parents and sequenced the DNA.
 
-Buns: (typing) Before I was born, a lab took egg and sperm samples from my parents and sequenced the DNA.
+*type type*
 
-<<type type>>
+[The man sits at his desk, reading his screen.]
 
-[[Neckbeard sits at his desk, reading his screen.]]
+Screen (Jill writing): They emailed the genome to the Venter Institute, where they synthesized the genome and implanted it into sperm and eggs which became me.
 
-Buns: (from the screen) They emailed the genome to the Venter Institute, where they synthesized the genome and implanted it into sperm and eggs which became me.
+[Jill still typing on the laptop.]
 
-[[Buns still typing on the laptop.]]
+Jill (typing): So, no.
 
-Buns: So, no. - You've 
+Jill (typing): You've ***looked*** at the internet.
 
-looked
+Jill (typing): I've ***been*** there.
 
- at the internet. - I've 
-
-been
-
- there.
-
-<<type type>>
-
+*type type*

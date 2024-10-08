@@ -6,35 +6,44 @@ alt: >-
   'Welcome to the future! Nothing's changed.' was the slogan of my astonishingly short-lived tech startup.
 img: https://imgs.xkcd.com/comics/cryogenics.png
 ---
-[[Two people, one of which is staring at a smartphone]]
+[Megan staring down at a smartphone in her hand while talking to White Hat.]
 
-Person 1: Everyone's carrying sensor-packed, always-connected computers everywhere.  That wasn't true ten years ago.
+Megan: Everyone's carrying sensor-packed, always-connected computers everywhere. That wasn't true ten years ago.
 
-White Hat Guy: It's all changing too fast, huh?
+White Hat: It's all changing too fast, huh?
 
-Person 1: No, too *slowly*.
+Megan: No, too *slowly.*
 
-Person 1: There's so much potential here.  These clumsy, poorly-designed toys are *nothing* compared to what lies ahead.
+[Zoom in on Megan's upper part as she holds up the smartphone showing its screen.]
 
-[[Person 1 climbs into a cryogenic chamber]]
+Megan: There's so much potential here. These clumsy, poorly-designed toys are *nothing* compared to what lies ahead.
 
-Person 1: That's why I've worked to develop cryogenic freezing.  I'm gonna skip forward 30 years and use this stuff when it's *good*.
+[Megan climbs into a cryogenic chamber which stands on a base where a small box at the end of the chamber is connected to it through a bend tube. She leaves the smartphone on the floor in front of White Hat.]
 
-30 years later..
+Megan: That's why I've worked to develop cryogenic freezing.
 
-Someone who isn't Terry: Welcome to the future! Nothing's changed.
+Megan: I'm gonna skip forward 30 years and use this stuff when it's *good*.
 
-Person 1: What? Why??
+[Cueball is greeting Megan holding a fist up in front of him, as Megan with morning hair rises up from the open cryogenic chamber.]
 
-[[rows of other people waking up out of their own cryogenic chambers]]
+30 years later...
 
-not Terry: When cryogenic freezing was invented, all the engineers who were excited about the future froze themselves. So there's been no one building anything new.
+Cueball: Welcome to the future! Nothing's changed.
 
-not Terry: But they're all waking up now!
+Megan: What?
 
-Person 1: Sweet! I'm gonna jump forward to see what they do!
+Megan: Why??
 
-Engineer 1: Me too!
+[Cueball still stands in front of Megan in the chamber, but the scene has rotated revealing a row of other cryogenic chambers behind. The chamber after Megan's is still closed, but the others are open and people emerging.]
 
-Engineer 2: Wait, uh, guys?
+Cueball: When cryogenic freezing was invented, all the engineers who were excited about the future froze themselves. So there's been no one building anything new.
 
+[The scene has rotated to look straight in on the long side of Megan's chamber, Cueball is standing to the left of the chamber. She holds the cover ready to close it again. Two voices comes from off-panel to the right.]
+
+Cueball: But they're all waking up now!
+
+Megan: Sweet! I'm gonna jump forward to see what they do!
+
+Engineer 1 (off-panel): Me too!
+
+Engineer 2 (off-panel): Wait, uh, guys?

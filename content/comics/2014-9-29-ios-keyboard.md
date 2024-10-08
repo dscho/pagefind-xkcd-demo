@@ -6,40 +6,52 @@ alt: >-
   More actual results: 'Hello. My name is Inigo Montoya. You [are the best. The best thing ever]', 'Revenge is a dish best served [by a group of people in my room]', and 'They may take our lives, but they'll never take our [money].'
 img: https://imgs.xkcd.com/comics/ios_keyboard.png
 ---
+**Movie quotes**
 
+[Top picture shows a line typed on an iPhone.]
 
-Movie Quotes
+Elementary, my dear
 
-[[Drawing of iOS 8 keyboard with "elementary, my dear" on the input line and "friend," "lord," and "friends" on the suggestion line]]
+[Then the next line shows the words suggested by the virtual keyboard.]
 
-According to iOS 8 keyboard prediction
+Friend | Lord | Friends
 
-[[Tony Montana from Scarface holding a gun]]
+[Below are the visible part of keyboard. In the second line only the top of the letters can be seen.]
 
-Say hello to my little ((gray text)) sister and my mom and my dad and my friends
+QWERTYUIOP
 
-[[Dorothy from The Wizard of Oz]]
+ASDFGHJKL
 
-Toto, I've a feeling we're not ((gray text)) going to the gym today
+[Below is a new sub heading above six pictures arranged in two rows.]
 
-[[James Bond and a woman]]
+According to iOS 8 keyboard predictions
 
-Bond.  James Bond ((gray text)) yields
+[For each of the six pictures a part of the text is black, and the other part is light grey. Below the black text is written in bold letters.]
 
-[[Wash from Firefly
+[Picture 1: Cueball stands with a machine gun.]
 
-Serenity]]
+Cueball: **Say hello to my little** sister and my mom and my dad and my friends
 
-I'm a leaf on the wind.  Watch ((gray text)) me play the piano
+[Picture 2: A girl stands next to her dog with a basket.]
 
-[[Mikey from The Goonies]]
+Girl: **Toto, I've a feeling we're not** going to the gym today
 
-Goonies never say ((gray text)) anything
+[Picture 3: Bond talks to Megan.]
 
-[[Gimli from The Lord of The Rings]]
+James Bond: **Bond, James Bond** yields
 
-((off scene)) You have my sword.
+[Picture 4: A pilot operates his plane and talks to Cueball behind him.]
 
-((off scene)) And my bow.
+Pilot: **I'm a leaf on the wind. Watch** me play the piano
 
-And my ((gray text)) dad
+[Picture 5: A guy with dark hair stands behind a jagged edge.]
+
+Goonie: **Goonies never say** anything
+
+[Picture 6: A dwarf with long beard and helmet stands with an axe.]
+
+Off panel left: **You have my sword.**
+
+Off panel right: **And my bow.**
+
+Dwarf: **And my** dad

@@ -3,51 +3,49 @@ date: 2014-01-06
 title: "Regex Golf"
 num: 1313
 alt: >-
-  /bu|[rn]t|[coy]e|[mtg]a|j|iso|n[hl]|[ae]d|lev|sh|[lnd]i|[po]o|ls/ matches the last names of elected US presidents but not their opponents.
+  <nowiki>/bu|[rn]t|[coy]e|[mtg]a|j|iso|n[hl]|[ae]d|lev|sh|[lnd]i|[po]o|ls/ matches the last names of elected US presidents but not their opponents.</nowiki>
 img: https://imgs.xkcd.com/comics/regex_golf.png
 ---
-[[A woman sits at a laptop, leaning back over her chair to address a figure.]]
+[Caption at top of panel:]
 
-Regex golf: 
+Regex golf:
 
-Woman: You try to matchone one group but not the other. 
+[Megan is sitting at a laptop. Cueball is standing behind her.]
 
-M | [TN]|B
+Megan: You try to match one group but not the other.
 
- matches Star Wars subtitles but not Star Trek. 
+Megan: /m | [tn]|b/ matches *Star Wars* subtitles but not *Star Trek*.
 
-Figure: Cool. 
+Cueball: Cool.
 
-[[We zoom to just show the woman, looking at her screen.]]
+[Caption at top of panel:]
 
-Meta-regex golf: 
+Meta-regex golf:
 
-Woman: So I wrote a program that plays regex golf with arbitrary lists...
+[A close-up of Megan at her laptop.]
 
-Figure: Uh oh...
+Megan: So I wrote a program that plays regex golf with arbitrary lists...
 
-[[We zoom back out. The figure is facepalming. The woman is typing.]]
+Cueball (offscreen): Uh oh...
 
-Meta-meta-regex golf: 
+[Caption at top of panel:]
 
-Woman: ...but I lost my code, so I'm grepping for files that look like regex golf solvers. 
+Meta-meta-regex golf:
 
-[[We zoom back in.]]
+[Megan typing at her laptop.]
 
-... And beyond:
+Megan: ...But I lost my code, so I'm grepping for files that look like regex golf solvers.
 
-Woman: Really, this is all 
+[Cueball facepalming.]
 
-(meta-)*regex golf
+[Caption at top of panel:]
 
-.
+...And beyond:
 
-Figure: Now you have infinite problems. 
+[Another closeup of Megan at her laptop.]
 
-Woman: No, I had those already. 
+Megan: Really, this is all /(meta-)\*regex golf/.
 
-{{Title text: 
+Cueball: Now you have *infinite* problems.
 
-bu|[rn]t|[coy]e|[mtg]a|j|iso|n[hl]|[ae]d|lev|sh|[lnd]i|[po]o|ls
-
- matches the last names of elected US presidents but not their opponents.}}
+Megan: No, I had those already.

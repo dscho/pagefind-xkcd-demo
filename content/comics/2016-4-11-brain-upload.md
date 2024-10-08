@@ -14,7 +14,7 @@ Cueball: Sure, go for it.
 
 [Same setting in a frame-less panel, but Megan presses a button on the keyboard with one hand and a flash of light goes through the wire and around Cueballs head. Cueball seems to jerk as his hands are lifted from his lap and his legs move a little forward.]
 
-Computer: Bzzzzzzt
+Computer: *Bzzzzzzt*
 
 [Same setting again but Megan seems to be typing harder on the keys (shown with small lines above her hands on the keyboard) and Cueball sits normally again but one hand further back than in the first panel.]
 

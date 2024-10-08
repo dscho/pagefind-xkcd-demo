@@ -18,7 +18,7 @@ Ponytail: Is it a giant house of cards built from random scripts that will all c
 
 [Cueball looks at his laptop.]
 
-Cueball: It... might not be.
+Cueball: It... *might* not be.
 
 Ponytail: I guess that's someth-
 

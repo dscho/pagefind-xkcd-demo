@@ -6,23 +6,22 @@ alt: >-
   I call Rule 34 on The Secret House.
 img: https://imgs.xkcd.com/comics/never_do_this.png
 ---
-[[Guy brings in a pocket microscope]]
+[Cueball walks toward Megan holding a pocket microscope.]
 
-Guy: Check it out - a pocket microscope!
+Cueball: Check it out—a pocket microscope!
 
-Girl: Ooh! Let's look at stuff!
+Megan: Ooh! Let's look at stuff!
 
-[[Guy holds a pencil; girl peers at a quarter through the microscope]]
+[Cueball holds a pencil; Megan peers at a quarter through the microscope.]
 
-Guy: The tip of this pencil is neat!
+Cueball: The tip of this pencil is *neat*.
 
-Girl: This quarter is really scratched.
+Megan: This quarter is really scratched.
 
-Guy: Let's look at the skin under our fingernails!
+Cueball: Let's look at the skin under our fingernails!
 
 Minutes later...
 
-[[Guy and girl curl up in a pit of despair]]
+[Cueball and Megan curl up in a black pit of despair.]
 
-Guy and girl: oh god oh god
-
+Cueball and Megan: oh god oh god

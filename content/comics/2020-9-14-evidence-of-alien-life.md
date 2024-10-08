@@ -22,7 +22,7 @@ Cueball: This asteroid is probably an alien probe!
 
 Cueball: This asteroid is weird and we should take a closer look.
 
-Cueball: It's not aliens.
+Cueball: <small>It's not aliens.</small>
 
 [Column 3: Too Cautious]
 
@@ -46,7 +46,7 @@ Ponytail: These molecules might be produced by life, or by weird high-heat chemi
 
 [Same scene, except Ponytail's arm is slack by her side.]
 
-Ponytail: There is growing evidence that the atmosphere on Venus contains molecules.
+Ponytail: There is growing evidence that the atmosphere of Venus contains molecules.
 
 [Row 3: Definite Evidence]
 

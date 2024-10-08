@@ -6,11 +6,20 @@ alt: >-
   'Nuh-uh! We let users vote on comments and display them by number of votes. Everyone knows that makes it impossible for a few persistent voices to dominate the discussion.'
 img: https://imgs.xkcd.com/comics/first_post.png
 ---
-[[A bar graph with two bars. The first bar is much taller than the second. It is marked '$1,500,000', and below the x-axis, is labelled "Cost to buy an ad on every story on a major news site every day until the election. The second bar is much shorter, marked '$200,000', and labelled "Cost to pay five college students $20
+[Single panel showing a bar graph with two gray vertical bars, a dollar amount above each bar, the vertical axis on the left side with tick marks every $250,000, and the horizontal axis at the bottom with a descriptive label below each bar under the axis.  The first bar is much taller than the second.]
 
-hour to camp the site 24
+[First bar:]
 
-7 and post the first few comments the moment a story goes up, giving you the last word in every article and creating an impression of peer consensus.]]
+Amount: $1,500,000
 
-The problem with posting comments in the order they're submitted.
+Label: Cost to buy an ad on every story on a major news site every day until the election
 
+[Second bar:]
+
+Amount: $200,000
+
+Label: Cost to pay five college students $20/hour to camp the site 24/7 and post the first few comments the moment a story goes up, giving you the last word in every article and creating an impression of peer consensus
+
+[Caption below the panel:]
+
+The problem with posting comments in the order they're submitted

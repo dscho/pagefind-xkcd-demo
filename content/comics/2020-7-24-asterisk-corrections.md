@@ -12,13 +12,13 @@ Other user: Do you have any weekend plans?
 
 User of this device: I'm gonna ride a horse on the beach at dawn
 
-*Eat
+\*Eat
 
-*3AM
+\*3AM
 
-*Couch
+\*Couch
 
-*Pizza
+\*Pizza
 
 [Caption below the panel:]
 

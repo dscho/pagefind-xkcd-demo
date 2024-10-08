@@ -6,15 +6,16 @@ alt: >-
   I guess it's a saying from the Old Country.
 img: https://imgs.xkcd.com/comics/unquote.png
 ---
-[[Two figures with spiky hair and backpacks are conversing. One is riding in a hover-car, or similar.]]
+[Two figures with spiky hair and backpacks are conversing. One is riding in a hover-car, or similar.]
 
-Standing figure: Bye! 
+Future Hair: Bye!
 
-Riding figure: May the Force be with you!
+Friend: May the Force be with you!
 
-Standing figure: Huh?
+Future Hair: Huh?
 
-Riding figure: It's just something my grandma used to say. No idea what it means.
+Friend: It's just something my grandma used to say. No idea what it means.
 
-I wonder on what date Star Wars will be quoted for the last time. 
+[Caption below the panel:]
 
+I wonder on what date *Star Wars* will be quoted for the last time.

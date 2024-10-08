@@ -6,45 +6,60 @@ alt: >-
   Son, don't try to play 'make you feel bad' with the Michael Jordan of making you feel bad.
 img: https://imgs.xkcd.com/comics/pickup_artist.png
 ---
-[[Two guys sit and enjoy some beverages while making conversation]]
+[Hairy and Cueball sitting at a table.]
 
-Pickup Artist.: I've been learning tricks from pickup artist forums.
+Hairy: I've been learning tricks from pickup artist forums.
 
-Normal Guy: Pickup artists are dehumanizing creeps who see relationships as adversarial and women as sex toys
+Cueball: Pickup artists are dehumanizing creeps who see relationships as adversarial and women as sex toys.
 
-[[The camera angle changes to show another pair of people in the background.  One is a woman; the other is Black Hat Man.]]
+[Close-up of Hairy's head, with a faint outline of Black hat and Danish sitting at a table in the background.]
 
-Pickup Artist: No, it's just a bunch of tips! Like "Negging": You belittle chicks to undermine their self-confidence so they'll be more vulnerable and seek your approval.
+Hairy: No, it's just a bunch of tips! Like *negging*: you belittle chicks to undermine their self-confidence so they'll be more vulnerable and seek your approval.
 
-Normal Guy: Just talk to them like a fucking human being.
+[Close-up of Cueball's head.]
 
-Pickup Artist: Nah, that's a sucker's game. Ok - wish me luck!
+Cueball: Just talk to them like a fucking human being.
 
-Meanwhile...
+Hairy: Nah, that's a sucker's game.
 
-[[Focus changes to the table with the second pair. Black Hat Man gets from his chair and carries a bowling ball with him.]]
+Hairy: Ok— wish me luck!
 
-Black Hat Man: I'm going to the bathroom to roll a bowling ball down under the line of stalls.
+[Small frame across top of panel reads *Meanwhile...* and Danish is sitting at a table with Black hat standing next to the table holding a bowling ball under his arm.]
 
-Woman: Cool.
+Black Hat: I'm going to the bathroom to roll a bowling ball down under the line of stalls.
 
-[[Normal Guy looks at Pickup Artist approaching Woman with dread at the scene that's about to happen]]
+Danish: Cool.
 
-Normal Guy: Oh no.
+[Close up of Cueball's head, with Hairy approaching Danish's table in the background.]
 
-[[Pickup Artist takes a smarmy stance at Woman]]
+Cueball: Oh no.
 
-Pickup Artist: You look like you're on a diet. That's great! How's the fruit plate?
+[Hairy and Danish at a table. Hairy is standing up and leaning on the table.]
 
-Woman: Ooh - are we negging? Let me try!
+Hairy: You look like you're on a diet. That's great!
 
-Woman: You look like you're going to spend your life having one epiphany after another, always thinking you've finally figured out what's holding you back, and how you can finally be productive and creative and turn your life around.  But nothing will ever change. That cycle of mediocrity isn't due to some obstacle. It's who you *are*.  The thing standing in the way of your dreams is that the person having them is *you*.
+Hairy: How's the fruit plate?
 
-[[Pickup artist looks rightfully dejected]]
+[Close-up of Danish's head.]
 
-Woman: Ok, your turn! Ooh, try insulting my hair!
+Danish: Ooh- are we negging?
 
-Pickup Artist: I think I need to go home and think about my life.
+Danish: Let me try!
 
-Woman: It won't help.
+[Close-up of Danish's head, with her hand raised.]
 
+Danish: You look like you're going to spend your life having one epiphany after another, always thinking you've finally figured out what's holding you back, and how you can finally be productive and creative and turn your life around.
+
+Danish: But nothing will ever change. That cycle of mediocrity isn't due to some obstacle. It's who you *are*.
+
+Danish: The thing standing in the way of your dreams
+
+Danish: is that the person having them is *you*.
+
+[Hairy and Danish at a table. Hairy is standing up.]
+
+Danish: Ok, your turn! Ooh, try insulting my hair!
+
+Hairy: I think I need to go home and think about my life.
+
+Danish: It won't help.

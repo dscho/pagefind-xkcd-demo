@@ -6,21 +6,24 @@ alt: >-
   Physicists who want to protect traditional Christmas realize that the only way to keep from changing Christmas is not to observe it.
 img: https://imgs.xkcd.com/comics/christmas_plans.png
 ---
-[[Character A is standing behind Character B, who is sitting at a computer.]]
+[Cueball is standing behind a friend, who is sitting at a computer.]
 
-Character A: Hey, will you be in town the day after Christmas?
+Cueball: Hey, will you be in town the day after Christmas?
 
-Character B: Couldn't say - I'm Jewish.
+Friend: Couldn't say—
 
-Character A: But.. how does being Jewish keep you from knowing your plans?
+Friend: I'm Jewish.
 
-Character B: I know my plans - I just don't know when Christmas is.
+Cueball: But... how does being Jewish keep you from knowing your plans?
 
-Character A: Really? Why not look it up?
+Friend: I know my plans—
 
-Character B:  Well, I'm also a physicist.
+Friend: I just don't know when Christmas is.
 
-Character A: So?
+Cueball: Really? Why not look it up?
 
-Character B: I believe that since I don't observe Christmas, it can't have a definite date.
+Friend: Well, I'm also a physicist.
 
+Cueball: So?
+
+Friend: I believe that since I don't observe Christmas, it can't *have* a definite date.

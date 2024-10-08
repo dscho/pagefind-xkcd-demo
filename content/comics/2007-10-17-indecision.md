@@ -3,30 +3,31 @@ date: 2007-10-17
 title: "Indecision"
 num: 330
 alt: >-
-  Hey, I don't make the rules.  It's in the book.
+  Hey, I don't make the rules. It's in the book.
 img: https://imgs.xkcd.com/comics/indecision.png
 ---
-First Guy: So, what do you want to do?
+[Cueball is lying on the floor with his friend.]
 
-Second Guy: Still no ideas.
+Cueball: So what do you want to do?
 
-First guy: Wait, I think there's a rule about this.
+Friend: Still no ideas.
 
-[[First Guy goes to bookshelf and removes a book called "Rules"]]
+Cueball: Wait, I think there's a rule about this.
 
-[[The book of Rules is opened to the following:
+[Cueball goes to bookshelf and removes a book called "Rules".]
+
+[The book of rules is opened to the following:
 
 RULE social.b.99.1
 
-If friends spend more than 60 minutes unable to decide what to do, they must default to sexual experimentation.]]
+If friends spend more than 60 minutes deciding what to do, they must default to sexual experimentation.
 
-[[First Guy is standing, holding the book. Second Guy is in the process of standing up.]]
+[Cueball is standing, holding the book. The friend is in the process of standing up.]
 
-First Guy: Huh.
+Cueball: Huh.
 
-Second Guy: I did not know that rule.
+Friend: I did not know that rule.
 
-First Guy: Me neither.
+Cueball: Me neither.
 
-Second Guy: I'll go get the Crisco.
-
+Friend: I'll go get the Crisco.

@@ -6,29 +6,28 @@ alt: >-
   It ships with a version of Google Now that alerts you when it's too late to leave for your appointments.
 img: https://imgs.xkcd.com/comics/airaware.png
 ---
-[[Hat Guy is holding the remote for a drone which hovers nearby.]]
+[Cueball and Black Hat looking at a remote-controlled flying object.]
 
-Guy: What's that?
+Cueball: What's that?
 
-Hat Guy: It's a drone for my new business, AirAware.
+Black Hat: It's a drone for my new business, *AirAware*.
 
-Our UAVs follow you and learn your schedule. If you miss a turn, forget an appointment, or give someone inaccurate information, they alert you.
+Black Hat (narrating): Our UAVs follow you and learn your schedule. If you miss a turn, forget an appointment, or give someone inaccurate information, they alert you.
 
-Woman, on the phone: I'll be there in five.
+Megan (on phone): I'll be there in five.
 
-Drone: WRONG!
+Booming voice from the sky: <big>***WRONG!***</big>
 
-Woman: Augh!
+Megan: Augh!
 
-Guy: That sounds annoying. Who would pay for that?
+Cueball: That sounds annoying. Who would *pay* for that?
 
-Hat Guy: Huh? Nobody pays. I'm just making these and releasing them.
+Black Hat: Huh? Nobody pays. I'm just making these and releasing them.
 
-Guy: That's not a business. You're just yelling at strangers from the sky.
+Cueball: That's not a business. You're just yelling at strangers from the sky.
 
-Guy: A business has to make money somehow.
+Cueball: A business has to make money somehow.
 
-Drone: WRONG!
+Booming voice from the sky: <big>***WRONG!***</big>
 
-Guy: Augh!!
-
+Cueball: Augh!!

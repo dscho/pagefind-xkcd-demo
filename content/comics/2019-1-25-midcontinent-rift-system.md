@@ -12,14 +12,14 @@ img: https://imgs.xkcd.com/comics/midcontinent_rift_system.png
 
 [Black Hat stands at a lectern with a "Vote 2020" sign on it. He gestures to an image of the globe with a giant crowbar inserted in the rift with an arrow indicating applying pressure to widen the rift.]
 
-Black Hat: We don’t know why it stopped. If elected, I vow to finish the job. Thank you.
+Black Hat: We don’t know why it stopped.  If elected, I vow to *finish* the job.  Thank you.
 
 [Ponytail, Black Hat, Megan, and Cueball walk to the right away from a set of stairs. Cueball is looking at a phone and Ponytail is looking at a device or paper with writing on it.]
 
 Ponytail: Great job up there.
 
-Black Hat: Thanks! How are my polling numbers?
+Black Hat: Thanks!  How are my polling numbers?
 
 Ponytail: Well, I’m seeing some weakness in the Midwest.
 
-Black Hat: So am I. So am I.
+Black Hat: So am I.  So am I.

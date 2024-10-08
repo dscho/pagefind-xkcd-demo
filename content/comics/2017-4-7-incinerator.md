@@ -18,6 +18,6 @@ Ponytail: Great, the new incinerator is installed. Now we just need to dispose o
 
 Cueball: Hey, could—
 
-Ponytail (off-panel): No.
+Ponytail (off-panel): *No.*
 
 Cueball: Aww, maaan.

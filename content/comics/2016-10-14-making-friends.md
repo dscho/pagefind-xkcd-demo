@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/making_friends.png
 
 Ponytail: Making friends is so much harder once you're out of school.
 
-Ponytail: Everyone's so busy. And how do you even meet people?
+Ponytail: Everyone's so busy. And how do you even *meet* people?
 
 [In this frame-less panel Cueball raises his arms in front of his chest while they walk on.]
 
@@ -22,6 +22,6 @@ Cueball: I pretend to be weak and injured, and wait for others to start circling
 
 Cueball: Then, before they can descend, I start telling them cool facts about space until they like me.
 
-Cueball: Bam, friendship!
+Cueball: *Bam*, friendship!
 
 Ponytail: This explains a lot.

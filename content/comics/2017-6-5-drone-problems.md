@@ -28,8 +28,8 @@ Cueball: Here comes another one! Aim for… nope, it got stuck in a tree.
 
 [Cueball is now sitting on the porch with a half-full drinking glass in one hand leaning back on the other hand. Megan is gesturing at her device while holding her phone down. Above the top part of the frame, there is another smaller frame overlaid with a caption:]
 
-Three hours later…
+ Three hours later…
 
 Cueball: Finally, two more just— no, one crashed and the other is hurtling sideways toward the lake.
 
-Megan: Will you people learn to fly these things?!
+Megan: *Will you people learn to fly these things?!*

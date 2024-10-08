@@ -6,31 +6,24 @@ alt: >-
   We watched DAYTIME TV. Do you realize how soul-crushing it was? I'd rather eat an iPad than go back to watching daytime TV.
 img: https://imgs.xkcd.com/comics/before_the_internet.png
 ---
-[[An adult and a child are standing around, looking at cellphones.]]
+[Young girl talking to Megan, both holding smartphones.]
 
-Child: Do you remember before the internet?
+Girl: Do you remember before the internet?
 
-Adult: Oh yeah, totally.
+Megan: Oh yeah, totally.
 
-[[The two look towards each other, no longer actively looking at their phones.]]
+Girl: what was it like?
 
-Child: What was it like?
+Megan: Not having a phone or computer to distract you?
 
-Adult: Not having a phone or computer to distract you?
+Girl: Yeah.
 
-Child: Yeah.
+Megan: It was ***SO. BORING.*** All the time. I just ***sat*** there. It was the ***worst.***
 
-[[Conversation continues.]]
+Girl: But wasn't it, like, more fulfilling? Engaging?
 
-Adult: It was SO. BORING. All the time. I just *sat* there. It was the *worst*.
+Megan: Wasn't worth it.
 
-[[Adult goes back to looking at phone.]]
+Girl: *I* still get bored.
 
-Child: But wasn't it, like, more fulfilling? Engaging?
-
-Adult: Wasn't worth it.
-
-Child: I still get bored.
-
-Adult: Not like we did.
-
+Megan: Not like we did.

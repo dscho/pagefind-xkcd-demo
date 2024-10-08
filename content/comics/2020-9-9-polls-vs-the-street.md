@@ -8,16 +8,16 @@ img: https://imgs.xkcd.com/comics/polls_vs_the_street.png
 ---
 White Hat: Polls are just numbers.
 
-White Hat: You have to talk to people on the street.
+White Hat: You have to talk to people on the *street*.
 
-White Hat: Polls say most people support <Candidate X>.
+White Hat: Polls *say* most people support <Candidate X>.
 
-White Hat: But the people I talk to on the street support <Candidate Y>.
+White Hat: But the people I talk to on the *street* support <Candidate Y>.
 
-White Hat: Polls claim most people don't live in my town and have never been here.
+White Hat: Polls *claim* most people don't live in my town and have never been here.
 
-White Hat: But the people I meet on the street tell a very different story.
+White Hat: But the people I meet on the *street* tell a very different story.
 
-White Hat: According to polls, most people don't like playing in traffic.
+White Hat: According to *polls*, most people don't like playing in traffic.
 
-White Hat: So why do I never seem to meet these people on the street?
+White Hat: So why do I never seem to meet these people on the *street*?

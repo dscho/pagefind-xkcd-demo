@@ -24,7 +24,7 @@ Cueball: I think most of the shops are closed because of coronavirus.
 
 Beret Guy: Oh no!
 
-Beret Guy: The curse must have caused the pandemic!
+Beret Guy: *The curse must have caused the pandemic!*
 
 Cueball (off-panel): What.
 
@@ -34,10 +34,10 @@ Beret Guy: If I destroy the chair, we can stop the virus!
 
 Cueball: What.
 
-[Beret Guy is chasing a floating desk chair. Cueball is watching.]
+[Beret Guy is chasing a floating desk chair. Cueball is watching. The desk chair speaks with white-on-black text.]
 
-Beret Guy: Die, plague-bringer!
+Beret Guy: *Die, plague-bringer!*
 
-Desk chair: Hee hee I can not die
+Desk chair: <span style="color:white; background:black">Hee hee I can not die</span>
 
 Cueball: Maybe you should just shop at IKEA.

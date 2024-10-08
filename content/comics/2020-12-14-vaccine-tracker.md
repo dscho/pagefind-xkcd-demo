@@ -16,20 +16,20 @@ Megan: Is that the state vaccine website?
 
 [Cueball refreshes the page]
 
-*REFRESH*
+ \*REFRESH\*
 
 Megan: You know it will be a while before you can-
 
 [Cueball refreshes the page, cutting her off.]
 
-*REFRESH*
+ \*REFRESH\*
 
 Megan: They haven't even announced when-
 
 [Cueball refreshes the page again, cutting her off.]
 
-*REFRESH*
+ \*REFRESH\*
 
 Megan: Are you going to sit there clicking refresh for several months?
 
-Cueball: I am ready for the pandemic to be done.
+Cueball: ***I am ready for the pandemic to be done.***

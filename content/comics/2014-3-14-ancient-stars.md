@@ -6,23 +6,22 @@ alt: >-
   'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.
 img: https://imgs.xkcd.com/comics/ancient_stars.png
 ---
-((All of the panels of this comic are white-on-black.))
+All of the panels of this comic are white-on-black.
 
-[[Two figures stand facing each other, looking up at the sky.]]
+[Megan and Cueball stand facing each other, looking up at the sky.]
 
-Figure One: Just think - the light from that start was emitted thousands of years ago. It could be long gone.
+Cueball: Just think - the light from that star was emitted thousands of years ago. It could be long gone.
 
-[[Figure One looks at Figure Two, who is still looking up.]]
+[Cueball looks at Megan, who is still looking up.]
 
-Figure Two: That's Sirius. It's eight light-years away.
+Megan: That's Sirius. It's eight light-years away.
 
-[[Figure One looks up again.]]
+[Cueball looks up again.]
 
-Figure One: Oh.
+Cueball: Oh.
 
-[[The two figures look at one another.]]
+[Both look at one another.]
 
-Figure One: Just think - the light from that star was emitted in the previous presidential administration.
+Cueball: Just think - the light from that star was emitted in the previous presidential administration.
 
-Figure Two: Hmm, doesn't pack quite the punch.
-
+Megan: Hmm, doesn't pack quite the punch.

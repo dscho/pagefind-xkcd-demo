@@ -3,18 +3,25 @@ date: 2008-10-24
 title: "Actuarial"
 num: 493
 alt: >-
-  I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside.  Hat guy wins again.
+  I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside. Hat guy wins again.
 img: https://imgs.xkcd.com/comics/actuarial.png
 ---
-Person: I know you shouldn't feed the trolls, but sometimes they just provoke me to where I can't help replying.
+[Cueball, seated at a computer terminal, facing to the left.]
 
-Hat Guy: Yeah, me too. Yesterday this guy kept spamming "First!" So I got a set of actuarial tables and spent twenty minutes telling him when all his childhood heroes would likely die.
+Cueball: I know you shouldn't feed the trolls, but sometimes they just provoke me to where I can't help replying.
 
-Person: ...
+[Black Hat, seated in an armchair reading a book, facing to the right]
 
-Person: Remind me never to upset you, ever.
+Black Hat: Yeah, me too. Yesterday this guy kept spamming "First!", so I got a set of actuarial tables and spent twenty minutes telling him when all his childhood heroes would likely die.
 
-Hat Guy: 2038: Last of the original Star Wars cast dies.
+[Cueball turns around in his chair.]
 
-Person: Augh!
+Cueball: ...
 
+[Black Hat, still reading his book.]
+
+Cueball (off-screen): Remind me never to upset you, ever.
+
+Black Hat: 2038: Last of the original Star Wars cast dies.
+
+Cueball (off-screen): Augh!

@@ -6,31 +6,30 @@ alt: >-
   'No idea what I was thinking! Haha! But anyway, maybe we should check out what this Ba'al guy has to say.'
 img: https://imgs.xkcd.com/comics/on_the_phone.png
 ---
-[[Shaggy-haired person walking across panel. A voice is heard out of panel.]]
+[Megan is pointing off-panel to the left and looking off-panel to the right.]
 
-SHP: Why is there a teapot in the bathroom?
+Megan: Why is there a teapot in the bathroom?
 
-OOP: Sorry. When I'm on the phone I always zone out and pick stuff up and carry it around.
+Off-panel voice (right): Sorry. When I'm on the phone I always zone out and pick stuff up and carry it around.
 
-[[SHP at the open fridge door, holding a hammer.]]
+[Megan is in front of an open fridge, holding a hammer.]
 
-SHP: There's a hammer in the fridge.
+Megan: There's a hammer in the fridge.
 
-OOP: Another phone call. I was just fidgeting.
+Off-panel voice: Another phone call. I was just fidgeting.
 
-[[SHP walks by four stacks of objects. They consist of books, baseballs, blenders, and other unidentified rectangular objects.]]
+[Megan is walking next to four stacks of household objects: the first has a lightbulb on top of a book, the second has a blender on top of three books, the third has five books (two balanced vertically) with a smaller rectangular object on top, and the fourth has two tennis balls on top of three books.]
 
-SHP: Did you put all our stuff in weird stacks?
+Megan: Did you put all our stuff in weird stacks?
 
-OOP: Long call. Sorry.
+Off-panel voice: Long call. Sorry.
 
-[[SHP goes out to the backyard, looks up at towering monolith.]]
+[Megan, outside, looks up at a towering straight-sided object.]
 
-SHP: ...why is there a giant obelisk in the backyard?
+Megan: ...Why is there a giant obelisk in the backyard?
 
-OOP: Phone again. My bad.
+Off-panel voice: Phone again. My bad.
 
-SHP: It's carved with prayers to "Ba'al, the Soul-Eater."
+Megan: It's carved with prayers to "Ba'al, the Soul-Eater."
 
-OOP: Haha! I'm so absentminded.
-
+Off-panel voice: Haha! I'm so absentminded.

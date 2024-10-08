@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/reading_in_the_original.png
 ---
 [Cueball is addressing Megan. He is holding a hand with a thumb up out toward her. Megan is spreading her arms out as she replies.]
 
-Cueball: It's in the "Languages" box in the lower left. It took a while to learn, but I find I get so much more out of it by reading it as it was intended.
+Cueball: It's in the "Languages" box in the lower left. It took a while to learn, but I find I get so much more out of it by reading it as it was ***intended***.
 
 Megan: That's not how that works!
 

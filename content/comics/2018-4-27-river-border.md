@@ -14,7 +14,7 @@ Ponytail: The Missouri-Nebraska state line follows this river. If the river's pa
 
 [A map is shown beneath the text spoken by Ponytail (off-panel). The map includes a bendy river shown in gray which is snaking its way from the left part of the panel down to the bottom. A dotted line indicates the old path of the river. It follows the gray river most of the way, but towards the bottom, this line moves away from the current river extending to north-east, including a large chunk of land that the river used to encompass previously. Two arrows point to the gray section of the river with the dotted line, and another arrow points to the section of the dotted line not following the gray section. Both are labeled. On each side of the dotted arc, where it is farthest from the gray part of the river the state names are labeled, so the text follows the direction of the river (almost north to south here).]
 
-Ponytail (narrating): But when it abruptly changes course, the border stays behind.
+Ponytail (narrating): But when it ***abruptly*** changes course, the border stays behind.
 
 Ponytail (narrating): This is a spot where that happened. We're on the Missouri side, but we're in Nebraska.
 
@@ -38,8 +38,8 @@ Megan: We can commit all the crimes we want here and the cops can't do a thing!
 
 Ponytail: What? No. Why would you even think that?
 
-Megan: I'm going to cut a pizza into a spiral!
+Megan: I'm going to cut a pizza into a ***spiral!***
 
 Ponytail: That's not even illegal!
 
-Megan: Crimes!
+Megan: ***Crimes!***

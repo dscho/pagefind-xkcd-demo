@@ -6,159 +6,128 @@ alt: >-
   StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.
 img: https://imgs.xkcd.com/comics/ineffective_sorts.png
 ---
-define HalfheartedMergeSort(list):
+**Ineffective sorts**
 
-     if length(list) <2:
+ define HalfheartedMergeSort(list):
 
-          return list
+     if length(list)<2:
 
-     pivot=int(length(list)
+         return list
 
-2)
+     pivot=int(length(list)/2)
 
-     A=HalfheartedMergeSort(list[:pivot])
+     a=HalfheartedMergeSort(list[:pivot])
 
-     B=HalfheartedMergeSort(list[pivot:])
+     b=HalfheartedMergeSort(list[pivot:])
 
-     
+     // ummmmm
 
- ummmmm
+     return [a,b] // Here. Sorry.
 
-     Return[A,B] 
+ define FastBogoSort(list):
 
-Here. Sorry.
+     // An optimized BogoSort
 
-define FastBoGoSort{list}:
+     // Runs in O(n log n)
 
-     
+     for n from 1 to log(length(list)):
 
- an optimized BoGoSort
+         shuffle(list):
 
-     
+         if isSorted(list):
 
- runs in 0(N logN)
+             return list
 
-     From N to 1 to log(length(list)):
+     return "Kernel Page Fault (Error code: 2)"
 
-          shuffle(list):
+ define JobInterviewQuicksort(list):
 
-          If isSorted(list):
-
-               Return list
-
-     Return "Kernel Page Fault (error code: 2)"
-
-Define JobInterviewQuicksort(list):
-
-     Ok so you choosea pivot
+     Ok so you choose a pivot
 
      Then divide the list in half
 
-     For each half:
+     for each half:
 
-           Check to see if it's sorted
+         check to see if it's sorted
 
-                No, wait, it doesn't matter
+             no, wait, it doesn't matter
 
-           Compare each element to the pivot
+         compare each element to the pivot
 
-                The bigger ones go in a new list
+             the bigger ones go in a new list
 
-                The equal ones go into, uh
+             the equal ones go into, uh
 
-                The second list from before
+             the second list from before
 
-           Hang on, let me name the lists
+         hang on, let me name the lists
 
-                This is list A
+             this is list A
 
-                The new one is list B
+             the new one is list B
 
-           Put the big ones into list B
+         put the big ones into list B
 
-           Now take the second list
+         now take the second list
 
-                Call it list, uh, A2
+             call it list, uh, A2
 
-           Which one was the pivot in?
+         which one was the pivot in?
 
-           Scratch all that
+         scratch all that
 
-           It just recursively calls itself
+         it just recursively calls itself
 
-           Until both lists are empty
+         until both lists are empty
 
-                Right?
+             right?
 
-           Not empty, but you know what I mean
+         not empty, but you know what I mean
 
-     Am I allowed to use the standard libraries?  
+     am I allowed to use the standard libraries?
 
-     
-
-Define PanicSort(list):
+ define PanicSort(list):
 
      if isSorted(list):
 
-          Return list
+         return list
 
-     for N from 1 to 10000:
+     for n from 1 to 10000:
 
-          pivot=random(0,length(list))
+         pivot=random(0,length(list))
 
-          list=list[pivot:]+list[:pivot]
+         list=list[pivot:]+list[:pivot]
 
-          if isSorted(list):
+         if isSorted(list):
 
-               return list
-
-     if isSorted(list):
-
-          return list
+             return list
 
      if isSorted(list):
 
- this can't be happening
+         return list:
 
-          return list
+     if isSorted(list): //this can't be happening
 
-     if isSorted(list):
+         return list
 
- come on come on
+     if isSorted(list): //come on come on
 
-          return list
+         return list
 
-     
+     // oh jeez
 
- oh jeez
+     // i'm gonna be in so much trouble
 
-     
+     list=[]
 
- I'm gonna be in so much trouble
+     system("shutdown -h +5")
 
-     list = [ ]
+     system("rm -rf ./")
 
-     system ("shutdown -H +5")
+     system("rm -rf ~/\*")
 
-     system ("rm -rf .
+     system("rm -rf /")
 
-")
+     system("rd /s /q C:\\*") //portability
 
-     system ("rm -rf ~
-
-*")
-
-     system ("rm -rf 
-
-")
-
-     system (rd 
-
-s 
-
-q C:\*") 
-
-portability
-
-     return [1, 2, 3, 4, 5]
-
+     return [1,2,3,4,5]

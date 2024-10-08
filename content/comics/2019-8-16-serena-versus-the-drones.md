@@ -32,4 +32,4 @@ Which types of sports equipment would be most effective at bringing down a rogue
 
 [Caption beneath the panels, with the "here" in link blue color... The entire image is a link, so no need to click on the here though.]
 
-To read an excerpt about Serena's drone battle, click here or go to blog.xkcd.com
+To read an excerpt about Serena's drone battle, click <span style="color:blue">here</span> or go to blog.xkcd.com

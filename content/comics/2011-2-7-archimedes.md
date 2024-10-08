@@ -6,11 +6,14 @@ alt: >-
   Give a man a fish, or he will destroy the only existing vial of antidote.
 img: https://imgs.xkcd.com/comics/archimedes.png
 ---
-Guy: In the words of Archimedes,
+[Cueball is standing normally.]
 
-Guy: Give me a long enough lever and a place to rest it,
+Cueball: In the words of Archimedes,
 
-[[Guy pulls out a gun.]]
+[Cueball extends his left arm slightly.]
 
-Guy: Or I will kill one hostage every hour.
+Cueball: Give me a long enough lever and a place to rest it
 
+[Cueball is now holding a gun in his right hand.]
+
+Cueball: Or I will kill one hostage every hour.

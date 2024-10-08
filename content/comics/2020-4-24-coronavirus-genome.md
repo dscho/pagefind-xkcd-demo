@@ -12,7 +12,7 @@ Cueball (off-screen): So that's the coronavirus genome, huh?
 
 Megan: It is!
 
-Laptop: <A long string of unintelligible letters, presumably the genome>
+Laptop: *<A long string of unintelligible letters, presumably the genome>*
 
 [Cueball walks up and stands behind Megan, still working on the laptop.]
 
@@ -38,4 +38,4 @@ Cueball: Hey, why does that one have a red underline?
 
 Megan: When we identify a virus, we add its genome to spellcheck. That's how we spot mutations.
 
-Cueball: Clever!
+Cueball: *Clever!*

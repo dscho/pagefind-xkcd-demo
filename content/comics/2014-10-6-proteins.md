@@ -6,33 +6,24 @@ alt: >-
   Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!
 img: https://imgs.xkcd.com/comics/proteins.png
 ---
+[Cueball is talking with Megan.]
 
+Cueball: What do you do?
 
-[[Man and woman talking]]
+Megan: I make software that predicts how proteins will fold.
 
-Man: What do you do?
+Cueball: Is that a hard problem?
 
-Woman:  I make software that predicts how proteins will fold.
+Megan: Someone may someday find a harder one.
 
-[[Same scene layout, second panel]]
+Cueball: Why is it so hard?
 
-Man: Is that a hard problem?
+Megan: Have you ever made a folded paper crane?
 
-Woman:  Someone may someday find a harder one.
+Cueball: Yeah.
 
-[[Same scene layout, third panel]]
+Megan: Imagine figuring out the folds to make an actual *living* crane.
 
-Man: Why is it so hard?
+Cueball: ...*just* folds? Can I make cuts?
 
-Woman: Have you ever made a folded paper crane?
-
-Man: Yeah.
-
-[[Same scene layout, fourth panel]]
-
-Woman: Imagine figuring out the folds to make an actual living crane.
-
-Man: ... just folds?  Can I make cuts?
-
-Woman: If you can fold a protease enzyme.
-
+Megan: If you can fold a protease enzyme.

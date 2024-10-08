@@ -6,39 +6,38 @@ alt: >-
   'It has a ghost in it. Take it back.' 'No.'
 img: https://imgs.xkcd.com/comics/inexplicable.png
 ---
-[[A figure sits at a desk with a laptop. A woman is off-screen.]]
+[Cueball sits at a desk with a laptop, making a fist at it.]
 
-Figure: Argh! 
+Cueball: *Argh!*
 
-Woman: What? 
+Megan (off-screen): What?
 
-Figure: Why do I always have these inexplicable, impossible-to-diagnose computer problems? 
+Cueball: Why do I always have these inexplicable, impossible-to-diagnose computer problems?
 
-[[The woman walks up to the desk.]]
+[Megan walks up to the desk.]
 
-Figure: After six hours of this, I've concluded nothing works or makes sense. I give up on logic. 
+Cueball: After six hours of this, I've concluded nothing works or makes sense. I give up on logic.
 
-Woman: <<sigh>>Gimme. I'll figure it out. 
+Megan: \*sigh\* Gimme. I'll figure it out.
 
-Figure: You won't. 
+Cueball: You won't.
 
-[[The figure sits at his laptopless desk. Off-screen, we can hear the woman working on it. 
+[Cueball sits at his laptopless desk while Megan works on the laptop off-screen.]
 
-<<Type type>>
+*type type*
 
-<<Click>>
+*Click*
 
-Woman: ?
+Megan: ?
 
-<<Type type type>>
+*type type type*
 
-Woman: ???
+Megan: ???
 
-[[The woman is back in front of the desk, clutching the laptop.]]
+[Megan is back in front of the desk, clutching the laptop.]
 
-Figure: How'd it go? 
+Cueball: How'd it go?
 
-Woman: Your computer is literally haunted. 
+Megan: Your computer is literally haunted.
 
-Figure: Told you. 
-
+Cueball: *Told* you.

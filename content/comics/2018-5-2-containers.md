@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/containers.png
 ---
 [White Hat is sitting at a laptop. Cueball is standing behind him.]
 
-White Hat: Man, Docker is being used for everything.
+White Hat: Man, Docker is being used for <i>everything</i>.
 
 White Hat: I don't know how I feel about it.
 
@@ -30,7 +30,7 @@ Cueball: I downloaded the SDK and the IDE, registered as a developer, and starte
 
 [A picture of two smartphones glued together side by side, held on a backing board. The same two applications shown earlier are open on different phones.]
 
-Cueball: ...Then I realized it would be way easier to get two smaller phones on eBay and glue them together.
+Cueball: ...Then I realized it would be **<i>way</i>** easier to get two smaller phones on eBay and glue them together.
 
 Cueball: On that day, I achieved software enlightenment.
 

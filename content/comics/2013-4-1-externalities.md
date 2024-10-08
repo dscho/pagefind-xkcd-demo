@@ -3,82 +3,89 @@ date: 2013-04-01
 title: "Externalities"
 num: 1193
 alt: >-
-  
+  Mouse over words and things to see where they come from.
 img: https://imgs.xkcd.com/comics/externalities.png
 ---
-((This is a dynamic image with several different mouse-overs. Mouse-overs for specific panels are included in double curly brackets.))
+[This was a dynamic image where the text changed during April 1st. The main title text also changed after the dynamic part was finished, and there are even different title text for different part of the comic. This transcript is of the final version of the comic, (no longer dynamic or changing), as displayed at present on xkcd, there are still four different title texts for specific panels. These four title text are for that reason included here in the transcript.]
 
-Ahoy, Carnegie Melonites! Come find your future at Baidu.
+[The basic title text for the entire comic is: "This comic went up on April 1st, and the panels changed throughout the day in response to readers doing things like breaking hashes, edited a rapidly-shuffling set of target Wikipedia articles, and donating to Wikimedia Foundation. (The vandalism is over now and CMU won the hashing contest.)" The other three title text are only active over certain panels.]
 
-[[A woman with black hair stands in a blank void.]]
+[The first panel with the caption and Megan below has its own title text. A part of that panel is a link, and in the section where this link is active there is no title text at all. The title text for the rest of the first panel is: "Happy April 1st, everyone!"]
 
-Woman: But nothing about Tiananmen Square.
+[A panel with only text is above the first drawing. There is a link on the top part of the text to https://almamater.xkcd.com/ (the link is now broken).]
 
-{{Happy April 1st, everyone!}}
+Ahoy, carnegie melonites!
 
-((There is a link on this panel to almamater.xkcd.com.))
+
+
+Come find your future at Baidu.
+
+[Below, not in a frame, is Megan.]
+
+Megan: But nothing about Tiananmen Square.
+
+[Caption floating above the frame of the next panel:]
 
 It takes great minds to stifle other great minds.
 
-[[A woman with a ponytail sits at a desk with two other people.]]
+[Ponytail sits at a desk, hand to her chin, with two Cueball-like guys with their hands on the table.]
 
-Woman: Let's block Canada
+Ponytail: Let's block Canada
 
-Others: Sounds good.
+Cueball-like guys: Sounds good.
 
-We're a convenient four hour drive from New York City (15,000 hours by Roomba)
+[Ponytail crouches on a moving Roomba (labeled) with a steaming mug of coffee in one hand and a smartphone in the other. Above her is a caption. The Roomba makes a noice]
 
-[[A woman crouches on a moving Roomba with a steaming mug of coffee in one hand and a smartphone in the other.]]
+We're a convenient four hour drive from New York City (15,000 hours by Roomba.)
 
-<<whirrrrrrr>>
+*Whirrrrrrr*
+
+Roomba
+
+[Ponytail and Hairy corners Cueball as he walks out of a door, and a black haired ponytailed girl is moving towards him wielding a giant butterfly net. There is a caption above them:]
 
 Our recruiters are on the hunt for unaware CMU graduates
 
-[[A dark-haired woman approaches three students with a giant net as they leave a classroom.]]
+[The fifth panel has its own title text only active within (or very close to) the frame. It is: "uic has the third best hash. See the full standings at https://almamater.xkcd.com/best.csv" (The link is now broken)]
 
-Or UIC graduates, provied any of them manage to fill out the application correctly.
+[There is a caption above a website application. There is three fields to be filled, with each their caption and text:]
 
-[[A website application which reads:]]
+or uic graduates, provied any of them manage to fill out the application correctly.
 
-Name: WHICH ONE
+Name which one
 
-Email: FORGET IT
+Email forget it
 
-Education: RIDING THE L ALL NIGHT LONG
+Education Riding the L all night long
 
-((uic has the third best hash. See the full standings at http:
-
-almamater.xkcd.com
-
-best.csv))
+[Caption floating above the frame of the next panel:]
 
 At Baidu, Inc., you'll have the opportunity to work on cutting-edge projects.
 
-[[A man sits at a computer.]]
+[Cueball sits at a computer.]
 
-Man: What does "make dog" do?
+Cueball: What does "make dog" do?
 
-Off-screen person: Experimental dog generator. Don't click on it; the default size isn't set, so-
+Off-screen voice: Experimental dog generator. Don't click on it; the default size isn't set, so-
 
-<<click>>
+**\*click\***
 
-[[The man stares at the screen.]]
+[The last three panels has their own title text, only active within a frame that could contain all three panel. Outside that "frame" (all the way around) is the other title text. Within the title text is: "The dog gains a pound for every $10 donated to the Wikimedia Foundation via this link. Currently at $51135.33."]
 
-<<KZZZT>> <<*bip*>>
+[Small insert panel, going in above the next larger panel: Cueball stares at the screen.]
 
-Off-screen: Uh oh.
+*Kzzzt*
 
-[[A giant dog licks the desk where the computer once was, the man in the chair stares up at it.]]
+*\*bip\**
 
-((The dog gains a pound for every $10 donated to the Wikimedia Foundation via this link. Currently at $41457.11.))
+Off-screen voice: Uh oh.
 
-[[A graphic showing two sliders and a dog. Next to the dog with arrows pointing to it are a thermometer graphic and the equation d(x)=R.]]
+[A giant dog looks down at the desk where the computer once was, now only the wires are left. Cueball, leaning way back in his office chair, holding his hand to his mouth, stares up at it.]
 
-CAREERS@BAIDU, INC.
+[Again a smaller insert panel above the large one with the dog. A graphic showing two sliders and a dog (similar to the one in the previous panel). Next to the dog with arrows pointing to it are a thermometer graphic and an equation. Below is an e-mail type text and finally a caption. There are arrows over and under "God" and "dogs" between the g and d's.]
 
-PLAY GOD WITH DOGS (TM) 
+d(x)=R
 
-((There are arrows over and under "GOD" and "DOG" indicating that you switch the letters.))
+careers@baidu, Inc.
 
-((The previous three panels link to the special Wikimedia fundraiser page.))
-
+**Play God with dogs.**<sup>TM</sup>

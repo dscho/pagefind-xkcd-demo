@@ -8,18 +8,25 @@ img: https://imgs.xkcd.com/comics/linked_list_interview_problem.png
 ---
 [Cueball is writing on a whiteboard with a blue pen with Ponytail looking over his shoulder. The text on the board is unreadable, but it is is written in blue above them. It is a piece of code and it reads:]
 
-   define traverseLinkedList(headPointer):
-      myId="<illegible scribbling>"
-      authToken="<illegible>"
-      museumAddress="<illegible>@<illegible>.<illegible>"
-      client=mailRestClient(myID, authToken)
-      client.messages.send(to=museumAddress,
-      subj="Item donation?", body="Thought you
-      might be interested: "+str(headPointer))
-      return
+    <font color="blue">define traverseLinkedList(headPointer):
 
+       myId="*<illegible scribbling>*"
 
-Ponytail: Hey.
+       authToken="*<illegible>*"
+
+       museumAddress="*<illegible>*@*<illegible>*.*<illegible>*"
+
+       client=mailRestClient(myID, authToken)
+
+       client.messages.send(to=museumAddress,
+
+       subj="Item donation?", body="Thought you
+
+       might be interested: "+str(headPointer))
+
+       return</font>
+
+Ponytail: *Hey.*
 
 [Caption beneath the panel:]
 

@@ -6,24 +6,36 @@ alt: >-
   Staple guns: because duct tape can't make that 'kaCHUNK' noise.
 img: https://imgs.xkcd.com/comics/the_staple_madness.png
 ---
-Man with Beret: I FOUND MEGAN'S STAPLE GUN! [[holds up staple gun]]
+[Beret Guy and Cueball standing.]
 
-Man: [[holding forehead]] OH NO.
+Beret Guy: [holding up a staple gun] I found Megan's staple gun!
 
-Man: [[outside of the panel]] OH GOD WHAT ARE YOU--
+Cueball: [facepalming] Oh no.
 
-Man with Beret: [[kneeling at laptop, stapling DVD to laptop]] INSTALLING DEBIAN! <<KA CHUNK>>
+[Beret Guy kneeling over a laptop on the floor.]
 
-Man with Beret: SANDWICHES! <<ka CHUNK ka CHUNK>>
+Cueball: [from outside panel] Oh God, what are you--
 
-Man with Beret: [[running with staple gun]] MUST AFFIX EVERYTHING TO EVERYTHING
+Beret Guy: [stapling a DVD to the laptop] Installing Debian! *kaCHUNK*
 
-<<ka CHUNK ka CHUNK ka CHUNK ka CHUNK ka CHUNK ka CHUNK>>
+[Beret Guy standing over a table.]
 
-[[Megan enters holding tote bag]]
+Beret Guy: [stapling a sandwich together] Sandwiches! *kaCHUNK kaCHUNK*
 
-Megan: ...HAVE YOU BEEN ABUSING MY STAPLE GUN?
+[Beret Guy running with the staple gun.]
 
-Man with Beret: NO.
+Beret Guy: Must affix everything to everything!
 
-God: [[outside of scene, as voice from above]] YES!
+[Unframed panel.]
+
+*kaCHUNK kaCHUNK kaCHUNK kaCHUNK kaCHUNK kaCHUNK*
+
+[Megan enters, holding a tote bag.]
+
+Megan: ...Have you been abusing my staple gun?
+
+Beret Guy: No.
+
+<!-- God is correct, as per official transcript -->
+
+God: [as voice from above] YES!

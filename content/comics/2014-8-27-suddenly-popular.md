@@ -6,28 +6,70 @@ alt: >-
   Are Your Teens Practicing Amplexus? Learn These Six Telltale Signs!
 img: https://imgs.xkcd.com/comics/suddenly_popular.png
 ---
+Obscure words and phrases everyone suddenly becomes very familiar with.
 
+[A time line to the left is marked of by several phrases to the right around the time they became familiar to the public:]
 
-Obscure words and phrases
+← World Wide Web
 
-everyone suddenly becomes familiar with
+← DNA Evidence
 
-Pre 1995 - World wide web, DNA evidence
+1995
 
-Post 1995 - Militia movement, supermax
+← Militia Movement
 
-Post 2000 - Butterfly ballot, al-qaeda, wi-fi
+← Supermax
 
-Post 2005 - Tsunami, viral
+2000
 
-Post 2010 - Radicalize, metadata
+← Butterfly Ballot
 
-Post 2015 - Lahar, Insect-borne
+← Al-Qaeda
 
-Post 2020 - Earth-crossing, thermohaline, snow blindness
+← Wi-Fi
 
-Post 2025 - Amplexus, controlled hydroplaning
+2005
 
-Post 2030 - Paradoxical reaction, drone desertion, rapid hair growth
+← Tsunami
 
-Post 2035 - I swear allegiance to the God-Empress in life and in death
+← Viral
+
+2010
+
+← Radicalize
+
+← Metadata
+
+2015
+
+← Lahar
+
+← Insect-Borne
+
+2020
+
+← Earth-Crossing
+
+← Thermohaline
+
+← Snow-Blindness
+
+2025
+
+← Amplexus
+
+← Controlled Hydroplaning
+
+2030
+
+← Paradoxical Reaction
+
+← Drone Desertion
+
+← Rapid Hair Growth
+
+2035
+
+← I Swear Allegiance To The God-Empress In Life And In Death
+
+2040

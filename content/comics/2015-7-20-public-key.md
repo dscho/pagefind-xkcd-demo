@@ -6,13 +6,12 @@ alt: >-
   I guess I should be signing stuff, but I've never been sure what to sign. Maybe if I post my private key, I can crowdsource my decisions about what to sign.
 img: https://imgs.xkcd.com/comics/public_key.png
 ---
-[[Character sits alone at a desk.. drifting in an infinite white void..]]
+[In the first panel, Cueball is sitting in a chair and is using a laptop.]
 
-Character, thinking: I've been posting my public key for fifteen years now, but no one has ever asked me for it or used it for anything as far as I can tell.
+Cueball (thinking): I've been posting my public key for 15 years now, but no one has ever asked me for it or used it for anything as far as I can tell.
 
-[[A frame of silence.]]
+[This is followed by two beat panels where Cueball just sits there. doing nothing, not even thinking.]
 
-[[Another frame of silence.]]
+[In the final panel he again uses his laptop and thinks.]
 
-Character, thinking more: Maybe I should try posting my PRIVATE key instead.
-
+Cueball (thinking): Maybe I should try posting my *private* key instead.

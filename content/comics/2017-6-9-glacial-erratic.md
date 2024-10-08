@@ -12,9 +12,9 @@ Ponytail: That rock is a glacial erratic-A glacier broke it off from those hills
 
 [In a frame-less panel they stand and watch the rock.]
 
-Megan: What? And just left it here?
+Megan: What? And just *left* it here?
 
-Megan: And everybody's okay with this?
+Megan: And everybody's *okay* with this?
 
 [Megan tries to lift the rock with two hands.]
 
@@ -28,4 +28,4 @@ Megan: ...back...
 
 Ponytail: Why ... Why are you doing that?
 
-Megan: Because fuck glaciers!
+Megan: *Because fuck glaciers!*

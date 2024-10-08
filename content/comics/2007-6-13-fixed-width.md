@@ -6,7 +6,9 @@ alt: >-
   I wish I knew how to quit this so I wouldn't have to quit you.
 img: https://imgs.xkcd.com/comics/fixed_width.png
 ---
-[[A man, Rob, is sitting at a computer. The text is an IRC-style transcript of a conversation, in a fixed-width font. He is text-messaging a girl he slept with named Emily; their messages read as follows:]]
+[A man, Rob, is sitting at a computer. The text is an IRC-style transcript of a conversation, in a fixed-width font. He is text-messaging a girl he slept with named Emily; their messages read as follows:]
+
+<pre>
 
 <rob> hi
 
@@ -46,5 +48,6 @@ img: https://imgs.xkcd.com/comics/fixed_width.png
 
 <rob> and it would have broken the pattern
 
-* emily has disconnected
+\* emily has disconnected
 
+</pre>

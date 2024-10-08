@@ -6,25 +6,62 @@ alt: >-
   Oh, definitely not; they don't have Amazon Prime.
 img: https://imgs.xkcd.com/comics/10_day_forecast.png
 ---
-[[A figure sits at a desk using a computer, conversing with an off-screen woman.]]
+[Cueball sits behind a computer desk when Megan calls to him.]
 
-Woman: Is it going to rain this weekend? I have a thing. 
+Megan (off-panel): Is it going to rain this weekend? I have a thing.
 
-Man: Lemme check.
+Cueball: Lemme check.
 
-<<Type type>>
+<small>\*type type\*</small>
 
-Man: ... Uhh. What? 
+Cueball: ...Uhh. What?
 
-((Ten small panels are presented, each one with a picture describing that day's weather.))
+[A caption is written above ten small panels in two rows. In each panel is an indication of the weather. Below each panel a label tells which day it is referring too.]
 
-Your 10 day forecast: 
+**Your 10-day forecast:**
 
-[[Today: A sun. Tomorrow: A sun obscured by grey clouds. Friday: Three grey clouds with a single lightning bolt. Saturday: Giant grey clouds; 7 lightning bolts. Sunday: a huge swarm of flies. Monday: Three stick figures with elongated bodies; one seems to be holding his head in pain. Tuesday: A figure is silhouetted against a dull red-brown glow; he seems to be wearing a huge-winged helmet. Tuesday: white noise. Tuesday: complete black. Tuesday: complete black.]]
+[A yellow sun.]
 
-[[The woman has walked up to the figure at the desk.]]
+Today
 
-Woman: ... Oh! You typed a minus sign in the zip code. The negative zip codes are all like that. 
+[Two gray clouds in front of the sun.]
 
-Man: Let's *never* move there. 
+Tomorrow
 
+[Thunderstorms, with three gray clouds and a single lightning bolt.]
+
+Friday
+
+[Extreme thunderstorms with many large gray clouds and seven lightning bolts]
+
+Saturday
+
+[A swarm of insects, with one large black one close by and seven others close enough to discern details. The rest of the swarm is grayed out and just shown as small dots behind these other eight insects.]
+
+Sunday
+
+[Images of distorted people with very long legs. One Megan, one Cueball and someone in the background.]
+
+Monday
+
+[A humanoid figure with two large horns or a winged helmet silhouetted against a bleak red background. The ground beneath the figure is black.]
+
+Tuesday
+
+[Grey static]
+
+Tuesday
+
+[Black screen]
+
+Tuesday
+
+[Black screen]
+
+Tuesday
+
+[Megan has entered the panel and stands behind Cueball looking at his laptop over his shoulder. She points to the screen. Cueball holds his hand to his chest.]
+
+Megan: ...Oh! You typed a minus sign in the ZIP code. The negative ZIP codes are all like that.
+
+Cueball: Let's *never* move there.

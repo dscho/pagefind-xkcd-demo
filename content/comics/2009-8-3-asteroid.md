@@ -6,25 +6,27 @@ alt: >-
   My Deep Impact/Little Prince crossover fanfic has been poorly received by the community.
 img: https://imgs.xkcd.com/comics/asteroid.png
 ---
-[[The panel appears like a news report.]]
+[Blondie as a news anchor is standing in front of a screen pointing to a diagram of an asteroid's trajectory path with Earth in the path. There is a caption below the screen:]
 
-[[There is a picture of a rocket, captioned 'Breaking news']]
+Blondie: Astronomers have confirmed that the asteroid is headed for Earth.
 
-News-anchor: Astronomers have confirmed that the asteroid is headed for Earth.
+Caption: Breaking news
 
-News-anchor: NASA has launched a heroic mission to land a rover on the asteroid, drill into it, and destroy it with nuclear bombs.
+[In a frame-less panel Blondie narrates above a picture of a rocket with fire out the end of its two lifter rockets on either side of the central main part of the rocket. It flies up and right. In an inset picture to the right and below the rocket there is an image of a rover with text on it. The rower has two legs and a drill below it, and an antenna above the main body of the rower.]
 
-[[The picture of the rocket fills the panel.  In an inset picture is the rover.]]
+Blondie (narrating): NASA has launched a heroic mission to land a rover on the asteroid, drill into it, and destroy it with nuclear bombs.
 
-[[A woman is sitting at an interface. A man stands next to it.  Both are wearing headsets with microphones.]]
+Rover: NASA
 
-Woman with headset: The robot has landed successfully and planted the nukes! We're saved!
+[Ponytail is sitting in an office chair at the control panel of a large unit using it. Cueball stands in front of it looking away from her to the right. Both are wearing headsets with microphones. A voice speaks to them from off-panel right.]
 
-Man with headset: Hooray!
+Ponytail: The robot has landed successfully and planted the nukes! We're saved!
 
-Voice: We're heroes!
+Cueball: Hooray!
 
-[[Digital countdown.]]
+Voice (off-panel): We're heroes!
+
+[The Little Prince is standing on his small asteroid next to his rose and a very small volcano. He is looking at the NASA rover which is partly outside the panel to the right and up. Two legs and the drill can be seen as well as part of the antenna and the part of the body with the text. The rover has drilled into the asteroid. There is a digital countdown emanating from the rover above the Prince.]
 
 0:05...
 
@@ -32,8 +34,4 @@ Voice: We're heroes!
 
 0:03...
 
-[[The Little Prince is looking at the NASA rover, which has drilled into the asteroid.  Beside him is the rose, and a small volcano.]]
-
-{{Title text: My Deep Impact
-
-Little Prince crossover fanfic has been poorly received by the community.}}
+Rover: NASA

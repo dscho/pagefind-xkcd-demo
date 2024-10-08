@@ -14,7 +14,7 @@ Cueball: WD-40, diesel fumes...
 
 Cueball: And is that sea air? I guess they're near the ocean.
 
-Bubble wrap: Pop
+Bubble wrap: *Pop*
 
 [Caption below the panel:]
 

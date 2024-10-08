@@ -22,4 +22,4 @@ Megan: Well, I guess it worked.
 
 Cueball: According to my meta-model, the end of the pandemic is only four more models away.
 
-Megan: So close!
+Megan: ***So close!***

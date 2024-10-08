@@ -26,19 +26,19 @@ Megan: ...I can ignore it, right? That's fine.
 
 [In a frame-less panel Megan and Cueball drive in the sedan.]
 
-GPS: Turn left
+GPS: *Turn left*
 
-GPS: Recalculating
+GPS: *Recalculating*
 
-GPS: Make a U-turn
+GPS: *Make a U-turn*
 
-GPS: Recalculating
+GPS: *Recalculating*
 
-GPS: Turn right
+GPS: *Turn right*
 
-GPS: Make a U-turn
+GPS: *Make a U-turn*
 
-GPS: Recalculating
+GPS: *Recalculating*
 
 [Megan and Cueball walk back into the agency with the guy behind his desk. Megan holds out the car keys in one hand.]
 

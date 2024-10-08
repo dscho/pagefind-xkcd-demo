@@ -6,81 +6,70 @@ alt: >-
   You can arrange a pickup of your sword in Rivendell between the hours of noon and 7:00 PM.
 img: https://imgs.xkcd.com/comics/delivery_notification.png
 ---
-[[The first panel is a UPS InfoNotice(r).  Most of the text on it is just scribbles, though the company logo and header is clear.]]
+[The first panel is a UPS InfoNotice®. Most of the text on it is just scribbles, though the company logo and header is clear.]
 
-[[A person opens their door to see the InfoNotice(r).  From off panel, a second person reacts.]]
+[Cueball opens their door to see the InfoNotice® stuck on his door.]
 
-Person:  
+Cueball: *What!* I've been here all day!
 
-What!
+Cueball 2 (off-screen): Huh?
 
-  I've been here all day!
+Cueball: They have my laptop.
 
-Off-panel person 2: Huh?
+[Cueball and Cueball 2 are standing next to each other. Cueball has his arms to his sides, in annoyance.]
 
-Person: They have my laptop.
+Cueball 2: So get it tomorrow.
 
-[[Now both people are visible.  The first is making an expansive gesture of annoyance.]]
+Cueball: I fly out in the morning and they don't open till noon!
 
-Person 2: So get it tomorrow.
+Cueball 2: Sucks.
 
-Person: I fly out in the morning and they don't open till noon!
+[Cueball stands, working on a laptop.]
 
-Person 2: Sucks.
+Cueball: It's *right there*. I can see the UPS building on the map.
 
-[[The first person is at a laptop.  The second is once again off-panel.]]
+Cueball 2 (off-screen): Ok...
 
-Person: It's 
+[Dramatic zoom to the Cueball's upper torso and face, along with clenched fist.]
 
-right there
+Cueball: My laptop is there.
 
-.  I can see the UPS building on the map.
+Cueball: It's *mine*.
 
-Off-panel person 2: Ok...
+Cueball: I'm going to get it.
 
-[[Dramatic zoom to the person's upper torso and face, along with clenched fist.]]
+[Even more dramatic zoom! Cueball's face fills the panel.]
 
-Person: My laptop is there.  It's 
+Cueball 2 (off-screen): They won't let you.
 
-mine
+Cueball: Who are they to keep from me what is mine?
 
-.
+Cueball 2 (off-screen): Dude, they—
 
-Person: I'm going to get it.
+[Zoomed out on Cueball, who spins around, raising a finger.]
 
-[[Even more dramatic zoom!  The person's featureless face fills the panel.]]
+Cueball: A quest is at hand!
 
-Off-panel person 2: They won't let you.
+Cueball 2(off-screen): Security's gonna throw you out.
 
-Person: Who are they to keep from me what is mine?
+Cueball: I fear neither death nor pain. But I will not go unarmed.
 
-Off-panel person 2: Dude, they --
+[Three inset panels overlap, in a montage format.]
 
-[[The person spins, raising a finger, most likely to indicate some sort of quest at hand.]]
+[Elves in long robes stand around a table, on which lies a broken sword.]
 
-Person: A quest is at hand!
+ Light the beacons and send word to the Elves.
 
-Off-panel person 2: Security's gonna throw you out.
+ They must reforge the sword of my fathers.
 
-Person: I fear neither death nor pain.  But I will not go unarmed.
+[An Elf beats the sword together on an anvil.]
 
-((Three inset panels overlap, in a montage format.  The person narrates.))
+[An Elf rides a horse, silhouetted by the full moon.]
 
-[[Elves in long robes stand around a table, on which lies a broken sword.]]
+ Ere dawn, I will go forth to the Sorting Depot.
 
-Narrating person: Light the beacons and send word to the Elves.  They must reforge the sword of my fathers.
+[The Elf knocks at the door, sword in scabbard held under arm.]
 
-[[An Elf beats the sword together on an anvil.]]
+*Knock knock knock knock*
 
-[[An Elf rides a horse, silhouetted by the full moon.]]
-
-Narrating person: Ere dawn, I will go forth to the Sorting Depot.
-
-((The montage ends and normal panels resume.))
-
-[[The Elf knocks at the door, sword in scabbard held under arm.]]
-
-<<Knock knock knock knock>>
-
-[[The person opens the door, to find a second InfoNotice(r) stuck on top of the first.  The Elf is gone.]]
-
+[Cueball opens the door, to find a second InfoNotice® stuck on top of the first. The Elf is gone.]

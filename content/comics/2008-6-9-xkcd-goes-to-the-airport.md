@@ -6,39 +6,38 @@ alt: >-
   Under three ounces, but it stains panties.
 img: https://imgs.xkcd.com/comics/xkcd_goes_to_the_airport.png
 ---
-[[Standing outside the Airport. There is a sign saying "Airport" and a plane in the background.]]
+[Standing outside the Airport. There is a sign saying "Airport" and a plane in the background.]
 
-Girl: Okay, what airline?
+Megan: Okay, what airline?
 
-Guy: I'm following you.
+Beret Guy: I'm following you.
 
-Girl: ...I'm following *you*.
+Megan: ...I'm following <u>you</u>.
 
-Guy: I assumed we were walking to the bakery.
+Beret Guy: I assumed we were walking to the bakery.
 
-Girl: You always assume that!
+Megan: You always assume that!
 
-[[Presumably the security checkpoint]]
+[Presumably the security checkpoint. The Security guy is digging through Cueball's bags.]
 
-Security Guy: Lockpicks? These are... illegal, actually. Where did you get them?
+Security guy: Lockpicks? These are... illegal, actually. Where did you get them?
 
-Guy: Oh man, it all started with this hacker girl.
+Cueball: Oh man, it all started with this hacker girl.
 
-Security Guy: You need to come with -
+Security guy: You need to come with-
 
-Guy: Sure, sure. But man, let me tell you about her!
+Cueball: Sure, sure. But man, let me tell you about her!
 
-[[On a plane]]
+[On a plane. Cueball is on a laptop.]
 
 Announcement: If your device has a "Transmit" function, please disable it.
 
-Guy: Okay - hang on, I'm half way through the iwconfig man page.
+Cueball: Okay - hang on, I'm halfway through the iwconfig man page.
 
-[[Security checkpoint]]
+[Security checkpoint. Security guy is examining a vial of dark liquid.]
 
 Security guy: Sir, is this container under three ounces?
 
-Guy with hat: Not sure, how much blood is there in a churchmouse?
+Black Hat: Not sure, how much blood is there in a churchmouse?
 
-Security guy: Why don't you just go.
-
+Security guy: . . .Why don't you just go.

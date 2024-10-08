@@ -6,15 +6,26 @@ alt: >-
   Our phones must have great angular momentum sensors because the compasses really suck.
 img: https://imgs.xkcd.com/comics/location_sharing.png
 ---
-[[A character is staring at the screen of their smartphone.]]
+[Megan is holding her phone. Above her is the text she can see on the screen:]
 
-Phone: This website wants to know your location.
+This website wants to know your location.
 
-Character: Allow.
+[Two buttons are below this text. The first is white with a black frame and black text. The second (the chosen button) also has a black frame, but inside the frame is a black rectangle with white text. Around the chosen button are small lines indication rays.]
 
-[[The character stares at the screen in disbelief, and cocks their head slightly.]]
+Deny
 
-Phone: This website wants to know your momentum.
+**Allow**
 
-Character: Deny. Nice try.
+[Megan is holding her phone.]
 
+[Megan is holding her phone. Above her is again the text she can see on the screen.]
+
+This website wants to know your momentum.
+
+[Two buttons are below this text. The first (the chosen button) has a black frame, but inside the frame is a black rectangle with white text. The second is white with a black frame and black text. Around the chosen button are small lines indication rays.]
+
+**Deny**
+
+Allow
+
+Megan: Nice try.

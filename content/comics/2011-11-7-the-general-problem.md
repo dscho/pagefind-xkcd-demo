@@ -6,19 +6,18 @@ alt: >-
   I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.
 img: https://imgs.xkcd.com/comics/the_general_problem.png
 ---
-[[A person sits at a table, eating a meal.]]
+[Cueball sits at a table, eating a meal.]
 
-Person: Can you pass the salt?
+Cueball: Can you pass the salt?
 
-[[The person pauses, a bite of food on his fork, silently.]]
+[Cueball pauses, a bite of food on his fork, silently.]
 
-[[The person still has fork in mid-air.]]
+[Cueball still has fork in mid-air.]
 
-Person: I said--
+Cueball: I said-
 
-Off-screen Person: I know! I'm developing a system ot pass you arbitrary condiments.
+Off-screen person: I know! I'm developing a system to pass you arbitrary condiments.
 
-Person: It's been 20 minutes!
+Cueball: It's been 20 minutes!
 
-OSP: It'll save time in the long run!
-
+Off-screen person: It'll save time in the long run!

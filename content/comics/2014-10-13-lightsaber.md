@@ -6,20 +6,20 @@ alt: >-
   A long time in the future, in a galaxy far, far, away, astronomers in the year 2008 sight an unusual gamma-ray burst originating from somewhere far across the universe.
 img: https://imgs.xkcd.com/comics/lightsaber.png
 ---
+[Luke Skywalker and Darth Vader are talking. Vader holds the handle of a powered-off lightsaber.]
 
+Vader: ***I see you have constructed a new lightsaber.***
 
-[[Darth Vader and Luke Skywalker]]
+[Vader turns it on. The beam of the lightsaber continues upward out of the frame.]
 
-Darth Vader:  I see you have constructed a new lightsaber.
+Lightsaber: Snap-Hisss
 
-[[Darth Vader turns on the lightsaber]]
+[Vader looks up toward where the beam is pointing.]
 
-<<Snap>><<Hiss>>
+[Vader looks back at Luke.]
 
-[[Darth Vader looks at the light saber]]
+Vader: ***Where does it end?***
 
-Darth Vader:  Where does it end?
+Luke: Doesn't.
 
-Luke:  Doesn't
-
-Someone off-scene:  Hull breach all along sector five!!
+Intercom (out of view): *Hull breach all along sector five!!*

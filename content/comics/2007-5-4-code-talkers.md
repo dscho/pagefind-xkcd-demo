@@ -3,16 +3,16 @@ date: 2007-05-04
 title: "Code Talkers"
 num: 257
 alt: >-
-  As far as I can tell, Navajo doesn't have a common word for 'zero'.  do-neh-lini means 'neutral'.
+  As far as I can tell, Navajo doesn't have a common word for 'zero'. do-neh-lini means 'neutral'.
 img: https://imgs.xkcd.com/comics/code_talkers.png
 ---
-[[A man is looking at a computer monitor and speaking into a microphone]]
+[A man is looking at a computer monitor and speaking into a microphone.]
 
-Man 1: A'la'ih, do'neh'lini,
-
-do'neh'lini, a'la'ih,
+Code talker: A'la'ih, do'neh'lini,
 
 do'neh'lini, a'la'ih,
+
+a'la'ih, do'neh'lini,
 
 do'neh'lini, do'neh'lini,
 
@@ -22,13 +22,12 @@ do'neh'lini, a'la'ih,
 
 do'neh'lini,do'neh'lini,
 
-do'neh'lini ...
+do'neh'lini...
 
-[[Two men are talking nearby:]]
+[Two men are talking nearby.]
 
-Man 2: For added security, after we encrypt the data stream, we send it through our Navajo code talker.
+Cueball: For added security, after we encrypt the data stream, we send it through our Navajo code talker.
 
-Man 3: ...Is he just using Navajo words for "Zero" and "One"?
+Friend: ...Is he just using Navajo words for "Zero" and "One"?
 
-Man 2: Woah, hey, keep your voice down!
-
+Cueball: Whoa, hey, keep your voice down!

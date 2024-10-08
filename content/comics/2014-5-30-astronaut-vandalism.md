@@ -6,11 +6,16 @@ alt: >-
   That night, retired USAF pilots covertly replaced the '62' with '50'.
 img: https://imgs.xkcd.com/comics/astronaut_vandalism.png
 ---
-[[A signpost has had a third arrow added at the top, pointing up.  The signs read:]]
+[A signpost with three arrows.]
+
+[Arrow pointing up:]
 
 Space 62
 
+[Arrow pointing right:]
+
 Jackson 115
 
-Memphis 98
+[Arrow pointing left:]
 
+Memphis 98

@@ -8,9 +8,7 @@ img: https://imgs.xkcd.com/comics/strip_games.png
 ---
 Frequency of Strip Versions of Various Games
 
-n = google hits for "strip <game name>" 
-
- google hits for "<game name>"
+n = google hits for "strip <game name>" / google hits for "<game name>"
 
 (at the time of this writing)
 
@@ -18,55 +16,54 @@ Frequent
 
 (n > 1%)
 
-- Poker
+-Poker
 
-- Spin the Bottle
+-Spin the Bottle
 
-- Beer Pong
+-Beer Pong
 
-- Never Have I Ever
+-Never Have I Ever
 
-- Truth or Dare
+-Truth or Dare
 
 Rare
 
 (1% >= n > 0.01%)
 
-- Chess
+-Chess
 
-- Blackjack
+-Blackjack
 
-- Tennis
+-Tennis
 
-- Settlers of Catan
+-Settlers of Catan
 
-- Pictionary
+-Pictionary
 
 Extremely Rare
 
 (0.01% >= n > 0)
 
-- Cricket
+-Cricket
 
-- Magic: the Gathering
+-Magic: the Gathering
 
-- Stickball
+-Stickball
 
-- Agricola
+-Agricola
 
-- Jumanji
+-Jumanji
 
 Nonexistent
 
 (n = 0)
 
-- Poohsticks
+-Poohsticks
 
-- Podracing
+-Podracing
 
-- Iterated Prisoner's Dilemma
+-Iterated Prisoner's Dilemma
 
-- Chess by Mail
+-Chess by Mail
 
-- Conway's Game of Life
-
+-Conway's Game of Life

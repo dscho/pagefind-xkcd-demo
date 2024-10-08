@@ -3,34 +3,33 @@ date: 2007-09-03
 title: "Action Movies"
 num: 311
 alt: >-
-  By my count, only 48 of the 158 minutes in Live Free or Die Hard have action.  That's pathetic, guys.  Crank is better, but needs a bigger budget and more Summer Glau.
+  By my count, only 48 of the 158 minutes in Live Free or Die Hard have action. That's pathetic, guys. Crank is better, but needs a bigger budget and more Summer Glau.
 img: https://imgs.xkcd.com/comics/action_movies.png
 ---
-[[A man and a woman are talking together as they walk away from a cinema]]
+[Cueball and Megan are talking together as they walk away from a cinema.]
 
-Man: Another summer gone without a mindless big-budget action movie.
+Cueball: Another summer gone without a mindless big-budget action movie.
 
-Woman: Huh? Die Hard was nothing BUT action!
+Megan: Huh? *Die Hard* was nothing <u>but</u> action!
 
-Man: No, it was too talky.
+Cueball: No, it was too talky.
 
-Woman: What? Too talky?
+Megan: What? Too <u>talky</u>?
 
-Man: I tallied it minute-by-minute. It's at least 60% people walking and talking. ALL those movies are.
+Cueball: I tallied it minute-by-minute. It's at least 60% people walking and talking. <u>All</u> those movies are.
 
-Man: Just once, I want a real action movie. 30 seconds of exposition followed by a perfect 90-minute action scene. One with a huge budget, a good choreographer, and a great director.
+Cueball: Just once, I want a real action movie. 30 seconds of exposition followed by a perfect 90-minute action scene. One with a huge budget, a good choreographer, and a great director.
 
-Woman: And they should center it around some character we already know, someone we never get tired of watching.
+Megan: And they should center it around some character we already know, someone we never get tired of watching.
 
-Man: I think we've got something here...
+Cueball: I think we've got something here...
 
-[[A movie poster is shown]]
+[A movie poster is shown.]
 
-Movie Poster: Coming this summer
+ Coming this summer
 
-Movie Poster: River Tam
+ River Tam
 
-Movie Poster: Beats up EVERYONE
+ Beats Up Everyone
 
-[[The movie shows a line of houses, there are people beat up and lying in doorways, out of windows, and on the sidewalk. River Tam is doing a flying kick into someone's face]]
-
+[The poster shows a line of doorways. In the background, numerous people are lying on the ground or draped over doorways and windows. River Tam is doing a flying kick into someone's face, and another person is emerging from the doorway closest to the viewer.]

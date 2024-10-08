@@ -6,21 +6,20 @@ alt: >-
   'Dude, why can't you just be a normal roommate?' 'Because I'm coming TOWARD you!'
 img: https://imgs.xkcd.com/comics/subduction_license.png
 ---
-[[White Beret approaches Stick Man, who is at his computer desk.]]
+[Beret Guy is looking at some mail he has received while Cueball is at his computer desk at the other side of the room.]
 
-WB: Sweet! I finally got my subduction license!
+Beret Guy: Sweet! I finally got my subduction license!
 
-SM: Your what?
+Cueball: Your what?
 
-[[White Beret leans forward on one foot and balls up his fists with effort.]]
+[Beret Guy starts sinking into the ground, causing it to ripple.]
 
-SM: ...what are you doing?
+Cueball: ...What are you doing?
 
-[[White Beret leans further forward, getting closer to the desk. His feet are now buried and tiny mountains are forming on the floor and under the desk. Stick man tries to keep his computer from toppling over.]]
+[Beret Guy sinks further, forming a miniature mountain range in front of him. Cueball is frantically trying to keep his computer steady as his desk tilts.]
 
-SM: STOP IT! STOP IT!
+Cueball: *Stop it! Stop it!*
 
-[[White Beret is buried up to his waist now, and the little mountains are a full-on miniature mountain range, knocking over the desk and Stick Man with it.]]
+[Beret Guy is waist-deep, and snow caps have formed on the mountains. Cueball is falling backwards from his desk and out of his chair, and the monitor unplugs itself from his computer.]
 
-SM: AUGH!
-
+Cueball: *Augh!*

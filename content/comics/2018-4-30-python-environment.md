@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/python_environment.png
 
 $PYTHONPATH
 
-EASY_INSTALL
+EASY\_INSTALL
 
 ANACONDA PYTHON
 
@@ -24,7 +24,7 @@ PYTHON.ORG BINARY (2.6)
 
 PIP
 
-EASY_INSTALL
+EASY\_INSTALL
 
 $PATH
 

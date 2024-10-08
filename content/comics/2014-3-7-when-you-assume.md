@@ -6,17 +6,14 @@ alt: >-
   You know what happens when you assert--you make an ass out of the emergency response team.
 img: https://imgs.xkcd.com/comics/when_you_assume.png
 ---
-[[Two characters are talking.  One has visible hair, the other does not.]]
+[Megan, standing left holding a hand up with the palm up while facing Cueball to the right.]
 
-Hair: You 
+Megan: You *assumed?*
 
-assumed?
+Megan: You know what happens when you assume-
 
-Hair: You know what happens when you assume--
+Cueball: I don't. Yet you're confidently asserting that I do.
 
-None: I don't.  Yet you're confidently asserting that I do.
+Megan: ...Oh. Hm.
 
-Hair: ...Oh. Hm.
-
-None: Check and mate.
-
+Cueball: Check and mate.

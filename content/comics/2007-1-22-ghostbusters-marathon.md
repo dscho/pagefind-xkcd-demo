@@ -6,19 +6,18 @@ alt: >-
   If you walk out that door you'll be crossing the Rubicon with me, and that's one stream I'm not ready to cross.
 img: https://imgs.xkcd.com/comics/ghostbusters_marathon.png
 ---
-[[Two people are in a room.  One is standing up.  There is litter around them.]]
+[Cueball and a friend are in a room. Cueball is standing up. There is litter around them.]
 
-Standing man: Okay, that's all the Ghostbusters marathon I can handle. Later!
+Cueball: Okay, that's all the Ghostbusters marathon I can handle. Later!
 
-Man #2: You can't leave! We just started the animated series!
+Friend: You can't leave! We just started the animated series!
 
-Standing man: I've had my fill. I'm going home.
+Cueball: I've had my fill. I'm going home.
 
-Man #2: I can't let you do that.
+Friend: I can't let you do that.
 
-[[The man walks along a cord, and past a box.  The other man clicks a switch.]]
+[Cueball walks along a cord and past a box. The friend clicks a switch.]
 
-<<Click>>
+*Click*
 
-[[The standing man is bathed in some kind of aura emitted by the box.]]
-
+[Cueball is bathed in some kind of aura emitted by the box.]

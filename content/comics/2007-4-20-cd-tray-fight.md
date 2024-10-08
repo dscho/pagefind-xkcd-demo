@@ -3,12 +3,11 @@ date: 2007-04-20
 title: "CD Tray Fight"
 num: 251
 alt: >-
-  This is silly, of course.  The enemy will be born in the network.
+  This is silly, of course. The enemy will be born in the network.
 img: https://imgs.xkcd.com/comics/cd_tray_fight.png
 ---
-[[A stick figure is standing, holding a CD tray which is half-in his computer. There are other CDs on the floor.]]
+[Cueball is standing, holding a CD tray that is half-in his computer. There are other CDs on the floor.]
 
-Stick Figure: Hey. Hey! Stop retracting my CD!
+Cueball: Hey. Hey! Stop retracting my CD!
 
-[[Label: I feel uncomfortable when my computer physically struggles with me. Sure, I can overpower it _now_, but it feels like a few short steps from here to the robot wars.]]
-
+I feel uncomfortable when my computer physically struggles with me. Sure, I can overpower it <u>now</u>, but it feels like a few short steps from here to the robot war.

@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/self_driving.png
 
 To complete your registration, please tell us whether or not this image contains a stop sign:
 
-[The square image is a drawing of a road leading up to a sign post with a hard to read word at the top part of the eight-sided sign. The sign also has two smaller signs left and right with unreadable text. The image is of poor quality, but trees and other obstacles next to the road can be seen. Darkness around the edges of the image could indicate that it is night and the landscape is only lit up by a cars head lights.]
+[The square image is a drawing of a road leading up to a sign post with a hard to read word at the top part of the eight-sided sign. The sign also has two smaller signs left and right with unreadable text. The image is grayscale and of poor quality, but trees and other obstacles next to the road can be seen. Darkness around the edges of the image could indicate that it is night and the landscape is only lit up by a cars head lights.]
 
 Sign: Stop
 
@@ -24,4 +24,4 @@ Answer quickly – our self-driving car is almost at the intersection.
 
 [Caption beneath the frame:]
 
-So much of "AI" is just figuring out way to offload work onto random strangers.
+So much of "AI" is just figuring out ways to offload work onto random strangers.

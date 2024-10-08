@@ -6,19 +6,22 @@ alt: >-
   And thus was smallpox introduced into the previously Undying Lands.
 img: https://imgs.xkcd.com/comics/columbus.png
 ---
-[[A figure in a hat is talking to two small children who are sitting cross-legged on the floor. A woman is off-panel.]]
+[White Hat talks to two children sitting in front of him on the floor to the right. A boy with hair like Hairy with his arms round his knees and behind him Jill with two hair buns, sitting cross-legged on her knees. Megan interrupts him from off-panel right.]
 
-Figure in hat: Everyone said the world was flat, but Columbus knew it was round. 
+White Hat: Everyone said the world was flat, but Columbus knew it was round.
 
-Woman: <<Sigh>> No, no, no. 
+Megan (off-panel): \*Sigh\* no, no, no.
 
-[[The woman walks into frame. The children turn to look.]]
+[Megan walks in holding a hand palm up. White Hat partly lifts his arm closest to her. The children between them turn their heads towards her. The boy leans back on one hand.]
 
-Woman: So he took his ships and sailed west in a line tangent to the surface. The sea fell away, and he landed in *Valinor*. 
+Megan: So he took his ships and sailed west—
 
-Woman: A Silmaril on his brow, he wanders the heavens as the morning star, still believing he reached India. 
+Megan: —in a line tangent to the surface. The sea fell away, and he landed in *Valinor.*
 
-Figure in hat: Stop making stuff up. 
+[White Hat has taken his arm down, Megan holds her arms out to each side. The children still look at her, now also Jill leans back on one arm.]
 
-Woman: You first. 
+Megan: A Silmaril on his brow, he wanders the heavens as the morning star, still believing he reached India.
 
+White Hat: Stop making stuff up.
+
+Megan: You first.

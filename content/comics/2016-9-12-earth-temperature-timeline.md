@@ -6,11 +6,11 @@ alt: >-
   [After setting your car on fire] Listen, your car's temperature has changed before.
 img: https://imgs.xkcd.com/comics/earth_temperature_timeline.png
 ---
-Note there are several spelling errors in the comic, so please do only correct spelling errors that are not part of the comic! See more in the trivia section.
+**Note** there are several spelling errors in the comic, so please do only correct spelling errors that are not part of the comic! See more in the [[#Trivia|trivia section]].
 
 [A large heading, followed by a sub-caption. Below that two lines with a statement in between:]
 
-A timeline of Earth’s average temperature
+<big>A timeline of Earth’s average temperature</big>
 
 since the last ice age glaciation
 
@@ -18,9 +18,9 @@ When people say “The climate has changed before,” these are the kinds of cha
 
 [A very long chart below the headings above is headed with a label for the scale of the X-axis above the chart. Below that a sub-caption. To the left an arrow down to the top of the chart pointing to the dotted curves starting point (at -4.3°C below the 1961-1990 average) with a label above the arrow. And arrow pointing left to the left of the center and another pointing right to the right of the center has labels. Below these is the temperature scale of the X-axis, with 9 ticks between the borders each with a label ranging from -4 to +4°C compared to the 1961-1990 average, but with another step in each direction not labeled towards to axis so the chart covers -5 to +5°C compared to the 1961-1990 average.]
 
-Temperature
+**Temperature**
 
-Compared to the 1961-1990 average
+ <small>Compared to the 1961-1990 average</small>
 
 Start
 
@@ -32,17 +32,17 @@ Warmer
 
 [To the right of the chart is a gray text standing on the side down along the outer boarder of the chart with the sources for the chart:]
 
-Source: Shakun et. al. (2012) , Marcott et. al. (2013), Annan and Hargreaves (2013) , HadCRUT4, IPCC
+ <font color="gray">Source: Shakun et. al. (2012) , Marcott et. al. (2013), Annan and Hargreaves (2013) , HadCRUT<sub>4</sub>, IPCC </font>
 
 [The chart is split in 10 columns by the temperature scale and the borders. The two central columns are white, and then from there to the left the background becomes a faded color that changes from light blue to blue at the edge in four steps. Similarly to the right the color changes from light red to red. To the left there is a time scale taking 500 years leaps from 20,000 BCE all the way to year 1, where there are two years, one for BBC and one for CE. The 500 year leaps continue until 1500 CE and from there the steps are down to 100 years until 2100 with also present day 2016 labeled. After 1500 the CE is omitted. The labels stop there, but there is space below covering down to 2200 CE. There is clearly visible division line across the chart on the level of each of the 500 step, and fainter lines for each of the 100 steps all the way even though only the last 5 of these 100 steps are labeled. There is a similar clear line at 2016. Below each step on the Y-axis is noted, and then any text starting before the next step is noted below indented. If there are extra image belonging to text this is indented once more. The graph that the whole chart is about is a dotted line that begins at the “start” point mentioned above at -4.3°C and then begins to go straight down. It will change left and right all the way down. To being with all text and most drawings are to right of the dotted curve. Whenever something is to the left it will be noted. When it says to the left above something, and then nothing over the next, then the next will be to the right. Only at the very bottom are there more entries to the left than right. ]
 
-20000 BCE
+20000 <small>BCE</small>
 
 [An arrow goes from the dotted line to the central line at 0°C. In the middle of the line there is a temperature label:]
 
 4.3°C
 
-At the start of our timeline, 22,000 years ago, Earth is 4°C colder than during the late 20th century.
+At the start of our timeline, 22,000 years ago, Earth is 4°C colder than during the late 20<sup>th</sup> century.
 
 Boston is buried under almost a mile of ice, and the glaciers reach as far south as New York City.
 
@@ -62,7 +62,7 @@ Ice
 
 Modern skyline
 
-19500 BCE
+19500 <small>BCE</small>
 
 But the world is about to warm up.
 
@@ -70,13 +70,13 @@ By this time, humans have already spread across Africa, Eurasia, and Australia.
 
 They’ve created painting, pottery, rope, and bows and arrows, but haven’t developed writing or farming.
 
-19000 BCE
+19000 <small>BCE</small>
 
 Changes in the Earth’s orbit mean that more sunlight reaches the polar ice…
 
 [A line chart with a labeled Y-axis with three labeled ticks. The curve starts up and then goes down five times and up four times ending down. There is one plateau towards the end compared to the rest of the curve where the ups and downs are quite alike.]
 
-Summer sun W/m2 at 60°N
+Summer sun W/m<sup>2</sup> at 60°N
 
 550
 
@@ -84,7 +84,7 @@ Summer sun W/m2 at 60°N
 
 450
 
-18500 BCE
+18500 <small>BCE</small>
 
 [A map of the world. At the top is a light gray area covering North America, Greenland and northern Europe and most of the northern part of Russia. A similar gray area covers Antarctica. There are two labels in the gray area above and one in the gray area below:]
 
@@ -92,25 +92,25 @@ Ice Ice
 
 Ice
 
-18000 BCE
+18000 <small>BCE</small>
 
 …And the ice sheets start to melt.
 
-17500 BCE
+17500 <small>BCE</small>
 
-Temperatures have been creeping upward, but around this point, CO2 levels start to climb…
+Temperatures have been creeping upward, but around this point, CO<sub>2</sub> levels start to climb…
 
-17000 BCE
+17000 <small>BCE</small>
 
 …And then the warming speeds up.
 
-16500 BCE
+16500 <small>BCE</small>
 
 [Cueball is standing with a spear just the right of the graph talking to a rabbit.]
 
 Cueball: Still pretty cold.
 
-16000 BCE
+16000 <small>BCE</small>
 
 [Megan points to the graph to the right of her and between her and Ponytail standing on the other side. Mean is the first drawing on the left side of the dotted curve, which has hardly moved since the beginning, only to just on the other side of 4°C.]
 
@@ -124,7 +124,7 @@ Possible Unlikely
 
 Reconstructions are from Shakun (2012) and Marcott (2013), scaled to Annan + Hargreaves (2013) estimate for the last glacial period.
 
-15500 BCE
+15500 <small>BCE</small>
 
 In what is now France, humans paint murals on the walls of the Lascaux caves
 
@@ -132,13 +132,13 @@ In what is now France, humans paint murals on the walls of the Lascaux caves
 
 NIИ
 
-15000 BCE
+15000 <small>BCE</small>
 
 Ice sheets around Alaska shrink, exposing a land bridge between Asia and North America
 
 [From around the bottom if this section and down to 11500 BCE the dotted curve moved steadily to the right towards warmed temperature peaking close to -1.5°C. Before this the temperature had not moved much away from that at the start.]
 
-14500 BCE
+14500 <small>BCE</small>
 
 [Cueball walks right looking back at the graph behind him. Megan walks in front of him pointing further right.]
 
@@ -146,15 +146,15 @@ Cueball: Cool.
 
 Humans reach North America.
 
-14000 BCE
+14000 <small>BCE</small>
 
 The edge of the ice withdraws from New York City and retreats North.
 
 [A large glacier front speaks in a speech bubble with an arrow pointing at it. Behind is there are four peaks in the horizon and in front of it three small melting pools and some rocks on the ground.]
 
-Glacier: That’s it! I’m moving to Canada!
+Glacier: *That’s it! I’m moving to Canada!*
 
-13500 BCE
+13500 <small>BCE</small>
 
 Humans domesticate dogs
 
@@ -170,7 +170,7 @@ Cueball: And we get to breed you to be tiny and dress you in little costumes.
 
 Wolf: …Wait.
 
-13000 BCE
+13000 <small>BCE</small>
 
 [Randall did not use the normal spelling for Woolly Rhino, but this is an accepted alternative spelling:]
 
@@ -178,15 +178,15 @@ Wooly Rhino goes extinct
 
 Oregon is scoured by huge floods as glacial dams burst and lakes of meltwater flow to the sea
 
-12500 BCE
+12500 <small>BCE</small>
 
 Ice sheets withdraw from Chicago
 
-12000 BCE
+12000 <small>BCE</small>
 
 Humans settle Abu Hureyra in Syria
 
-11500 BCE
+11500 <small>BCE</small>
 
 [An arrow on the left side of the dotted curve is pointing down along the dotted curve and to the left indicate temperature is declining again, meaning the dotted curve now moves left to colder temperatures. This only continues until 10500 BCE. It is only the second time something is noted on the left side after Megan at 16000 BCE]
 
@@ -196,13 +196,13 @@ This may be caused by changes in ocean circulation due to the floods of cold fre
 
 This cooler period is called the Younger Dryas
 
-11000 BCE
+11000 <small>BCE</small>
 
 [This is the first text to the left of the dotted curve:]
 
 Humans reach Argentina
 
-10500 BCE
+10500 <small>BCE</small>
 
 [An arrow pointing down along the right side of the dotted curve and to the right indicate temperature is increasing again, meaning the dotted curve now moves right to hotter temperatures. This continues until 8000 BCE where it levels out just above 0°C.]
 
@@ -210,11 +210,11 @@ Warming resumes
 
 Human settlements at Jericho
 
-10000 BCE
+10000 <small>BCE</small>
 
 First development of farming
 
-9500 BCE
+9500 <small>BCE</small>
 
 Saber-toothed cat goes extinct
 
@@ -222,7 +222,7 @@ Saber-toothed cat goes extinct
 
 Horses disappear from North America
 
-9000 BCE
+9000 <small>BCE</small>
 
 [To the left, Randall spelled Pokémon wrong:]
 
@@ -238,17 +238,17 @@ Rising seas cut off the land bridge between North America and Asia
 
 Cattle domesticated
 
-8500 BCE
+8500 <small>BCE</small>
 
 Ice sheets retreat across the Canadian border
 
 Temperatures start to level out slightly above 1961-1990 levels
 
-8000 BCE
+8000 <small>BCE</small>
 
-[The above sentence breaks over the 8000 BCE line. From here a maximum in temperature on the chart is reached at 0.5°C which will not be overtaken until 2000 CE. It stays almost constant here until 5000 BCE where a slight cooling begins.]
+[The above sentence breaks over the 8000 <small>BCE</small> line. From here a maximum in temperature on the chart is reached at 0.5°C which will not be overtaken until 2000 CE. It stays almost constant here until 5000 BCE where a slight cooling begins.]
 
-7500 BCE
+7500 <small>BCE</small>
 
 [To the left:]
 
@@ -258,7 +258,7 @@ This warm, stable period is called the Holocene Climate Optimum
 
 Jiahu settled in China
 
-7000 BCE
+7000 <small>BCE</small>
 
 Final collapse of the North American ice sheet leads to rapid 2-4m sea level rise…
 
@@ -266,17 +266,17 @@ Final collapse of the North American ice sheet leads to rapid 2-4m sea level ris
 
 …And a period of cooling in the Northern hemisphere
 
-6500 BCE
+6500 <small>BCE</small>
 
 [To the left:]
 
 As seas rise to near their modern levels, Britain is cut off from mainland Europe
 
-6000 BCE
+6000 <small>BCE</small>
 
 Humans develop copper metalworking
 
-5500 BCE
+5500 <small>BCE</small>
 
 [To the left:]
 
@@ -284,7 +284,7 @@ Massive volcanic eruption in Oregon creates crater lake
 
 Gold metalworking
 
-5000 BCE
+5000 <small>BCE</small>
 
 [To the left:]
 
@@ -294,11 +294,11 @@ Invention of the wheel
 
 Earth begins to cool slowly mainly due to regular cycles in its orbit
 
-4500 BCE
+4500 <small>BCE</small>
 
 [To the left:]
 
-Proto-Indo-European language develops
+ Proto-Indo-European language develops
 
 [To the right of the curve Ponytail holds up a hand towards Cueball.]
 
@@ -310,7 +310,7 @@ Cueball: Okay!
 
 Permanent settlements in the fertile crescent
 
-4000 BCE
+4000 <small>BCE</small>
 
 Horses domesticated
 
@@ -318,7 +318,7 @@ Horses domesticated
 
 Minoan culture arises on Crete
 
-3500 BCE
+3500 <small>BCE</small>
 
 Egyptian mummification
 
@@ -330,11 +330,11 @@ Invention of writing in Sumer “prehistory” ends, “history” begins
 
 Earliest human whose name we know
 
-(Pharaoh Iry-Hor in Egypt)
+<small>(Pharaoh Iry-Hor in Egypt)</small>
 
-3000 BCE
+3000 <small>BCE</small>
 
-Three Sovereigns and five emperors period in China
+*Three Sovereigns and five emperors* period in China
 
 Gilgamesh
 
@@ -348,7 +348,7 @@ Mayan culture emerges
 
 Great Pyramid constructed
 
-2500 BCE
+2500 <small>BCE</small>
 
 Corded Ware culture in Europe
 
@@ -358,7 +358,7 @@ Stonehenge completed
 
 Chariots developed
 
-2000 BCE
+2000 <small>BCE</small>
 
 [To the left:]
 
@@ -370,7 +370,7 @@ Last mammoths on a tiny Siberian island go extinct
 
 Minoan eruption
 
-1500 BCE
+1500 <small>BCE</small>
 
 [To the left:]
 
@@ -380,19 +380,19 @@ Olmec civilization develops in Central America
 
 [A Trojan horse with two Cueball-like guys in front and a third standing on its back. Its back is at three Cueball’s height and its head rises to the level of the Cueball on its back. It stands on a platform with four wheel on the visible side. There is text on the horse]
 
-Setting of the Iliad and the Odyssey
+Setting of the *Iliad* and the *Odyssey*
 
 Text on horse: Not a trap
 
 [To the left:]
 
-Invasion of the Sea peoples*
+Invasion of the Sea peoples\*
 
-* A real thing
+<small>\* A real thing</small>
 
 Polynesians explore the Pacific Ocean
 
-1000 BCE
+1000 <small>BCE</small>
 
 [From 1000 BBC to 1000 CE the temperature is stable and very close to 0°C.]
 
@@ -418,11 +418,11 @@ Zapotec writing in modern Mexico
 
 Confucius
 
-500 BCE
+500 <small>BCE</small>
 
 [To the left:]
 
-The stuff in the 300 (film)|movie 300, but regular speed and with more clothing
+The stuff in the 300 (film)|movie *300*, but regular speed and with more clothing
 
 Buddha
 
@@ -454,9 +454,9 @@ Julius Caesar
 
 [At the year 0, there is instead two numbers for each of the two scales before and after Christ:]
 
-1 BCE
+1 <small>BCE</small>
 
-1 CE
+1 <small>CE</small>
 
 [To the left:]
 
@@ -480,7 +480,7 @@ Various groups take turns sacking Rome
 
 Attila the Hun
 
-500 CE
+500 <small>CE</small>
 
 Muhammad
 
@@ -496,17 +496,17 @@ Medieval warm period in Europe and some northern regions (too regional to affect
 
 Leif Eriksson
 
-1000 CE
+1000 <small>CE</small>
 
 [The dotted curve moves to the left towards lower temperature reaching a minimum around 1650 of about -0.6°C at the Little Ice Age.]
 
 [To the left a drawing of a compass with needle pointing the black end towards north east. There are labels for the four main directions and a label next to it:]
 
-N
+<small>N</small>
 
-W E
+<small>W E</small>
 
-S
+<small>S</small>
 
 Magnetic compass navigation
 
@@ -528,7 +528,7 @@ Printing press
 
 Columbus
 
-1500 CE
+1500 <small>CE</small>
 
 European Renaissance
 
@@ -576,7 +576,7 @@ World Wars
 
 [The solid line takes a step to the right close to 0°C. Over the rest of the 1900s it moves closer to 0°C crossing it before 2000 where it almost reaches the maximum temperature of 0.5 °C from earlier in 8000 BCE.]
 
-Fossil fuel CO2 emissions start rapidly increasing
+Fossil fuel CO<sub>2</sub> emissions start rapidly increasing
 
 [To the left:]
 

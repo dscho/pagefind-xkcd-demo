@@ -6,41 +6,34 @@ alt: >-
   The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail.
 img: https://imgs.xkcd.com/comics/play_by_play.png
 ---
-[[Beret Guy is most definitely sitting at a desk, in what may or may not be an announcer's box.  Beret Guy has what may or may not be an active headset with microphone on under his hat.]]
+[Beret Guy is sitting with headphones with a microphone on, looking out of the frame, hands resting on a table.]
 
 Beret Guy: For those just joining us, hi! We're on part 5 of a hitting game.
 
-Beret Guy: The next guy has a big bat, so he'll probably hit the ball real far.   huh?
+[Zoom out with Beret Guy shown from the side sitting at a desk.]
 
-{{
+Beret Guy: The next guy has a big bat, so he'll probably hit the ball real far.
 
--
+Beret Guy: Wait - he missed!
 
-Wait- he missed! 
+Beret Guy: Oh good, they're letting him try again.
 
--
+[Zoom in again on Beret Guy still seen from the side.]
 
-Oh good, they're letting him try again.
+Beret Guy: The people sitting on the chair shelves are yelling at this guy but he's ignoring them. Wow.
 
-Beret Guy: The people sitting on the chair shelves are yelling at this guy, but he's ignoring them. Wow. 
+Beret Guy: Rude.
 
--
+[Beret Guy looks straight out.]
 
-Rude.
+Beret Guy: This thrower is good! He keeps making people leave by throwing balls at them.
 
-Beret Guy: This thrower is good! He keeps making people leave by throwing balls at them. 
+Beret Guy: It's just him, though. None of his teammates are joining in.
 
--
+[Beret Guy turns his head to the side.]
 
-It's just him though. None of his teammates are joining in.
+Beret Guy: *That guy just ran to the second pillow when no one was looking!!*
 
-Beret Guy: That guy just ran to the second pillow when no one was looking! 
+Beret Guy: Everyone's real mad but I guess they checked the rules and there's nothing that says he can't do that.
 
--
-
-Everyone's real mad but I guess they checked the rules and there's nothing that says he can't do that.  
-
--
-
-Yikes. Hopefully they can fix that once this game is over.
-
+Beret Guy: Yikes. Hopefully they can fix that once this game is over.

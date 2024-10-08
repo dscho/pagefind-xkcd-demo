@@ -3,72 +3,77 @@ date: 2008-12-17
 title: "Flow Charts"
 num: 518
 alt: >-
-  At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!
+  At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob. C'mon, it'll be fun!
 img: https://imgs.xkcd.com/comics/flow_charts.png
 ---
-A guide to [[line break, bigger text]] understanding flow charts [[line break, normal text]] presented in flow chart form.
+[A flow chart is shown beneath a caption. There are 14 boxes, five rhombus shaped and the rest rectangular. From all the rhombus boxes there are one arrow entering and two arrows leaving (with yes/no labels on them). One of the other boxes is the start with only one arrow leaving, and three of these boxes are endings with only one arrow entering. Three have two arrows entering and one leaving. And two have one in and one out. Caption:]
 
-0.Box: Start
+A guide to
 
-   [[Arrow|Text=null Target=1.Box]]
+<big>understanding flow charts</big>
 
-1.Box: Do you understand flow charts?
+presented in flow chart form.
 
-   [[Arrow|Text='Yes' Target=2.Box]]
+Box 0: Start
 
-   [[Arrow|Text='No' Target=4.Box]]
+[Arrow to Box 1.]
 
-2.Box: Good
+Box 1: Do you understand flow charts?
 
-   [[Arrow|Text='Yes' Target=3.Box]]
+[Arrow to Box 2.] Yes
 
-3.Box: Let's go drink.
+[Arrow to Box 4.] No
 
-   [[Arrow|Text='6 drinks' Target=Final.Box]]
+Box 2: Good
 
-4.Box: Okay. You see the line labeled "yes"?
+[Arrow to Box 3.] Yes
 
-   [[Arrow|Text='Yes' Target=6.Box]]
+Box 3: Let's go drink.
 
-   [[Arrow|Text='No' Target=5.Box]]
+[Arrow to Final Box.] 6 Drinks
 
-5.Box: But you see the ones labeled "no".
+Box 4: Okay. You see the line labeled "Yes"?
 
-   [[Arrow|Text='Yes' Target=End1.Box]]
+[Arrow to Box 6.] Yes
 
-   [[Arrow|Text='No' Target=End2a.Box]]
+[Arrow to Box 5.] No
 
-End1.Box: Wait, what?
+Box 5: But you see the ones labeled "No".
 
-   [[NoArrows]]
+[Arrow to End-Box 1.] Yes
 
-End2a.Box: Listen.
+[Arrow to End-Box 2a.] No
 
-   [[Arrow|Text=null Target=End2b.Box]]
+End-Box 1: Wait, what?
 
-End2b.Box: I hate you.
+[No Arrows.]
 
-   [[NoArrows]]
+End-Box 2a: Listen.
 
-6.Box: ...and you can see the ones labeled "no"?
+[Arrow to End-Box 2b.]
 
-   [[Arrow|Text='Yes' Target=3.Box]]
+End-Box 2b: I hate you.
 
-   [[Arrow|Text='No' Target=7.Box]]
+[No Arrows.]
 
-7.Box: But you just followed them twice!
+Box 6: ...and you can see the ones labeled "No"?
 
-   [[Arrow|Text='Yes' Target=8a.Box]]
+[Arrow to Box 2.] Yes
 
-   [[Arrow|Text='No' Target=8a.Box]]
+[Arrow to Box 7.] No
 
-8a.Box: (That wasn't a question.)
+Box 7: But you just followed them twice!
 
-   [[Arrow|Text=null Target=8b.Box]]
+[Arrow to Box 8a.] Yes
 
-8b.Box: Screw it.
+[Arrow to Box 8a.] No
 
-   [[Arrow|Text=null Target=3.Box]]
+Box 8a: (That wasn't a question.)
 
-Final.Box: Hey I should try installing FreeBSD!
+[Arrow to Box 8b.]
 
+Box 8b: Screw it.
+
+[Arrow to Box 3.]
+
+Final Box: Hey I should try installing FreeBSD!

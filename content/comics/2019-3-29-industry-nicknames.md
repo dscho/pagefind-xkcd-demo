@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/industry_nicknames.png
 ---
 [A line chart is shown going from left to right between two small vertical stop lines. On the line are eight dots spread out unevenly from close to each end. The most central dot is the one with furthest distance to the nearest dots, having almost the same distance in both direction the nearest dots. The other dots are in some cases very close. Beneath each dot there goes a line down to a label written beneath each line. Above the chart there is a big title and below that an explanation. Below that again, there is a small arrow pointing to the right with a label above it.]
 
-Nicknames for Industries and Organizations
+<big>Nicknames for Industries and Organizations</big>
 
 Ranked by how silly it sounds when you say someone is "In the pocket of..."
 

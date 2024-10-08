@@ -6,31 +6,28 @@ alt: >-
   To everyone who responds to everything by saying they've 'lost their faith in humanity': Thanks--I'll let humanity know. I'm sure they'll be crushed.
 img: https://imgs.xkcd.com/comics/people_are_stupid.png
 ---
-[[White Hat Man talks to Stick Figure Guy.]]
+[White Hat and Cueball are standing next to each other.]
 
-WH: Well, you know, people are stupid.
+White Hat: Well, you know, people are stupid.
 
-SF: *sigh*
+Cueball: \*Sigh\*
 
-[[The continue to face each other and converse.]]
+[They have moved a little further apart.]
 
-SF: No, people aren't stupid. On average, people are of average intelligence. When you say "people are stupid," you mean stupid compared to 
+Cueball: No, people aren't stupid. On average, people are of average intelligence. When you say "people are stupid," you mean stupid compared to *your* expectations.
 
-your
+[Close up of Cueball.]
 
- expectations.
+Cueball: What you're really saying is "other people aren't as smart as **me.**"
 
-[[A close-up on Stick Figure.]]
+Cueball: And maybe you're right! In which case
 
-SF: What you're really saying is "other people aren't as smart as 
+[White Hat is presented with a trophy by Cueball.]
 
-me
+Cueball: I'd like to bestow upon you the
 
-. - And maybe you're right! In which case
+[In the panel there is a close up of the trophy plaque (the text is in a frame):]
 
-I'd like to bestow upon you the First Annual AWARD for EXCELLENCE in BEING VERY SMART.
+First Annual Award for Excellence in Being Very Smart
 
-[[Stick Figure presents White Hat with a trophy as confetti rains down.]]
-
-May you continue to grace our internet with your wisdom.
-
+Cueball: May you continue to grace our internet with your wisdom

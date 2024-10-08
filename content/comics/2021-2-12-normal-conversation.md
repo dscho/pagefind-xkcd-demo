@@ -6,7 +6,7 @@ alt: >-
   "I think I'll pass. These days I have a hard time feeling comfortable in crowded bars with loud music and lots of shouting." --me, after the pandemic, but now for a second reason
 img: https://imgs.xkcd.com/comics/normal_conversation.png
 ---
-[Randall, drawn as Cueball wearing a white face masks, is talking to Cueball wearing a face mask with striped pattern.]
+[Randall, drawn as Cueball wearing a white face mask, possibly of the contour-moulded type, is talking to Cueball, wearing what appears to be a pleated surgical-style face mask .]
 
 Randall: So how's...everything.
 

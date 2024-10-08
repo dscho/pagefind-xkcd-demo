@@ -3,24 +3,25 @@ date: 2007-06-29
 title: "Projection"
 num: 283
 alt: >-
-  Out in a field, not another car for miles, silence but for the rain drumming on the sunroof, warm thick folds of the blanket hiding wordless fingertip games ...
+  Out in a field, not another car for miles, silence but for the rain drumming on the sunroof, warm thick folds of the blanket hiding wordless fingertip games...
 img: https://imgs.xkcd.com/comics/projection.png
 ---
-[[Man and woman seated on couch watching a TV.]]
+[Cueball and Megan are seated on a couch, watching TV.]
 
-Woman: Argh, movie pet peeve. Someone sitting at a computer in the dark with the screen projected on their face. Monitors don't work like that!
+Megan: Argh, movie pet peeve- Someone sitting at a computer in the dark with the screen projected on their face. Monitors don't work like that!
 
-[[Man and woman face each other on couch.]]
+[Cueball and Megan face each other on the couch.]
 
-Man: Right - that only happens if you're in the way of a proected image. Like when we're sitting together in a parked car in the rain and the mottled light through the raindrops on the windshield makes shifting shadows on your skin...
+Cueball: Right - that only happens if you're in the way of a projected image. Like when we're sitting together in a parked car in the rain and the mottled light through the raindrops on the windshield makes shifting shadows on your skin...
 
-[[Woman stands, man uses laptop on table behind couch.]]
+[Beat panel.]
 
-Woman: ...I wasn't really into the movie anyway.
+[Megan stands up, Cueball uses a laptop on table behind the couch.]
 
-Man: The nearest rainstorm's about 60 miles away.
+Megan: ...I wasn't really into the movie anyway.
 
-Woman: We'll drive fast.
+Cueball: The nearest rainstorm's about 60 miles away.
 
-Man: I'll grab some snacks.
+Megan: We'll drive fast.
 
+Cueball: I'll grab some snacks.

@@ -6,7 +6,6 @@ alt: >-
   I find so much fun in language.
 img: https://imgs.xkcd.com/comics/curse_levels.jpg
 ---
-[["My Hobby: mixing curse levels" is at the top of the panel.]]
+My hobby: mixing curse levels
 
-Random Guy: What a gosh-darned cunt.
-
+Cueball: What a gosh-darned cunt.

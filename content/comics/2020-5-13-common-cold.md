@@ -32,4 +32,4 @@ Corona-like virus: Show us some mercy?
 
 [In the close-up of Cueball, he lifts his hand up, which has been balled into a fist. He is emphatic in his reply.]
 
-Cueball: No.
+Cueball: <big>***No.***</big>

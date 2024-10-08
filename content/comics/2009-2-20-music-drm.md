@@ -6,18 +6,22 @@ alt: >-
   Just yesterday I bought my first non-DRM'd songs (The Last Vegas, in keeping with my 'I only listen to things from Guitar Hero' theme).
 img: https://imgs.xkcd.com/comics/music_drm.png
 ---
-[[Interior, a man sits at his computer typing, woman enters]]
+[Cueball sits at his computer.]
 
-Man [typing]: ...and that's why music DRM is bad for listeners and artists!
+Cueball [typing]: ...and that's why music DRM is bad for listeners *and* artists!
 
-Woman[off-panel]: What are you doing?
+Megan [off-panel]: What are you doing?
 
-Woman: In case you didn't notice, we won the music DRM war.  The big stores are DRM free.
+[Megan enters and Cueball turns towards her.]
 
-Woman: So close the comment thread, get out the debit card, buy us some music, and let's rock the fuck out.
+Megan: In case you didn't notice, we *won* the music DRM war.  The big stores are DRM free.
 
-Man: But I don't actually like music, I just like being self-righteous on the web.
+[Zoom in on Megan who holds up a hand doing the sign of the horns.]
 
-Woman: Lucky for you, that will always be free.
+Megan: So close the comment thread, get out the debit card, buy us some music, and let's rock the fuck out.
 
-{{title text: Just yesterday I bought my first non-DRM'ed songs (The Last Vegas, in keeping with my 'I only listen to things from Guitar Hero' theme).
+[Back to viewing both as in panel 2.]
+
+Cueball: But I don't actually *like* music, I just like being self-righteous on the web.
+
+Megan: Lucky for you, *that* will always be free.

@@ -6,24 +6,24 @@ alt: >-
   To anyone I've taken on a terrible date, this is retroactively my cover story.
 img: https://imgs.xkcd.com/comics/overqualified.png
 ---
-[On phone] 
+[Megan on the phone.]
 
-Girl: I know you're not that into my sister, but she's really crushing on you.
+Megan: I know you're not that into my sister, but she's really crushing on you.
 
-Boy: Yeah, it's awkward.
+Cueball: Yeah, it's awkward.
 
-Girl: She's in a rough spot.  It's a lot to ask, but could you take her out and ... dissuade her, without rejecting her?
+Megan: She's in a rough spot. It's a lot to ask, but could you take her out and... Dissuade her, without rejecting her?
 
-Boy: Wait a second.  Are you asking me to show her a mediocre time?
+Cueball: Wait a second. Are you asking me to show her a mediocre time?
 
-Girl: I know it's a weird--
+Megan: I know it's a weird—
 
-Boy: [Raising index finger.] No, no! This is the mission I was _born_ for.
+[Cueball raising index finger.]
 
-Girl: I figured you could handle it.
+Cueball: No, no! This is the mission I was *born* for.
 
-Boy: One of my classic high-school dates coming up!
+Megan: I figured you could handle it.
 
-Girl: Oh God.  Don't overdo it.
+Cueball: One of my classic high-school dates coming up!
 
-[Alt text: To anyone I've taken on a terrible date, this is retroactively my cover story.]
+Megan: Oh God. Don't overdo it.

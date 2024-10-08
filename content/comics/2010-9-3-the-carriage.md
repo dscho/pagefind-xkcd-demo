@@ -3,26 +3,31 @@ date: 2010-09-03
 title: "The Carriage"
 num: 788
 alt: >-
-  I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.
+  I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island. Since then, try as I might, I haven't ONCE been able to read it normally.
 img: https://imgs.xkcd.com/comics/the_carriage.png
 ---
-[[The Grim Reaper driving a horse-drawn carriage.]]
+[Death with his scythe is driving a horse-drawn carriage. The text is written in two frames above and below the carriage:]
 
 Because I could not stop for death
 
 He kindly stopped for me
 
-[[A woman wearing her hair in a bun grabs Death by the arm and pulls him off the carriage. There is a Y-button symbol in the lower left corner.]]
+[Hairbun grabs Death by the arm and pulls him off the carriage. There is a circle with the letter Y in the lower left corner. The text above the carriage is in a frame.]
 
-The carriage held but just oursel--
+The carriage held but just oursel-
 
 Death: Hey!
 
-<<GRAB>>
+Hands holding Death: *Grab*
 
-[[The woman takes off in the carriage, leaving Death in her dust, on the ground.]]
+Circle: Y
 
-Woman: Hyah!
+[Hairbun takes off in the carriage with the scythe, leaving Death behind on the ground in the dust from the carriage taking off.]
 
-[[The Grand Theft Auto logo is shown, with the stamp "Emily Dickinson Edition" underneath. There is a picture of stick-Emily, arms crossed, and a scythe next to her.]]
+Hairbun: Hyah!
 
+[Hairbun stands with her arms crossed, and Death's scythe next to her. The first text above her is printed as the official logo and the text below is in a type of square brackets.]
+
+Grand Theft Auto
+
+Emily Dickinson Edition

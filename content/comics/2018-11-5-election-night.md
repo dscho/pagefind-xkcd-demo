@@ -16,11 +16,11 @@ Cueball: Yeah. The internet and the 24-hour news have turned elections into a co
 
 [Panel with just the man in a top hat, holding a newspaper]
 
-Man in a top hat: Hi! I'm a time traveler from 1896. Let me tell you about our election night coverage.
+Man in a top hat: Hi! I'm a time traveler from 1896. Let me tell you about ***our*** election night coverage.
 
-Man in a top hat: *Ahem*
+Man in a top hat: \*Ahem\*
 
-Man in a top hat: From the Chicago Tribune
+Man in a top hat: From the *Chicago Tribune*
 
 [Zoom in on the head of the man in a top hat]
 
@@ -34,7 +34,7 @@ Man in a top hat: "The bombardment of the skies will commence at 7 o'clock and w
 
 [Megan and Cueball on the left looking at the man in the top hat on the right]
 
-Megan: Yeah, well, we have a needle, though.
+Megan: Yeah, well, we have a *needle,* though.
 
 Man in a top hat: A needle.
 

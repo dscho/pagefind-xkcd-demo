@@ -14,4 +14,4 @@ img: https://imgs.xkcd.com/comics/message_in_a_bottle.png
 
 [Cueball holds the bottle behind him in one hand and the letter up in front him with the other hand. The text on the letter is written above him in curvy letters, looking like those often used to depict the writing of a dying or seriously injured man:]
 
-Unsubscribe
+*Unsubscribe*

@@ -4,7 +4,7 @@ title: "Nice To E-Meet You"
 num: 2196
 alt: >-
   I'm inside your head and I hate it. Please let me out.
-img: https://imgs.xkcd.com/comics/nice_to_e_meet_you.png
+img: https://imgs.xkcd.com/comics/nice_to_e-meet_you.png
 ---
 [Cueball is sitting at his desk on an office chair, while typing at his laptop. The line he is writing on the computer is shown with white text in a black box up at the top of the panel while his thoughts shown in a thought bubble with small bubbles going to it from his head.]
 

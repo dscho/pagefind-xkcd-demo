@@ -6,32 +6,48 @@ alt: >-
   
 img: https://imgs.xkcd.com/comics/xkcloud.png
 ---
+[This transcript only transcribes what can be seen in the first picture shown at the top of the explanation here. **For more** see link below.]
 
+[One large frame with a five part comic and a large red button at the bottom.]
 
-[[Randall monologues behind his official XKCD desk.]]
+[Cueball sitting behind a desk.]
 
-Randall: We've made a huge mistake.
+Cueball: We've made a huge mistake.
 
-Randall: I figured starting a cloud services company would be EASY. After all, I've got TONS of computers!
+Desk: XKCD.COM
 
-[[Randall gestures to a mound of various and sundry mini computers, from a lowly Commodore to a large Alienware.]]
+[Cueball stands and indicates a motley collection of computers and related equipment strewn around the desk.]
 
-[[Close zoom on Randall's featureless oval face.]]
+Cueball: I figured starting a cloud services company would be easy.
 
-Randall: Facebook, twitter, tumblr - they all struggle to protect privacy and user data.
+Cueball: After all, I've got *tons* of computers!
 
-Randall: And we offered a solution.
+[A zoomed view on Cueballs head.]
 
-Randall: I forget what it was, though.
+Cueball: Facebook, Twitter, Tumblr— they all struggle to protect privacy and user data...
 
-[[Wide zoom to Randall waving his arms in a conciliatory manner.]]
+Cueball: And ***we*** offered a solution.
 
-Randall: Anyway, long story short, we screwed up IMMEDIATELY and lost TONS of their data.
+Cueball: <small>I forget what it was, though.</small>
 
-Randall: Also a bunch of stuff is literally on fire?
+[Cueball is standing with his arms up.]
 
-[[Randall is back behind the desk.]]
+Cueball: Anyway, long story short, we screwed up *immediately* and lost *tons* of their data.
 
-Randall: We can fix this. But we need your help.
+Cueball: <small>Also a bunch of stuff is literally on fire?</small>
 
-Large red banner: Help us recover user data before facebook & co notice we lost it.
+[Cueball standing behind a desk.]
+
+Cueball: We can fix this.
+
+Cueball: But we need your help.
+
+Desk: XKCD.COM
+
+[Below the above is a large red rectangular clickable button, that will take the reader on to the interactive part of the comic. On the button it says in large white letters:]
+
+**CLICK HERE**
+
+To help us recover user data before Facebook & Co notice we lost it.
+
+[The standard text for the next possible pages can be seen on the link to the **[[1506: xkcloud/Transcript|continued transcript]]**. Also here will be a list (which may not be possible to make complete) with possible text for the lost data.]

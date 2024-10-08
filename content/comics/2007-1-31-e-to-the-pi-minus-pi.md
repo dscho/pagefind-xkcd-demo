@@ -6,18 +6,14 @@ alt: >-
   Also, I hear the 4th root of (9^2 + 19^2/22) is pi.
 img: https://imgs.xkcd.com/comics/e_to_the_pi_minus_pi.png
 ---
-Person: Hey, check it out: e^pi-pi is 19.999099979. That's weird.
+Cueball: Hey, check it out: e<sup>π</sup> − π is 19.999099979. That's weird.
 
-Hat Guy: Yeah. That's how I got kicked out of the ACM in college.
+Black Hat: Yeah. That's how I got kicked out of the ACM in college.
 
-Person: . . . what?
+Cueball: ...what?
 
-Hat Guy: During a competition, I told the programmers on our team that e^pi-pi was a standard test of floating-point handlers--it would come out to 20 unless they had rounding errors.
+Black Hat: During a competition, I told the programmers on our team that e<sup>π</sup> − π was a standard test of floating-point handlers -- it would come out to 20 unless they had rounding errors.
 
-Person: That's awful.
+Cueball: That's awful.
 
-Hat Guy: Yeah, they dug through half their algorithms looking for the bug before they figured it out.
-
-{{alt text: Also, I hear the 4th root of (9^2 + 19^2
-
-22) is pi.
+Black Hat: Yeah, they dug through half their algorithms looking for the bug before they figured it out.

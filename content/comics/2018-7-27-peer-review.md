@@ -10,6 +10,6 @@ img: https://imgs.xkcd.com/comics/peer_review.png
 
 RE: Economics Journal Submission
 
-We have received your manuscript "The Bizarre Economics of Academic Publishing: Why Volunteer Peer Reviewers Should Rise Up and Demand Payment from For-Profit Journals."
+We have received your manuscript *"The Bizarre Economics of Academic Publishing: Why Volunteer Peer Reviewers Should Rise Up and Demand Payment from For-Profit Journals."*
 
 We have elected not to send it out for review.

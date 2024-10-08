@@ -6,23 +6,20 @@ alt: >-
   The cola+Mentos trick is up there with corn starch+water (vibrating platter optional) in scientific coolness out of common kitchen supplies.
 img: https://imgs.xkcd.com/comics/diet_coke_mentos.png
 ---
-[[Two boys are kneeling down on either side of a coke bottle.]]
+[Cueball and his friend are sitting on the ground, with a bottle of Diet Coke between them, and Cueball appears to be putting mentos into the bottle.]
 
-First Boy: This is the coolest thing.
+Cueball: This is the coolest thing. You just drop the Mentos in the Diet Coke...
 
-First Boy: You just drop the Mentos in the Diet Coke...
+Friend: Uh huh.
 
-Second Boy: Uh huh
+[Diet Coke starts to fizzle.]
 
-First Boy: Give it a moment...
+Cueball: Give it a moment...
 
-[[The bottle has a few bubbles above it]]
+[Someone teleports into frame in a magic puff. Cueball's arms are raised, with a package of Mentos in one hand.]
 
-<<Poof>> [[A man appears.  The first boy raises his arms in exclamation.]]
+*POOF*
 
-[[The second boy stands up and turns around.  He puts his hands over his mouth.]]
+Friend: D-Dad?
 
-Second boy: D-Dad?
-
-Man [[Reaching towards the second boy]]: I'm back, son. We can be a family again.
-
+Dad: I'm back, son. We can be a family again.

@@ -6,29 +6,30 @@ alt: >-
   But surely I owe you an accurate answer!
 img: https://imgs.xkcd.com/comics/small_talk.png
 ---
+[Two Cueballs standing next to each other]:
+
+[Header box on top of the panel:]
+
 Sometimes I forget how to do small talk.
 
-[[Two people are talking to each other]]
+Friend: Hey!
 
-First person: Hey!
+Cueball: Hey, man!
 
-Second person: Hey, man!
+Friend: What's up? How've you been?
 
-First person: What's up? How've you been?
+Cueball: Well...
 
-Second person: Well...
+[Three overlapping identical frames of the two Cueballs standing next to each other indicate the passage of time.]
 
-[[Nothing happens]]
+[The Cueball on the left snaps his fingers at the Cueball on the right.]
 
-[[Nothing happens]]
+Friend: Uh, you ok?
 
-[[Nothing happens]]
+Cueball: Yeah! It's just an interesting question. I'm trying to decide what best sums up my--
 
-First person: Uh, you okay?
+Friend: Hey. Conversation.
 
-Second person: Yeah! It's just an interesting question. I'm trying to decide what best sums up my -
+Cueball: Oh, right. I'm fine. You?
 
-First person: <<SNAP>> Hey, conversation.
-
-Second person: Oh, right. I'm fine. You?
-
+*Snap*

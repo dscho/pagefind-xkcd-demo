@@ -6,5 +6,4 @@ alt: >-
   'Don't worry, I can do it in under a minute.' 'Yes, I've noticed.'
 img: https://imgs.xkcd.com/comics/frustration.png
 ---
-[[Bra with rubik's cube closure.]]
-
+[Black bra with Rubik's cube closure.]

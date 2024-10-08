@@ -18,7 +18,7 @@ Cueball: Really? Smithsonian magazine confirmed it.
 
 Megan: Believe it or not, I think their source is wrong.
 
-Black Hat: I believe you.
+Black Hat: ***I believe you.***
 
 [Megan has turned to Black Hat raising her hands.]
 

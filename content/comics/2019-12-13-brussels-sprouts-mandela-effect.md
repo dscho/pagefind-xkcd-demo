@@ -12,15 +12,15 @@ Cueball: I always thought of Brussels sprouts as terrible, but they're actually 
 
 [In a frame-less panel Megan replies. Below her is a footnote with a citation to back up her statement.]
 
-Megan: It's not just you! Farmers developed a less-bitter cultivar like 15 years ago.*
+Megan: It's not just you! Farmers developed a less-bitter cultivar like 15 years ago.<sup>\*</sup>
 
-*npr.org/773457637
+<small><sup>\*</sup>npr.org/773457637</small>
 
 [Back to all three as Megan continues to explain while holding her arms away from her.]
 
 Megan: Now the whole world is having this revelation, one person at a time. It's like a real Mandela effect. We secretly switched to the parallel universe where Brussels sprouts taste good.
 
-Cueball: Cool.
+Cueball: *Cool.*
 
 [Ponytail lifts a finger as Cueball and Megan turns to look at her.]
 
@@ -30,6 +30,6 @@ Cueball: Whoa, really?
 
 Megan: This is a trap.
 
-Ponytail: And those silica gel packets that say "Do not eat"? Delicious.
+Ponytail: And those silica gel packets that say "Do not eat"? ***Delicious.***
 
-Cueball: I knew it.
+Cueball: *I knew it.*

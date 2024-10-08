@@ -3,28 +3,27 @@ date: 2013-04-24
 title: "Time Machines"
 num: 1203
 alt: >-
-  'All time machine systems nominal ... T-minus ten ... eleven ...'
+  'All time machine systems nominal... T-minus ten... eleven ...'
 img: https://imgs.xkcd.com/comics/time_machines.png
 ---
-The Problem With Time Machines:
+[Small caption above the first panel:]
 
-[[Character stands holding the lever of a box labeled "Time Machine," with a big on
+The problem with time machines:
 
-off lever switched to off.]]
+[Cueball has his hands on the lever of a time machine.]
 
-[[He flips it on.]]
+[Cueball flips the switch from OFF to ON.]
 
-<<click>>
+Switch: *Click*
 
-eeeeEEEEEEEE
+Time machine: <small><small><small><small>E</small></small></small></small><small><small><small>E</small></small></small><small><small><small>E</small></small></small><small><small>E</small></small><small><small>E</small></small><small>E</small>EEEE
 
-EEEEEEEEeeee
+Time machine: EEEE<small>E</small><small><small>E</small></small><small><small>E</small></small><small><small><small>E</small></small></small><small><small><small>E</small></small></small><small><small><small><small>E</small></small></small></small>
 
-<<click>>
+Switch: *Click*
 
-[[He flips it off.]]
+[Cueball flips the switch from ON to OFF.]
 
-[[He stares at his own hands in confusion.]]
+[Cueball looks at his palms.]
 
-???
-
+Cueball: ???

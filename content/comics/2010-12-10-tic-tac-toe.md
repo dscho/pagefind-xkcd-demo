@@ -6,9 +6,7 @@ alt: >-
   The only winning move is to play, perfectly, waiting for your opponent to make a mistake.
 img: https://imgs.xkcd.com/comics/tic_tac_toe.png
 ---
-((The comic comprises two large square maps, each divided into nine sections, some of which are further subdivided in the same way.  The subdivisions continue down for up to five levels, and the lower map has more tiny diagrams than the upper. The smallest divisions at every scale are completed tic-tac-toe games.))
-
-[[Explanatory text:]]
+[The comic comprises two large square maps, each divided into nine sections, some of which are further subdivided in the same way. The subdivisions continue down for up to five levels, and the lower map has more tiny diagrams than the upper. The smallest divisions at every scale are completed tic-tac-toe games. At the smallest divisions some of the moves are too small to see.]
 
 Complete map of optimal Tic-Tac-Toe moves
 
@@ -16,9 +14,8 @@ Your move is given by the position of the largest red symbol on the grid. When y
 
 Map for X:
 
-((The first square map))
+[The first square map.]
 
-Map for Y:
+Map for O:
 
-((The second square map))
-
+[The second square map.]

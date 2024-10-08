@@ -8,31 +8,31 @@ img: https://imgs.xkcd.com/comics/night_shift.png
 ---
 [Comments with peoples' profile pictures in front of them are shown in white comment boxes on a gray background.]
 
-Cueball: The Atlantic Ocean is big
+ Cueball: The Atlantic Ocean is big
 
-Ponytail: The Pacific is even bigger
+ Ponytail: The Pacific is even bigger
 
-Cueball With Full Body Profile Picture (WFBPP): They're both very big
+ Cueball With Full Body Profile Picture (WFBPP): They're both very big
 
-Megan: A lot of people have TVs
+ Megan: A lot of people have TVs
 
-Hairbun: Some people don't
+ Hairbun: Some people don't
 
-Megan: Yeah, that's true
+ Megan: Yeah, that's true
 
-Cueball: 24 isn't a prime number
+ Cueball: 24 isn't a prime number
 
-Cueball WFBPP: Neither is 25
+ Cueball WFBPP: Neither is 25
 
-Hairbun: Have you ever been to Colorado?
+ Hairbun: Have you ever been to Colorado?
 
-Megan: No
+ Megan: No
 
-Cueball WFBPP: No
+ Cueball WFBPP: No
 
-Cueball: Yeah
+ Cueball: Yeah
 
-Ponytail: No
+ Ponytail: No
 
 [Caption below the panel:]
 

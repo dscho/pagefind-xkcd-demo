@@ -26,7 +26,7 @@ Santa Hat: All our Christmas stories now are about discovering the “true meani
 
 Cueball: Huh, yeah. And then sharing it with others.
 
-Santa Hat: At some point, that quest itself became the true meaning.
+Santa Hat: At some point, that quest itself *became* the true meaning.
 
 [Same setting with Santa Hat holding a hand to his chin.]
 

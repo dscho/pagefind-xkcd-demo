@@ -6,17 +6,16 @@ alt: >-
   Good thing we're too smart to spend all day being uselessly frustrated with ourselves. I mean, that'd be a hell of a waste, right?
 img: https://imgs.xkcd.com/comics/pastime.png
 ---
-[[Two characters are chatting.  One has hair.]]
+[Megan and Cueball are chatting. She has hair.]
 
-Hair: What've you been up to?
+Megan: What've you been up to?
 
-Not hair: Definitely not spending every day consumed with worry over stupid things I never talk to anyone about.
+Cueball: Definitely not spending every day consumed with worry over stupid things I never talk to anyone about.
 
-Hair: Oh, yeah, me neither.
+Megan: Oh, yeah, me neither.
 
-Not hair: That's good.
+Cueball: That's good.
 
-Hair: Yeah.
+Megan: Yeah.
 
-[[The final panel is silent.]]
-
+[The final panel is silent.]

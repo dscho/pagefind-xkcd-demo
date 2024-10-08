@@ -3,14 +3,17 @@ date: 2009-03-09
 title: "Pirate Bay"
 num: 553
 alt: >-
-  We find you guilty of closing your torrents as soon as they finish.  Your sentence is unremovable Hungarian subtitles on everything.
+  We find you guilty of closing your torrents as soon as they finish. Your sentence is unremovable Hungarian subtitles on everything.
 img: https://imgs.xkcd.com/comics/pirate_bay.png
 ---
-[[Awaiting the judges' ruling at the Pirate Bay trial]]
+[Caption above the frame:]
 
-Character 1: I wish this were in America.
+Awaiting the judges' ruling at the Pirate Bay trial.
 
-Character 2: Why?
+[4 Cueball-like guys in a cell: 3 sitting down on a bench and one is standing, presumably looking at the fence.]
 
-Character 1: I hear we'd go before a jury of our peers, and I've always seeded generously
+Cueball: I wish this were in America.
 
+Cueball-like guy: Why?
+
+Cueball: I hear we'd go before a jury of our peers, and I've always seeded generously.

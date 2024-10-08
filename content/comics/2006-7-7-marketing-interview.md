@@ -3,16 +3,17 @@ date: 2006-07-07
 title: "Marketing Interview"
 num: 125
 alt: >-
-  There are a lot of books on marketing out there.  I wonder if you're safest just buying the most popular one.
+  There are a lot of books on marketing out there. I wonder if you're safest just buying the most popular one.
 img: https://imgs.xkcd.com/comics/marketing_interview.png
 ---
-[[Two people, one sitting behind a executive desk, looking at some paper, and the other one by foot using a hat.]]
+[Black Hat, standing in front of Cueball, who is sitting behind a executive desk, looking at some papers.]
 
-Guy behind the desk: I've heard you're one of the best in marketing business, but I've got your portfolio here and looks like you've never run a major campaign. Why should I hire you to head our new initiative?
+Cueball: I've heard you're one of the best in the marketing business, but I've got your portfolio here and looks like you've never run a major campaign. Why should I hire you to head our new initiative?
 
-Guy with a hat: If you don't mind asking, what gave you the idea I was one of the best in the business?
+[Same scene.]
 
-Guy behind the desk: Hm? I don't remember. Just word of mouth or someth-- ...oh, you're good.
+Black Hat: If you don't mind my asking, what gave you the idea I was one of the best in the business?
 
-Guy with a hat: Thank you. When can I start?
+Cueball: Hm? I don't remember. Just word of mouth or someth-- ...oh, you're good.
 
+Black Hat: Thank you. When can I start?

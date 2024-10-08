@@ -14,7 +14,7 @@ Megan: Space telescopes could see exoplanets better if they used free-floating o
 
 Megan: They thought about including one with the Webb telescope, but cut it to save money.
 
-Ponytail: Well... does it have to be their disc?
+Ponytail: Well... does it have to be *their* disc?
 
 [In this frame-less panel Megan is left standing as Ponytail turns and walks away.]
 
@@ -22,7 +22,7 @@ Megan: What do you mean?
 
 Ponytail: Like, if I Kickstart a starshade for them?
 
-Megan: Um. Would you at least warn them?
+Megan: Um. Would you at least *warn* them?
 
 Ponytail: Eh. Whatever.
 
@@ -32,6 +32,6 @@ NASA, 2018:
 
 Cueball: Initiating Webb calibrat-
 
-Cueball: Aaaaa! What the hell is that!?
+Cueball: *Aaaaa*! What the hell is *that!?*
 
 Hairbun: Hey, look, exoplanets!

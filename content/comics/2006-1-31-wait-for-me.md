@@ -6,21 +6,30 @@ alt: >-
   Opening dialogue by Scott
 img: https://imgs.xkcd.com/comics/wait_for_me.jpg
 ---
-[[A man and a woman stand facing one another]]
+[Cueball and Megan stand facing one another.]
 
-Woman: Why didn't you wait for me?
+Megan: Why didn't you wait for me?
 
-Man: I thought you were gone forever!
+Cueball: I thought you were gone forever!
 
-Woman: I said I'd be back in a minute!
+[Megan throws out her arms, and Cueball is looking down.]
 
-Man: The . . . the seconds went fast at first, but then they started to drag on. She was there for me.
+Megan: I said I'd be back in a minute!
 
-Woman: You had an affair in the 90 seconds I was gone?!
+Cueball: The... the seconds went fast at first, but then they started to drag on.
 
-Man: . . . yes.
+Cueball: She was there for me.
 
-Man: And we had a son.
+[Same scene as before, except Megan has her arms out less.]
 
-Man: He'd be about your age now.
+Megan: You had an affair in the 90 seconds I was gone?!
 
+Cueball: ...yes.
+
+[Cueball and Megan stand facing one another in a smaller panel.]
+
+Cueball: And we had a son.
+
+[Same scene as before.]
+
+Cueball: He'd be about your age now.

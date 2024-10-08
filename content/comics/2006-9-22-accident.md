@@ -6,12 +6,20 @@ alt: >-
   As far as treachery-as-driving-music goes, Katamari music is matched only by Guitar Hero music.
 img: https://imgs.xkcd.com/comics/accident.png
 ---
-[[Person driving car while singing]]
+[Cueball driving in a car while listening to some music.]
 
-Driver: NAAAA NA NA NANA NANA NA NA KATAMARI DAMACY
+Music: ♫ ♩ ♬
 
-[[two people talking]]
+[Another panel of Cueball listening to music while driving. Cueball's head is turned to the right.]
 
-Mailbox Owner: and that's when you veered into the mailbox?
+Music: ♬ ♪ ♩
 
-Driver: It looked smaller then me. It was just instinct.
+[A third panel. Cueball's head is turned to the left.]
+
+Music: ♫ NAAAA NA NA NANA NANA NA NA KATAMARI DAMACY ♪ ♩
+
+[Cueball and Megan talking.]
+
+Megan: And that's when you veered into the mailbox?
+
+Cueball: It looked smaller then me. It was just instinct.

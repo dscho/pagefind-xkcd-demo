@@ -6,61 +6,52 @@ alt: >-
   The AYB retro-return-date (Zero Wing Zero Hour) should be around AD 2021.
 img: https://imgs.xkcd.com/comics/all_your_base.png
 ---
-[[A section of a Linux terminal window is shown]]
+[A section of a Linux terminal window is shown. Text from window:]
 
-Text from window: ~ 
+ ~ /$ ls /
 
-$ ls 
+ ayb    boot    etc     lib ...
 
-ayb    boot    etc         lib ...
+ bin    dev     home    mnt ...
 
-bin     dev     home    mnt ...
+ ~/ $ ls /ayb/
 
-~
+ allyourbase\_original.swf al...
 
- $ ls 
+ allyourbase\_remix.swf      ...
 
-ayb
+ allyourbase\_remix2.swf   b ...
 
-allyourbase_original.swf   al...
+ ayb\_acapella.mp3         ze...
 
-allyourbase_remix.swf        ...
+ ayb\_images               ze...
 
-allyourbase_remix2.swf    b ...
+ ayb\_orchestral.mp3        ....
 
-ayb_acapella.mp3           ze...
+[Ponytail is at a computer.]
 
-ayb_images
+Ponytail: What's with the All Your Base stuff? Didn't that die like five years ago?
 
-                  ze...
+[From off-panel]: Yes.
 
-ayb_orchestral.mp3
+[Cueball enters the panel.]
 
-....
+Cueball: It was my first internet meme, and my favorite. Others tired of it, but I never did.
 
-[[Girl is at computer]]
+Cueball: So I wait.
 
-Girl: What's with the All Your Base stuff? Didn't that die like five years ago?
+[Cueball raises his fists.]
 
-[[From off-panel]] : Yes.
+Cueball: Someday, decades from now, people will have forgotten. It will be fresh again.
 
-[[Man enters panel]]
+Cueball: Retro.
 
-Man: It was my first internet meme, and my favorite.  Others tired of it, but I never did.
+Cueball: And when that day comes,
 
-Man: So I wait.
+Cueball: *I WILL BE READY!*
 
-Man: Someday, decades from now, people will have forgotten. It will be fresh again.
+Ponytail: You need a hobby or something.
 
-Man: Retro.
+Cueball: What you say!!
 
-Man: and when that day comes [[Man raises his fists]]
-
-Man: I WILL BE READY!
-
-Girl: You need a hobby or something.
-
-Man: What you say!!
-
-Man: Wait, too soon.
-
+Cueball: Wait, too soon.

@@ -3,50 +3,51 @@ date: 2009-05-06
 title: "The Race: Part 3"
 num: 579
 alt: >-
-  No, the best things about The Sarah Connor Chronicles were: (1) watching Sarah and Cameron try to pass for normal, and (2) Cameron throwing people and things through walls.  Everything else was pretty secondary.
+  No, the best things about The Sarah Connor Chronicles were: (1) watching Sarah and Cameron try to pass for normal, and (2) Cameron throwing people and things through walls. Everything else was pretty secondary.
 img: https://imgs.xkcd.com/comics/the_race_part_3.png
 ---
-[[Malcolm, Munrovian Male, and Summer Glau standing around with electric skateboards]]
+[Nathan, Cueball, and Summer Glau standing around with electric skateboards.]
 
-Malcolm Reynolds: meet a few of my friends. this is-
+Nathan: Meet a few of my friends. This is-
 
-Male: Summer Glau! you were the best part of Chronicles.
+Cueball: Summer Glau! You were the best part of *Chronicles*.
 
-Summer: I eat my bodyweight in food every 31 days. that's slightly faster than the human average.
+Summer: I eat my bodyweight in food every 31 days. That's slightly faster than the human average.
 
-[[Summer stares off into space]]
+[Summer stares off into space.]
 
-Malcom: yeah, there's a reason she only plays strange roles.
+Nathan: Yeah, there's a reason she only plays strange roles.
 
-Male: Ah.
+Cueball: Ah.
 
-Summer (offscreen): I'm part of the floor now.
+Summer (from below): I'm part of the floor now.
 
-[[They find Jewel Staite working on a skateboard's engine]]
+[They find Jewel Staite working on a skateboard's engine.]
 
-Malcolm: and this is Kaylee.
+Nathan: And this is Kaylee.
 
-Jewel: my name is Jewel, Nathan.
+Jewel: My name is Jewel, Nathan.
 
-Malcolm: Kaylee-
+Nathan: Kaylee—
 
-Jewel: Jewel.
+Jewel: *Jewel*.
 
-Malcolm Jewel is fixin' up my new board.
+Nathan: —Jewel is fixin' up my new board.
 
-Jewel:  almost done!
+Jewel: Almost done!
 
-Male: so wait. Summer's actually weird, Jewel's actually a mechanical whiz...
+Cueball: So wait. Summer's actually weird, Jewel's actually a mechanical whiz...
 
-Male: ...will Morena Baccarin be here? is she really a-
+Cueball: ...will Morena Baccarin be here? Is she really a—
 
-Malcolm and Jewel: NO.
+Nathan and Jewel: No.
 
-[[Setting up for the race]]
+The racers set up
 
-Malcolm: Kaylee, I've been gunnin' the radio hand throttle thingy for a while, but it ain't movin'
+[Nathan and Jewel are to the far left of a full-width panel. Nathan is standing on his skateboard holding a controller. Cueball is on his skateboard which is careening out of control on the far right of the panel.]
 
-Jewel: oh, I must've set it to the wrong frequency!
+Nathan: Kaylee, I've been gunnin' the radio hand throttle thingy for a while, but it ain't movin'.
 
-Male (riding around on haywire board): AAAAAAAA
+Jewel: Oh, I must've set it to the wrong frequency!
 
+Cueball (riding around on haywire board): *AAAAAAAA*

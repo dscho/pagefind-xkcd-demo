@@ -8,13 +8,13 @@ img: https://imgs.xkcd.com/comics/parker_solar_probe.png
 ---
 [A tall, but very narrow box with Earth at the top, with Cueball and Megan standing precariously "on top" of Earth on each side of the center, trying to keep their balance. At the very bottom is shown a slice of the Sun. Between Earth and the Sun the two inner planets and two spacecraft are depicted with relation to their distance from the Sun. The spacecraft closest to the Sun is shown two times at different times, as it moves closer and closer to the sun. All 7 objects have labels close to them. The largest distance is between Venus and Mercury, with the Earth-Venus distance the second longest. The distances between the objects below Mercury are much shorter. There is a caption above the slim panel:]
 
-Looking down toward the Sun
-and the Parker Solar Probe
-(Distances are to scale, sizes are not to scale)
+<big>Looking down toward the Sun</big><br>and the Parker Solar Probe<br>
+
+<small>(Distances are to scale, sizes are *not* to scale)</small>
 
 Earth
 
-Cueball: Careful!
+Cueball: *Careful!*
 
 Venus
 
@@ -26,5 +26,4 @@ Parker Solar Probe (today)
 
 Parker Solar Probe (2025)
 
-Sun
-(Not to scale)
+Sun<br><small>(Not to scale)</small>

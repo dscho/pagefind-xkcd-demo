@@ -3,21 +3,23 @@ date: 2007-10-22
 title: "Gyroscopes"
 num: 332
 alt: >-
-  We didn't actually land on the moon -- it just looked like we did because of precession.  Also, gyroscopes caused 9/11.
+  We didn't actually land on the moon -- it just looked like we did because of precession. Also, gyroscopes caused 9/11.
 img: https://imgs.xkcd.com/comics/gyroscopes.png
 ---
-[[Person at desk with Gyroscope]]
+[Cueball sits at a desk with a gyroscope in his hands. Text on top of the frame:]
 
-Narrator: Despite years of studying physics, I still find gyroscopes a little freaky.
+Despite years of studying physics, I still find gyroscopes a little freaky.
 
-[[Person starts gyroscope with a zzzzip]]
+[Cueball starts the gyroscope.]
 
-[[Gyroscope spins with a zzzzzz]]
+Gyroscope: zzzzip
 
-[[Gyroscope lifts into the air]]
+[The gyroscope spins.]
 
-Gyroscope: Greetings, Human.
+Gyroscope: zzzzzz
 
-{{title text: We didn't actually land on the moon -- it just looked like we did because of precession.  Also, gyroscopes caused 9
+[Frameless panel, the gyroscope lifts into the air.]
 
-11.}}
+[The gyroscope moves away from Cueball, still spinning.]
+
+Gyroscope: G<big><sub>R</sub></big>E<big><sub>E</sub></big>T<big><sub>I</sub></big>N<big><sub>G</sub></big>S, H<big><sub>U</sub></big>M<big><sub>A</sub></big>N.

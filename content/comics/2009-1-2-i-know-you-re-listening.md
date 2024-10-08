@@ -3,14 +3,17 @@ date: 2009-01-02
 title: "I Know You're Listening"
 num: 525
 alt: >-
-  It's basically Pascal's Wager for the paranoid prankster.
+  Basically it's Pascal's Wager for the paranoid prankster.
 img: https://imgs.xkcd.com/comics/i_know_youre_listening.png
 ---
+[Caption above the two panels of the comic:]
+
 Now and then, I announce "I know you're listening" to empty rooms.
 
-[[Man is sitting in an armchair, reading.  He murmurs something.]]
+[Cueball is sitting in an armchair, reading. He murmurs something unreadable.]
 
-[[Second man in front of a large computer terminal jumps out of chair after hearing the first man mumble. His chair has fallen over]]
+[A second Cueball-like surveillance man with headphones seems to have gotten up from his office chair so fast that is has fallen over and lies behind him. He is now standing in front of a large computer terminal with two screens. He can hear Cueball's mumble as it is shown as coming from one of the screens. The surveillance man is leaning back away from the terminal while holding a hand to his headphones.]
 
-If I'm wrong, no one knows.  And if I'm right, maybe I just freaked the hell out of some secret organization.
+[Caption below the panels:]
 
+If I'm wrong, no one knows. And if I'm right, maybe I just freaked the hell out of some secret organization.

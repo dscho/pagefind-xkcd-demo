@@ -16,4 +16,4 @@ Cueball: My life is basically a big controlled trial of whether I'm more likely 
 
 Megan: The weird thing is that the rate for the control group is so high.
 
-Cueball: Walking is hard, okay?
+Cueball: *Walking is hard, okay?*

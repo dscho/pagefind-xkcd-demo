@@ -6,9 +6,26 @@ alt: >-
   I think I could spend hours just stepping on and off of conveyor belts moving at various speeds.
 img: https://imgs.xkcd.com/comics/moving_sidewalks.png
 ---
-[[A man and a woman are on opposite ends of a two-way moving sidewalk, poised to get on. The sidewalks are divided up into 5 square outer segments and one double-length inner segment each. Each segment has an arrow in the direction the sidewalk travels. The outer-most segments are labeled "moving sidewalk". The next segments in are labeled "moving sidewalk (2x speed)". The next is "3x speed", followed by "4x speed", and "5x speed". The center is labeled "High-five location".]]
+[Cueball and Megan on the opposite far ends of a bidirectional moving sidewalk.  Arrows indicate that one half will carry Cueball from left to right, while the other half will carry Megan from right to left.  In each direction, the sidewalk is made up of a series of individual conveyors.]
 
-Man: Ready? 
+Cueball: Ready?
 
-Woman: Ready. 
 
+
+[A diagram labels various individual conveyors as follows.]
+
+[Outermost conveyors:] Moving Sidewalk
+
+[Second and second-last conveyors:] Moving Sidewalk (2x Speed)
+
+[Next conveyors:] 3x Speed
+
+[Next conveyors:] 4x Speed
+
+[Innermost conveyors:] 5x Speed
+
+[Spot between the two sidewalks, directly in the center:] High-Five Location
+
+
+
+Megan: Ready.

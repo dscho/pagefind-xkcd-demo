@@ -3,12 +3,12 @@ date: 2018-03-09
 title: "Background Apps"
 num: 1965
 alt: >-
-  My plane banner company gets business by flying around with a banner showing a <div> tag, waiting for a web developer to get frustrated enough to order a matching </div>.
+  My plane banner company gets business by flying around with a banner showing a &lt;div&gt; tag, waiting for a web developer to get frustrated enough to order a matching &lt;/div&gt;.
 img: https://imgs.xkcd.com/comics/background_apps.png
 ---
 [A small airplane with a trailing banner is flying across the panel from left to right with four small clouds spread out beneath the banner. The long banner reads:]
 
-Banner: People! Closing background apps when you're not using them makes your phone battery drain faster, not slower! Stop it!
+Banner: People! Closing background apps when you're not using them makes your phone battery drain *faster*, not slower! Stop it!
 
 [A beat panel without a plane, but just the sky with two birds to the left and three clouds.]
 

@@ -6,7 +6,26 @@ alt: >-
   The prereqs for CPSC 357, the class on package management, are CPSC 432, CPSC 357, and glibc2.5 or later.
 img: https://imgs.xkcd.com/comics/dependencies.png
 ---
-((A portion of a page from an imaginary course catalog.)
+[A portion of a page from an imaginary course catalog.]
 
-[[A table with four columns labeled Department, Course, Description, and Prereqs. Under 'Department' it reads, "computer science". Under 'course' it reads, "CPSC 432". Under 'Description' it reads, "Intermediate compiler design, with a focus on dependency resolution." Under 'Prereqs' it reads, "CPSC 432". 
+Page 3
 
+[A table with four columns]
+
+;Department
+
+Computer Science
+
+;Course
+
+CPSC 432
+
+;Description
+
+Intermediate compiler design, with a focus on dependency resolution.
+
+;Prereqs
+
+CPSC 432
+
+[The very top of the text for the next course in the table is visible but unreadable.]

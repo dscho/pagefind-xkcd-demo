@@ -6,33 +6,30 @@ alt: >-
   It's a lasing cat-vity!
 img: https://imgs.xkcd.com/comics/laser_pointer.png
 ---
-[[A human points a laser pointer at the floor. A black cat crouches, staring at the red dot.]]
+[Cueball points a laser pointer at the floor. A black cat crouches, staring at the red dot.]
 
-[[The cat pounces.]]
+[The cat pounces.]
 
-[[The cat lands with its paw on the dot, claws out.]]
+[The cat lands with its paw on the dot, claws out.]
 
-[[The cat tugs on the dot.]]
+[The cat tugs on the dot.]
 
-<<tug tug>>
+Dot: *tug tug*
 
-[[The human looks at and tries to use the laser pointer, which is no longer emitting a beam.]]
+[Cueball tries to use the laser pointer, which is no longer emitting a beam. The cat nibbles on the red laser dot.]
 
-Human: ?? <<click click>>
+Cueball: ??? *click click*
 
-[[The cat nibbles on the red laser dot.]]
+Cat: *lick? nom nom*
 
-Cat: <<lick? nom nom>>
+[The cat arches, emitting red shock lines.]
 
-[[The cat arches, emitting red shock lines.]]
+[The cat shoots lasers out of its eyes at Cueball, who is covered in a bright red glow. The right side of the panel is the end of a thought bubble.]
 
-[[The cat shoots lasers out of its eyes at the human, who is covered in a bright red glow.]]
+Laser: *FWOOSH*
 
-<<FWOOSH>>
+Cueball: AUGH!
 
-Human: AUGH!
+[The black cat, sleeping, has dreamed the entire strip.]
 
-((The right side of the panel is the end of a thought bubble ...))
-
-[[The black cat, sleeping, has dreamed the entire strip.]]
-
+Cat: *zzzzz*

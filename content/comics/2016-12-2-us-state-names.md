@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/us_state_names.png
 
 Geography challenge:
 
-Name all 50 states
+**Name all 50 states**
 
 [The state names in red text color are:]
 

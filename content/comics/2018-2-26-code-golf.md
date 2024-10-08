@@ -8,15 +8,15 @@ img: https://imgs.xkcd.com/comics/code_golf.png
 ---
 [There is code written as colored text in a black box (all black text here below is white in the comic):]
 
-define callMeIshmaelSomeYearsAgoNeverMindHowLongPrecisely():
+<font color="blue">define</font> <font color="DarkOliveGreen">callMeIshmaelSomeYearsAgoNeverMindHowLongPrecisely</font>():
 
-return 0
+<font color="purple">return</font> <font color="DarkOliveGreen">0</font>
 
-define havingLittleOrNoMoneyInMyPurseAndNothingParticular(toInterestMeOnShoreIThoughtIWouldSail):
+<font color="blue">define</font> <font color="DarkOliveGreen">havingLittleOrNoMoneyInMyPurseAndNothingParticular</font>(<font color="blue">toInterestMeOnShoreIThoughtIWouldSail</font>):
 
-return 1+toInterestMeOnShoreIThoughtIWouldSail
+<font color="purple">return</font> 1+toInterestMeOnShoreIThoughtIWouldSail
 
-define aLittleAndSeeTheWateryPartOfTheWorld(
+<font color="blue">define</font> <font color="DarkOliveGreen">aLittleAndSeeTheWateryPartOfTheWorld</font>(
 
 [Caption under the black box:]
 

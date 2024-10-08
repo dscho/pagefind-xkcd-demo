@@ -8,13 +8,13 @@ img: https://imgs.xkcd.com/comics/invisible_formatting.png
 ---
 [A text editor, with some options. They are superscript in one section, bold, italic and underscore in another section and alignments in the third section. The word "not ", including the following space, is highlighted in blue. There is a cursor below it.]
 
-Text: ...ere, but would not have to mo...
+Text: ...ere, but would <span style="background:#64D5FF">not </span>have to mo...
 
 Action: Select
 
 [The cursor is on the "bold" option and the selected word is bolded.]
 
-Text: ...ere, but would not have to mo...
+Text: ...ere, but would <span style="background:#64D5FF">**not **</span>have to mo...
 
 Action: Click
 
@@ -22,23 +22,23 @@ Action: Click
 
 Thought bubble: ...Nah, the bold is too much.
 
-Text: ...ere, but would not have to mo...
+Text: ...ere, but would **not **have to mo...
 
 [The word "not" is now highlighted in blue again, but the following space is not.]
 
-Text: ...ere, but would not have to mo...
+Text: ...ere, but would <span style="background:#64D5FF">**not</span> **have to mo...
 
 Action: Select
 
 [The cursor is on the "bold" option and the selected word is not bolded.]
 
-Text: ...ere, but would not have to mo...
+Text: ...ere, but would <span style="background:#64D5FF">not</span>** **have to mo...
 
 Action: Click
 
 [The cursor and the blue highlighting are gone. The space after "not" has a dashed box around it, and an arrow points to it.]
 
-Text: ...ere, but would not have to mo...
+Text: ...ere, but would not** **have to mo...
 
 Arrow: Hidden bold space
 

@@ -16,7 +16,7 @@ Megan: It doesn't feel real.
 
 Cueball: I can't wait to hang out with friends again.
 
-Megan: Seriously.
+Megan: *Seriously.*
 
 [In a frame-less panel they are just standing next to each other, but looking away from each other.]
 
@@ -24,6 +24,6 @@ Megan: Seriously.
 
 Cueball: So, uh...how do we...
 
-Megan: I was hoping you knew.
+Megan: I was hoping ***you*** knew.
 
-Cueball: I'm realizing now, I was hazy on this before the pandemic.
+Cueball: I'm realizing now, I was hazy on this ***before*** the pandemic.

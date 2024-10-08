@@ -6,7 +6,7 @@ alt: >-
   "Are you concerned the witches won't breed in captivity?" "Honestly, we're more concerned that they WILL. We don't know what it involves, but our biologists theorize that it's 'harrowing.'"
 img: https://imgs.xkcd.com/comics/blair_witch.png
 ---
-[Megan is standing in front of a screen looking away from it at an audience off-panel. She is holding a stick, pointed at the chart behind her. The chart shows the stick figure from The Blair Witch Project. Above is an unreadable line of text, and below are two smaller rectangles a smaller one above the other, the small seems to be empty, but there seems to be some kind of graph in the bottom one.]
+[Megan is standing in front of a screen looking away from it at an audience off-panel. She is holding a stick, pointed at the chart behind her. The chart shows the stick figure from *The Blair Witch Project*. Above is an unreadable line of text, and below are two smaller rectangles a smaller one above the other, the small seems to be empty, but there seems to be some kind of graph in the bottom one.]
 
 Megan: Other than the fake 1999 video, there have been no Blair Witch sightings in 30+ years.
 

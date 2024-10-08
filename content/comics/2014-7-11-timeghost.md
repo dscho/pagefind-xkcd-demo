@@ -6,41 +6,38 @@ alt: >-
   'Hello, Ghostbusters?' 'ooOOoooo people born years after that movie came out are having a second chiiiild right now ooOoooOoo'
 img: https://imgs.xkcd.com/comics/timeghost.png
 ---
-[[A ghost flies over to a couple of people.]]
+[Cueball and Megan are approached by a floating ghost]
 
-Ghost: ...ooOOOOOOOOooo... Tiiiime is passiiiing! 
+Timeghost: *...ooOOOOOOOOooo... Tiiiime is passiiiing!*
 
-Person 1: Ugh. Timeghost.
+Megan: Ugh. Timeghost.
 
-Person 2: Huh?
+Cueball: Huh?
 
-Person 1: Here come the factoids.
+Megan: Here come the factoids.
 
-[[The ghost flies around in little circles as it speaks. Person 1 turns away.]]
+[Timeghost floats around.]
 
-TG: 
+Timeghost: *Forrest Gump* came out closer to the Vietnam War than to the present daaay.
 
-Forrest Gump
+Megan: Go *away!*
 
- came out closer to the Vietnam War than to the present daaay.
+Timeghost: The average new grand-parents are younger than Keanu Reeeeves!
 
-P1: Go away!
+Cueball: That can't be right...
 
-TG: The average new grandparents are younger than Keanu Reeeeves!
+[Megan clutches her head, possibly attempting to cover her ears.]
 
-P2: That can't be right...
+Timeghost: *Today's new parents were ten when Eminem got big. Daaaaaad muuuuusic. They remember Simpsons season 5 or 6 at the **earliest***.
 
-[[The ghost is out of panel. Person 1 is plugging their ears.]]
+Megan: Argh!
 
-TG: Today's new parents were ten when Eminem got big - DaAaaAaad MuuUuUuSic - They remember Simpsons Season 5 or 6 at the earliest.
+Cueball: How long has it been *doing* this?
 
-P1: Argh!
+[Megan and Cueball looks up at the Timeghost as it delivers its most scary message.]
 
-P2: How long has it been doing this?
+Timeghost: *The staaaaart of my haunting is now further away than your deaaaths!*
 
-[[The ghost floats above them. They look up.]]
+Megan: Will you sto- -***WHAT!?***
 
-TG: The staaaaart of my haunting is now further away than your deaaaths!
-
-P1: Will you sto--WHAT!?
-
+Timeghost: *ooOOOOOOOoo*

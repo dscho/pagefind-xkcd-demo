@@ -6,21 +6,24 @@ alt: >-
   I just want to give him a hug or something.
 img: https://imgs.xkcd.com/comics/megaxkcd.png
 ---
-[["megaxkcd" in Japanese quote characters.  An anime girl with pigtails, long rectangular earrings and a blank expression stands with her arms at her sides.]]
+[At the top of the panel is the title of the comic inside Japanese quote characters. Beneath this is a text, and to the right of this is a drawing on an anime girl in shirt and skirt, who has blonde hair with very long pigtails, long rectangular earrings, and a blank expression looking slightly down while standing with her arms at her sides. The gray-scale drawing is far from the normal xkcd style.]
 
-Narration: In today's megaxkcd, our protagonist comes to terms with his romantic love for a girl who is a video game console accessory.
+<big>**megaxkcd**</big>
 
-Man 1: Wait, I'm not sure we should parody megatokyo.
+In today's megaxkcd, our protagonist comes to terms with his romantic love for a girl who is a video game console accessory.
 
-Man 2: Fred Gallagher does seem like he might take it kind of hard.
+[Cueball and Black Hat, drawn in standard xkcd style, talk.]
 
-Man 1: He really does.
+Cueball: Wait, I'm not sure we should parody megatokyo.
 
-Man 2: Poor guy.  We should try to cheer him up.
+Black Hat: Fred Gallagher does seem like he might take it kind of hard.
 
-[[Man 1 and Man 2 stand in front of a profile shot of a house.  On the left is a mailbox.  Man 2 stands at street level, while Man 1 is holding a cake on the top of a two-step staircase to the front door.]]
+Cueball: He really does.
 
-Man 2: Fred?  Fred, please come out.  It's OK.  Don't cry, Fred.
+Black Hat: Poor guy. We should try to cheer him up.
 
-Man 1: We... we baked you a cake.
+[Cueball and Black Hat stand in front of a profile shot of a house with at least two stories. On the left is a mailbox at the curb of the road to the very left. Black Hat stands on the path to the house past the mailbox, while Cueball is holding a big cake with at least three lit candles on top. He holds it up in both hands in front of him presenting it to the closed door in front of him as he stands on the top of a two-step staircase to the front door. There are two flowers beneath him at the base of the stair, and two windows on the side wall of the house, one in each of the two visible stories. The house continues above the panel.]
 
+Black Hat: Fred? Fred, please come out. It's OK. Don't cry, Fred.
+
+Cueball: We... We baked you a cake.

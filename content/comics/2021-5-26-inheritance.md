@@ -12,11 +12,11 @@ Ponytail: Let's see...I got 31, you have 28, 35 for you, and-
 
 Cueball: -I've got 10,019.
 
-Ponytail: *Sigh*
+Ponytail: \*Sigh\*
 
 Cueball: Hey, add another 20 to everyone, on me!
 
-White Hat: I hate this.
+White Hat: *I hate this*.
 
 [Caption beneath the panel:]
 

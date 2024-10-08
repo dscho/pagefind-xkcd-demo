@@ -20,7 +20,7 @@ Cueball: Oh, wow, there's like a gigabyte of stuff from Cron in here.
 
 [In a frame-less panel Ponytail is facepalming. Cueball is replying from off-panel with a starburst indicating his position.]
 
-Ponytail: *Sigh*
+Ponytail: \*Sigh\*
 
 Ponytail: You should fix your Cron, then point "MAILTO=" somewhere you actually see-
 

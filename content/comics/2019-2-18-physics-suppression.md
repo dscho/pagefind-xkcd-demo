@@ -12,6 +12,6 @@ White Hat: You physicists are suppressing my theory because it's inconvenient fo
 
 Megan: Wait, we have a mafia that can suppress annoying results?
 
-Megan: Why didn't they do something about the dark energy people?!
+Megan: *Why didn't they do something about the dark energy people?!*
 
 Megan: We gave them a Nobel prize but I'm still mad at them!

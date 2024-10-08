@@ -6,15 +6,14 @@ alt: >-
   How do I work it? IT'S ALREADY WORKING!
 img: https://imgs.xkcd.com/comics/shake_that.png
 ---
-[[A woman stands in a disco, surrounded by dancing figures. She looks confused.]]
+[Megan stands in a disco, surrounded by dancing figures. She looks confused.]
 
 PA system: Shake what your mama gave you
 
-Woman: ???
+Megan: ???
 
-[[The woman walks out of the club door.]]
+[Megan walks out of the club door.]
 
-[[We see a mug on a table, labelled "World's Greatest Daughter".]]
+[We see a mug on a table, labelled "World's Greatest Daughter".]
 
-[[The woman shakes the mug.]]
-
+[Megan shakes the mug.]

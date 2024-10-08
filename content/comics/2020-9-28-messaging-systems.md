@@ -10,23 +10,19 @@ A Venn Diagram is shown, framed in a box. It has three components:
 
 Vaguely Modern, E2E Encrypted, Supported By Everyone
 
-
-Items Solely in the Vaguely Modern category are:
+**Items Solely in the Vaguely Modern category are:**
 
 Facebook Messenger, Hangouts, Discord, Various DMs
 
-
-Items In both 'Vaguely Modern' and 'E2E Encrypted' categories are:
+**Items In both 'Vaguely Modern' and 'E2E Encrypted' categories are:**
 
 Signal, iMessage, Whatsapp
 
-
-Items Solely in the E2E Encrypted category are:
+**Items Solely in the E2E Encrypted category are:**
 
 PGP Email, Various Obscure Projects, Skype I think, XMPP and XMPP + XEP-0384: OMEMO
 
-
-Items Solely in the 'Supported By Everyone' category is:
+**Items Solely in the 'Supported By Everyone' category is:**
 
 SMS
 

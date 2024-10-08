@@ -8,10 +8,10 @@ img: https://imgs.xkcd.com/comics/a_new_captcha_approach.png
 ---
 To complete your web registration, please prove that you're human:
 
-When Littlefoot's mother died in the original `Land Before Time', did you feel sad?
+When Littlefoot's mother died in the original 'Land Before Time', did you feel sad?
 
-[[radio button]] Yes
+[radio button.] Yes
 
-[[radio button]] No
+[radio button.] No
 
 (Bots: no lying)

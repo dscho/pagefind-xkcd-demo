@@ -12,13 +12,13 @@ img: https://imgs.xkcd.com/comics/things_you_learn.png
 
 100 digits of pi
 
-Lyrics to We Didn't Start the Fire
+Lyrics to *We Didn't Start the Fire*
 
 How to ride a bike
 
 How to escape movie quicksand
 
-Lyrics to 12 Days of Christmas
+Lyrics to *12 Days of Christmas*
 
 TV theme songs
 

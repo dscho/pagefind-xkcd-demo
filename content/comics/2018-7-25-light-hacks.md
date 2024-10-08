@@ -18,7 +18,7 @@ Megan: And you can put a sheet in front to diffuse the light.
 
 Off-panel voice: So you've invented the lampshade.
 
-Megan: Life hacks!
+Megan: ***Life hacks!***
 
 Megan: Freeman Dyson suggested that advanced civilizations would build spherical shells that surrounded their bulbs, redirecting 100% of their energy.
 
@@ -30,4 +30,4 @@ Off-panel voice: You know you can just check their website.
 
 Megan: Ooh, great life hack!
 
-Off-panel voice: No!
+Off-panel voice: *No!*

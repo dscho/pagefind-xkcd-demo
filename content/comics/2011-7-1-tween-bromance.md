@@ -6,22 +6,18 @@ alt: >-
   Verbiage. Va-jay-jay. Irregardless.
 img: https://imgs.xkcd.com/comics/tween_bromance.png
 ---
+[All of Cueball's lines are overlaid over the entire comic; the panels listed are merely the ones directly under each sentence fragment.]
 
+[Cueball is standing smugly behind Megan, who is seated in front of a computer and typing.]
 
-((All of person 1's lines are overlaid over the entire comic; the panels listed are merely the ones directly under each sentence fragment.)) 
+Cueball: By my guesstimate,
 
-[[Person one is standing smugly behind person two, who is seated in front of a computer and typing]] 
+Cueball: my frenemy yiffed so hard
 
-Person 1: BY MY GUESSTIMATE,
+Cueball: her moist taint made
 
-Person 1: MY FRENEMY YIFFED SO HARD
+[Megan's eye twitches.]
 
-Person 1: HER MOIST TAINT MADE
+Cueball: her panties preggers!
 
-[[Person 2's eye twitches]]
-
-Person 1: HER PANTIES PREGGERS!
-
-Person 2: STOP IT STOP IT!
-
-[[Person two covers ears]]
+Megan: *STOP IT STOP IT!*

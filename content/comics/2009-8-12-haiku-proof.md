@@ -6,25 +6,22 @@ alt: >-
   After somewhere around 40 hours, there's no academic reason to go to the class. Only go for the hallucinations.
 img: https://imgs.xkcd.com/comics/haiku_proof.png
 ---
-[[Students are sitting at desks.]]
+[Miss Lenhart teaching a class gestures with both hands up as Megan, sitting at the first desk on a stool, raises a hand and asks a question. Cueball sits at the desks behind her supporting his head in both hands with the elbows on the desk.]
 
-Student #1: How do you know there are an infinite number of primes?
+Megan: How do you know there are an infinite number of primes?
 
-Professor: I'll answer in haiku!
+Miss Lenhart: I'll answer in haiku!
 
-Professor: Top prime's divisors'
+[In a frame-less panel, Miss Lenhart lifts a hand up while answering. Both students sit upright on their stools.]
 
-[[The professor floats into the air.]]
+Miss Lenhart: Top prime's divisors'
 
-Professor: Product (plus one)'s factors are...?
+[Miss Lenhart floats into the air  with three lines beneath her legs. Cueball looks up. Megan does not change position.]
 
-[[The professor wafts over the students.]]
+Miss Lenhart: Product (plus one)'s factors are...?
 
-Professor: Q.E.D., bitches!
+[Miss Lenhart flies over the students heads with a curved line behind her. Neither student look up. The bottom frame of the panel is a curving thought/dream bobble that goes through the middle of the panel at a height just below the desk tops. Two thought circles goes from Cueball's head down to this frame, and Cueball's thoughts are shown below outside of the panel - without any frame around.]
 
-Student #2 ((in thought bubble)) Wow, after the 48-hour sleep-dep mark, lectures get 
+Miss Lenhart: Q.E.D., bitches!
 
-really
-
- interesting.
-
+Cueball (thinking): Wow, after the 48-hour sleep-dep mark, lectures get *really* interesting.

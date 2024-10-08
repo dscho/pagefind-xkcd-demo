@@ -6,17 +6,20 @@ alt: >-
   Although right now I'm more excited about ESPRESSO's radial velocity measurements, so I'm listening to This Kiss, her song about measuring "centrifugal motion" on "a rooftop under the sky".
 img: https://imgs.xkcd.com/comics/spectroscopy.png
 ---
-[[A large white planet fills the void of space, orbited by a tiny moon.]]
+[A dark panel with a bright star in the center. To the left a planet (drawn as a new moon) approaches the star. Text is written above in white with two musical notes, one on each side of the text.]
 
-Musical overture: I watch the sunlight
+I watch the sunlight
 
-[[The planet is eclipsed by its moon]]
+[Same image but now the planet transits the star. Small lines around the planet indicate the atmosphere, as seen from the light from the star passing through it. Text is again written above in white with two different musical notes, one on each side of the text.]
 
-Musical overture: dance across your face
+Dance across your face
 
-[[A graph is here. There is a spike. It is labeled OXYGEN.]]
+[A white frame with a black line. It Is the spectrum of the planets atmosphere. Two distinct absorption peaks are visible. The first one is labeled with an arrow. Text is again written above, now in black, with two, again, different musical notes, one on each side of the text.]
 
-Musical overture: I can see you breathe
+I can see you breathe
 
-Three panel caption: Faith hill on exoplanet spectroscopy
+Label: O<sub>2</sub>
 
+[Below the panels is the following caption:]
+
+Faith Hill on exoplanet spectroscopy

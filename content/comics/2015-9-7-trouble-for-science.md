@@ -6,15 +6,14 @@ alt: >-
   Careful mathematical analysis demonstrates small-scale irregularities in Gaussian distribution
 img: https://imgs.xkcd.com/comics/trouble_for_science.png
 ---
-[[A series of whitepaper headlines]]
+[Five panels, each with the top part of a scientific article, where only the title is legible. Below is the list of authors and subheading and text in unreadable wiggles.]
 
 Many Commercial Antibody-Based Immunoassays Are Unreliable
 
-Problems With the p-value as an indicator of significance
+Problems With the p-Value as an Indicator of Significance
 
-Overfeeding of laboratory rodents compromises animal models
+Overfeeding of Laboratory Rodents Compromises Animal Models
 
-Replication study fails to reproduce many published results
+Replication Study Fails to Reproduce Many Published Results
 
-controlled trials show bunsen burners make things colder
-
+Controlled Trials Show Bunsen Burners Make Things Colder

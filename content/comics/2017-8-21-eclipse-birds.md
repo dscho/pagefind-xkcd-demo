@@ -28,13 +28,13 @@ Squawk!
 
 Chirp!
 
-Clank clank clank
+**Clank clank clank**
 
 The time is upon us!
 
 Peep!
 
-Kachunk
+**Kachunk**
 
 Prepare the blood cauldron!
 

@@ -6,11 +6,10 @@ alt: >-
   It was tricky.
 img: https://imgs.xkcd.com/comics/in_the_trees.jpg
 ---
-[[Man standing in forest]]
+[Cueball is standing in a forest.]
 
-Man: We made it so far together but then I lost you in the trees.
+Cueball: We made it so far together but then I lost you in the trees.
 
-[[Closer view of man]]
+[A closer view of Cueball.]
 
-Man: Finally
-
+Cueball: Finally.

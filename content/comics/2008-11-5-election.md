@@ -3,26 +3,31 @@ date: 2008-11-05
 title: "Election"
 num: 500
 alt: >-
-  Someday I'll be rich enough to hire Nate Silver to help make all my life decisions.  'Should I sleep with her?'  'Well, I'm showing a 35% chance it will end badly.'
+  Someday I'll be rich enough to hire Nate Silver to help make all my life decisions. 'Should I sleep with her?' 'Well, I'm showing a 35% chance it will end badly.'
 img: https://imgs.xkcd.com/comics/election.png
 ---
-[[Character sits at his computer desk, staring at his computer.]]
+[Cueball sits at his computer desk, staring at his computer.]
 
-It's over.
+Cueball: It's over.
 
-After twenty months it's finally over.
+Cueball: After twenty months it's finally over.
 
-I don't have to be an election junkie anymore.
+Cueball: I don't have to be an election junkie anymore.
 
-[[Closeup of character's face and screen.]]
+[Close-up of Cueball's face and screen.]
 
-I don't have to care about opinion polls, exit polls, margins of error, attack ads, game-changers, tracking polls, swing states, swing votes, the Bradley effect, or <name> the <occupation>.
+Cueball: I don't have to care about opinion polls, exit polls, margins of error, attack ads, game-changers, tracking polls, swing states, swing votes, the Bradley effect, or <name> the <occupation>.
 
-I'm free.
+Cueball: I'm free.
 
-[[Character staring at his computer screen, full shot.]]
+[Cueball staring at his computer screen, full shot.]
 
-[[Character types on his computer.]] <<Tap Tap>>
+[Cueball types on his computer.]
 
-[[On screen]]Google  "2012 polling statistics"
+*Tap Tap*
 
+[On screen:]
+
+[The Google logo.]
+
+'2012 polling statistics'

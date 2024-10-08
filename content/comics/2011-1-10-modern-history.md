@@ -6,23 +6,14 @@ alt: >-
   During the week, I research my character by living in his house and raising his children.
 img: https://imgs.xkcd.com/comics/modern_history.png
 ---
-[[Two soldiers are talking.  Behind them, rubble burns and smokes.]]
+[Warzone. A soldier in modern American combat gear holding a rifle turns to face Cueball, who is wearing an ersatz copy of the same uniform and clutching a wooden rifle. There is a artillery shell flying through the air and rubble in the backround]
 
-First soldier: Will you 
+Sound effect: *BLAM BLAM*
 
-please
+Sound effect: ***KABOOM***
 
- stop imitating everything I do?
+Soldier: Will you *please* stop imitating everything I do?
 
-<<blam blam>>
+Cueball: Will you *please* stop...
 
-Second soldier: Will you 
-
-please
-
- stop...
-
-<<kaboom>>
-
-My hobby: Real-time war reenactment
-
+My Hobby: real time war reenactment.

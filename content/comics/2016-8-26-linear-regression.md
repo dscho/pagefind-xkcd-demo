@@ -10,11 +10,11 @@ img: https://imgs.xkcd.com/comics/linear_regression.png
 
 [The left panel shows a slightly rising red line drawn through the middle of the panel, passing near a few dots but not obviously related to most of them. A red text is below the dots:]
 
-R2=0.06
+<span style="color:red">R<sup>2</sup>=0.06</span>
 
 [The right panel shows many of the dots connected by red lines to form a stick figure of a man resembling the constellation Orion, with the hand on the reader's right raised and holding an object. A red text is below the dots:]
 
-Rexthor, the Dog-Bearer
+<span style="color:red">Rexthor, the Dog-Bearer</span>
 
 [A caption is below and spanning both panels:]
 

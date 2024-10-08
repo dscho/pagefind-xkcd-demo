@@ -8,9 +8,10 @@ img: https://imgs.xkcd.com/comics/extrapolating.png
 ---
 My Hobby: Extrapolating
 
-[[There is a graph.  Time runs along the horizontal axis; Number of Husbands on the vertical graph.  Yesterday and today are labeled in time, 0 and 1 in number of husbands.  Points are plotted with 0 at yesterday, 1 at today.  A straight line is fitted through them.]]
+[There is a graph. Time runs along the horizontal axis; Number of Husbands on the vertical graph. Yesterday and today are labeled in time, 0 and 1 in number of husbands. Points are plotted with 0 at yesterday, 1 at today. A straight line is fitted through them.]
 
-[[A man is holding a pointer to the graph, and looking at a woman wearing a dress and veil.]]
+[Cueball is holding a pointer to the graph, and looking at Megan wearing a bridal train and veil.]
 
-Man: As you can see, by late next month you'll have over four dozen husbands. Better get a bulk rate on wedding cake.
+Cueball: As you can see, by late next month you'll have over four dozen husbands.
 
+Cueball: Better get a bulk rate on wedding cake.

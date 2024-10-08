@@ -16,7 +16,7 @@ Loading...
 
 2018 Midterm
 
-Challengers
+**Challengers**
 
 The bigger the candidate's name, the higher the office and the better their chances of success.
 

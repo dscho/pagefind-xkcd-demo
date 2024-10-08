@@ -6,21 +6,22 @@ alt: >-
   Quick, try it with 'LOVE'.
 img: https://imgs.xkcd.com/comics/elevator.jpg
 ---
-[[Elevator panel, with a Certificate of Inspection and five floor buttons, numbered 1â4. The fifth button is unlabeled.]]
+[Elevator panel, with a Certificate of Inspection and five floor buttons, numbered 1–4. The fifth button is unlabeled.]
 
-[Person thinks]
+[Cueball thinks.]
 
-[Person writes something on a small piece of paper]
+[Cueball writes something on a small piece of paper.]
 
-[Person tapes it onto the panel]
+*Write Write*
 
-[[Elevator panel, with the same Certificate and buttons, and with the piece of paper labeling the fifth button âZeppelinâ.]]
+[Cueball tapes it onto the panel.]
 
-[Person presses the new âZeppelinâ button]
+[Elevator panel, with the same Certificate and buttons, and with the piece of paper labeling the fifth button "Zeppelin!"]
 
-[Elevator moves]
+[Cueball presses the new "Zeppelin!" button.]
+
+[Elevator moves.]
 
 Elevator: *Ding*
 
-[Person is looking out the door of a Zeppelin. The Zeppelin is flying over a green landscape with many lakes.]
-
+[Cueball is looking out the door of a Zeppelin. The Zeppelin is flying over a green landscape with many lakes.]

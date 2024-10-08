@@ -6,39 +6,42 @@ alt: >-
   Visual checks suggest the cool bird has exited the launch zone. Tip the rocket sideways and resume the countdown--we're gonna go find it!
 img: https://imgs.xkcd.com/comics/launch_status_check.png
 ---
-[[A multiengine rocket sits on a launch pad.  Flight controllers monitor the launch.]]
+[A rocket is about to launch. A small object is near the top of the rocket.]
 
-Announcer: T-minus 2 minutes
+Countdown: *T-Minus 2 minutes*
 
-Controller 1: Tank and booster are go for launch.
+Offscreen Voice 1: Tank and booster are go for launch.
 
-Controller 2: Safety console?
+Offscreen Voice 2: Safety console?
 
-Controller 1: Check. Safety-
+Offscreen Voice 3: Check. Safety-
 
-Controller 2: Wait.
+Offscreen Voice 4: Wait.
 
-[[Controller 2 notices an object flying past the rocket]]
+[The small object moves to further to the right.]
 
-Controller 1: What is it?
+Offscreen Voice 1: What is it?
 
-Controller 2: On the live feed- a cool bird just flew past the tower!
+Offscreen Voice 2: On the live feed- a cool bird just flew past the tower!
 
-Controller 1: Whoa, hat kind?
+[The launch scene now a background silhouette, the small object of everyone's attention is no longer on-panel.]
 
-Controller 2: Like a hawk, maybe!
+Offscreen Voice 1: Whoa, what kind?
 
-Controller 1: Could it be a vulture?
+Offscreen Voice 2: Like a hawk, maybe!
 
-Controller 2: I doubt it. The wings were flat, not in a "V".
+Offscreen Voice 1: Could it be a vulture?
 
-Controller 1: It could be an eagle!
+Offscreen Voice 2: I doubt it. The wings were flat, not in a "V".
 
-Controller 2: Ooh!
+Offscreen Voice 3: It could be an eagle!
 
-Controller 1: This is launch control. We have a possible sighting of a cool bird. Halt the countdown.
+Offscreen Voice 2: Ooh!
 
-Controller 2: Someone get binoculars up here!
+[The scene is returns to full contrast, with at least a token attention being paid to it, once more.]
 
-Controller 1: I want to see!
+Offscreen Voice 1: This is launch control. We have a possible sighting of a cool bird. Halt the countdown.
 
+Offscreen Voice 2: Someone get some binoculars up here!
+
+Offscreen Voice 3: I want to see!

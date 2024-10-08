@@ -14,11 +14,11 @@ Cueball: I love these superzoom cameras. For a few hundred dollars you can take 
 
 Cueball: And birds! See that speck up there?
 
-*Click*
+\*Click\*
 
 Cueball: Peregrine falcon!
 
-*Click*
+\*Click\*
 
 Cueball: It's banded, too. Want the number?
 
@@ -26,15 +26,15 @@ Cueball: It's banded, too. Want the number?
 
 Cueball: And see that plane?
 
-*Click*
+\*Click\*
 
 Cueball: 787 Dreamliner
 
-*Click*
+\*Click\*
 
 Cueball: Japan Airlines.
 
-*Click*
+\*Click\*
 
 Cueball: Registration is—
 
@@ -42,10 +42,10 @@ Cueball: Registration is—
 
 White Hat: OK, I'm sold—I want one.
 
-*Click*
+\*Click\*
 
 Cueball: They're in stock at the place on Union Road.
 
-*Click*
+\*Click\*
 
 Cueball: Hey, Kevin's working today! He's great.

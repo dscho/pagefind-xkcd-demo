@@ -6,9 +6,16 @@ alt: >-
   I found a counterexample to the claim that all things must someday die, but I don't know how to show it to anyone.
 img: https://imgs.xkcd.com/comics/halting_problem.png
 ---
-((Today's strip is in the form of a short computer program.))
+[A short computer program.]
 
-Define doesithalt(program): { return true; }
+ **Define** DoesItHalt(program):
 
-The big picture solution to the halting problem
+ {
 
+  **Return** True;
+
+ }
+
+[Caption below the panel]:
+
+The big picture solution to the halting problem.

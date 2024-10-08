@@ -6,7 +6,7 @@ alt: >-
   The only post to achieve perfect balance between the four was a hilarious joke about Mark Zuckerberg getting caught using a pseudonym to sneak past the TSA.
 img: https://imgs.xkcd.com/comics/share_buttons.png
 ---
-[[A series of article titles with four share buttons underneath each: Facebook, Twitter, Reddit, and Google+]]
+[A series of article titles with four share buttons underneath each: Facebook, Twitter, Reddit, and Google+]
 
 Breaking Into Stand-up Comedy
 
@@ -23,4 +23,3 @@ FB: 248k, Twitter: 0, Reddit: 0, G+: 74
 DIY: Installing a Custom ROM on a Realdoll
 
 FB: 0, Twitter: 0, Reddit: 0, G+: 2
-

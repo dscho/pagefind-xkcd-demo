@@ -18,7 +18,7 @@ Megan: Berlin wall for me. You?
 
 [Frame-less panel with Megan, Hairy, White Hat, and Black Hat]
 
-Hairy: Watching the Challenger launch in class. We were so excited; everyone was horrified when it blew up.
+Hairy: Watching the *Challenger* launch in class. We were so excited; everyone was horrified when it blew up.
 
 Hairy: It was 1995.
 

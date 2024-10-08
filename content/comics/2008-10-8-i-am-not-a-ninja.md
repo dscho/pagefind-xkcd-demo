@@ -6,27 +6,46 @@ alt: >-
   'The sad thing is that I just wanted to talk about your poor smoke-bomb techniques.'
 img: https://imgs.xkcd.com/comics/i_am_not_a_ninja.png
 ---
-[[Man and woman are in the same panel]] Woman: we need to talk.
+[Cueball and Megan facing each other in the same panel.]
 
-[[Pans back to a panel with a window, which the man looks back at]]
+Megan: We need to talk.
 
-[[Man throws grenade]] <<POW>>
+[Cueball turns to look behind him; panel pans back to show a (closed) window on the wall.]
 
-[[Grenade fizzles, man and woman both look down at it]] <<sssss>>
+[Cueball throws a smoke grenade to the floor.]
 
-Woman: [[puts her hand to her face]]<<cough>>
+*POW*
 
-[[Alarm above them starts beeping]][[Man and woman look up]]
+[Grenade fizzles and begins to emit smoke; Cueball and Megan both look down at it.]
 
-BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP--
+*sssss*
 
-[[Man and woman look down at the grenade again]]
+[Smoke cloud expands very slightly. Megan puts her hand to her face.]
 
-[[Man slowly walks away as the alarm continues to beep]]
+*cough*
 
-[[Man opens the window]] <<Rattle rattle>>
+[The smoke detector alarm above them starts beeping. Both look up.]
 
-[[Pans back to the full view, the alarm is still beeping and the man looks back at the woman, who is face-palming]]
+BEEP BEE-
 
-[[Woman walks away, man looks at window]]
+[Cueball and Megan look down at the grenade again. The alarm is still beeping.]
 
+-P BEEP BEEP BEEP BE-
+
+[Cueball slowly backs away. The alarm is still beeping.]
+
+-EP BEEP BEEP BEEP B-
+
+[Cueball unsuccessfully tries to open the apparently locked window. The alarm is still beeping.]
+
+*Rattle rattle*
+
+-BEEP BEEP-
+
+[Panel pans back to the full view. Cueball looks back at Megan, who is now face-palming. The alarm is still beeping.]
+
+-BEEP BEEP BEEP BEEP B-
+
+[Megan turns and walks away. Cueball looks at the window. The alarm is still beeping.]
+
+-EEP BEEP BEEP BEEP BEEP BEE-

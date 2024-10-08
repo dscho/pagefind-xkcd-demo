@@ -12,4 +12,4 @@ White Hat: My new health drink is packed with amino acid nanoenzymes that I desi
 
 Cueball: Can you give it to some people and see if they get sick less often?
 
-White Hat: Whoa, that sounds way too complicated.
+White Hat: Whoa, that sounds ***way*** too complicated.

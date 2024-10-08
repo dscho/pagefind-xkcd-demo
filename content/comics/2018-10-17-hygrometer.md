@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/hygrometer.png
 
 Megan: ...A hygrometer is a device for measuring—
 
-Cueball: I want one! Ooh, found one for $7.99 with free shipping! I'm buying it.
+Cueball: *I want one!* Ooh, found one for $7.99 with free shipping! I'm buying it.
 
 Megan: —Humidity.
 

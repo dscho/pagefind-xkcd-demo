@@ -6,28 +6,18 @@ alt: >-
   In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do.
 img: https://imgs.xkcd.com/comics/power_cord.png
 ---
-[[A stick figure is sitting on a chair typing on a laptop whose cord is lying on the floor, unplugged. White Beret man approaches.]]
+[Beret Guy enters to find Cueball on a chair typing on a laptop. Cueball's power cord is unplugged from the wall.]
 
-<<type type>>
+Cueball typing: Type type
 
-[[White Beret picks up the cord and examines it. The person in the chair continues typing.]]
+[Beret Guy picks up the power cord. Cueball continues typing.]
 
-<<type type>>
+Cueball typing: Type type
 
-[[White Beret puts the cord into his mouth and blows, causing the laptop to inflate, which surprises the person typing.]]
+[Beret Guy blows into the plug end of the cord. The laptop abruptly inflates and Cueball jerks back.]
 
-<<PBBBBT>>
+Beret Guy: **PBBBBT**
 
-<<FOOMP>>
+Laptop: **FOOMP**
 
-[[White Beret man walks away as the formerly typing person climbs up the chair to reach his now floating-away laptop.]]
-
-{{Title text: In this situation, gzip 
-
-dev
-
-inside to deflate, then pipe the compressed air to 
-
-dev
-
-input to clean your keyboard. Avert your eyes when you do.}}
+[Beret Guy walks away, leaving Cueball climbing up his chair to retrieve his inflated laptop which is now floating away.]

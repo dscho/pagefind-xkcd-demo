@@ -6,11 +6,7 @@ alt: >-
   Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously.
 img: https://imgs.xkcd.com/comics/the_race_part_4.png
 ---
-[[Randall
-
-xkcd
-
-man and Nathan Fillion are ready on the start line on their electric skateboards]]
+[Cueball and Nathan Fillion are ready on the start line on their electric skateboards.]
 
 Voice off panel: On your mark...
 
@@ -20,79 +16,74 @@ Nathan: Remember episode 11, when I got all naked in that desert?
 
 Voice: Go!
 
-[[Nathan speeds away leaving Randall standing at the start line]]
+[Nathan speeds away leaving Cueball standing at the start line.]
 
-voice: ... I said "Go."
+Voice: ...I said "Go."
 
-voice: someone throw some water on him
+Voice: Someone throw some water on him.
 
-Randall: Can't...get it...out of my head...
+Cueball: Can't...get it...out of my head...
 
-[[Nathan on walkie talkie, speeding on his skateboard]]
+[Nathan on walkie talkie, speeding on his skateboard.]
 
 Nathan: He's right behind me. Kaylee, I'm gonna try a Crazy Ivan.
 
-Kaylee [[on walkie talkie]]: That doesn't make any sense, Nathan.
+Jewel [on walkie talkie] ([[579]] shows Nathan's naming confusion): That doesn't make any sense, Nathan.
 
 Nathan: Trust me.
 
-Kaylee: No, I mean it's not a skateboard maneuver[sic]. The concept doesn't even apply to this situation.
+Jewel: No, I mean it's not a skateboard maneuver. The concept doesn't even apply to this situation.
 
-Nathan [[via walkie talkie]]: That's why it just might work!
+Nathan [via walkie talkie]: That's why it *just might work!*
 
-Kaylee: No, that's the opposite of true!
+Jewel: No, that's the *opposite* of true!
 
 Nathan: On my mark, override the remote differential and throw her into a spin.
 
-Kaylee [[via walkie talkie]] okay, but-
+Jewel [via walkie talkie]: okay, but—
 
 Nathan: Mark!
 
-<<WHAM>>
+*WHAM*
 
-[[Nathan lying injured on the ground next to his skateboard, Randall
+[Nathan lying injured on the ground next to his skateboard, Cueball cruises past.]
 
-Man cruises past]]
+*Whirrrrrrrr*
 
-<<Whirrrrrrrr>>
-
-[[Nathan, trying to stand up]]
+[Nathan, trying to stand up.]
 
 Nathan: I'm down. Tell Summer "The chickens are in the hayloft. Plan Gamma is a go."
 
-[[Nathan, one foot on skateboard, looking at walkie talkie]]
+[Nathan, one foot on skateboard, looking at walkie talkie.]
 
-<<mumbling from walkie talkie>>
+*mumbling from walkie talkie*
 
-Kaylee: She says, "Plan gamma acknowledged. The meerkats are in the bad.
+Jewel: She says, "Plan gamma acknowledged. The meerkats are in the bag.
 
-[[Summer Glau is walking off panel]]
+[Summer Glau is walking off panel.]
 
-Kaylee [[to walkee talkie]]: So we're good?
+Jewel [to walkee talkie]: So we're good?
 
 Nathan: Hard to tell with her. Do you see an actual bag of meerkats?
 
-Kaylee: No.
+Jewel: No.
 
 Nathan: Then we're probably good.
 
-[[Randall
+[Cueball screeching to a halt as he sees Summer Glau.]
 
-Man screeching to a halt as he sees Summer Glau]]
+Cueball: Oh! Hi, Miss Glau! I'd love to talk, but Nathan's back on his feet and catching up.
 
-Randall: Oh! Hi, Miss Glau! I'd love to talk, but Nathan's back on his feet and catching up.
+[Summer grabs Cueball's arm.]
 
-[[Summer grabs Randalls arm]]
+*Grab*
 
-<<Grab>>
+Cueball: Wha—
 
-Randall: Wha-
+[Summer kicks Cueball in the face whilst pulling his arm towards her, he flies off his skateboard.]
 
-[[Summer kicks Randall in the face whilst pulling his arm towards her, he flies off his skateboard]]
+[Summer walking away as Cueball lies crippled on the floor with his sunglasses beside him.]
 
-[[Summer walking away as Randall lies crippled on the floor with his sunglasses beside him]]
+[Cueball still lying on the floor.]
 
-[[Randall still lying on the floor]]
-
-Randall [[thinking]]: I've never been so turned on in my life.
-
+Cueball [thinking]: I've never been so turned on in my life.

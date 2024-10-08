@@ -14,7 +14,7 @@ img: https://imgs.xkcd.com/comics/pokemon_go.png
 
 [Cueball has lowered his smart phone and just stands there looking at the wobbling Pokémon.]
 
-Cueball: ???
+Cueball: ***???***
 
 [Caption below the comic:]
 

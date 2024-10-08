@@ -6,31 +6,30 @@ alt: >-
   If this were SMBC, the alt-text drawing thingy would be a giraffe hooker fluttering her eyelashes.
 img: https://imgs.xkcd.com/comics/qwertial_aphasia.png
 ---
-Narrator: I hate how when I'm talking while I type, sometimes I accidentally type a word I'm saying.
+[Caption in a frame partly above the main panels, but which breaks the top border of the two first panels frames:]
 
-[[A man is sitting at a computer.]]
+I hate how when I'm talking while I type, sometimes I accidentally type a word I'm saying.
 
-Computer: Wanna go get food later?
+[Cueball is sitting at a computer chatting with a friend. The friends message "comes" out of the computer.]
 
-[[A woman runs over, holding a giraffe.]]
+Friend (from computer): Wanna go get food later?
 
-Woman: Check out what I found in the closet!
+[Megan walks in to the frame, holding a small stuffed giraffe in front of her. Cueball is in the middle of typing his reply, which "comes" from the keyboard.]
 
-<<Type type>>
+Megan: Check out what I found in the closet!
 
-Man ((typing)): Sorry, I really shouldn't.
+Cueball (from keyboard): Sorry, I really shouldn't.
 
-Man ((talking)): Aww, what an adorable stuffed giraffe!
+Keyboard: *Type type*
 
-<<Type type>>
+[Megan has stopped and Cueball turns to look at her and the giraffe, while continuing to type.]
 
-Man ((typing)): I can't afford to keep eating out this giraffe.
+Cueball: Aww, what an adorable stuffed giraffe!
 
-Narrator: 
+Cueball (from keyboard): I can't afford to keep eating out this giraffe.
 
-Frequently!
+Keyboard: *Type type*
 
- I meant 
+[Caption below the last panel in a frame which breaks the bottom border of the above panel:]
 
-'frequently'!
-
+*Frequently!* I meant *"frequently"*!

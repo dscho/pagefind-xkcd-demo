@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/internal_monologues.png
 ---
 [Beneath a two line caption are five characters shown, with their thoughts inside thought bubbles. Below them are labels giving their respective fields of science.]
 
-Internal Monologues
+<big>Internal Monologues</big>
 
 from various fields
 

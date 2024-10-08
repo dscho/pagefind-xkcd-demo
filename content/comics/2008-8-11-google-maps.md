@@ -3,54 +3,53 @@ date: 2008-08-11
 title: "Google Maps"
 num: 461
 alt: >-
-  Apparently Google assumes you're traveling during the ferry's normal operating hours.  We lost two hours circling that damn lake (to say nothing of the Straw Man).
+  Apparently Google assumes you're traveling during the ferry's normal operating hours. We lost two hours circling that damn lake (to say nothing of the Straw Man).
 img: https://imgs.xkcd.com/comics/google_maps.png
 ---
-Narrator: MY ROAD TRIP WITH MY BROTHER RAN INTO TROUBLE AROUND PAGE THREE OF THE GOOGLE MAPS PRINTOUT
+My road trip with my brother ran into trouble around page three of the Google Maps printout
 
-Google Maps Printout: 
+[Google Maps printout.]
 
-<- 70. SLIGHT LEFT AT RT-22 -- GO 6.8 MI
+← 70. Slight **left** at **RT-22** - go 6.8 mi
 
--> 71. TURN RIGHT TO STAY ON RT-22 -- GO 2.6 MI
+→ 71. Turn **right** to stay on **RT-22** - go 2.6 mi
 
-<- 72. TURN LEFT AT LAKE SHORE RD GO -- 312 FT
+← 72. Turn **left** at **Lake Shore Rd** - go 312 ft
 
--> 73. TURN RIGHT AT DOCK ST -- GO 427 FT
+→ 73. Turn **right** at **Dock St** - go 427 ft
 
-[[water replaces an arrow]] 74. TAKE THE FERRY ACROSS THE LAKE -- GO 2.8 MI
+[An icon of water] 74. Take the **ferry** across the **lake.** - go 2.8 mi
 
-[[A car is driving in the dark]]
+[A car is driving in the dark.]
 
-Person 1: OKAY, NOW TAKE DOCK ST TOWARD THE FERRY
+Brother: Okay, now take Dock St toward the ferry.
 
-Person 2: WE'RE SUPPOSED TO TAKE A FERRY? IT'S PAST MIDNIGHT, AND THESE WOODS ARE CREEPY
+Cueball: We're supposed to take a ferry? It's past midnight, and these woods are creepy.
 
-Person 1: GOOGLE MAPS WOULDN'T STEER US WRONG.
+Brother: Google Maps wouldn't steer us wrong.
 
-[[Person 1 and Person 2 stand outside the car.  The ferry has a sign on it reading CLOSED.
+[Cueball and his brother stand outside the car. The ferry has a sign on it reading CLOSED.]
 
-[[Person 1 stands holding the google map print out next to Person 2 in the dark]]
+[Cueball is standing next to his brother, who is holding a Google Maps printout.]
 
-[[Still standing in the dark]]
+[Cueball motions towards his brother.]
 
-Person 1: LET ME SEE THOSE DIRECTIONS.
+Cueball: Let me see those directions.
 
-Google Maps Printout:
+[Google Maps printout.]
 
-[[water replaces an arrow]] 74. TAKE THE FERRY ACROSS THE LAKE -- GO 2.8 MI
+[An icon of water] 74. Take the **ferry** across the **lake.** - go 2.8 mi
 
-[[a diagonal upward arrow]] 75. CLIMB THE HILL TOWARD HANGMAN'S RIDGE, AVOIDING ANY MOUNTAIN LIONS -- UP 1,172 FT
+↗ 75. Climb the **HILL** toward **Hangman's Ridge,** avoiding any **mountain lions.** - up 1,172 ft
 
-[[a "u-turn" arrow]] 76. WHEN YOU REACH AN OLD BARN, GO AROUND BACK, KNOCK ON THE SECOND DOOR, AND ASK FOR CHARLIE -- GO 52 FT
+↷ 76. When you reach an **old barn,** go around back, knock on the **second door,** and ask for **Charlie.** - go 52 ft
 
-[[a van]] 77. TELL CHARLIE THE DANCING STONES  ARE RESTLESS.  HE WILL GIVE YOU HIS VAN. -- CAREFUL
+[An icon of a van] 77. Tell **Charlie** the **Dancing Stones** are **restless**. He will give you his **van**. - Careful
 
-[[a picture of the straw man]] 78. TAKE CHARLIE'S VAN DOWN OLD MINE ROAD.  DO NOT WAKE THE STRAW MAN. -- GO 97 MI
+[An icon of a straw man] 78. Take **Charlie's van** down **Old Mine Road**. Do not wake the **Straw Man**. - go π mi
 
--> 79. TURN LEFT ON COMSTOCK.  WHEN YOU FEEL THE BLOOD CHILL IN YOUR VEINS, STOP THE VAN AND GET OUT. -- GO 3.2 MI
+← 79. Turn left on **Comstock**. When you feel the **blood** chill in your **veins**, stop the van and **get out.** - go 3.2 mi
 
-[[down arrow]] 80. STAND VERY STILL. EXITS ARE NORTH, SOUTH, AND EAST, BUT ARE BLOCKED BY A SPECTRAL WOLF. -- GO 0 FT
+↓ 80. Stand very still. Exits are **north**, **south**, and **east**, but are blocked by a **Spectral Wolf**. - go 0 ft
 
-[[a picture of a spectral wolf]] 81. THE SPECTRAL WOLF FEARS ONLY FIRE.  THE GOOGLE MAPS TEAM CAN NO LONGER HELP YOU, BUT IF YOU MASTER THE WOLF, HE WILL GUIDE YOU.  GODSPEED. -- GO ?? MI.
-
+[An icon of a menacing face] 81. The **Spectral Wolf** fears only **fire**. The **Google Maps Team** can no longer help you, but if you master the **wolf**, he will guide you. **Godspeed.** - go ?? mi

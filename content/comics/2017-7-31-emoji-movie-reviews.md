@@ -16,7 +16,7 @@ Cueball: People are just snobs about emoji. I like them! Language is cool and we
 
 Megan: It's apparently 80% product placement.
 
-Cueball (off-screen): Whatever. So was The Lego Movie, and I liked that.
+Cueball (off-screen): Whatever. So was The Lego Movie, and I liked *that*.
 
 [Zoom out; Cueball looks at Megan's phone.]
 
@@ -38,7 +38,7 @@ Cueball: ...was that on purpose? Or did they not run the script by enough people
 
 Megan: Here's a line from the Wikipedia plot summary:
 
-Megan: Gene and Hi-5 come to a piracy app where they meet the hacker emoji Jailbreak, who wants to reach Dropbox so that she can live in the cloud.
+Megan: *Gene and Hi-5 come to a piracy app where they meet the hacker emoji Jailbreak, who wants to reach Dropbox so that she can live in the cloud.*
 
 Cueball: Okay.
 

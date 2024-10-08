@@ -6,33 +6,26 @@ alt: >-
   'I was pretty good at skeet shooting, but was eventually kicked off the range for catching the clay pigeons in a net and dispatching them execution-style.'
 img: https://imgs.xkcd.com/comics/speculation.png
 ---
-[[Two people are playing basketball, and black hat guy is looking at a phone.]]
+[Two Cueball-like guys are playing basketball. The right guy (Cueball) attempts to throw the basketball through the hoop, but it bounces off down to his friend. To the right Black Hat has his back to the other two while he is looking at his phone.]
 
-Person #1: Do you seriously think 
+Friend: Do you seriously think *everyone* will move to Plus? It was hard enough getting them on Facebook.
 
-everyone
+[The friend has caught the rebound and now passes the basketball back to Cueball. Black Hat is not shown.]
 
- will move to Plus? It was hard enough getting them on Facebook.
+Cueball: Do they have to?
 
-[[Person #2 attempts to throw the basketball through the hoop, but it bounces off.]]
+Cueball: My mom still uses AOL—it doesn't mean my social life has to happen there.
 
-Person #2: Do they have to?
+[Only Cueball is shown. He passes the basketball to the right towards the off-panel Black Hat.]
 
-Person #2: My mom still uses AOL - it doesn't mean my social life has to happen there.
+Cueball: Universal adoption isn't everything. I mean, IRC is still—
 
-[[Person #1 passes the basketball back to #2.]]
+[Zoom in on the basketball as a crossbow bolt pierces the ball, forming a slight depression.]
 
-Person #2: Universal adoption isn't everything. I mean, IRC is still --
+*Thunk*
 
-[[Person #2 throws the basketball.]]
+[Cueball looks to Black Hat who has a crossbow in one hand, he is still looking at the phone in his other hand. The ball with the arrow lies between them.]
 
-[[An arrow pierces the ball.]]
+Cueball: You're not really the "catch" type, are you?
 
-<<THUNK>>
-
-[[The black hat guy has a one handed crossbow, and is still looking at a phone.]]
-
-Person #2: You're not really the "catch" type, are you?
-
-Black Hat Guy: I am not.
-
+Black Hat: I am not.

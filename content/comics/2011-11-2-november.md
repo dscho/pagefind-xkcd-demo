@@ -6,17 +6,16 @@ alt: >-
   November marks the birthday of Charles Schulz, pioneer of tongue awareness.
 img: https://imgs.xkcd.com/comics/november.png
 ---
-[[Black Hat Guy and a person sit in a room]]
+[Black Hat and Cueball sit in a room.]
 
-Black Hat Guy: Did you know November is Tongue Awareness Month?
+Black Hat: Did you know November is Tongue Awareness Month?
 
-[[Person is suddenly aware of their tongue]]
+[Cueball is suddenly aware of his tongue.]
 
-[[Person continues to be aware of their tongue]]
+[Cueball continues to be aware of his tongue.]
 
-[[Person is *still* aware of their tongue]]
+[Cueball is painfully aware of his tongue.]
 
-Person: I hate you.
+Cueball: I hate you.
 
-Black Hat Guy: Enjoy the next four weeks.
-
+Black Hat: Enjoy the next four weeks.

@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/optimization.png
 ---
 [A flow chart is shown with three boxes connected with two arrows. The first box is rectangular:]
 
-Are you prematurely optimizing or just taking time to do things right?
+Are you ***prematurely optimizing*** or just ***taking time to do things right?***
 
 [From the first box there is a short arrow straight down to a diamond shaped box:]
 

@@ -6,21 +6,46 @@ alt: >-
   Are you still there, server? It's me, Margaret.
 img: https://imgs.xkcd.com/comics/heartbleed_explanation.png
 ---
-How the Heartbleed Bug Works:
+[Caption above the panels:]
 
-[[Meg stands by a server. There's a thought bubble arising from the server showing the data the server is currently processing, including a portion that states "User Meg wants these six letters: POTATO."]]
+**How the Heartbleed Bug works:**
+
+[Meg, a girl with more curly hair than Megan, stands to the left in a panel. At the center of the panel is a black and gray server with red and green diode lights showing. During all six panels the server stays the same. Meg is standing with her arms down in four panels. It will be noted when she does not. Meg talks to the server. The server "thinks" all the time, i.e. we see its memory in all panels. The top and bottom line is breaking the edge of the thought bubble making it difficult to discern. In every second panel it replies to Meg. In these panels the number of letters requested by Meg is highlighted with yellow color.]
+
+[Meg speaks, server thinks:]
 
 Meg: Server, are you still there? If so, reply "POTATO" (6 letters).
 
-[[The 6 letters "POTATO" are highlighted yellow in the server's thought bubble, and the server emits "POTATO".]]
+Server thinking: <tt>wants pages about "boats". User Erica requests secure connection using key "4538538374224" **User Meg wants these 6 letters: POTATO.** User Ada wants pages about "irl games". Unlocking secure records with master key 5130985733435. Maggie (chrome user) sends this message: "Hi</tt>
 
-[[The phrase "User Meg wants these 4 letters: BIRD." is in the server's thought bubble with other data around it, with "BIRD" highlighted. The server is emitting "BIRD".]]
+[Server thinks, the same as above, although cut a little different at the edges, with POTATO highlighted in yellow and it replies the highlighted part in a rectangular speak bubble.]
 
-Meg: Hmm...
+Server thinking: <tt>wants pages about "boats". User Erica requests secure connection using key "4538538374224" **User Meg wants these 6 letters: POTATO.** User Ada wants pages about "irl games". Unlocking secure records with master key 5130985733435. Maggie (chrome user) sends this message: "Hi</tt>
 
-[[The phrase "User meg wants these 500 letters: HAT." is in the server's thought bubble, along with other data around it.]]
+Server: <tt>POTATO</tt>
 
-Meg: Server, are you still there? IF so, reply "HAT" (500 letters).
+[Meg speaks, server thinks:]
 
-[["HAT" and many more characters after it in the thought bubble are highlighted, and the server emits a long string of text starting with "HAT" but then including much more other unrelated data. Meg is busily writing it down in a notebook.]]
+Meg: Server, are you still there? If so, reply "BIRD" (4 letters).
 
+Server thinking: <tt>User Olivia from London wants pages about "man bees in car why". Note: Files for IP 375.381.283.17 are in /tmp/files-3843. **User Meg wants these 4 letters: BIRD.** There are currently 348 connections open. User Brendan uploaded the file selfie.jpg (contents: 834ba962e2ceb9ff89bd3bff8c</tt>...
+
+[Server thinks, the same as above, although cut a little different at the edges, with BIRD highlighted in yellow and it replies the highlighted part in a rectangular speak bubble. Meg has taken her hand to her chin thinking:]
+
+Server thinking: <tt>User Olivia from London wants pages about "man bees in car why". Note: Files for IP 375.381.283.17 are in /tmp/files-3843. **User Meg wants these 4 letters: BIRD.** There are currently 348 connections open. User Brendan uploaded the file selfie.jpg (contents: 834ba962e2ceb9ff89bd3bff8c</tt>...
+
+Server: <tt>BIRD</tt>
+
+Meg: *Hmm...*
+
+[Meg has taken her hand down again and speaks, server thinks, now with her line at the top:]
+
+Meg: Server, are you still there? If so, reply "HAT" (500 letters).
+
+Server memory: <tt>a connection. Jake requested pictures of deer. **User Meg wants these 500 letters: HAT.** Lucas requests the "missed connections" page. Eve (administrator) wants to set server's master key to "14835038534". Isabel wants pages about "snakes but not too long". User Karen wants to change account password to "CoHoBaSt". User</tt>
+
+[Server thinks, the same as above, although cut a little different at the edges, with everything from (and including) "HAT" highlighted in yellow and it replies the highlighted part and even more in a rectangular speech bubble. Meg has taken a notepad and a pen and is writing something.:]
+
+Server memory: <tt>a connection. Jake requested pictures of deer. **User Meg wants these 500 letters: HAT.** Lucas requests the "missed connections" page. Eve (administrator) wants to set server's master key to "14835038534". Isabel wants pages about "snakes but not too long". User Karen wants to change account password to "CoHoBaSt". User</tt>
+
+Server: <tt>HAT. Lucas requests the "missed connections" page. Eve (administrator) wants to set server's key to "14835038534". Isabel wants pages about "snakes but not too long". User Karen wants to change account password to "CoHoBaSt". User Amber requests pages</tt>

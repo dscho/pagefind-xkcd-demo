@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/reductionism.png
 ---
 [The comic represents an entry in a dictionary for a word. Unlike normal comics not only capital letters are used, and thus here the capitalization of the comic is also used in the transcript. The entry is cut off through the bottom of the fourth line by the bottom of the panel, but the last line is still readable.]
 
-REDUCTIONISM•n. 1. "R" is a letter with
+**REDUCTIONISM**•*n*. 1. "R" is a letter with
 
 origins in the Egyptian hieroglyphics. "E"
 

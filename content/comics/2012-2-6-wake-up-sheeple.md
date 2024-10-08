@@ -6,41 +6,38 @@ alt: >-
   You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.
 img: https://imgs.xkcd.com/comics/wake_up_sheeple.png
 ---
-[[A man yells into a megaphone.]]
+[Cueball yells into a megaphone.]
 
-Man: Your government has turned against you! Corporations control your every thought! - Open your eyes!
+Cueball: Your government has turned against you! Corporations control your every thought!
 
-[[Head-on view of man with megaphone.]]
+Cueball: Open your eyes!
 
-Man: Wake up, sheeple! Wake up, sheeple! - WAKE UP, SHEEPLE!!
+[Zoomed in to Head-on view of Cueball.]
 
-((in between two panels))
+Cueball: Wake up, sheeple! Wake up, sheeple!
 
-[[The man takes the megaphone away from his mouth.]]
+Cueball: ***WAKE UP, SHEEPLE!!***
 
-<<RUMBLE>>
+[In a frame-less panel, Cueball takes the megaphone away from his mouth.]
 
-[[A half-sheep
+*RUMBLE*
 
-half-man creature rises through the cracking earth, holding aloft a gnarled staff.]]
+[A half-sheep half-man creature rises through the cracking earth, holding aloft a gnarled staff.]
 
-<<B-A-A-A-A-A...>>
+*B-A-A-A-A-A...*
 
-[[Close-up on the sheep-man's eye.]]
+[Close-up on the sheep-man's eye.]
 
-TEN THOUSAND YEARS WE SLUMBERED... NOW WE RIIIIIIIISE baaaaaaa
+Sheep-Man: *TEN THOUSAND YEARS WE SLUMBERED... NOW WE RIIIIIIIISE <sub>BAAAAAA</sub>*
 
-[[A clearly upset woman goes up to the man with the megaphone, hands held out in front of her plaintively.]]
+[A clearly upset Megan goes up to Cueball, hands held out in front of her plaintively.]
 
-Woman: OH GOD OH GOD OH GOD 
+Megan: OH GOD OH GOD OH GOD *WHY DID YOU DO THAT?!*
 
-WHY DID YOU DO THAT?!
-
-Man: What? But I didn't-
+Cueball: What? But I didn't—
 
 Out-of-frame #1: He awoke the Sheeple!
 
-OOF #2: Heaven forgive us!
+Out-of-frame #2: Heaven forgive us!
 
-OOF #3: All is lost!
-
+Out-of-frame #3: All is lost!

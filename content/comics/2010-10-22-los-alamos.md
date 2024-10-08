@@ -6,19 +6,24 @@ alt: >-
   The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever.
 img: https://imgs.xkcd.com/comics/los_alamos.png
 ---
-[[Three stick figures stand in front of a few graphs and scientific looking pictures. One of them has hair.]]
+[Cueball raising a hand points to Steve (see later) drawn as another shorter Cueball-like guy, and behind Cueball stand Hairy also looking at Steve. Partly behind Steve's head is a piece of paper on the wall with a circle around a central dot and four arrows pointing in towards the circle from each corner of the paper. Behind Hairy's head is another paper with a graph that looks like a positive third degree polynomial with three non-zero solutions. Between Cueball and Hairy at the level of their hands is a small square with two small dots at the two top corners. Seems like a part of the wall rather than a paper. During the next images the two on either side of Cueball moves their head in front or away from these papers so at least once the hole drawing can be seen. Over the panels top frame there is a frame with a caption:]
 
 Los Alamos, 1945...
 
-Middle Figure: We have a decision. If we've done our math right, this test will unleash heaven's fire and make us as gods.
+Cueball: We have a decision. If we've done our math right, this test will unleash heaven's fire and make us as gods.
 
-Middle figure: But it's possible we made a mistake, and the heat will ignite the atmosphere, destroying the planet in a cleansing conflagration.
+[Cueball turns towards Hairy holding his arms out.]
 
-Left figure: Wow. Um. Question: Just to double-check - although I'm 99% sure -
+Cueball: But it's possible we made a mistake, and the heat will ignite the atmosphere, destroying the planet in a cleansing conflagration.
 
-Left figure: Is it "Soh cah toa" or "coh sah toa"?
+[In a frame-less panel Steven takes a hand to his chin, while the other two turns towards him.]
 
-Middle figure: Oh, for the love of... can someone redo Steve's work?
+Steve: Wow. Um. Question: Just to double-check— although I'm 99% sure—
 
-Right figure: I don't want to do the test anymore.
+[Cueball, still facing Steve, face-palms himself while Hairy turns away from Steve.]
 
+Steve: Is it "SOH CAH TOA" or "COH SAH TOA"?
+
+Cueball: *Oh, for the love of...* can someone redo Steve's work?
+
+Hairy: I don't want to do the test anymore.

@@ -12,18 +12,18 @@ White Hat: Yeah, I learned about it when I was researching anomalous electroweak
 
 Cueball: Cooool.
 
-Text on phone: A-n-o-m-
+Text on phone: *A-n-o-m-*
 
 [Caption below the panel:]
 
 My Hobby: Collecting really satisfying-sounding five-word technical phrases.
 
-Current favorites
+<u>Current favorites</u>
 
-Transjugular intrahepatic portosystemic shunt placement
+<li>Transjugular intrahepatic portosystemic shunt placement
 
-Generalized autoregressive conditional heteroskedasticity model
+<li>Generalized autoregressive conditional heteroskedasticity model
 
-Unicellular diazotrophic cyanobacteria group A
+<li>Unicellular diazotrophic cyanobacteria group A
 
-Anomalous electroweak sphaleron transition baryogenesis
+<li>Anomalous electroweak sphaleron transition baryogenesis

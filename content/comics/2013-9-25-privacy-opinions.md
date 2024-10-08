@@ -6,49 +6,42 @@ alt: >-
   I'm the Philosopher until someone hands me a burrito.
 img: https://imgs.xkcd.com/comics/privacy_opinions.png
 ---
-Opinions on internet privacy
+**Opinions on Internet Privacy**
 
-The philosopher:
+The Philosopher:
 
-[[Two women stand talking to each other.]]
+Megan: "Privacy" is an impractical way to think about data in a digital world so unlike the one in which our soci-
 
-Woman 1: "Privacy" is an impractical way to think about data in a digital world so unlike the one in which our soci-
+Ponytail: ** *So bored.* **
 
-Woman 2: SO BORED.
+The Crypto Nut:
 
-The crypto nut:
+Cueball: My data is safe behind six layers of symmetric and public-key algorithms.
 
-[[A figure stands behind another sitting at a desk, who is working a computer.]]
+Friend: What data is it?
 
-Sitting figure: My data is safe behind six layers of symmetric and public-key algorithms.
+Cueball: Mostly me emailing with people about cryptography.
 
-Standing figure: What data is it? 
+The Conspiracist:
 
-Sitting figure: Mostly me emailing with people about cryptography. 
+[Cueball talks to Megan.]
 
-The conspiricist:
+Cueball: These leaks are just the tip of the iceberg. There's a warehouse in Utah where the NSA has the *entire* iceberg. I don't know how they got it there.
 
-[[A figure stands talking to a woman.]]
+The Nihilist:
 
-Figure: These leaks are just the tip of the iceberg. There's a warehouse in Utah where the NSA has the *entire* iceberg. I don't know how they got it there. 
+Megan: Joke's on them, gathering all this data on me as if anything I do means anything.
 
-The nihilist:
+The Exhibitionist:
 
-[[A woman stands, addressing the 'camera'.]]
+[Cueball is watching a surveillance console, Officer Ponytail stands behind him.]
 
-Woman: Joke's on them. Gathering all this data on me as if anything I do means anything. 
+Console: *Mmmm,* I sure hope the NSA isn't watching me bite into these juicy strawberries!! *Oops,* I dripped some on my shirt! Better take it off. Google, are you there? Google, this lotion feels soooo good.
 
-The exhibitionist: 
+Cueball: Um.
 
-[[Two official-looking figures are looking at a console. One is sitting; another is standing behind the chair.]]
+The Sage:
 
-Console screen: Mmmm, I sure hope the NSA isn't watching me bite into these juicy strawberries!! Oops, I dropped some on my shirt! Better take it off. Google, are you there? Google, this lotion feels soooo good. 
+[Beret Guy and Cueball sitting at a table. Beret Guy is holding a burrito.]
 
-Operator: Um. 
-
-The sage: 
-
-[[Beret guy is sitting with a friend at a restaurant table.]]
-
-Beret guy: I don't know or care what data *anyone* has about me. Data is imaginary. This burrito is real.
-
+Beret Guy: I don't know or care what data *anyone* has about me. Data is imaginary. This burrito is real.

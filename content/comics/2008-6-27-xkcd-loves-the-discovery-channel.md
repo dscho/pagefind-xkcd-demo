@@ -6,55 +6,51 @@ alt: >-
   I love the title-text!
 img: https://imgs.xkcd.com/comics/xkcd_loves_the_discovery_channel.png
 ---
-{{The comic is in parody of the Discovery Channel commercial showing various clips of people singing a song with the chorus line "Boom De Yada"}}
+[The comic is in parody of the Discovery Channel commercial showing various clips of people singing a song with the chorus line "Boom De Yada."]
 
-{{The comic is divided into a grid of 4 by 6 panels, each depicting a character or situation from a previous XKCD strip}}
+[The comic is divided into a grid of 4 panels by 6 panels, each depicting a character or situation often from a previous xkcd strip.]
 
-{{In each panel is written a part of a song similar to the song from the Discovery Channel commercial}}
+[In each panel is written a part of a song similar to the song from the Discovery Channel commercial.]
 
-Panel 1: (Reference Comic 162)
+Panel 1:
 
-[[woman spinning around]]
+[Megan spinning around.]
 
 I love momentum.
 
-Panel 2: (Reference Comic 413)
+Panel 2:
 
-[[woman laying on floor tinkering with EEE PC hamster ball robot]]
+[Megan laying on floor tinkering with an EEE PC hamster ball robot.]
 
 I love to engineer.
 
-Panel 3: (Reference Comic 452)
+Panel 3:
 
-[[man with beret standing in bakery holding a loaf of bread in each hand, sign with "PIE!" in background]]
+[Beret Guy standing in bakery holding a loaf of bread in each hand, a sign with "PIE!" in background.]
 
 I love this bakery!
 
-Panel 4: (Reference Comic 239)
+Panel 4:
 
-[[man with goggles and red cape (Cory Doctorow) flying superman-style]]
+[Cory Doctorow in goggles and a red cape flying superman-style.]
 
 I love the blogosphere!
 
-Panel 5: (Reference Comic 152)
+Panel 5:
 
-[[man running in large hamster ball]]
+[Cueball running in a large hamster ball.]
 
 I love the whole world
 
 Panel 6:
 
-[[depiction of internet sludge (4chan 
-
-b
-
--Random)]]
+[Depiction of internet sludge (4chan b-Random)]
 
 And all its messed-up folks.
 
-Panel 7: (Reference Comic 150)
+Panel 7:
 
-[[man and woman immersed in playpen balls]]
+[Cueball and Megan immersed in playpen balls.]
 
 Boom De Yada
 
@@ -62,59 +58,59 @@ Boom De Yada
 
 Panel 8:
 
-[[mass of playpen balls with speech "I put on my robe and wizard hat" originating from it]]
+[Mass of playpen balls with speech "I put on my robe and wizard hat" originating from it.]
 
 Boom De Yada
 
 Boom De Yada
 
-Panel 9: (Reference Comic 72)
+Panel 9:
 
-[[black hat man taking gift away from kid with party hat]]
+[Black Hat taking a present from a kid with a party hat.]
 
 I love your suffering.
 
-Panel 10: (Reference Comic 153)
+Panel 10:
 
-[[diagram showing RSA fingerprint authentication between two people]]
+[Diagram showing RSA fingerprint authentication between two people.]
 
 I love cryptography.
 
-Panel 11: (Reference Comic 230)
+Panel 11:
 
-[[man and woman in bed covered by red sheet]]
+[Cueball and Megan in bed covered by a red sheet.]
 
 I love entangled sheets.
 
-Panel 12: (Blag)
+Panel 12:
 
-[[man hanging from kite string holding camera]]
+[Cueball hanging from a kite string holding a camera.]
 
 And kite photography.
 
-Panel 13: (Reference Comic 256)
+Panel 13:
 
-[[map of the internet]]
+[Map of the internet.]
 
 I love the whole world
 
-Panel 14: (Reference Comic 8)
+Panel 14:
 
-[[cube with red spider on top]]
+[Cube with a red spider on top.]
 
 And all its mysteries.
 
-Panel 15: (Reference Comic 303)
+Panel 15:
 
-[[two people sword-fighting on rolling office chairs]]
-
-Boom De Yada
+[Two people sword-fighting on rolling office chairs.]
 
 Boom De Yada
 
-Panel 16: (Reference Comic 263)
+Boom De Yada
 
-[[class room with two students and female teacher]]
+Panel 16:
+
+[Classroom with two students and Miss Lenhart.]
 
 Boom De Yada
 
@@ -122,53 +118,52 @@ Boom De Yada
 
 Panel 17:
 
-[[man saying "Barack me Obamadeus!" to another man speaking energetically at a podium]]
+[Cueball saying "Barack me Obamadeus!" to another man speaking energetically at a podium.]
 
 I love elections.
 
 Panel 18:
 
-[[man holding schematic diagram depiction of transistor in front of his crotch]]
+[Cueball holding a schematic diagram of a transistor in front of his crotch.]
 
 I love transistors.
 
-Panel 19: (Reference Comic 69)
+Panel 19:
 
-[[man and woman in bed, man saying "There must be taft slash fiction"]]
+[Cueball and Megan in bed, Cueball saying "There *must* be taft slash fiction."]
 
 I love weird pillow talk.
 
-Panel 20: (Reference Comic 49, 279, 317)
+Panel 20:
 
-[[man speaking to woman]]
+[Cueball speaking to Megan.]
 
 I love your sister.
 
-Panel 21: (Reference Comic 249)
+Panel 21:
 
-[[roller coaster with person in front car holding chess board and thinking about a move]]
+[Roller coaster with Cueball in the front car holding a chess board and thinking about a move.]
 
 I love the whole world.
 
-Panel 22: (Reference Comic 167)
+Panel 22:
 
-[[man with beret standing in the midst of leafless trees]]
+[Beret Guy standing in the midst of leafless trees.]
 
 The future's pretty cool!
 
-Panel 23: (Reference Comic 108)
+Panel 23:
 
-[[woman moving toward man by means of MC Hammer slide]]
-
-Boom De Yada
-
-Boom De Yada
-
-Panel 24: (Reference Comic 409)
-
-[[man and woman moving on electric skateboard]]
+[Megan doing the MC Hammer slide towards Cueball.]
 
 Boom De Yada
 
 Boom De Yada
 
+Panel 24:
+
+[Cueball and Megan on an electric skateboard.]
+
+Boom De Yada
+
+Boom De Yada

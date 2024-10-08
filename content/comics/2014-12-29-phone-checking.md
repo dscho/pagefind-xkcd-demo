@@ -6,23 +6,22 @@ alt: >-
   'Where were you when you learned you'd won?' 'I was actually asleep; I woke up when I refreshed the webite and saw the news.'
 img: https://imgs.xkcd.com/comics/phone_checking.png
 ---
-[[Two characters are talking.]]
+[Cueball approaching Megan.]
 
-Character: What's up?
+Cueball: What's up?
 
-Second character: they're announcing the winner of the compulsive phone-checking championship.
+Megan: They're announcing the winner of the compulsive phone-checking championship.
 
-[[The second character looks at their phone.]]
+[Megan checks her phone.]
 
-[[Both characters stare silently at each other.]]
+[Megan puts her phone away.]
 
-[[The second character looks at their phone again.]]
+[Megan checks her phone again.]
 
-Character: Did you win?
+Cueball: Did you win?
 
-Second character: Site's down.
+Megan: Site's down.
 
-Character: Weird.
+Cueball: Weird.
 
-Second character: I'll keep refreshing.
-
+Megan: I'll keep refreshing.

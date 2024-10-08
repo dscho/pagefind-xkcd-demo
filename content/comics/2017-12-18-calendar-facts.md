@@ -6,7 +6,7 @@ alt: >-
   While it may seem like trivia, it (causes huge headaches for software developers / is taken advantage of by high-speed traders / triggered the 2003 Northeast Blackout / has to be corrected for by GPS satellites / is now recognized as a major cause of World War I).
 img: https://imgs.xkcd.com/comics/calendar_facts.png
 ---
--Calendar Facts-
+<big>-Calendar Facts-</big>
 
 [Shown below is a branching flow chart of sorts that begins at the phrase "Did you know that", then flows through various paths to build up a sentence. (Note that the "→" arrow symbol is used below to indicate a new branch with no intermediate text from a previous branch.)]
 

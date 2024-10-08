@@ -6,57 +6,44 @@ alt: >-
   "Wait, so in this version is Frankenstein also the doctor's name?" "No, he's just 'The Doctor'."
 img: https://imgs.xkcd.com/comics/frankenstein.png
 ---
-Like many people, I'm tired of nitpicking about Frankenstein's Monster's name.
+[A text only panel. Between the last two lines is a lightning bolt.]
 
-Luckily, 
+Like many people, I'm tired of the nitpicking about Frankenstein's monster's name.
 
-Frankenstein
-
- is public domain.
+Luckily, *Frankenstein* is public domain.
 
 Therefore, I present
 
-XKCD'S
+xkcd's
 
-FRANKENSTEIN
+***Frankenstein***
 
-[Lightning bolt]
+(*The monster's name*)
 
-(The monster's name)
+[Cueball is turning down a lever while looking at a monster with black hair that is lying on a bed under a bedsheet. There are two wires connecting to the neck of the monster.]
 
-[[No illustration, just centered text leading to a title with a small lightning bolt at the bottom.]]
+Frankenstein: *Graaar*!
 
-[[A man with a flat-top haircut lies under a blanket on a gurney, with wires leading from his neck. A person throws a large switch on the wall.]]
+Cueball: Frankenstein is alive! I am a modern Prometheus!
 
-Monster: 
+Frankenstein: *Raaaar*!
 
-GRAAAR!
+Cueball: To be clear, your name is *Frankenstein*, canonically.
 
-Doctor: Frankenstein is alive! I am a modern Prometheus!
+Frankenstein: *Graaaaar*!
 
-Monster: RAAAAR!
+Frankenstein: <small>*The moon landings were faked*!</small>
 
-Doctor: To be clear, your name is 
+Cueball: <small>Wait, what?</small>
 
-Frankenstein
+[Another text only panel. The first word is written between two curvy lines.]
 
-. Canonically.
+**Fin.**
 
-Monster: 
+There.
 
-GRAAAAAR!
-
- The moon landings were faked!
-
-Doctor: Wait, what?
-
-~Fin.~
-
-There. Feel free to call the monster "Frankenstein."
+Feel free to call the monster "Frankenstein."
 
 If anyone tries to correct you, just explain that this comic is your canonical version.
 
 Thank you.
-
-[[Again, no illustration, just text.]]
-

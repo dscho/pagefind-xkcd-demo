@@ -16,7 +16,7 @@ Cueball: Turns out it wasn't the browser-the issue was with my keyboard driver.
 
 [Zoom in on Cueball's upper torso as he is holding a finger up.]
 
-Cueball: Debugging that led me to a mysterious error message from a system utility...
+Cueball: Debugging ***that*** led me to a mysterious error message from a system utility...
 
 [Zoom out as Cueball holds up a miniature sword by the blade in one hand. White Hat turns his head around and looks at it while they keep walking.]
 

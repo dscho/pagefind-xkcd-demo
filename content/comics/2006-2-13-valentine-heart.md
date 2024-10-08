@@ -6,5 +6,20 @@ alt: >-
   Just pretend you're kidding.
 img: https://imgs.xkcd.com/comics/valentine.jpg
 ---
-I want to wish you a happy Valentine's Day but unless this card is going to finally get you naked, I have to admit my heart's not really in it.
+[A Valentine's Day heart bordered with wavy red lace-like pattern with text:]
 
+<center>I want to &nbsp;&nbsp;&nbsp; wish you a
+
+***<span style="font-size: larger">Happy Valentine's Day</span>***
+
+but unless this card is going
+
+to finally get you naked,
+
+I have to admit
+
+my heart's
+
+not really
+
+in it.</center>

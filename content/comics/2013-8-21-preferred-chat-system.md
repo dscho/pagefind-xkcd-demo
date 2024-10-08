@@ -6,19 +6,18 @@ alt: >-
   If you call my regular number, it just goes to my pager.
 img: https://imgs.xkcd.com/comics/preferred_chat_system.png
 ---
-[[A figure stands, talking on his cell phone.]]
+[Cueball stands, talking on his cell phone.]
 
-Figure: Sorry for the voicemail, but I'm confused about how to reach you. 
+Cueball: Sorry for the voicemail, but I'm confused about how to reach you.
 
-Figure: When I text you, you reply once on GChat, then go quiet, yet answer IRC right away. I emailed you, and you replied on Skype and mentioned that the email "woke you up." 
+Cueball: When I text you, you reply once on GChat, then go quiet, yet answer IRC right away. I emailed you, and you replied on Skype and mentioned that the email "woke you up".
 
-Figure: You're very responsive - I just have no sense of how you use technology. 
+Cueball: You're very responsive - I just have no sense of how you use technology.
 
-[[An owl flies into the panel.]]
+[An owl flies into the panel.]
 
-Figure: ?!?
+Cueball: ?!?
 
-[[The owl perches on the figure's head. It has delivered a note to the figure.]]
+[The owl perches on Cueballs's head. It has delivered a note to Cueball.]
 
-Note: did you try to call me? use my google voice number next time. 
-
+Note: did you try to call me? use my google voice number next time.

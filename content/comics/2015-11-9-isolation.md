@@ -6,45 +6,42 @@ alt: >-
   2060: The gregarious superintelligent AI, happily talking its way out of a box, is fast becoming a relic of the past. Today's quantum hyper-beings are too busy with their internal multiverse sims to even notice that they're in boxes at all!
 img: https://imgs.xkcd.com/comics/isolation.png
 ---
-1840:
+[Above each panel a year is written in a small box that breaks the top of the panels frame. Cueball is talking in all six frames. In the first frame he is standing between a standing guy with pageboy hairstyle and a sitting Ponytail. She is sitting in an armchair. Both are reading books. Cueball points towards them with his arms out.]
 
-[[Three people in a room. One reading while standing, one sitting in a chair and reading, and a third quite belligerent.]]
+1840
 
-Person: The modern bookworm is too busy *reading* about the world to *look* at it.
+Cueball: The modern bookworm is too busy *reading* about the world to *look* at it.
 
-1880:
+[Cueball is pointing to the left with both arms out towards Hairy who is sitting at a dining table with his breakfast eating something while reading his newspaper. On the table are a cup and a plate.]
 
-[[Person behind a person eating a meal and reading a newspaper]]
+1880
 
-Person: No one *talks* anymore- We take our daily newspapers in silence.
+Cueball: No one ***talks*** anymore - we take our daily newspapers in silence.
 
-1910:
+[Cueball is pointing to the right with one arm at Megan who walks away from him while reading a magazine.]
 
-[[Person behind another person walking along and reading a periodical]]
+1910
 
-Person: The magazine is destroying conversation. We read even as we walk!
+Cueball: The magazine is destroying conversation. We even read as we walk!
 
-1960:
+[Cueball is standing to the left. In the background Ponytail and Hairy is sitting on a rug in front of a TV standing on top of a small TV table. The TV is of the broad kind with cathode ray tubes and it has two antennas on top.]
 
-[[Person observing two kids in front of a TV]]
+1960
 
-Person: Television has put an end to family discussion.
+Cueball: Television has put an end to family discussion.
 
-1980:
+[Cueball is standing up in a bus holding on to a railing. To his left stands Ponytail and to his right sits Hairbun. Both of them are listening to their Walkman’s which they are holding in their hand while listening to them through headphones.]
 
-[[Person on public transportation surrounded by others lost in their own audio]]
+1980
 
-Person: Thanks to the Sony Walkman, anti-social isolation is now the norm.
+Cueball: Thanks to the Sony Walkman, anti-social isolation is now the norm.
 
-2015:
+[Cueball is standing to the left. Megan and another Cueball-like guy are standing to the right facing each other but looking down at their smartphones. Both are listening to them through their headphones.]
 
-[[Person behind two others on their smartphones]]
+2015
 
-Person: We've become too absorbed in our phones to notice the-
+Cueball: We've become too absorbed in our phones to notice the-
 
-Person 2: *Dude*. It's been *two centuries*.
+Megan: ***Dude. *** It's been ***two centuries. ***
 
--
-
-*Take a hint*.
-
+Megan: ***Take a hint. ***

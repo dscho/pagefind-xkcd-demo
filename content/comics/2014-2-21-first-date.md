@@ -6,33 +6,38 @@ alt: >-
   I sympathize with the TPP protagonist because I, too, have progressed through a surprising number of stages of life despite spending entire days stuck against simple obstacles.
 img: https://imgs.xkcd.com/comics/first_date.png
 ---
-[[A man and a woman sit at an intimate dinner table. They have plates and glasses of wine in front of them.]]
+[Cueball and Megan sit at an intimate dinner table. They have plates and glasses of wine in front of them.]
 
-Man: So, did you grow up around here? 
+Cueball: So, did you grow up around here?
 
-Woman: I love you.
+Megan: I love you.
 
-Man: ... huh? 
+Cueball: ... huh?
 
-Woman: Waiter! One of everything on the menu. 
+Megan: Waiter! One of everything on the menu.
 
-[[The woman stands up. She's holding the plate.]]
+[Megan stands up. Standing on her chair, holding a plate.]
 
-Man: Why are you up there? 
+Cueball: Why are you up there?
 
-Woman: I'm stuck. This plate looks delicious. Aaaoogaoag.
+Megan: I'm stuck.
 
-[[The woman has put the plate down and walked off-panel.]]
+Megan: This plate looks delicious.
 
-Woman: Bye. OK. Coming back now. 
+Megan: Aaaoogaoag.
 
-[[The woman is crouched on her chair, holding a spiral.]]
+[Megan has put the plate down and walked off-panel.]
 
-Man: You're being controlled by Twitch, aren't you? 
+Megan: Bye.
 
-Woman: Check out this cool spiral! 
+Megan: OK. Coming back now.
 
-Man: It's-
+[Megan is crouched on her chair, holding a spiral.]
 
-Woman: SAVING.
+Cueball: You're being controlled by Twitch, aren't you?
 
+Megan: Check out this cool spiral!
+
+Cueball: It's—
+
+Megan: <big><big>**SAVING.**</big></big>

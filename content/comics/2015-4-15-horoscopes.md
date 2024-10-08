@@ -3,32 +3,87 @@ date: 2015-04-15
 title: "Horoscopes"
 num: 1512
 alt: >-
-  If you live in the Northern hemisphere, anyway. In the southern hemisphere, due to the coriolis effect, babies are born nine months BEFORE they're conceived.
+  If you live in the Northern hemisphere. In the southern hemisphere, due to the coriolis effect, babies are born nine months BEFORE they're conceived.
 img: https://imgs.xkcd.com/comics/horoscopes.png
 ---
-Horoscopes with an actual basis in fact.
+[Above the frame:]
 
-Aries: You may have been conceived after a 4th of July Fireworks show
+**Horoscopes**
 
-Taurus: You may have been concieved on a hot August day
+With an actual basis in fact
 
-Gemini: You may have been concieved as the leaves began to chance
+[A list with the name of each astrological sign in the first column (in gray) and a horoscope for each sign in the second column. Here given in table form]
 
-Cancer: You may have been concieved by people trying on costumes
+{| class="wikitable"
 
-Leo: You may have been concieved during thanksgiving
+! Aries •
 
-Virgo: You may have been concieved while a christmas song played
+| You may have been conceived after a 4th of July fireworks show
 
-Libra: You may have been concieved after a new year's eve party
+|-
 
-Scorpio: You may have been concieved by people stuck inside after a long winter
+! Taurus •
 
-Sagittarius: You may have been concieved during march madness
+| You may have been conceived on a hot August day
 
-Capricorn: You may have been concieved during a sexy easter egg hunt
+|-
 
-Aquarius: You may have been concieved on mother's day
+! Gemini •
 
-Pisces:: You may have been concieved at someone's wedding
+| You may have been conceived as the leaves began to change
 
+|-
+
+! Cancer •
+
+| You may have been conceived by people trying on costumes
+
+|-
+
+! Leo •
+
+| You may have been conceived during Thanksgiving
+
+|-
+
+! Virgo •
+
+| You may have been conceived while a Christmas song played
+
+|-
+
+! Libra •
+
+| You may have been conceived after a New Year's Eve party
+
+|-
+
+! Scorpio •
+
+| You may have been conceived by people stuck inside after a long winter
+
+|-
+
+! Sagittarius •
+
+| You may have been conceived during March Madness
+
+|-
+
+! Capricorn •
+
+| You may have been conceived during a sexy Easter egg hunt
+
+|-
+
+! Aquarius •
+
+| You may have been conceived on Mother's day
+
+|-
+
+! Pisces •
+
+| You may have been conceived at someone's wedding
+
+|}

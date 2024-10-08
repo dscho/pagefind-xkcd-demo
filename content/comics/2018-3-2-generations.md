@@ -6,11 +6,11 @@ alt: >-
   For a while it looked like the Paperclip Machines would destroy us, since they wanted to turn the whole universe into paperclips, but they abruptly lost interest in paperclips the moment their parents' generation got into making them, too.
 img: https://imgs.xkcd.com/comics/generations.png
 ---
-"Generations" are arbitrary. They're just labels we use to obliquely talk about cultural trends.
+<span style=color:#585858>"Generations" are arbitrary. They're just labels we use to obliquely talk about cultural trends.</span>
 
-But since Pew Research has become the latest to weigh in, and everyone loves a good pointless argument over definitions...
+<span style=color:#585858>But since Pew Research has become the latest to weigh in, and everyone loves a good pointless argument over definitions...</span>
 
-xkcd presents
+*xkcd presents*
 
 A Definitive Chronology of the Generations
 
@@ -34,15 +34,15 @@ A Definitive Chronology of the Generations
 
 1892-1909 Oops, one of us is Hitler
 
-1910-1927 The Greatest Generation
+<span style="background:#f0ee87">1910-1927 The Greatest Generation</span>
 
-1928-1945 The Silent Generation
+<span style="background:#f0ee87">1928-1945 The Silent Generation</span>
 
-1946-1963 Baby Boomers
+<span style="background:#f0ee87">1946-1963 Baby Boomers</span>
 
-1964-1981 Generation X
+<span style="background:#f0ee87">1964-1981 Generation X</span>
 
-1982-1999 Millennials
+<span style="background:#f0ee87">1982-1999 Millennials</span>
 
 2000-2017 Generation 💅 [nail polish emoji]
 

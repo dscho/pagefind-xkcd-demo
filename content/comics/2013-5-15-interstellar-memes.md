@@ -6,153 +6,96 @@ alt: >-
   The strongest incentive we have to develop faster-than-light travel is that it would let us apologize in advance.
 img: https://imgs.xkcd.com/comics/interstellar_memes.png
 ---
-If other star systems are listening in on our pop culture,
+[On a black background yellow circles and white bubbles are shown. Caption above the picture:]
 
-given the speed of light delay, these are the jokes and catchphrases they just learned about and are currently repeating way too much:
+If other star systems are listening in on our pop culture, given the speed-of-light delay, these are the jokes and catchphrases they just learned about and are currently repeating way too much:
 
-[[A map of star systems in relation to the Sun, which is roughly in the center, sending out radio waves. Each star is a yellow circle of differing sizes, with a speech bubble (or two). 
+[On a black background a map of star systems in relation to the Sun, which is roughly in the center, sending out radio waves is shown. Each star is a yellow circle of differing sizes, with a speech bubble (or more). The list is ordered from closest to furthest.]
 
-((Listed in order, from closest to furthest.))
+Proxima Centauri: I'm on a boat!
 
-Proxima Centauri: "I'm on a boat!"
+Alpha Centauri A B: The cake is a lie! – ♪ Never gonna give you up ♫
 
-Alpha Centauri A
+Luhman 16: I can haz?
 
-B: "The cake is a lie!" "o
+Barnard's star: Leave Britney alone! – ♫ Chocolate Raaaiiin ♫
 
-~ Never gonna give you up o
+Wolf 359: Chuck Norris doesn't sleep. He waits.
 
-~"
+Lalande 21185: ♬ Numa numa ♪
 
-Luhman 16: I can haz? 
+Sirius: I still can't believe Bellatrix– – Dude, get over it.
 
-Barnard's star: "Leave Britney alone!" "o
+Gliese 65:  INTERNETS!
 
-~ 
+Epsilon Eridani: Ninjas fight all the time!
 
-Chocolate raaaiiin
+Procyon: ...God kills a kitten! – A what?
 
- o
+Epsilon Indi: You're the man now, dog!
 
-~"
+Tau Ceti: All your base are belong to us.
 
-Wolf 359: "Chuck Norris doesn't sleep. He 
+Luyten's Star: Peanut Butter Jelly Time!
 
-waits
+Kapteyn's star: My spoon is too big!
 
-."
+Kruger 60: MORE COWBELL!
 
-Lalande 21185: "o
+Gliese 1: Look at the tiny dancing Earth mammals!
 
-~ Numa numa o
+Van Maanen's star: WASSSUUP!?!
 
-~"
+Ad Leonis: Oh my God, they killed Kenny! – You bastards!
 
-Sirius: "I 
+70 Ophiuchi: Welcome to Good Burger, home of the Good Burger. – What's a burger? – I don't know.
 
-still
+Altair: Mr. T ate my balls!
 
- can't believe Bellatrix--" "Dude, get over it."
+Sigma Draconis: Oh ... my ... gaawd.
 
-Gliese 65: "
+Delta Pavonis: I want the truth. – You can't handle the truth!
 
-INTERNETS!
+Gliese 892: Hasta la vista, baby.
 
-"
+Xi Boötis: Did I do that?
 
-Epsilon Eridani: "Ninjas fight 
+HR 753: D'oh!
 
-all the time!
+Beta Hydri: Yippie-ki-yay, motherfucker.
 
-"
+Vega: Resistance is futile.
 
-Procyon: "...God kills a kitten!" "A what?"
+Zeta Tucanae: Let's get ready to ruuumble!
 
-Epsilon Indi: "You're the man now, dog!"
+HR 1614: Where's the beef?
 
-Tau Ceti: "All your base are belong to us."
+Groombridge 1830: I pity the fool!
 
-Luyten's Star: "Peanut Butter Jelly Time!"
+Delta Trianguli: May the Force be with you.
 
-Kapteyn's star: "My spoon is too big!"
+Beta Virginis: Nobody expects the Spanish Inquisition!
 
-Kruger 60: "
+Arcturus: You talkin' to me ?
 
-MORE COWBELL!
+Beta Trianguli Australis: I'm going to make him an offer he can't refuse.
 
-"
+Lamda Aurigae: You've got to ask yourself one question: 'Do I feel lucky?'
 
-Gliese 1: "Look at the tiny dancing Earth mammals!"
+Capella: And now for something completely different.
 
-Van Maanen's star: "WASSSUUP!?!"
+HD 211415: Live long and prosper. – Ok.
 
-Ad Leonis: "Oh my God, they killed Kenny!" "You bastards!"
+Alderamin: EXTERMINATE!
 
-70 Ophiuchi: "Welcome to Good Burger, home of the Good Burger." "What's a burger? "I don't know."
+51 Pegasi: Name's bond. James Bond.
 
-Altair: "Mr. T ate my balls!"
+Caph: Take me to your leader! – No, Steve.
 
-Sigma Draconis: "Oh ... my ... gaawd." 
+Kappa Reticuli: Here's lookin' at you, kid.
 
-Delta Pavonis: "I want the truth." "
+Alpha Hydri: Rosebud.
 
-You can't handle the truth!
+Gienah: Ehh, what's up doc?
 
-"
-
-Gliese 892: "Hasta la vista, baby." 
-
-Xi Boötis: Did 
-
-I
-
- do that?
-
-HR 753: "D'oh!"
-
-Beta Hydri: "Yippie-ki-yay, motherfucker."
-
-Vega: "Resistance is futile."
-
-Zeta Tucanae: "Let's get ready to ruuumble!"
-
-HR 1614: "Where's the beef?"
-
-Groombridge 1830: "I pity the fool!"
-
-Delta Trianguli: "May the Force be with you."
-
-Beta Virginis: "Nobody expects the Spanish Inquisition!"
-
-Arcturus: "You talkin' to 
-
-me
-
-?" 
-
-Beta Trianguli Australis: "I'm going to make him an offer he can't refuse."
-
-Lamda Aurigae: "You've got to ask yourself one question: 'Do I feel lucky?'"
-
-Capella: "And now for something completely different."
-
-HD 211415: "Live long and prosper." "Ok." 
-
-Alderamin: "
-
-EXTERMINATE!
-
-"
-
-51 Pegasi: "Name's bond. James Bond."
-
-Caph: "Take me to your leader!" "No, Steve."
-
-Kappa Reticuli: Here's lookin' at you, kid." 
-
-Alpha Hydri: "Rosebud."
-
-Gienah: "Ehh, what's up doc?"
-
-Alpha Serpentis: "Frankly, my dear, I don't give a damn."]]
-
+Alpha Serpentis: Frankly, my dear, I don't give a damn.

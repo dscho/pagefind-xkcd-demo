@@ -6,13 +6,28 @@ alt: >-
   Seriously considering buying some illegal drugs to try to turn them back into cold medicine.
 img: https://imgs.xkcd.com/comics/cold_medicine.png
 ---
-[[Two figures stand behind a table with cheese, bread, tomato sauce, and salt on it.]]
+[Cueball is standing in a drug store, with a drug in his hand he has taken from the shelf he is standing next to. The shelf is labeled.]
 
-Figure: What're you having for lunch? 
+Cueball: \*Sniffle\*
 
-Other figure: The usual - half a pound of cheese, white bread, a glass of tomato sauce, and some salt.
+Label: Cold & Flu
 
-Figure: Eww. 
+[Cueball is standing alone, examining some medicine he is holding up, while having some other medicine in the other hand.]
 
-Pizza seems way grosser if you imagine eating just the ingredients.
+Cueball: \*Cough\*
 
+Cueball: \*Sniff\*
+
+[Cueball continues examining more medicine. Looking down on one in his hand, having another in the other hand and there are also three packages at his feet.]
+
+Cueball: Ughhh...
+
+[Cueball is at the labeled counter in the drug store with computer etc. Ponytail is behind the counter.]
+
+Counter label: Sale
+
+Cueball: Just gimme one of every kind of cold medicine you need ID to buy.
+
+Ponytail: You'll go on the watchlist for—
+
+Cueball: Don't care.

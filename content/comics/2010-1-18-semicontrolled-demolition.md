@@ -6,13 +6,12 @@ alt: >-
   I believe the truth always lies halfway between the most extreme claims.
 img: https://imgs.xkcd.com/comics/semicontrolled_demolition.png
 ---
-[[A person is holding up a pointer to a screen with an image of the World Trade Center towers mid-disaster.]]
+[Cueball is holding up a pointer to a screen with an image of the World Trade Center towers mid-disaster.]
 
-Person: Based on my analysis, I believe the government faked the plane crash and demolished the WTC north tower with explosives.
+Cueball: Based on my analysis, I believe the government faked the plane crash and demolished the WTC north tower with explosives.
 
-Person: The south tower, in a simultaneous but unrelated plot, was brought down by actual terrorists.
+Cueball: The south tower, in a simultaneous but unrelated plot, was brought down by actual terrorists.
 
-The 9
+[Caption below the panel:]
 
-11 truthers responded poorly to my compromise theory.
-
+The 9/11 truthers responded poorly to my compromise theory.

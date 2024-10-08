@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/internet_archive.png
 
 Ponytail: The Internet Archive is so weird. If it didn't exist, it would sound totally implausible.
 
-Cueball: Seriously.
+Cueball: *Seriously.*
 
 [Ponytail and Cueball continue walking to the right.]
 
@@ -20,7 +20,7 @@ Cueball: Do you ever worry about how reliant we are on systems that someone happ
 
 Ponytail: Yeah - the same thing freaks me out about having a body.
 
-Cueball: I know, right?? I don't even know what half these parts do!
+Cueball: I know, right?? I don't even know what half these parts *do*!
 
 Ponytail: And yet if they stop, we die!
 

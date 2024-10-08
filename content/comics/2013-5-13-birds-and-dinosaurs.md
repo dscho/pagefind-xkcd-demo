@@ -6,49 +6,16 @@ alt: >-
   Sure, T. rex is closer in height to Stegosaurus than a sparrow. But that doesn't tell you much; 'Dinosaur Comics' author Ryan North is closer in height to certain dinosaurs than to the average human.
 img: https://imgs.xkcd.com/comics/birds_and_dinosaurs.png
 ---
-By any reasonable definition, 
+By any reasonable definition, *T. rex* is more closely related to sparrows than to *Stegosaurus*.
 
-T. Rex
+[Diagram showing that *Stegosaurus* came earlier than *T. rex*, along with it showing that *T. rex* came closer in time to sparrows. Evaluation criteria "separation by time", "phylogenetic distance" and "physical similarity" are highlighted in red.]
 
- is more closely related to sparrows than to 
+Birds aren't *descended* from dinosaurs, they *are* dinosaurs.
 
-Stegosaurus
+Which means that the fastest animal alive today is a small carnivorous dinosaur, *Falco peregrinus*.
 
-. 
-
-[[A cladistic tree showing a single origin point which branches on one to a second point which branches into  "
-
-Stegosaurus
-
-" and "
-
-Triceratops
-
-", and on the other side branches into a second point which branches into "
-
-T. Rex
-
-" and "sparrow". Each label's vertical distance from the origin point  represents "separation by time", the Steogsaurus being closest, the Triceratops and T. Rex on the same level in the middle, and "sparrow" furthest. The distance of their label from their closest common relative represent "phylogenetic distance". Below this tree are sketches of a Stegosaurus, T. Rex, and sparrow skeleton. A box surrounds the T. Rex and sparrow skeletons, showing they are physically similar.]]
-
-Birds aren't 
-
-descended
-
- from dinosaurs, they 
-
-are
-
- dinosaurs.
-
-Which means the fastest animal alive today is a small carnivorous dinosaur, 
-
-Falco peregrinus
-
-. 
-
-[[A silhouette of a falcon flying toward a smaller prey bird.]]
+[A picture of two birds is shown, one large and one small.]
 
 It preys mainly on other dinosaurs, which it strikes and kills in midair with its claws.
 
-This is a good world.
-
+[In red:] This is a good world.

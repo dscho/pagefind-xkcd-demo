@@ -6,21 +6,22 @@ alt: >-
   After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.
 img: https://imgs.xkcd.com/comics/squirrelphone.png
 ---
-[[A person is walking along and they see a squirrel standing on a tree stump.]]
+[Cueball is approaching a stump with a squirrel perched on it. A ringing noise is coming from the squirrel's back.]
 
-Squirrel: RIIIIING -- RIIIIIING
+Squirrel: Riiiiing
 
-[[The person picks up the squirrel and puts it to his ear like a phone.]]
+Squirrel: Riiiiiing
 
-Person: Hello?
+[Cueball has picked up the squirrel and is holding it to his left ear.]
 
-[[The squirrel bites down on the person's ear.]
+Cueball: Hello?
 
-<<CHOMP>>
+[The squirrel bites Cueball's head.]
 
-Person: OW!
+Squirrel: Chomp!
 
-[[The squirrel leaps away, and the person is left holding his face in bewilderment.]]
+Cueball: Ow!
 
-Person: ???
+[Cueball holds his hand to his cheek while the squirrel leaps away, fleeing.]
 
+Cueball: ???

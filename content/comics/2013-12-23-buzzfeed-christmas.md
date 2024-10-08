@@ -6,13 +6,14 @@ alt: >-
   The 6 Weirdest Objects The Buzzfeed Writers Are Throwing Out Their Windows At Us
 img: https://imgs.xkcd.com/comics/buzzfeed_christmas.png
 ---
-[[4 carollers stand in a line, singing songs.]]
+[Four carolers (Megan, Cueball, Ponytail and Hairy) are singing.]
 
-Carollers: 12 best drummers of all time
+12 Best drummers of *all time*
 
-Carollers: 11 pipers whose jaw-droppingly good piping will make you cry
+11 Pipers whose jaw-dropping good piping will make you cry
 
-Carollers: You won't believe what these 10 lords leap over
+You won't *believe* what these 10 lords leap over
 
-Carolers outside the Buzzfeed offices perform "12 weird things I actually got for Christmas"
+[Caption below the frame]
 
+Carolers outside the Buzzfeed offices perform "12 Weird things I *actually got* for Christmas"

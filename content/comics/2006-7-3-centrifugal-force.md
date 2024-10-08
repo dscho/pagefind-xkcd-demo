@@ -3,19 +3,21 @@ date: 2006-07-03
 title: "Centrifugal Force"
 num: 123
 alt: >-
-  You spin me right round, baby, right round, in a manner depriving me of an inertial reference frame.  Baby.
+  You spin me right round baby, right round, in a manner depriving me of an inertial reference frame. Baby.
 img: https://imgs.xkcd.com/comics/centrifugal_force.png
 ---
-[[ Bond is tied to a giant centrifuge ]]
+[James Bond, drawn as Cueball, is strapped to a giant wheel suspended from the ceiling. Black Hat is standing next to two levers.]
 
-Hat Guy: Do you like my centrifuge, Mister Bond? When I throw the lever, you will feel centrifugal force crush every bone in your body.
+Black hat: How do you like my centrifuge, Mister Bond? When I throw this lever, you will feel centrifugal force crush every bone in your body.
 
-Mr. Bond: You mean centripetal force. There's no such thing as centrifugal force.
+[Same scene, but a closer shot.]
 
-Hat Guy: A laughable claim, Mister Bond, perpetuated by overzealous teachers of science. Simply construct Newton's laws into a rotating system and you will see a centrifugal force term appear as plain as day.
+Bond: You mean centripetal force. There's no such thing as centrifugal force.
 
-Mr. Bond: Come now, do you really expect me to do coordinate substitution in my head while strapped to a centrifuge?
+Black hat: A laughable claim, Mister Bond, perpetuated by overzealous teachers of science. Simply construct Newton's laws in a rotating system and you will see a centrifugal force term appear as plain as day.
 
-Hat Guy: No, Mr. Bond. I expect you to die.
+[Closer shot, only Bond's head is visible.]
 
-{{ alt: You spin me right round, baby, right round, in a manner depriving me of an inertial reference frame.  Baby. }}
+Bond: Come now, do you really expect me to do coordinate substitution in my head while strapped to a centrifuge?
+
+Black hat: No, Mister Bond. I expect you to die.

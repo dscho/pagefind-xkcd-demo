@@ -6,33 +6,36 @@ alt: >-
   And a different ghost has replaced me in the bedroom.
 img: https://imgs.xkcd.com/comics/travel_ghosts.png
 ---
-transcribe
+[Cueball, holding a smartphone, is talking to White Hat.]
 
-[[A person monologues to another]]
+Cueball: Lots of apps let you plan your trips using real-time bus, train, and traffic data. They try to predict which route will be faster, but aren't always right.
 
-Lots of apps let you plan your tirps using real-time bus, train, and traffic data. They try to predict which route will be faster, but aren't always right.
+[Cueball continues to talk off-panel. The text is above a map showing three possible routes with an overlaid Cueball on each; the top and the bottom route and Cueball are faded, and the middle is black up until the black Cueball. After that, this route is also faded. A black point on the right indicates the destination.]
 
-Instead of just planning, my new app lets you send "ghost" versions of you along different routes, simulating their travel using the real-time data.
+Cueball (off-panel): Instead of just *planning*, my new app lets you send "ghost" versions of you along different routes, simulating their travel using the real-time data
 
-That way, you can see which route turned out to be faster in practice. You can also race your past selves.
+[Cueball, again talking to White Hat, holding the smartphone down.]
 
-[[Soon: Person dashing out of a taxi, twenty feet behind a ghost.]]
+Cueball: That way, you can see which route turned out to be faster in practice,
 
-Ugh, lost to the bike ghost AGAIN.
+Cueball: You can also race your past selves.
 
-[[Person carrying briefcase is on wrong side of door. On the other side, wife is standing with ghost also carrying briefcase. ]]
+[Cueball is getting out of his car holding his smartphone in one hand and a briefcase in the other; A faded out Cueball bicyclist is in front of him to the right. At the top there is a caption in a frame:
 
-Person: Hey, my key won't work.
+Soon...
 
-Wife: I'm sorry, but we've decided to replace you. This floaty guy is much more punctual.
+Cueball: Ugh, lost to the bike ghost *again.*
 
-Person: But...
+[Cueball with his briefcase is outside a door, holding a key card up to a key reader. On the inside of the door Ponytail is facing the door and points toward the faded version of Cueball also holding a briefcase.]
 
-[[Two children hold hands with ghost]]
+Cueball: Hey, my key won't work
 
-Children: Our NEW dad never misses our games!
+Ponytail: I'm sorry, but we've decided to replace you. This floaty guy is much more punctual.
 
-[[Person, stretching out hands in desperate agony]]
+Cueball: But...
 
-Person: NOOOOOOOOOOO!
+[Jill and another girl with wavy long hair, is holding faded out Cueball's hands. The real Cueball is standing to the right, next to his briefcase on the ground. He is holding his hands out towards his kids.]
 
+Jill: Our *new* dad never misses our games!
+
+Cueball: *Nooo!*

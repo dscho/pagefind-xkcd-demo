@@ -6,19 +6,18 @@ alt: >-
   If the flyers don't work, we'll switch to the LEAST subtle method of informing a town of the existence of a trebuchet club.
 img: https://imgs.xkcd.com/comics/drop_those_pounds.png
 ---
-[[We see a poster taped to a wall. It has two people in the bottom left, a silhouetted crenellated tower in the bottom right, and a thin arc between them. It reads:]]
+[We see a poster taped to a wall. It has Megan and Cueball in the bottom left, a silhouetted crenelated tower in the bottom right, and a thin arc between them. It reads:]
 
-Struggling with those 2013 resolutions? 
+Struggling with those 2013 resolutions?
 
 We'll help you hit your target
 
-By dropping thirty pounds
+By dropping thirty pounds **fast**
 
-FAST
+[Small print.]
 
-WEB: http:
+WEB: https://[illegible].com
 
-[illegible].com
+CALL: [illegible]
 
-CALL: (555) 123-4567
-
+[Caption, below:] The flyer for our trebuchet–building club may have been too subtle.

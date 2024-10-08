@@ -8,19 +8,16 @@ img: https://imgs.xkcd.com/comics/mathematically_annoying.png
 ---
 Mathematically Annoying Advertising:
 
-[[A âª B = {x:x â¤ 15 or x > 15 } = â ]]
+A ∪ B = {x:x ≤ 15 or x > 15} = ℝ
 
-[[line graph representing the above equation]]
+[line graph representing the above equation.]
 
 When discussing real numbers, it is impossible to get more vague than "up to 15% or more".
 
-[["FREE*" in large text, with substantial illegible fine print]]
+["**FREE!**\*" in large text, with substantial illegible fine print.]
 
-If someone has paid $x to have the word "free" typeset for you and N other people to read, their expected value for the money that will move from you to them is at least $(x
+If someone has paid $x to have the word "free" typeset for you and N other people to read, their expected value for the money that will move from you to them is at least $(x / (N+1))
 
-(N+1))
-
-[[graph representing inverse relationship between "amount you spend" on the y axis and "amount you save" on the x axis]]
+[Graph representing inverse relationship between "amount you spend" on the y axis and "amount you save" on the x axis.]
 
 It would be difficult for the phrase "the more you spend the more you save" to be more wrong.
-

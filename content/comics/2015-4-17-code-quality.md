@@ -6,23 +6,22 @@ alt: >-
   I honestly didn't think you could even USE emoji in variable names. Or that there were so many different crying ones.
 img: https://imgs.xkcd.com/comics/code_quality.png
 ---
-[[An AMATEUR CODER excitedly gestures a PRO CODER towards a laptop computer on a desk.]]
+[Cueball showing Ponytail his laptop.]
 
-Amateur: Keep in mind that I'm self-taught, so my code may be a little messy.
+Cueball: Keep in mind that I'm self-taught, so my code may be a little messy.
 
-Pro: Lemme see, I'm sure it's fine.
+Ponytail: Lemme see - I'm sure it's fine.
 
-[[PRO CODER sits at the desk, clacking at the laptop.]]
+[Ponytail sits at desk, Cueball stand behind her.]
 
-Pro: Wow. This is like being in a house built by a child using nothing but a hatchet and a picture of a house.
+Ponytail: ...Wow. This is like being in a house built by a child using nothing but a hatchet and a picture of a house.
 
-[[PRO CODER leans forward, slightly engrossed.]]
+[Same scene.]
 
-Pro: It's like a salad recipe written by a corporate lawyer using a phone autocorrect that only knew excel formulas.
+Ponytail: It's like a salad recipe written by a corporate lawyer using a phone autocorrect that only knew Excel formulas.
 
-[[PRO CODER leans back, slightly horrified.]]
+[Same scene.]
 
-Pro: It's like someone took a transcript of a couple arguing at ikea and made random edits until it compiled without errors.
+Ponytail: It's like someone took a transcript of a couple arguing at IKEA and made random edits until it compiled without errors.
 
-Amateur: OKAY I will read a style guide.
-
+Cueball: ***Okay,*** I'll read a style guide.

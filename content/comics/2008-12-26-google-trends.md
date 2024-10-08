@@ -3,25 +3,47 @@ date: 2008-12-26
 title: "Google Trends"
 num: 522
 alt: >-
-  Obama has been writing Lincoln/Obama erotic fan fiction on his secret livejournal.  Excerpt:  Lincoln lay back on the bed, nude save for his trademark stovepipe hat.  'Tell me,' he purred seductively, as he and Obama formed a more perfect union. 'When you come, is it 10% ethanol?'
+  Obama has been writing Lincoln/Obama erotic fan fiction on his secret livejournal. Excerpt: Lincoln lay back on the bed, nude save for his trademark stovepipe hat. 'Tell me,' he purred seductively, as he and Obama formed a more perfect union. 'When you come, is it 10% ethanol?'
 img: https://imgs.xkcd.com/comics/google_trends.png
 ---
-Bloggers were recently amused to discover that, according to Google Trends, the search term "men kissing" is most popular in conservative Utah.  A few other embarrassing correlations:
+Bloggers were recently amused to discover that,
 
-Search Term, Top City
+according to Google Trends, the search term:
 
-Installing Ubuntu, Redmond, WA
+"men kissing" is most popular in conservative Utah.
 
-Running for President in 2010, Wasilla, AK
+A few other embarrassing correlations:
 
-Lincoln Fan Fiction, Chicago, IL
+[A two-column table]
 
-Raptors on Hoverboards, Somerville, MA
+[On the left side of the table:]
 
-How is babby formed?, Wasilla, AK
+;<u>Search Term</u>
 
-I hate this website, Mountain View, CA
+;Installing Ubuntu
 
-{{Alt Text:  Obama has been writing Lincoln
+;Running for President in 2010
 
-Obama erotic fan fiction on his secret livejournal.  Excerpt:  Lincoln lay back on the bed, nude save for his trademark stovepipe hat.  'Tell me,' he purred seductively, as he and Obama formed a more perfect union.  'When you come, is it 10% ethanol?'}}
+;Lincoln Fan Fiction
+
+;Raptors on Hoverboards
+
+;How is babby formed?
+
+;I hate this website
+
+[On the right side of the table:]
+
+;<u>Top City</u>
+
+;Redmond, WA
+
+;Wasilla, AK
+
+;Chicago, IL
+
+;Somerville, MA
+
+;Wasilla, AK
+
+;Mountain View, CA

@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/location_reviews.png
 
 [Below the map is the name of the location at the red pin, and below that there are three lines of unreadable text:]
 
-Canyon River Nuclear Launch Facility
+<big>Canyon River Nuclear Launch Facility</big>
 
 [Below that there is broken line with text in the break, and below that follows 11 reviews with yellow stars to the left. The stars are either just outlines or colored completely, with the left one always being filled:]
 
@@ -28,7 +28,7 @@ Reviews (22)
 
 [1 of 5 stars filled] Stop doing chemtrails
 
-[1 of 5 stars filled] This place is a symptom of the military-industrial complex strangling our democracy and...(read full review-1184 words)
+[1 of 5 stars filled] This place is a symptom of the military-industrial complex strangling our democracy and...<span style="color: gray;">(read full review-1184 words)</span>
 
 [4 of 5 stars filled] Anyone else notice the hole in the west fence?
 

@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/bad_map_projection_liquid_resize.png
 
 Bad map projection #107:
 
-The Liquid Resize
+<big>The <big>Liquid Resize</big></big>
 
 A political map compressed using Photoshop's content-aware resizing algorithm to cut down on unused blank space
 

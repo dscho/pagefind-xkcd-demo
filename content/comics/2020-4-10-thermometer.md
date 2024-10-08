@@ -8,35 +8,35 @@ img: https://imgs.xkcd.com/comics/thermometer.png
 ---
 [Cueball stands in the center of the panel holding a thermometer.]
 
-Cueball: This thermometer is in Celsius. How do you change it?
+Cueball: This thermometer is in Celsius. How do you change it?	
 
 Off-panel voice: Long press the button.
 
 [Cueball presses the button, and the thermometer beeps]
 
-Press
+*Press*
 
-Beep
+*Beep*
 
-Thermometer: Units: Kelvin
+Thermometer: Units: Kelvin	
 
-Cueball: No...
-
-[Cueball presses the button, and the thermometer beeps]
-
-Press
-
-Beep
-
-Thermometer: Units: Degrees Rankine
-
-Cueball: What.
+Cueball: No...	
 
 [Cueball presses the button, and the thermometer beeps]
 
-Press
+*Press*
 
-Beep
+*Beep*
+
+Thermometer: Units: Degrees Rankine	
+
+Cueball: What.	
+
+[Cueball presses the button, and the thermometer beeps]
+
+*Press*
+
+*Beep*
 
 Thermometer: Units: Average Translational Kinetic Energy
 

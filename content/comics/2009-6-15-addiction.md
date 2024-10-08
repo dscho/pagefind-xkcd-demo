@@ -3,26 +3,25 @@ date: 2009-06-15
 title: "Addiction"
 num: 597
 alt: >-
-  But if you unplug everything, it gets so quiet you hear that high-pitched empty-room hum.  And then the whispers begin.
+  But if you unplug everything, it gets so quiet you hear that high-pitched empty-room hum. And then the whispers begin.
 img: https://imgs.xkcd.com/comics/addiction.png
 ---
-[[A man is typing at a computer.]]
+[Close up of Cueball typing at his computer. Megan's text message to him can be seen coming from the screen with a zigzag line, and Cueball writes a response as seen from the line going from his hand on the keyboard up to his message.]
 
-Computer: Constant novelty saps my initiative. I'm gonna try to spend a weekend at home without internet.
+Megan (through the computer): Constant novelty saps my initiative. I'm gonna try to spend a weekend at home without internet.
 
-Man: I give you an hour.
+Cueball (writing): I give you an hour.
 
-[[A woman stands up, turns off the computer in front of her.]]
+[Megan is standing up, she turns off the computer in front of her by clicking on a button on the screen. Her office chair has rolled back behind her.]
 
-<<Click>>
+Click
 
-[[The woman stands proudly in front of the computer.]]
+[Megan stands in front of the computer arms in her sides. Beat panel.]
 
-[[The man is at his computer.]]
+[Zoom out with Cueball sitting in his office chair typing a reply on his computer to the message from Megan as in the first panel.]
 
-Computer: So far, it's not actually too bad!
+Megan (through the computer): So far, it's not actually too bad!
 
-Man: Ahem?
+Cueball (writing): Ahem?
 
-Computer: Wait. Shit.
-
+Megan (through the computer): Wait. Shit.

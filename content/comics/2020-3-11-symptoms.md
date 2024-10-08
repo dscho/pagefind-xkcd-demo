@@ -10,4 +10,4 @@ img: https://imgs.xkcd.com/comics/symptoms.png
 
 Cueball: It says here common symptoms include shortness of breath, fever, fatigue, and a dry cough.
 
-Megan: That's reassuring to me, a person with powerful lungs, icy skin, frenzied energy, and an incredibly wet cough.
+Megan: That's reassuring to me, a person with powerful lungs, icy skin, frenzied energy, and an ***incredibly*** wet cough.

@@ -6,35 +6,34 @@ alt: >-
   I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'.
 img: https://imgs.xkcd.com/comics/baby_names.png
 ---
-[[A man sits at a desk, thinking with his hand on his chin, his other hand holding a pen over a piece of paper. A woman stands behind him, looking over his shoulder, also with her hand on her chin.]] 
+[Cueball sits at a desk, thinking with his hand on his chin, his other hand holding a pen over a piece of paper. Megan stands behind him, looking over his shoulder, also with her hand on her chin.]
 
-((Above the drawing is the list they are writing, in handwriting.))
+[Above the drawing is the list they are writing by hand.]
 
 Names for daughter
 
-1. Ponzi
+# Ponzi
 
-2. Eeemily
+# Eeemily
 
-3. Fire Fire
+# Fire Fire
 
-4. Chipotla
+# Chipotla
 
-5. Astamouthe
+# Astamouthe
 
-6. Eggsperm
+# Eggsperm
 
-7. [sound of record scratch]
+# [sound of record scratch]
 
-8. Parsley
+# Parsley
 
-9. Hot'n'Juicy Ann
+# Hot'n'Juicy Ann
 
-10. Ovary
+# Ovari
 
-11. Friendly
+# Friendly
 
-12. Sean (pronounced "seen")
+# Sean (pronounced "seen")
 
-13. Joyst
-
+# Joyst

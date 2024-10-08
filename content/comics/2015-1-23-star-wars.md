@@ -4,37 +4,24 @@ title: "Star Wars"
 num: 1477
 alt: >-
   A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...
-img: https://imgs.xkcd.com/comics/star_wars.png
+img: https://imgs.xkcd.com/comics/star_wars_1.png
 ---
-[[Two characters walk & talk together.]]
+[Cueball and Megan are walking together.]
 
-Bald character: We're almost at the back to the future date.
+Cueball: We're almost at the *Back to the Future* date.
 
-Hair'd character: We're even closer to the star wars tipping point.
+Megan: We're even closer to the *Star Wars* tipping point.
 
-Bald character: The what?
+Cueball: The what?
 
-[[A timeline appears, labeled at 1980, 1990, 2000, 2010.]]
+[Diagram showing a timeline from before 1980 to about 2020. Markers on the line indicate the release date of *Return of the Jedi*, the release date of *The Phantom Menace*, and May 13th, with arrows showing the intervals in between these three points.]
 
-       Return of the Jedi
+Megan: On May 13th, *The Phantom Menace* will have come out closer to *Return of the Jedi* than to the present
 
-       |        The phantom menace
+Cueball: Wow.
 
-       |        |          May 13th
+[Cueball and Megan stop walking. Megan is in a reflective pose with her hand on her chin.]
 
-       |        |          |
+Cueball: It's weird how I'm constantly surprised by the passage of time when it's literally the most predictable thing in the universe.
 
-       |<------>|<-------->|
-
------|-----|-----|-----|------
-
-     1980  1990  2000  2010
-
-Hair'd character: On may 13th, the phantom menace will have come out closer to return of the jedi than to the present
-
-Bald character: Wow.
-
-Bald character: It's weird how I'm constantly surprised by the passage of time when it's literally the most predictable thing in the universe.
-
-Hair'd character (gazing into distance): You know, "a long time ago" should have "plus four more decades" added in rereleases.
-
+Megan: You know, "A long time ago" should have "Plus four more decades" added in rereleases.

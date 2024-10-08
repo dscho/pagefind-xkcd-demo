@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/acceptable_risk.png
 
 Cueball: Okay. Based on the local virus prevalence, our careful quarantines, and the steps we've taken to reduce transmission risk,
 
-Cueball: I think it's okay for us to hang out.
+Cueball: I *think* it's okay for us to hang out.
 
 Ponytail: I agree.
 
@@ -30,16 +30,16 @@ Ponytail: Hi.
 
 [A normal sized panel, with Cueball and Ponytail standing near each other. They are yelling, with their arms raised:]
 
-Cueball: Is this social interaction good enough that it's worth risking our lives and the lives of others?!
+Cueball: *Is this social interaction good enough that it's worth risking our lives and the lives of others?!*
 
-Ponytail: I don't know!
+Ponytail: *I don't know!*
 
-Cueball: AAAAA!
+Cueball: *AAAAA!*
 
-Ponytail: AAAAAA!
+Ponytail: *AAAAAA!*
 
 [Cueball and Ponytail stand much farther apart.]
 
-Cueball: Healthy socializing was hard enough before the pandemic.
+Cueball: Healthy socializing was hard enough *before* the pandemic.
 
 Ponytail: Let's just try again in 2021.

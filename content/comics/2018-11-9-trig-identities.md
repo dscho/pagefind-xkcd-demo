@@ -26,15 +26,15 @@ cin θ = b/s
 
 cas θ = o/c
 
-tab θ = b²/n a
+tab θ = b²/n​a
 
-bot θ = a/c → boat θ = a²/c → stoat θ = a²/c · s t/b
+bot θ = a/c → boat θ = a²/c → stoat θ = a²/c · s​t/b
 
 tan θ ( = b/a = b/a · c/c = b/c · c/a = sin θ sec θ ) = insect θ²
 
-(tan θ)² = b²/a² ( → t²n²a⁴ = b²/θ² → a t²b a(n a)² = b³/θ²
+(tan θ)² = b²/a² ( → t²n²a⁴ = b²/θ² → a​t²b​a(n​a)² = b³/θ²
 
-from physics: distance = 1/2 a t² → ) distance2banana = b³/θ²
+from physics: distance = 1/2 a​t² → ) distance2banana = b³/θ²
 
 [Caption below the frame:]
 

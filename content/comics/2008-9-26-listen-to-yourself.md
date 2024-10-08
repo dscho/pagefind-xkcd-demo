@@ -6,33 +6,30 @@ alt: >-
   Man, I just wanted to know how babby was formed.
 img: https://imgs.xkcd.com/comics/listen_to_yourself.png
 ---
-[[Man in Hat approaches a girl tying at a computer]]
+[Black Hat approaches Danish typing at a computer.]
 
-Man in Hat: What are you writing?
+Black Hat: What are you writing?
 
-Girl: Virus.
+Danish: Virus.
 
-Man in Hat: What's it do?
+Black Hat: What's it do?
 
-Girl: When someone tries to post a YouTube comment, it first reads it aloud back to them.
+Danish: When someone tries to post a YouTube comment, it first reads it aloud back to them.
 
-Narrator: Soon everywhere:
+Soon, everywhere:
 
-[[A person is commenting on YouTube]]
+[Cueball is commenting on YouTube with a laptop.]
 
-<<type>><<type>><<type>>
+*type type type*
 
-[[Youtube comment is read back]]
+[Youtube comment is read back.]
 
-Commenter: ...I'm a moron.
+Cueball: ...I'm a moron.
 
-[[Commenter leaves desk]]
+[Cueball leaves desk and partially closes his laptop.]
 
-[[Commenter is seen sitting on steps, depressed]]
+[Cueball is seen sitting on steps, depressed.]
 
-[[Commenter has head in hands]]
+[Cueball puts his head in his hands.]
 
-Commenter: I...
-
-Commenter: I didn't know.
-
+Cueball: I... I didn't know.

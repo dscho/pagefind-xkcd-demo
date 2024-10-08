@@ -6,59 +6,44 @@ alt: >-
   Our brains have just one scale, and we resize our experiences to fit.
 img: https://imgs.xkcd.com/comics/connoisseur.png
 ---
-[[A man in a white hat is standing with another man. They each hold a wine glass in one hand, in the man in the hat is holding a bottle of wine in the other. He looks at the label.]]
+[White Hat is holding a wine glass down in one hand and holding a bottle of wine up in front of him with the other hand. He is looking at the label and talking with Cueball standing next to him with his own filled wine glass in one hand. He is looking down at the glass.]
 
-Hat man: How do you stand this cheap wine?
+White Hat: How do you stand this cheap wine?
 
-Man #2: Wine all tastes the same to me.
+Cueball: Wine all tastes the same to me.
 
-[[Close-up of Hat Man.]]
+[Close-up of White Hat.]
 
-Hat man: You've just never had 
+White Hat: You've just never had *good* wine. If you paid more attention, you'd realize there's a whole world here.
 
-good
+[Close-up on Cueball, who spreads his arms out, resulting in the wine in the glass sloshing so much that part of the wine is above the rim of the glass, some even hanging over the edge and a spray droplet hanging above the sloshing liquid.]
 
- wine. If you paid more attention, you'd realize there's a whole world here.
+Cueball: But that's true of *anything!* Wine, house music, fonts, ants, Wikipedia signatures, Canadian surrealist porn—
 
-[[Close-up on the other man, who spreads his arms, sloshing his wine slightly.]]
+Cueball: Spend enough time with any of them and you'll become a snobby connoisseur.
 
-Man #2: But that's true of 
+[This panel has no border (aka a 'frameless panel') and is next to but aligned further down than the first three panels. It shows a zoom out of both White Hat and Cueball again. White Hat now has both glass and bottle held down at his side. Cueball holds his glass down, but tilted away from him. A small puddle of wine is on the floor next to Cueball.]
 
-anything!
+White Hat: But some things do have more depth than others.
 
- Wine, house music, fonts, ants, Wikipedia signatures, Canadian surrealist porn- spend enough time with any of them and you'll become a snobby connoisseur.]]
+Cueball: If you locked people in a box for a year with 500 still frames of Joe Biden eating a sandwich, by the end they'd be adamant that some were great and some terrible.
 
-((This panel has no border and is next to but aligned further down than the first three panels.))
+White Hat: You're exaggerating.
 
-[[The full frame of the two characters again. Hat man now has the bottle at his side.]]
+Cueball: Oh, really?
 
-Hat man: But some things do have more depth than others.
+[This panel is below the feet of the two characters from the previous panel. It goes further to the left than those two, and is wider than the previous panels, but it does not go much past the middle, so there is a blank white space to the left of this panel, below the first and most of the second panel. It shows a box, with two star burst on the surface from where two voices emanate from the inside. Over the top left of the panels frame is a small frame with a caption:]
 
-Man #2: If you locked people in a box for a year with 500 still frames of Joe Biden eating a sandwich, by the end they'd be adamant that some were great and some were terrible.
+A year later:
 
-Hat man: You're exaggerating.
+[The voice from left side of the box:]
 
-Man #2: Oh yeah?
+Sure, most closed-mouth frames are boring, but in #415, the way the man's jaw frames the mayo on his hand is pure perfection, and—
 
-((This panel is below the others, and is indented about a third of the way to the right. It is wide.))
+[The voice from right side of the box:]
 
-A YEAR LATER
+What a surprise- *you* praising a mayo frame. Listening to **you**, I'd think there was nothing else in The Sandwich.
 
-[[A box. Voices emanate from inside.]]
+[The voice from right side of the box:]
 
-Voice #1: Sure, most closed-mouth frames are boring, but in #415, the way the man's jaw frames the mayo on his hand is pure perfection, and--
-
-Voice #2: What a surprise- 
-
-you
-
- praising a mayo frame. Listening to you, I'd think there was nothing else in The Sandwich. -- Frankly, the light hitting J.B.'s collar through the lettuce would put #242 in my top ten even if he had 
-
-no
-
- may on his hand at 
-
-all
-
-.
-
+Frankly, the light hitting J.B.'s collar through the lettuce would put #242 in my top ten even if he had *no* mayo on his hand at *all*.

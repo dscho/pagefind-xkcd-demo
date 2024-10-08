@@ -18,7 +18,7 @@ Cueball: Inject this directly into my veins
 
 Ponytail: Ok, but the vaccine is intramuscular...
 
-Hairy: Why do people keep saying that?
+Hairy: Why do people keep *saying* that?
 
 Cueball: Sorry, sorry.
 

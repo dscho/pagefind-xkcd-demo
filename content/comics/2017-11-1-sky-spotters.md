@@ -28,6 +28,6 @@ Ponytail: What else could we disguise our surveillance drones as?
 
 Cueball: Weather balloons?
 
-Ponytail: No, that gets the UFO people and the weather people.
+Ponytail: No, that gets the UFO people *and* the weather people.
 
 Ponytail: Don't know who's worse.

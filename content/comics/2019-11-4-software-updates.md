@@ -26,7 +26,7 @@ Start dot: First Install
 
 Second dot: An update finally breaks a feature I'm unwilling to lose
 
-End of black line: ???
+End of black line: ???
 
 Arrow label: The Abyss
 

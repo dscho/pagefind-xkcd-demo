@@ -6,9 +6,12 @@ alt: >-
   The invisible hand of the market never texts me back.
 img: https://imgs.xkcd.com/comics/arbitrage.png
 ---
-[[Two figures sit at a table. One of them is aghast while the other cheerfully shuttles chips from a bowl on the table to a giant sack of CHIPS.]]
+[Cueball and Hairy are sitting at a table with a bowl of chips in the middle. Hairy is taking chips from the bowl on the table with one hand, and his other hand is dropping chips into a large bag behind him. Cueball is double facepalming.]
 
-Chip thief: THEY'RE the ones giving chips away! If they don't see the arbitrage potential, sucks for them.
+Hairy: *They're* the ones giving chips away!
 
-Caption: In a deep sense, society functions only because we generaly avoid taking these people to dinner.
+Hairy: If they don't see the arbitrage potential, sucks for them.
 
+[On the bag is written: Chips.]
+
+In a deep sense, society functions only because we generally avoid taking these people out to dinner.

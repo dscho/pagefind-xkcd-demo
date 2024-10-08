@@ -6,17 +6,18 @@ alt: >-
   Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!
 img: https://imgs.xkcd.com/comics/metaball.png
 ---
-[[A character kicks a soccer ball at an upward angle]]
+[Megan runs towards a bouncing soccer football.]
 
-[[A soccer ball falls down towards a basketball hoop. A character reaches upwards to block it, while another character ineffectually waggles their arm.]]
+[Megan kicks the soccer football upwards.]
 
-Off-panel: OUT!
+[Cueball leaps towards the ball as it falls towards a basketball hoop. Hairbun also stretches her arm up.]
 
-[[Another panel]]
+Ponytail (offscreen):***Out!***
 
-Off-panel: What do MEAN, out?!
+[Ponytail walks toward them consulting a piece of paper divided in sections:]
 
-Referee: The ball clipped the corner of the baseball zone. Infield fly rule.
+[Megan (offscreen):] What do you *mean*, out?!
 
-Off-panel: Aw, maaan...
+Ponytail: The ball clipped the corner of the baseball zone. Infield fly rule.
 
+[Megan (offscreen):] Aw, *maaan*...

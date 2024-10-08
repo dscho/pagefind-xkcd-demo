@@ -12,15 +12,15 @@ Cueball: What's that?
 
 Megan: Flight plans. Looks like there will be 50 to 100 flights whose route puts them in the path of the eclipse next month.
 
-[A map with a shaded path of the eclipse and red planes traveling is shown, with nine planes inside the path and one inside the eclipse shadow..]
+[A map with a shaded path of the eclipse and red planes traveling is shown, with nine planes inside the path and one inside the eclipse shadow.]
 
 Cueball: I'm sure the airlines will be prepared. Pilots know that stuff.
 
-Megan: But can you imagine being on the one flight where the pilot didn't?
+Megan: But can you imagine being on the one flight where the pilot *didn't?*
 
-[A more detailed plane is shown flying into a curtain of darkness.]
+[In a more detailed scene, a Boeing 737 Next Generation airliner is shown flying over a landscape into a curtain of darkness.]
 
-Captain: *KSSCHHH* [sound of intercom being activated]
+Captain: \*KSSCHHH\* [sound of intercom being activated]
 
 Captain: This is your captain speaking. If you look out the right side of the plane, you'll see, uhh...
 

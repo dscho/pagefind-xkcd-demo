@@ -3,30 +3,29 @@ date: 2008-03-05
 title: "Making Rules"
 num: 392
 alt: >-
-  I never understood why someone would expect me to accept their rules right after they'd punched me.  I'm sure it's all very symbolic or something.
+  I never understood why someone would expect me to accept their rules right after they'd punched me. I'm sure it's all very symbolic or something.
 img: https://imgs.xkcd.com/comics/making_rules.png
 ---
-[[Two men are sitting. A yellow buggy passes by.]]
+[Two men are sitting. A yellow buggy passes by.]
 
-Man 1: Punch buggy yellow. No punch back!
+Man: Punch buggy yellow no punch back!
 
-Man 2: <<Punch>>
+[Man punches Cueball, Cueball punches the man back, with seemingly greater force, causing the man to fall of the bench they are sitting on.]
 
-Man 1: I said no punch back!
+Man: I said no punch back!
 
-Man 2: You can do that?
+Cueball: You can do that?
 
-Man 2: This changes _everything_.
+Cueball: Man, this changes <u>everything</u>.
 
 Soon...
 
-[[A blue buggy passes by.]]
+[A blue buggy passes by, and Cueball is holding Megan's hand.]
 
-Man 2: Sleep with your girlfriend buggy blue!
+Cueball: Sleep with your girlfriend buggy blue!
 
-Man 1: Hey!
+Man: Hey!
 
-Man 2: No complaining back!
+Cueball: No complaining back!
 
-Man 1: Aww...
-
+Man: Aww...

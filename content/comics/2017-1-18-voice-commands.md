@@ -12,11 +12,11 @@ Ponytail: Can you text it to me?
 
 Cueball: Sure!
 
-Cueball: Svat ussupd ;dlh a kdbk
+Cueball: *Svat ussupd ;dlh a kdbk*
 
 Ponytail: ...What?
 
-Phone: *Beep*
+Phone: *\*Beep\**
 
 [Caption under the panel:]
 

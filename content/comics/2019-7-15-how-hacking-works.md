@@ -18,7 +18,7 @@ Masked Character 3: The fool!
 
 [Caption below the panel:]
 
-How people think hacking works
+ How people think hacking works
 
 [Two Cueball-like characters, each sitting on opposite sides of a single desk with laptops in front of them]
 
@@ -28,4 +28,4 @@ Cueball 2: Cool, let's try them all on Venmo.
 
 [Caption below the panel:]
 
-How it actually works
+ How it actually works

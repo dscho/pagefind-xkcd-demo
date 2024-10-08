@@ -8,18 +8,18 @@ img: https://imgs.xkcd.com/comics/linux_user_at_best_buy.png
 ---
 Salesman: Interested in updating your antivirus software?
 
-Customer: Oh, I wouldn't need any of that.
+Cueball: Oh, I wouldn't need any of that.
 
-{{In a spiky speech bubble}}
+[In a spiky speech bubble.]
 
-I RUN LINUX.
+Cueball: I run Linux.
 
-<<Flip>>
+[Cueball does a backflip onto a motorcycle.]
 
-{{Customer does a backflip onto a motorcycle}}
+*Flip*
 
-{{Customer performs a wheelie on the motorcycle}}
+[Cueball performs a wheelie on the motorcycle.]
 
-{{Customer does a hard, donut turn on the motorcycle, kicking up dirt into the salesman's face}}
+[Cueball does a hard, donut turn on the motorcycle, kicking up dirt into the salesman's face.]
 
-{{Customer speeds off on the motorcycle, leaving the salesman in a cloud of black exhaust}}
+[Cueball speeds off on the motorcycle, leaving the salesman in a cloud of black exhaust.]

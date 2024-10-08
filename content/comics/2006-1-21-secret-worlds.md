@@ -6,9 +6,7 @@ alt: >-
   No two adjacent circles are the same color.
 img: https://imgs.xkcd.com/comics/secret_worlds.jpg
 ---
-[[Pieces of a quote in circles with lines drawn in between them]]
-
-[[Some of the circles are small and colored]]
+[A multitude of circles connected with several lines. Most of them are rather small and colored red, yellow, green and blue. Nine of them are white, six of these are larger than all the other circles, but one is the same size as the largest colored (green) circle, and the two smallest are smaller than a few of the colored circles. Pieces of text are written in all the white circles. Although it can be confusing at first, the reading order is still the normal one: left to right and top to bottom. Reading the circles in that order gives the following text:]
 
 "Everybody has a secret world inside of them.
 

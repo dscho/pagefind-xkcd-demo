@@ -10,9 +10,9 @@ My Hobby:
 
 Embedding NP-Complete problems in restaurant orders
 
-[[A menu is shown]]
+[A menu is shown.]
 
-Chotchkies Retaurant
+**Chotchkies Restaurant**
 
 Appetizers
 
@@ -28,15 +28,18 @@ Mozzarella Sticks 4.20
 
 Sampler Plate 5.80
 
-[[Three people sit at a table. One man at the table is ordering from a waiter]]
+Sandwiches
 
-Man at table: We'd like exactly $15.05 worth of appetizers, please.
+Barbecue 6.55
 
-Waiter: ... Exactly? Uhh ...
+[Megan, another person, and Cueball are sitting at a table. Cueball is holding the menu as well as a thick book and is ordering from a waiter. Megan is facepalming.]
 
-Man at table: Here, these papers on the knapsack problem might help you out.
+Cueball: We'd like exactly $15.05 worth of appetizers, please.
 
-Waiter: Listen, I have six other tables to get to - 
+Waiter: ...Exactly? Uhh...
 
-Man at table: - As fast as possible, of course. Want something on traveling salesman?
+Cueball: Here, these papers on the knapsack problem might help you out.
 
+Waiter: Listen, I have six other tables to get to—
+
+Cueball: —As fast as possible, of course. Want something on traveling salesman?

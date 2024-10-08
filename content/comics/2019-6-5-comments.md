@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/comments.png
 ---
 [Single panel comic depicting a screenshot of an Internet article, showing the article title, lines of wavy characters representing the article text, and several comments from readers of the article with their profile pictures.]
 
-Backlash: Internet users are outraged over news stories using a handful of random comments to support arbitrary narratives!
+Backlash: Internet users are *outraged* over news stories using a handful of random comments to support arbitrary narratives!
 
 [Close-up of Megan:]
 
@@ -16,7 +16,7 @@ I can't believe how easy it is to create an impression of peer consensus.
 
 [Close-up of Hairy:]
 
-This dynamic is so easily manipulated and it freaks me out. xkcd.com/1019
+This dynamic is so easily manipulated and it freaks me out. <u>xkcd.com/1019</u>
 
 [Full picture of Hairbun:]
 

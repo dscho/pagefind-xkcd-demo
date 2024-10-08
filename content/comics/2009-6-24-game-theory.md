@@ -6,15 +6,16 @@ alt: >-
   Wait, no, that one also loses. How about a nice game of chess?
 img: https://imgs.xkcd.com/comics/game_theory.png
 ---
-[[A man is sitting at a computer.  The text appearing is implied to be what he sees on the screen.]]
+[Cueball is sitting at a desk in an office chair typing on his computer. The text appearing above him is implied to be what is displayed on the screen.]
 
 A.I. Loaded
 
 >>> Analyze love
 
-[[An hourglass appears over the computer.]]
+[An hourglass appears over the computer as Cueball sits back and wait.]
 
-[[The hourglass continues to display.]]
+[The hourglass continues to display as Cueball shifts in his chair.]
+
+[A zigzag line from the computer indicates the final reply from the computer to the query.]
 
 Computer: A strange game. The only winning move is not to play.
-

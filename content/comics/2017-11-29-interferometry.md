@@ -20,10 +20,10 @@ Line: d
 
 Cueball: I'm not sure that's-
 
-Beret Guy: Hyah!
+Beret Guy: ***Hyah!***
 
 [As Cueball watches, Beret Guy floats on top of the invisible giant dog about a meter above the two small dogs, and then rides away with the two small dogs still seen below as they run to the right, leaving Cueball standing in the dust the "big" dog creates in its wake. The invisible giant dog barks from a position just in front of Beret Guy's face, far above the two small dogs.]
 
-Invisible giant dog: WOOF
+Invisible giant dog:  <big>***WOOF***</big>
 
-Beret Guy: Away!
+Beret Guy: *Away!*

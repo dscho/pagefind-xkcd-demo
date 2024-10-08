@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/chernobyl.png
 ---
 [Ponytail and White Hat facing each other.]
 
-Ponytail: Did you like Chernobyl?
+Ponytail: Did you like *Chernobyl*?
 
 White Hat: Yeah!
 
@@ -16,11 +16,11 @@ White Hat: But I still don't understand the meltdown. Can you explain it...simpl
 
 [Zoom in to closeup of Ponytail holding one hand out with palm up, with White Hat off-panel to the right.]
 
-Ponytail: Well, the graphite–
+Ponytail: Well, the graphite&ndash;
 
 White Hat (off-panel): Already too complicated.
 
-Ponytail: Uh...they put the reactor in an unstable–
+Ponytail: Uh...they put the reactor in an unstable&ndash;
 
 White Hat (off-panel): Nope, sorry.
 
@@ -34,8 +34,8 @@ White Hat: Ok...
 
 [Full view of Ponytail and White Hat, who has both hands held straight out to both sides.]
 
-Ponytail: 30 years ago, we banged some rocks together too hard.
+Ponytail: 30 years ago, we banged some rocks together ***too*** hard.
 
 White Hat: Oh no!
 
-Ponytail: Yeah, we messed up real bad.
+Ponytail: Yeah, we messed up ***real*** bad.

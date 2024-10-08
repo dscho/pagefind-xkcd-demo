@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/santa_facts.png
 ---
 [An annotated picture of Santa is shown.]
 
-Santa
+**Santa**
 
 Facts and Figures
 

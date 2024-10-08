@@ -6,55 +6,73 @@ alt: >-
   'Sailor Moon's head exploded once' and 'Some men have explosive orgasms' both work for the Great Lakes from west to east (Paddle-to-the-Sea order).
 img: https://imgs.xkcd.com/comics/mnemonics.png
 ---
-XKCD Presents: Some New Science Mnemonics
+XKCD Presents:
 
-((Pattern goes: 
+**Some New Science Mnemonics**
 
-Subject
+[Pattern of each given situation goes:
 
-Elements
+\*[Within panel frame]
 
-Traditional mnemonic
+\*\**Subject*
 
-Contents of frame
+\*\**Elements*
 
-New mnemonics))
+\*\**Traditional mnemonic(s)*
 
-Order of Operations
+\*\**Illustrated contents of frame*
+
+\*[Below panel frame]
+
+\*\**New mnemonic(s)*
+
+...there are three rows with two situations in each, unequally sized as required for respective widths of contents.]
+
+**Order of Operations**
 
 Parentheses, Exponents, Division & Multiplication, Addition & Subtraction
 
 Traditional: Please Excuse My Dear Aunt Sally
 
-[[Person having a shark delivered to his laptop]]
+[Cueball, pointing at his laptop, with Ponytail carrying a shark.]
 
-Please Email My Dad A Shark  
+Please Email My Dad A Shark
 
 or
 
 People Expect More Drugs And Sex
 
-SI Prefixes
+**SI Prefixes**
 
-Big: Kilo, Mega, Giga, Tera, Peta, Exa, Zetta, Yotta
+[In this section, the final words (and preceding comma) are given in a roughly halftone gray for the two given lists of terms and each respective mnemonic.]
 
-Milli, Micro, Nano, Pico, Femto, Atto, Zepto, Yocto
+Big: Kilo, Mega, Giga, Tera, Peta, Exa, Zetta[Halftone:], Yotta
 
-[[Graph of the declining profits of the Zune]]
+Milli, Micro, Nano, Pico, Femto, Atto, Zepto[Halftone:], Yocto
 
-[[Karl Marx delivering a number of zeppelins to a bunch of confused proletariats]]
+Traditional: [Text in square-brackets:] I never learned one.
 
-Big: Karl Marx Gave The Proletariat Eleven Zeppelins, Yo
+[Graph of the declining profits of the Zune.]
 
-Small: Microsoft Made No Profit From Anyone's Zunes, Yo
+[Karl Marx delivering a number of zeppelins to a bunch of confused proletarians.]
 
-Taxonomy
+[Proletarians (off-screen):] Er. What do we do with them?
+
+[Karl Marx:] Rise!
+
+Big: Karl Marx Gave The Proletariat Eleven Zeppelins[Halftone:], Yo.
+
+Small: Microsoft Made No Profit From Anyone's Zunes[Halftone:], Yo.
+
+**Taxonomy**
 
 Kingdom, Phylum, Class, Order, Family, Genus, Species
 
 Traditional: King Philip Came Over For Good Sex
 
-Katy Perry: I'm not sure who doubts this, really.
+[Katy Perry standing.]
+
+[Katy Perry:] I'm not sure who doubts this, really.
 
 Katy Perry Claims Orgasms Feel Good Sometimes
 
@@ -62,39 +80,38 @@ or
 
 Kernel Panics Crash Our Family Game System.
 
-Geologic Periods
+**Geologic Periods**
 
 (Precambrian), Cambrian, Ordovician, Silurian, Devonian, Carboniferous, Permian, Triassic, Jurassic, Cretaceous, Paleogene, Neogene
 
-Traditional: [I never learned one]
+Traditional: [Text in square-brackets:] I never learned one.
 
-[[A month's set of birth control pills]]
+[A month's set of birth control pills.]
 
-PolyCystic Ovarian Syndrome Does Cause Problems That Judicious Contraceptives Partially Negate
+PolyCystic Ovarian Syndrome Does Cause Problems That Judicious Contraceptves [sic] Partially Negate
 
-Resistor Color Codes
+**Resistor Color Codes**
 
-Black, Brown, Red, Orange, Yellow, Green, Blue, Violet, Gray, White
+Black Brown, Red, Orange, Yellow, Green, Blue, Violet, Gray, White
 
-Traditional: [none I care for]
+Traditional: [Text in square-brackets:] none I care for
 
-[[Glenn Beck holding the traditional "Nanobot Vaccine Chemtrail 9
+[Glenn Beck holding the traditional "Nanobot Vaccine Chemtrail 9/11" sign.]
 
-11" sign]]
-
-"Big Brother Reptilian Overlords", yelled Glenn, "Brainwashing Via Ground water!!"
+"Big Brother Reptilian Overlords", yelled Glenn, "Brainwashing Via Ground water!!";
 
 or
 
 Be Bold, Respect Others; You'll Gradually Become Versatile, Great Wikipedians!
 
-Planets
+**Planets**
 
 Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
 
 Traditional: My Very Excellent Mother Just Served Us Nachos
 
-[[A pregnant Mary attempting to explain things to an incredulous Joseph]]
+[A pregnant Mary attempting to explain things to an incredulous Joseph with black hair and full beard]
+
+[Joseph:] Uh huh.
 
 Mary's "Virgin" Explanation Made Joseph Suspect Upstairs Neighbor.
-

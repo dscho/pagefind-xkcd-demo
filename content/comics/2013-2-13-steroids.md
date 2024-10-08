@@ -6,17 +6,26 @@ alt: >-
   A human is a system for converting dust billions of years ago into dust billions of years from now via a roundabout process which involves checking email a lot.
 img: https://imgs.xkcd.com/comics/steroids.png
 ---
-[[An indescribable being of energy and a person are walking along]]
+[Megan is walking while an energy sphere (Sphere) floats behind her and talks to her. The sphere is black but surrounded by six outwardly-curved segments that are shaded gray. The white parts in between makes it look like it irradiates light out along these lines.]
 
-Being: Explain to me this "steroid scandal"
+Sphere: *Explain to me this "steroid scandal."*
 
-Person: Well, uh... We humans are made of chemical which stay alive by finding other chemicals and putting them inside us
+[Zoom in on Megan's face while she holds a hand to her chin.]
 
-Person: We hold contests to see which humans are fastest and strongest. But some humans eat chemicals that make them *too* fast and strong.
+Megan: Well, uh...
 
-Person: And they win contests!
+Megan: We humans are sacks of chemicals which stay alive by finding other chemicals and putting them inside us.
 
-Being: That does sound bad.
+[Megan has turned around facing towards the Sphere to the left. She holds up one hand palm up.]
 
-Person: It's awful!
+Megan: We hold contests to see which humans are fastest and strongest.
 
+Megan: But some humans eat chemicals that make them *too* fast and strong.
+
+[Megan still facing the Sphere holds her arms out.]
+
+Megan: And they **win contests!**
+
+Sphere: *That does sound bad.*
+
+Megan: It's *awful!*

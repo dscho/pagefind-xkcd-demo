@@ -6,31 +6,42 @@ alt: >-
   If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.
 img: https://imgs.xkcd.com/comics/worrying.png
 ---
-((There's a 2D chart.))
+**How worried should you be when various things happen to you:**
 
-((The vertical axis reads:))
+[A chart with a scatter plot on which 9 dots are labeled. Each axis has a title and a scale. Reading from the top to the bottom and then left to right along the axis are:]
 
-not very worried <-- ... in real life --> very worried
+Very worried
 
-((The chart itself includes the following items:))
+**...In Real Life**
 
-           <---------------- Chest wound -------------->
+Not very worried
 
-          * ... on your right side                      * ... on your left side
+Not very worried
 
- * Getting knocked out by a punch
+**...In Movies**
 
-                                           * "We need to talk."
+Very worried
 
-                                                                 * Persistent cough
+[The labels in the chart from the top:]
 
- * Parking ticket
+[This first entry is standing in the middle of a square bracket that points to the two next entires both of which are at the same level:]
 
-                                                    * Breaking news
+Chest wound
 
-   * Spilling a drink on your shirt                                  * Nosebleed
+...on your right side
 
-((The horizontal axis reads:))
+...on your left side
 
-not very worried <-- ... in movies                        --> very worried
+Getting knocked out by a punch
 
+"We need to talk."
+
+Persistent cough
+
+Parking ticket
+
+Breaking news
+
+Spilling a drink on your shirt
+
+Nosebleed

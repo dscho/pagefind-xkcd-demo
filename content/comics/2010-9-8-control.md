@@ -6,11 +6,20 @@ alt: >-
   Which, at one point, led to a study showing that LSD produces no more hallucinations than a placebo.
 img: https://imgs.xkcd.com/comics/control.png
 ---
-A man looks down at his arm calmly, while next to him a woman is violently flailing around in terror. In the foreground, two scientists, one holding a clipboard, look on in puzzlement.
+[Caption above the frame:]
 
-Man: My rash seems to have shrunk by about 20% today.
+My Hobby:
 
-Woman: OH GOD SPIDERS
+[Cueball looks down at his arm calmly, while next to him Megan is violently flailing around in terror. In the foreground a Cueball-like guy stands next to Ponytail who is holding a clipboard. They look on in puzzlement.]
 
-Scientists: ???
+Cueball: My rash seems to have shrunk by about 20% today.
 
+Megan: OH GOD SPIDERS
+
+Cueball-like guy: ? ?
+
+Ponytail: ?
+
+[Caption below the frame:]
+
+Sneaking into experiments and giving LSD to the control group.

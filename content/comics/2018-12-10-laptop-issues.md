@@ -8,11 +8,11 @@ img: https://imgs.xkcd.com/comics/laptop_issues.png
 ---
 [Cueball, carrying a laptop, is walking past a sign with a right-pointing arrow reading "Tech Support".]
 
-Off panel voice #1: Oh no.
+Off panel voice #1: *Oh no.*
 
-Off panel voice #2: What?
+Off panel voice #2: *What?*
 
-Off panel voice #1: This guy. He has the worst tech problems.
+Off panel voice #1: *This guy.  He has the worst tech problems.*
 
 [Cueball standing at a tech support desk with an open laptop facing Hairy and Ponytail on the other side of the desk.]
 
@@ -20,13 +20,13 @@ Cueball: My laptop's battery won't hold a charge.
 
 Hairy: We can replace it.
 
-Cueball: Tried that. Now the new ones won't either.
+Cueball: Tried that.  Now the new ones won't either.
 
 [Close-up of Cueball gesturing with left hand]
 
-Cueball: Also, random files get corrupted on the first day of every month. Factory reset didn't help.
+Cueball: Also, random files get corrupted on the first day of every month.  Factory reset didn't help.
 
-Off panel voice: You weren't kidding.
+Off panel voice: *You weren't kidding.*
 
 [Close-up of Cueball with right hand on chin, gesturing with left hand]
 

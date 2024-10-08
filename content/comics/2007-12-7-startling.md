@@ -6,10 +6,12 @@ alt: >-
   We actually reached the future about three years ago.
 img: https://imgs.xkcd.com/comics/startling.png
 ---
-[[Guy in front of his computer.]]
+[Cueball sits silently in front of his computer.]
 
-Narration: I still do this every few months.
+[Text block:]
 
-Guy: Holy crap, it's the 21st century.
+I <u>still</u> do this every few months.
 
-{{We actually reached the future about three years ago.}}
+[He continues to sit for two more panels.]
+
+Cueball: Holy crap, it's the 21st century.

@@ -6,25 +6,34 @@ alt: >-
   Ingress: Foursquare With Space Noises.
 img: https://imgs.xkcd.com/comics/location.png
 ---
-[[A man is sitting at a desk typing at his computer while a man and a woman look over his shoulder.]]
+[Three people around a computer. One of them is typing.]
 
-Man: (typing) Hey, party tonight? We'd all love to come see your new place!
+Typing: Hey, party tonight?
 
-PC Screen: Wait, what?
+Typing: We'd all love to come see your new place!
 
-[[The other side of the conversation: a guy typing on a laptop at a table.]]
+Reply (through monitor): Wait, what?
 
-Laptop Screen: We want to hang out!
+[Cut to guy sitting at a laptop.]
 
-Guy: (typing) We're not, like, good friends.
+Reply (through the guy's monitor): We want to hang out!
 
-Laptop Screen: I know, but we were thinking about it and we really like you! 
+Guy typing: We're not, like, good friends.
 
-[[The three people again. The man behind the man in the chair is clasping his hands in anticipation.]]
+Reply (through the guy's monitor): I know, but we were thinking about it and we really like you!
 
-Man: (typing) You should have us over tonight! For, like, an hour. It'll be fun!
+[Cut back to the three friends.]
 
-PC Screen: Well, uh, sure. 
+Typing: You should have us over tonight!
 
-[[A black panel with white outlines and letters. A view of the guy's house from above. Four green explosions are seen in the house's yard.]]
+Typing: For, like, an hour.
 
+Typing: It'll be fun!
+
+Reply (through monitor): Well, uh, sure.
+
+[Cut to color-inverted image of the guy's house. Four Enlightened-controlled Ingress portals are in the guy's back yard.]
+
+Friends (off-screen): *YESSSS!*
+
+Guy (from inside his house): I still don't get why you're suddenly so excited to hang out.

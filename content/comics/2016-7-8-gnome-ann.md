@@ -3,10 +3,10 @@ date: 2016-07-08
 title: "Gnome Ann"
 num: 1704
 alt: >-
-  President Andrew Johnson once said, "If I am to be shot at, I want Gnome Ann to be in the way of the bullet."
+  President Andrew Johnson once said, "If I am to be shot at, I want Gnome Ann to be in the way of the bullet.".
 img: https://imgs.xkcd.com/comics/gnome_ann.png
 ---
-The Legend of Gnome Ann
+The <big>Legend</big> of <big>Gnome Ann</big>
 
 [At the beach, between a clock hanging in the air, showing 10 past 10 and the shoreline, Gnome Ann, a woman with curly hair and a black triangular hat, stands with her arms outstretched towards the clock and the sea. For each of the first five panels a text is written within a frame above the drawings.]
 
@@ -16,19 +16,19 @@ Time and tide wait for Gnome Ann.
 
 The wicked flee when Gnome Ann pursueth.
 
--Proverbs 28:1
+-<small>Proverbs 28:1</small>
 
 [Gnome Ann takes the groom's place in a wedding, shoving him to the side. The groom, Hairy with a bow tie, falls while throwing his arms out. The bride stands to the left, in full wedding dress, showing no reaction.]
 
 What therefore God hath joined together, let Gnome Ann put asunder.
 
--Mark 10:9
+-<small>Mark 10:9</small>
 
 [Gnome Ann sits in a yoga position meditating on a big rock in a desolate area with small rocks on the ground around the big rock.]
 
 Time ripens all things; Gnome Ann is born wise.
 
--Miguel De Cervantes
+-<small>Miguel De Cervantes</small>
 
 [The starship Enterprise from Star Trek is seen from behind as it flies to the right, chasing a smaller craft. In this panel the frame with text is shown to emanate from Enterprise with a zig zag arrow pointing to the starship.]
 
@@ -38,4 +38,4 @@ Enterprise: Our Mission: To boldly go where Gnome Ann has gone before.
 
 Witch-king: Fool! No man can kill me.
 
-Gnome Ann: I Am Gnome Ann!
+Gnome Ann: ***I Am Gnome Ann!***

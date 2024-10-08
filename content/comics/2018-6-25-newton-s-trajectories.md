@@ -14,7 +14,7 @@ Humans slip the bonds of Earth to travel the stars
 
 [Trajectory 2 (in red) shows a ballistic arc that crashes into the sphere near the bottom.]
 
-Civilization ends in fire
+<span style="color:#b42e10">Civilization ends in fire</span>
 
 [Trajectory 3 (in red) shows a much shorter ballistic arc. No label.]
 

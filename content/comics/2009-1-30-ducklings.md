@@ -6,29 +6,24 @@ alt: >-
   DUCKLOOP'D?
 img: https://imgs.xkcd.com/comics/ducklings.png
 ---
-(Ducklings follow mother duck in procession)
+[A mother duck and her six ducklings.]
 
-Chick: Ready?
+[Cueball is in front of the line of ducks, and Megan is behind.]
 
-Dude: Ready.
+Megan: Ready?
 
-(Dude and chick regard duck procession.)
+Cueball: Ready.
 
-(Diagram of duck procession showing linear west-to-east motion)
+[The duck and ducklings move.]
 
-Dude: (on right side of duck procession) Roar! Boo!
+Cueball: ROAR! BOO!
 
-(Mother duck is alarmed.)
+[The mother duck is frightened, and turns back. Her six children follow.]
 
-(Mother duck proceeds south, then west. Ducklings follow.)
+[Megan snatches the mother duck with a yoink.]
 
-(Chick seizes mother duck, lifts upwards.)
+Duck: QUACK!
 
-Yoink!
+[The six ducklings are now trapped in a circle of sorts.]
 
-Mother duck: Quack
-
-(First ducking begins to follow final duckling, such that ducklings form a loop, rotating clockwise.)
-
-Operation: Duckling Loop
-
+OPERATION: DUCKLING LOOP

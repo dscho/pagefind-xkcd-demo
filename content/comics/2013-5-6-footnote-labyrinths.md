@@ -6,19 +6,18 @@ alt: >-
   Every time you read this mouseover, toggle between interpreting nested footnotes as footnotes on footnotes and interpreting them as exponents (minus one, modulo 6, plus 1).
 img: https://imgs.xkcd.com/comics/footnote_labyrinths.png
 ---
-... experiments to observe this and we found no[1[2]] evidence for it in our data.
+[Excerpt from what appears to be an academic paper with footnotes.]
 
-1: Ignore this
+experiments to observe this and we found no<sup>1<sup>2</sup></sup> evidence for it in our data.
 
-2: Increment by 2 before following
+<sup>1</sup>Ignore this
 
-3: Not true[3[2]]
+<sup>2</sup>Increment by 2 before following
 
-4: Ibid.
+<sup>3</sup>Not true<sup>3<sup>2</sup></sup>
 
-5: True[2[6[3]]]
+<sup>4</sup>Ibid.
 
-6: Actually a 1[2[2]]
+<sup>5</sup>True<sup>2<sup>6<sup>3</sup></sup></sup>
 
-My Hobby: Footnote Labyrinths
-
+<sup>6</sup>Actually a 1<sup>2<sup>2</sup></sup>

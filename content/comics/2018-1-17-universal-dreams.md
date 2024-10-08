@@ -3,7 +3,7 @@ date: 2018-01-17
 title: "Universal Dreams"
 num: 1943
 alt: >-
-  "That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..." 
+  "That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..."
 img: https://imgs.xkcd.com/comics/universal_dreams.png
 ---
 [Megan, Ponytail, and Black Hat are standing around.]

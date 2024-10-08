@@ -8,9 +8,9 @@ img: https://imgs.xkcd.com/comics/negative_results.png
 ---
 [Cueball is sitting in an office chair at a desk typing on a laptop computer. The following message is displayed above him:]
 
-Dear Nature Magazine,
+Dear *Nature* Magazine,
 
-I found no evidence sufficient to reject the null hypothesis in any research areas because I spent the whole week playing The Legend of Zelda: Breath of the Wild.
+I found no evidence sufficient to reject the null hypothesis in any research areas because I spent the whole week playing *The Legend of Zelda: Breath of the Wild*.
 
 I'll send you another update next week!
 

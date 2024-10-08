@@ -6,11 +6,10 @@ alt: >-
   "I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on Venus and returning him safely to--" [an aide frantically whispers in the president's ear for a moment] "... of landing a man on Venus."
 img: https://imgs.xkcd.com/comics/on_the_moon.png
 ---
-[[Two people are walking along together.]]
+[Cueball and Megan are walking together heading right.]
 
-Person 1: If we could land a man on the moon, why can't we -
+Cueball: If we could land a man on the Moon, why can't we-
 
-Person 2: - land a man on the moon?
+Megan: -land a man on the Moon?
 
-Person 1: ...ok, fair. But we're working on it, ok? 
-
+Cueball: ...ok, fair. But we're working on it, OK?

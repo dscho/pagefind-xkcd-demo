@@ -6,21 +6,20 @@ alt: >-
   I really shouldn't abuse that power so heavily.
 img: https://imgs.xkcd.com/comics/join_myspace.png
 ---
-[[Guy with black hat is talking to another guy]]
+[Cueball is talking to Black Hat.]
 
-Guy: Dude, you should get on MySpace.
+Cueball: Dude, you should get on MySpace.
 
 Black Hat: Eh, I don't think so.
 
-Guy: C'mon. There's no real reason not to except snobbiness. It's the new social scene.
+Cueball: C'mon. There's no real reason not to except snobbiness. It's the new social scene.
 
 Black Hat: I know. I'm just not interested.
 
-Guy: Please? I'll friend you.
+Cueball: Please? I'll friend you.
 
 Black Hat: Carebearstare.
 
-Guy: What?
+Cueball: What?
 
-[[Black Hat shoots a rainbow colored ray from his chest - the Care Bear Stare. It throws Guy to the edge of the panel, pinned to the wall.]]
-
+[Black Hat shoots a rainbow colored ray from his chest - the Care Bear Stare. It throws Cueball to the edge of the panel, pinned to the wall.]

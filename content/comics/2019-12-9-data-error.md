@@ -26,8 +26,8 @@ Black Hat: 1) Redo your analysis and share whatever results you can, whether pos
 
 Black Hat: 2) Destroy the evidence. Use your materials and research methods to build a superweapon. Conquer Earth and rule with an iron fist.
 
-Megan: Tremble before my anomalously productive algae!
+Megan: ***Tremble before my anomalously productive algae!***
 
 Megan: Except the anomaly was an artifact.
 
-Megan: Tremble before my normal algae!
+Megan: ***Tremble before my normal algae!***

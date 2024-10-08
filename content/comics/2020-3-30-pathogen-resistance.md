@@ -20,13 +20,13 @@ Bacteriophage (narrating): It's the worst.
 
 Bacteriophage (narrating): It's the scariest thing in the universe.
 
-Macrophage: Who wants a Huuggg
+Macrophage: *Who wants a Huuggg*
 
-Antibody-covered protozoon: Nooo!
+Antibody-covered protozoon: *Nooo!*
 
 [Close-up on bacteriophage]
 
-Bacteriophage: We can only survive by staying ahead of it. Keep jumping from person to person, keep mutating and evolving.
+Bacteriophage: We can only survive by staying ahead of it.  Keep jumping from person to person, keep mutating and evolving.
 
 Bacteriophage: But now humans are adapting too fast.
 
@@ -50,15 +50,15 @@ Bacteriophage (off-panel left): It was great. We were tearing through lungs, spr
 
 Voice (off-panel right): Hooray!
 
-Voice 2 (off-panel right): I hate lungs.
+Voice 2 (off-panel right): I *hate* lungs.
 
 [Close-up of bacteriophage "head".]
 
-Bacteriophage: Then, all of a sudden, humans everywhere just...stopped. They stopped working, stopped seeing friends.
+Bacteriophage: Then, all of a sudden, humans everywhere just...*stopped*. They stopped working, stopped seeing friends.
 
 [Megan is sitting on a couch with a remote control in her hand, watching a flat screen TV. Cueball is at a sink with a mirror, washing his hands under hot water indicated by heat lines coming up from his hands. They are facing away from each other. Again speech is come from off-panel left and right with speech lines]
 
-Voice (off-panel left): What are they doing?
+Voice (off-panel left): What are they *doing*?
 
 Bacteriophage (off-panel right): Nothing!
 
@@ -76,7 +76,7 @@ Bacteriophage (narrating): We can't escape.
 
 Bacteriophage (narrating): We're trapped in there with those ghastly immune systems.
 
-Antibodies: It's huug tiiiiime
+Antibodies: *It's huug tiiiiime*
 
 Macrophage top left: Come here for a huuug
 
@@ -86,9 +86,9 @@ Macrophage bottom left: Huuuuugs
 
 Bacteriophage (narrating): Even if we win a fight, there's nowhere to go.
 
-Macrophage a the top: Huuuuuuuggss
+Macrophage a the top: *Huuuuuuuggss*
 
-Macrophage at the bottom: Huuugs
+Macrophage at the bottom: *Huuugs*
 
 Bacteriophage (narrating): By staying inside, humans have become resistant.
 
@@ -98,7 +98,7 @@ Coccus bacteria: How could they evolve that fast? Humans take decades to reprodu
 
 Bacteriophage: It's not evolution. It's something with their brains.
 
-Protozoon: I wondered what those were for!
+Protozoon: I *wondered* what those were for!
 
 [Bacteriophage pointing with a leg to Cueball and Megan who are looking at their phones; Megan and Cueball are then walking to the right; Megan and Cueball are shown at separate sinks with mirrors washing their hands.]
 
@@ -112,7 +112,7 @@ Bacteriophage: Then, around the world, they all went home and started washing th
 
 Bacteriophage: They saw what we were doing and changed their behavior to stop us.
 
-Protozoon: Brains are the worst.
+Protozoon: Brains are the ***worst***.
 
 [Coccus, bacteriophage and protozoon with eye.]
 
@@ -126,4 +126,4 @@ Bacteriophage: I don't know. They seem determined to protect each other.
 
 Bacteriophage: And
 
-Bacteriophage: They have a lot of pasta.
+Bacteriophage: They have a ***lot*** of pasta.

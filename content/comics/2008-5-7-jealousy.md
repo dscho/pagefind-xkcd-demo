@@ -6,7 +6,7 @@ alt: >-
   Oh, huh, so you didn't know that story?
 img: https://imgs.xkcd.com/comics/jealousy.png
 ---
-[[Dark scene shown, with man and girl sitting in the moonlight let in by the only window.]]
+[Dark scene shown, with Cueball and Megan sitting in the moonlight let in by the only window.]
 
 Megan and I first met at a party at her sister's.
 
@@ -20,8 +20,6 @@ And now that you're married, you'll never experience it again.
 
 It's the price you pay for everlasting love. It's a small one, but I hope it stings a little.
 
-Anyway, I wish you and Megan the best. 
+Anyway, I wish you and Megan the best.
 
-...Hey, man, you ASKED me to do a toast.
-
-{{title text: Oh, huh, so you didn't know that story?]]
+...Hey, man, you <u>asked</u> me to do a toast.

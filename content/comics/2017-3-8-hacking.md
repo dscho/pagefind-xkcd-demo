@@ -12,7 +12,7 @@ Ponytail: You know how sometimes people put a space in their email address to ma
 
 Cueball: Yeah?
 
-Ponytail: They have a tool that can delete the space!
+Ponytail: *They have a tool that can delete the space!*
 
 Cueball: Oh my god.
 

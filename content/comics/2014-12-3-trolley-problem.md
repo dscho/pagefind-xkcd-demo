@@ -6,27 +6,18 @@ alt: >-
   For $5 I promise not to orchestrate this situation, and for $25 I promise not to take further advantage of this ability to create incentives.
 img: https://imgs.xkcd.com/comics/trolley_problem.png
 ---
-[[Stick Guy, holding a newspaper, walks up to Black Hat, who is sitting at a desk and facing the other way.]]
+Cueball: Ever heard of the trolley problem?
 
-SG: Ever heard of the trolley problem?
+Black hat: No. What is it?
 
-BH: No. What is it?
+Cueball: A trolley is barreling towards five helpless people on the tracks. You can pull a lever to direct it onto another track, but-
 
-[[Close up on Stick Guy.]]
+Black hat: Can I reach the lever without getting up?
 
-SG: A trolley is barreling towards five helpless people on the tracks. You can pull a lever to direct it onto another track, but-
+Cueball: Wait, I'm not-
 
-[[Black Hat turns his wheelie desk chair to face Stick Guy.]]
+Black hat: In this scenario, how busy am I?
 
-BH: Can I reach the lever without getting up?
+Cueball: I guess I forgot who I was talking to.
 
-SG: Wait, I'm not-
-
-BH: In this scenario, how busy am I?
-
-[[Stick Guy and Black Hat facing each other.]]
-
-SG: I guess I forgot who I was talking to. 
-
-BH: For a dollar, I'll promise to pull the lever if one of the five people is you. 
-
+Black hat: For a dollar, I'll promise to pull the lever if one of the five people is you.

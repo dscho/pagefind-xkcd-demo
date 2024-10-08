@@ -14,21 +14,21 @@ Cueball: What can you tell from genome comparison?
 
 Ponytail: I think there's a duplication on the -
 
-Ponytail: Look out!
+Ponytail: *Look out!*
 
 [An overlaid panel shows that the air is full of flying cicadas, many of which have landed on Cueball, Ponytail, the laptop, the tablet, and the desk. Ponytail and Cueball have their arms up in a futile attempt to shield themselves from the bugs, with Cueball having put the tablet down on the table.]
 
-Bzzzzzzz
+<big>***Bzzzzzzz***</big>
 
 [The cicadas are gone, and Cueball and Ponytail resume their conversation. Cueball has picked up the tablet again]
 
 Ponytail: - a duplication on the gene right before the cleavage site, so the resulting protein -
 
-Ponytail: Look out!
+Ponytail: *Look out!*
 
 [An overlaid panel shows that the air is again full of flying cicadas, which have once again landed on Cueball, Ponytail, the laptop, the tablet, and the desk. Ponytail and Cueball have raised their arms to shield themselves again.]
 
-Bzzzzzzz
+<big>***Bzzzzzzz***</big>
 
 [Caption below the large panel:]
 

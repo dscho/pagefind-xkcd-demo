@@ -6,12 +6,7 @@ alt: >-
   There's one person in Missouri who says "carbo bev" who the entire rest of the country HATES.
 img: https://imgs.xkcd.com/comics/carbonated_beverage_language_map.png
 ---
-
-
 [A map of the United States divided into purple, red, green, blue, and yellow colored regions.]
-
-
-
 
 [A purple area in North West Washington.]
 

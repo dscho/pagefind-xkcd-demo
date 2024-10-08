@@ -6,39 +6,40 @@ alt: >-
   The chemistry experiment had me figuratively -- and then shortly thereafter literally -- glued to my seat.
 img: https://imgs.xkcd.com/comics/literally.png
 ---
-[[A person is talking to a friend.]]
+[Cueball and a Cueball-like friend are walking left together. The friend turns his head towards Cueball who speaks, but is interrupted by voice from behind them off-panel right.]
 
-Person: I was literally glued to my seat through the entire--
+Cueball: I was literally glued to my seat through the entire-
 
-Off-Panel: HAH!
+Off-panel voice: *Hah!*
 
-Off-Panel: YOU MEAN "FIGURATIVELY"!
+Off-panel voice: *You mean "figuratively"!*
 
-[[The off-panel voice came from a scary guy with wild hair and a big beard.]]
+[A crazy man walks into the next frame-less panel. He has messy hair and a messy beard. Cueball and his friend stop walking and turns toward him.]
 
-Person: Who are you?
+Cueball: Who are you?
 
-Scary Guy: Eighteen years I've watched you!
+Crazy man: Eighteen years I've watched you!
 
-Scary Guy: Waiting!
+Crazy man: Waiting!
 
-Ever since that day in seventh grade when you humiliated me.
+[A flashback panel. Four kids are standing around talking to each other. To the left is a girl with a ponytail and in front of her is a kid looking like Cueball - this is the Crazy man as a kid. He speaks to two kids in front of him, the one looking like Cueball, is actually Cueball as a kid, and then another kid with short black hair is standing with him. Above this panels frame, which is not as high as the other panels, there is text narrated by the crazy man. He also narrates a line at the bottom of the panel where the flashback panels frame is cut of at the bottom right.]
 
-[[We see the scene from seventh grade. Younger, normal-looking scary guy is standing with a girl; the younger version of the person he's addressing is standing with a friend.]]
+Crazy man (narrating): Ever since that day in seventh grade when you humiliated me.
 
-Young Scary Guy: I told him and he literally EXPLODED!
+Crazy man as a kid: I told him and he literally *exploded!*
 
-Young Person: Uh, unless he physically BURST, you mean "figuratively."
+Cueball as a kid: Uh, unless he physically *burst*, you mean "figuratively".
 
-Friend: Hah.
+Kid with hair: Hah.
 
-Remember?
+Crazy man (narrating): Remember?
 
-Scary Guy: I knew one day you'd slip, and I vowed I'd be there to see you fall. HOW DOES IT FEEL?
+[Cueball and his friend has moved back away from the crazy man to get some more distance between him and themselves.]
 
-Person: You are literally the craziest person I've ever met.
+Crazy man: I knew one day you'd slip, and I vowed I'd be there to see you fall. *How does it feel?*
 
-Scary Guy: You did it again!
+Cueball: You are literally the craziest person I've ever met.
 
-Person: No, I didn't.
+Crazy man: You did it again!
 
+Cueball: No, I didn't.

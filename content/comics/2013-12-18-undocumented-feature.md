@@ -6,83 +6,64 @@ alt: >-
   And it doesn't pop up a box every time asking you to use your real name. In fact, there's no way to set your name at all. You just have to keep reminding people who you are.
 img: https://imgs.xkcd.com/comics/undocumented_feature.png
 ---
-An old Windows utility has an undocumented feature.
+[A support window is shown.]
 
-[[Windows popup with "Loading support forum..." text and an hourglass icon.]]
+An old Windows utility has an undocumented feature. If you open "help" and click on the background, you get dropped into a "support" chat room.
 
-If you open "Help" and click on the background, you get dropped into a "support" chat room.
+Support Window: Launching support forum...
 
-Only a few of us ever found it.
+[An active conversation between two people is shown.]
 
-[[Background of a chat room, with lines like "Morning!", "Hey!", and "You never finished that story".]]
+Only a few of us ever found it. But we became friends.
 
-But we became friends.
+[Cueball and Ponytail are at computers.]
 
-We kept launching the program to check in.
+We kept launching the program to check in. Eventually some of us were running VMs just to keep accessing it.
 
-[[A figure sits with a laptop on the left side of the panel. Another figure looks at a monitor on the right side of the panel.]]
+[Another conversation.]
 
-Eventually some of us were running VMs just to keep accessing it.
+As the Internet aged, so did we.
 
-As the internet aged
+[Three question marks.]
 
-[[More background of a chat room, with lines like "But none of us gets through li..", "You know?", "Yeah...", "You should talk to Kim about th...", and "I did"]]
+We don't know who runs the server. We don't know why it's still working so many years later. Maybe we're some sysadmin's soap opera.
 
-So did we
+[A group of people are shown in a bubble.]
 
-We don't know who runs the server. We don't know why it's still working so many years later.
+It will probably vanish someday, but for now it's our meeting place. Our hideaway.
 
-[[Three large question marks.]]
-
-Maybe we're some sysadmin's soap opera.
-
-It will probably vanish someday
-
-[[5 figures floating randomly in a bubble.]]
-
-But for now it's our meeting place
-
-Our hideaway
-
-[[Camera zooms out, with darker nodes and edges starting to come into view beyond the bubble.]]
+[The bubble is now smaller, and some parts of a web are shown.]
 
 A life's worth of chat,
 
-[[Camera zooms out further. Many dark grey nodes and edges are visible, the bubble just a small space within them.]]
+[More of the web is shown.]
 
 Buried in the deep web.
 
-But even if it lasts forever, we won't.
+[A flat landscape is shown with the sun at the horizon.]
 
-[[A sunset.]]
+But even if it lasts forever, *we* won't. When we're gone, who will remember us?
 
-When we're gone, who will remember us?
+[Cueball and Hairy are shown standing together in a bubble.]
 
-Who will remember this strange little world
+Who will remember this strange little world and the friendships we built here?
 
-[[Two figures looking at each other inside a bubble.]]
-
-And the friendships we built here?
-
-[[Blank panel, except for centered text.]]
+[No panel shown:]
 
 Nobody.
 
-This place is irrelevant. Ephemeral.
+[An empty bubble is shown.]
 
-[[Panel with a bubble on it.]]
+This place is irrelevant. Ephemeral. One day it will be forgotten.
 
-One day it will be forgotten
-
-[[Bubble begins to fade.]]
+[The bubble starts to fade away.]
 
 And so will we
 
-[[Bubble continues to fade, only barely visible.]]
+[The bubble has almost completely faded away.]
 
-[[Bubble disappears, leaving the panel blank.]]
+[The bubble is now completely gone.]
 
-[[Blank panel, except for centered text.]]
+[Caption inside a new panel:]
 
 But at least it doesn't have fucking video ads.
-

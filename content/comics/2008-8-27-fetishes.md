@@ -6,15 +6,18 @@ alt: >-
   They eventually resolved this self-reference, but Cantor's 'everything-in-the-fetish-book-twice' parties finally sunk the idea.
 img: https://imgs.xkcd.com/comics/fetishes.png
 ---
-Author Katherine Gates recently attempted to make a chart of all sexual fetishes.
+[Caption above the panel:]
 
-Little did she know that Russel and Whitehead had already failed at this same task.
+Author Katharine Gates recently attempted to make a chart of all sexual fetishes.
 
-[[Russel and Whitehead are standing with GÃ¶del, Russel holding a clipboard and smoking a pipe.]]
+Little did she know that Russell and Whitehead had already failed at this same task.
 
-Russel: Hey, GÃ¶del âÂ we're compiling a comprehensive list of fetishes.  What turns you on?
+[Russell, with long hair, and Whitehead are standing with Gödel (the last two are both Cueball-like), Russell holding a clipboard and smoking a pipe.
 
-GÃ¶del: Anything not on your list.
+Gödel is holding his chin with his right hand as he ponders the question.]
 
-Russel: Uhâ¦hm.
+Russell: Hey, Gödel — we're compiling a comprehensive list of fetishes. What turns you on?
 
+Gödel: Anything not on your list.
+
+Russell: Uh…hm.

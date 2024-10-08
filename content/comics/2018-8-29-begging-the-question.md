@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/begging_the_question.png
 
 Ponytail: That food made me nauseous.
 
-White Hat: No, the food was nauseous. It made you nauseated.
+White Hat: No, the *food* was nauseous. It made you *nauseated*.
 
 Cueball: Come on, you're just begging the question.
 

@@ -8,11 +8,10 @@ img: https://imgs.xkcd.com/comics/clinically_studied_ingredient.png
 ---
 I can't help but admire the audacity of the marketer who came up with the phrase "contains a clinically studied ingredient"
 
-[[Two people are about to enter a bed for.. activities]]
+[Cueball is sat on a bed, talking to a curly-haired woman standing close by.]
 
-Person 1: Don't worry - I've been tested.
+Woman: Don't worry - I've been tested.
 
-Person 2: ...and you're clean?
+Cueball: ...and you're clean?
 
-Person 1: So many questions!
-
+Woman: So many questions!

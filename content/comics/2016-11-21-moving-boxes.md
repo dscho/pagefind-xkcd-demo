@@ -8,74 +8,163 @@ img: https://imgs.xkcd.com/comics/moving_boxes.png
 ---
 [A bunch of cardboard boxes stacked up, each labeled]
 
-Contents:
-Grids
-Bison
-Checkerboards
+{| class="wikitable" style="background:white" align=center
+
+| style="visibility:hidden" |
+
+| colspan="2" height="80px" width="80px" style="background:#CFBC92"|
+
+Contents:<br>
+
+Grids<br>
+
+Bison<br>
+
+Checkerboards<br>
+
 Fog
 
-Contents:
-Beacons
-Elves
+| colspan="2" width="80px" height="80px" style="background:#CFBC92"|
+
+Contents:<br>
+
+Beacons<br>
+
+Elves<br>
+
 Sand
 
-Contents:
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
 Hemoglobin
 
-Contents:
-Water
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
+Water<br>
+
 Hooves
 
-Contents:
+| style="visibility:hidden" |
+
+|-|
+
+| style="visibility:hidden" |
+
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
 Shorebirds
 
-Contents:
-Oil
-Vectors
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
+Oil<br>
+
+Vectors<br>
+
 Silt
 
-Contents:
-Membranes
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
+Membranes<br>
+
 Shards
 
-Contents:
-Shawls
-Glucose
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
+Shawls<br>
+
+Glucose<br>
+
 Kits
 
-Hydrants
-Particles
+| style="visibility:hidden" |
+
+|-|
+
+| style="visibility:hidden" |
+
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Hydrants<br>
+
+Particles<br>
+
 Knots
 
-Contents:
-Graphite
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
+Graphite<br>
+
 Taupe
 
-Contents:
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
 Field Lines
 
-Contents:
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
 Traps
 
-Contents:
-Edges
-Tribes
+| style="visibility:hidden" |
+
+|-|
+
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
+Edges<br>
+
+Tribes<br>
+
 Dough
 
-Contents:
-Dark
-Matter
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
 
-Contents:
+Contents:<br>
+
+Dark<br>Matter
+
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
 Manifolds
 
-Contents:
-Triangles
-Peat
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
+Triangles<br>
+
+Peat<br>
+
 Crowns
 
-Contents:
+| colspan="2" width="80px" height="80px" style="background:#CFBC92" |
+
+Contents:<br>
+
 Scrolls
+
+|}
 
 [Caption below the panel:]
 

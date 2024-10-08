@@ -6,8 +6,6 @@ alt: >-
   Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.
 img: https://imgs.xkcd.com/comics/fatal_crash_rate.png
 ---
-
-
 [Graphs are shown inside of a panel.]
 
 [Graph 1:]

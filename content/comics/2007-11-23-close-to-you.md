@@ -6,14 +6,20 @@ alt: >-
   We should probably talk about this before the wedding.
 img: https://imgs.xkcd.com/comics/close_to_you.png
 ---
-Man: <<Singing>> Why do birds suddenly appear
+[Cueball is singing to a zombie girl, who has wiggly lines and unkempt hair. Musical notes appear around Cueball's words.]
 
-Man: <<Singing>> Every tiiiime you are neeear
+Cueball: Why do birds suddenly appear
 
-Man: Wait, are those turkey vultures?
+[Still singing.]
 
-Man: Okay, listen, are you a zombie?
+Cueball: Every tiiiime you are neeear
 
-Woman: Hurrghhh...
+[Cueball stops singing. He looks up.]
 
-{{We should probably talk about this before the wedding.}}
+Cueball: Wait, are those turkey vultures?
+
+[Cueball turns to the zombie.]
+
+Cueball: Okay, listen, are you a zombie?
+
+Zombie Girl: Hurrghhh...

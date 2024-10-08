@@ -6,13 +6,14 @@ alt: >-
   Replace the pendulums with history students and you'll qualify for a grant!
 img: https://imgs.xkcd.com/comics/interdisciplinary.png
 ---
-[[2 men and 1 woman stand in the foreground, while in the background, a woman stands on a platform and releases a pendulum hanging from the ceiling toward a man who is running away.]]
+[In the foreground, 2 men and 1 woman are standing.]
 
-Man #2: This is an interdisciplinary program in which Physics students try to hit Psychology students with pedulums. 
+Cueball: This is an interdisciplinary program in which Physics students try to hit Psychology students with pendulums.
 
-Woman: Promising!
+Megan: Promising!
 
-Background man: AAAAAAA!
+[In the background, a woman stands on a platform and releases a pendulum hanging from the ceiling that swings toward a man who is running away.]
 
-My professors had an ongoing competition to get the weirdest thing taken seriously under the label "interdisciplinary program."
+Psychology student: AAAAAAA!
 
+My professors had an ongoing competition to get the weirdest thing taken seriously under the label "interdisciplinary program".

@@ -28,8 +28,8 @@ Cueball (off screen): Wonderful.
 
 White Hat: Haha, just kidding, it’s a nightmare.
 
-Cueball: Noooooo!
+Cueball: *Noooooo!*
 
 White Hat: When I connect to my car, music starts blasting from my headphones while the car repeatedly plays a “New connection!” chime.
 
-Cueball: This is not what Josiah Bluetooth intended!
+Cueball: *This is not what Josiah Bluetooth intended!*

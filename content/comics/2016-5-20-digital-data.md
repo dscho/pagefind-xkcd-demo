@@ -3,7 +3,7 @@ date: 2016-05-20
 title: "Digital Data"
 num: 1683
 alt: >-
-  If you can read this, congratulations! The archive you're using still knows about the mouseover text!
+  &acirc;&euro;&oelig;If you can read this, congratulations&acirc;&euro;&rdquo;the archive you&acirc;&euro;&trade;re using still knows about the mouseover text&acirc;&euro;!
 img: https://imgs.xkcd.com/comics/digital_data.png
 ---
 [Cueball and a White Hat are walking, Cueball holds both hands in front of him palms up.]
@@ -28,8 +28,8 @@ Watermark: Screenshotpro 2
 
 Watermark: ~Unregistered~
 
-Top border: Verizon LTE 4:45 PM
+Top border: Verizon LTE **4:45 PM**
 
 Bottom text [slightly cut off]: 9GAG
 
-Internet address at the bottom [nearly unintelligible]: [ama].tumblr.com
+Internet address at the bottom [nearly unintelligible]: [drama].tumblr.com

@@ -10,8 +10,8 @@ img: https://imgs.xkcd.com/comics/prescience.png
 
 Cueball: You know, it's been a while since there's been a really big meteor impact.
 
-Off-panel voice: Will you stop that?!
+Off-panel voice: ***Will you stop that?!***
 
 [Caption below the panel:]
 
-I say this kind of thing every so often, because I don't believe it affects the outcome and it has a slim chance of looking incredibly prescient.
+I say this kind of thing every so often, because I don't believe it affects the outcome and it has a slim chance of looking *incredibly* prescient.

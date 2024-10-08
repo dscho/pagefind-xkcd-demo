@@ -6,19 +6,18 @@ alt: >-
   I run a business selling rural internet access. My infrastructure consists of a bunch of Verizon wifi hotspots that I sign up for and then cancel at the end of the 14-day return period.
 img: https://imgs.xkcd.com/comics/balloon_internet.png
 ---
-[[A figure sits on a hill reading a book.]]
+[Cueball sits on a hill reading a book.]
 
-[[The figure remains engrossed in the book. A balloon begins to descend behind him.]]
+[Cueball remains engrossed in the book. A balloon with a box at the end of the string begins to descend behind him.]
 
-[[The figure continues reading. The balloon is getting lower.]]
+[Cueball continues reading. The balloon is getting lower.]
 
-[[The balloon is now right behind the figure's ear.]]
+[The balloon's box is now right behind Cueball's ear.]
 
-Balloon: Internet.
+Balloon box: *Internet*.
 
-Figure: Augh!
+Cueball: Augh!
 
-[[The man throws the book in surprise.]]
+[Cueball throws the book in surprise.]
 
-[[The balloon ascends rapidly, while the startled figure looks up.]]
-
+[The balloon ascends rapidly, while the startled Cueball looks up.]

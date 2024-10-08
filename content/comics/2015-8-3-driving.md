@@ -6,37 +6,38 @@ alt: >-
   Sadly, it probably won't even have enough gas to make it to the first border crossing.
 img: https://imgs.xkcd.com/comics/driving.png
 ---
-[[black hat guy walks up to a figure carrying a large, heavy rock]]
+[Black Hat, carrying a rock, is walking toward Cueball, leaving a trail of sand.]
 
-Black hat guy: Would you guess this weighs as much as a small adult?
+Black Hat: Would you guess this weighs as much as a small adult?
 
-Figure: What? Uh, probably.
+Cueball: What?
 
-[[black hat guy walks off panel with the panel]]
+Cueball: Uh, probably.
 
-black hat guy: great!
+[Black Hat walks past Cueball who turns to look after him.]
 
-[[offscreen]]
+Black Hat: Great!
 
-<<thump>>
+[Black Hat has walked out of the frame. Cueball is looking in the direction he left in. Several noises and voices are coming from off-panel.]
 
-Car: Please fasten your seat belt.
+Off-panel: \*Thump\*
 
-<<click>>
+Car voice (off-panel): *Please fasten your seatbelt.*
 
-black hate guy: Take me to Anchorage, Alaska.
+Off-panel: \*click\*
 
-car: navigating.
+Black Hat (off-panel): Take me to Anchorage, Alaska.
 
-<<slam>>
+Car voice (off-panel): *Navigating.*
 
-<<vrrrrrrrrr>>
+Off-panel: \*slam\*
 
-[[Black hat guy returns to frame]]
+[Black Hat walks back in the panel towards Cueball.]
 
-black hat guy: I love self driving cars.
+Car driving off: *Vrrrrrrrrrrrr<small>rrrr<small>rrrrr<small>rr</small></small></small>*
 
-figure: ...whose car was that?
+Black Hat: I love self-driving cars.
 
-black hat guy: dunno, but they shouldn't have left it running.
+Cueball: ...Whose car *was* that?
 
+Black Hat: Dunno, but they shouldn't have left it running.

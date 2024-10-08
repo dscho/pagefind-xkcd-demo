@@ -6,27 +6,27 @@ alt: >-
   There's also the TV show based on the hit Hot and Cold Music books: Fun With Chairs, Royal Rumble, Knife Blizzard, Breakfast for Birds, and Samba Serpents.
 img: https://imgs.xkcd.com/comics/synonym_movies_2.png
 ---
-[[Movies stacked up on a shelf. Their titles on the spine are as followed]]
+[22 DVDs on a shelf in four groups. All DVDs are labeled in black on light grey. Text written so it is supposed to be read when the DVD is lying down.]
 
-Wandboy and the magic rock
+[First group of 8 DVDs. All standing straight.]
 
-Wandboy and the hidden room
+Wandboy and the Magic Rock
 
-Wandboy and the fugitive
+Wandboy and the Hidden Room
 
-Wandboy and the burning cup
+Wandboy and the Fugitive
 
-Wandboy and the firebird club
+Wandboy and the Burning Cup
 
-Wandboy and the book owner
+Wandboy and the Firebird Club
 
-Wandboy and the magic stuff (1
+Wandboy and the Book Owner
 
-2)
+Wandboy and the Magic Stuff (1/2)
 
-Wandboy and the magic stuff (2
+Wandboy and the Magic Stuff (2/2)
 
-2)
+[Second group of six DVDs. Five standing straight, last on the right leaning against the rest.]
 
 Puncher
 
@@ -40,19 +40,22 @@ Puncher V
 
 Puncher Lastname
 
-Tropical boaters: spooky boat
+[Third group of four DVDs. First and last standing straight, others leaning on first.]
 
-Tropical boaters: Angry worhface
+Tropical Boaters: Spooky Boat
 
-Tropical boaters: boats everywhere
+Tropical Boaters: Angry Wormface
 
-Tropical boaters: vitamin water
+Tropical Boaters: Boats Everywhere
 
-Professor whip and the box of god
+Tropical Boaters: Vitamin Water
 
-Professor whip and the scary church
+[Fourth group of four DVDs. Three standing straight, second from left leaning on first.]
 
-Professor whip and the looks for a cup
+Professor Whip and the Box of God
 
-Professor whip is in another movie
+Professor Whip and the Scary Church
 
+Professor Whip Looks for a Cup
+
+Professor Whip is in Another Movie

@@ -16,7 +16,7 @@ Ponytail: I'm afraid we're falling behind.
 
 [Presentation:]
 
-Studied
+<u>Studied</u>
 
 November 1833
 

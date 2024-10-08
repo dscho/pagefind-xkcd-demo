@@ -6,15 +6,24 @@ alt: >-
   Implausible, did you say? Sorry, couldn't quite hear you from all the way up heeeeeeeeere!
 img: https://imgs.xkcd.com/comics/fountain.png
 ---
-[[A wannabe Mary Poppins heads to a fountain with three massive water jets while holding an umbrella]]
+[A full color image of a fountain with three massive water jets. A Cueball seen from afar walks up to these while holding an umbrella.]
 
-[[Person splashes through the pond]]
+[Cueball splashes through the pond which makes sounds:]
 
-[[Person gets to one of the jets]]
+Splish
 
-[[Person opens up the umbrella]]
+Splash
 
-[[Person swings umbrella into water jet stream]]
+[Cueball gets to one of the jets.]
 
-Person: WHEEEEEEE!
+[Cueball opens up the umbrella with a:]
 
+Click
+
+[Cueball opens the umbrella and swings it into water jet stream (which is outside the image). The umbrella makes a sound when opened:]
+
+Fwoop
+
+[Cueball is pulled up by the water jet stream (which is outside the image). Only his feet and the water dripping of them into the pond can be seen. The sound he makes follows him up with longer and longer distance between the letters (written in lower-case).]
+
+Cueball: Wheeeeee!

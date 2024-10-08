@@ -45,3 +45,8 @@ ul {
     color: #efefef;
     border-radius: 20px;
 }
+
+.explain {
+    vertical-align: text-top;
+    font-size: x-small;
+}

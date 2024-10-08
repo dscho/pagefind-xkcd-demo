@@ -4,7 +4,7 @@
         <p data-pagefind-meta="date" class="comic-date">{{ time.Format "January 2, 2006" .Params.date }}</p>
         {{ partial "characters.html" .Params.num }}
 
-        <h1 class="comic-title">#{{ .Params.num }}: {{ .Params.title }}</h1>
+        <h1 class="comic-title"><a href="https://xkcd.com/{{ .Params.num }}/">#{{ .Params.num }}</a>: {{ .Params.title }}</h1>
         <img data-pagefind-index-attrs="title" src="{{ .Params.img }}" title="{{ .Params.alt }}" alt="{{ .Params.title }}" />
         <p>
             {{ .Content }}

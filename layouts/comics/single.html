@@ -1,5 +1,5 @@
 {{ define "main" }}
-    <a href="/">← Back</a>
+    <a href="{{ relURL "" }}">← Back</a>
     <div class="comic" data-pagefind-body>
         <p data-pagefind-meta="date" class="comic-date">{{ time.Format "January 2, 2006" .Params.date }}</p>
         {{ partial "characters.html" .Params.num }}

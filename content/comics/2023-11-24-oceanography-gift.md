@@ -6,8 +6,6 @@ alt: >-
   Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents.
 img: https://imgs.xkcd.com/comics/oceanography_gift_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.|Probably still improvable}}
-
 [Cueball and Megan are standing thigh deep, at either edge of a stretch of water between two steep but walkable shorelines.]
 
 [Cueball, at the left, is apparently opening bottles of water and pouring them into the sea while recording himself.]

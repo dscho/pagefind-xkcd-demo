@@ -6,8 +6,6 @@ alt: >-
   [Political pundit on the ScrabbleTV News channel] "After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim."
 img: https://imgs.xkcd.com/comics/vice_president_first_names_2x.png
 ---
-{{incomplete transcript|Tables are bad? Do NOT delete this tag too soon.}}
-
 [A table is shown in a panel. Names of "Four letters or fewer" are shown in the comic on a yellow background (bolded in the table below).]
 
 {| class="wikitable"

@@ -6,8 +6,6 @@ alt: >-
   Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class.
 img: https://imgs.xkcd.com/comics/real_estate_analysis_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A graph is shown. Both axes have a label with an arrow and 10 visible ticks.]
 
 Y-axis: Walkability score

@@ -6,8 +6,6 @@ alt: >-
   The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.
 img: https://imgs.xkcd.com/comics/the_wrong_stuff_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A ghost is approaching Cueball in a workshop. They are surrounded by shop equipment, such as a table with a press on it, and a small pile of what appears to be lumber. Cueball is backing away from the ghost, holding his hands up defensively.]
 
 Ghost: oooOOOOOOoooo

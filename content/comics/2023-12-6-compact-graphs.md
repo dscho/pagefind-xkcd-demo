@@ -6,8 +6,6 @@ alt: >-
   People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them.
 img: https://imgs.xkcd.com/comics/compact_graphs_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Left: graph of points plotted along two axes, headered by:]
 
 Variable 1: X Axis

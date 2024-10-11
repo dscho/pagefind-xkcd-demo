@@ -6,8 +6,6 @@ alt: >-
   Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero.
 img: https://imgs.xkcd.com/comics/helium_synthesis_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Hairy sits on an office chair at the head of a conference table and has his hands on the table, with Cueball and Megan also at the table.]
 
 Hairy: These helium shortages every few years are such a pain.

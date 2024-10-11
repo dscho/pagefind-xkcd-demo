@@ -8,11 +8,11 @@ img: https://imgs.xkcd.com/comics/university_commas_2x.png
 ---
 {{incomplete transcript|Do NOT delete this tag too soon.}}
 
-[A sentence is written in greyed-out text, with the commas in black and each labeled with an arrow]
+[A sentence is written in greyed-out text, with the commas in black and each labeled with an arrow.]
 
-Please, buy, apples, mac, and, cheese, milk, and, bread,.
+Please**,** buy**,** apples**,** mac**,** and**,** cheese**,** milk**,** and**,** bread**,**.
 
-[The labels are as follows, in order:]
+[The labels are as follows, in order from left to right:]
 
 Harvard comma
 
@@ -32,4 +32,6 @@ Princeton comma
 
 MIT comma
 
-[Caption:] The Oxford one is the most famous, but many major universities have their own comma.
+[Caption below the panel:]
+
+The Oxford one is the most famous, but many major universities have their own comma.

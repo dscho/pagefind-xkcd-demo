@@ -6,8 +6,6 @@ alt: >-
   High-speed collisions at the Baby Park track may support the hypothesis that Daisy is her own evil twin, a theory first suggested by Nintendo in the game Majorana's Mask.
 img: https://imgs.xkcd.com/comics/supersymmetry_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [List of characters with their heads on the left side and particles with their depictions on the right side.]
 
 Mario : Proton

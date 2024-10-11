@@ -6,8 +6,6 @@ alt: >-
   If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.
 img: https://imgs.xkcd.com/comics/moon_landing_mission_profiles_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Top left panel]
 
 **Lunar orbit rendezvous**

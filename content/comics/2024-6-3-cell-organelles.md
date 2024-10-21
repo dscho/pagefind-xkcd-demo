@@ -6,8 +6,6 @@ alt: >-
   It's believed that Golgi was originally an independent organism who was eventually absorbed into our cells, where he began work on his Apparatus.
 img: https://imgs.xkcd.com/comics/cell_organelles_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 Cell Organelles
 
 [A cell is shown with the following structures and areas labeled, counter-clockwise from upper left:]

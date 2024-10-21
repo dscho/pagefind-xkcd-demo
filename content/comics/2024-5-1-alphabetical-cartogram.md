@@ -6,8 +6,6 @@ alt: >-
   Poor Weeoming.
 img: https://imgs.xkcd.com/comics/alphabetical_cartogram_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 A More Fair Map
 
 Instead of giving more area to larger states, this map improves fairness by sizing the states alphabetically.

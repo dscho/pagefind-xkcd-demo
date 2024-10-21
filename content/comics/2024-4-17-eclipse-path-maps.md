@@ -6,8 +6,6 @@ alt: >-
   Okay, this eclipse will only be visible from the Arctic in February 2063, when the sun is below the horizon, BUT if we get lucky and a gigantic chasm opens in the Earth in just the right spot...
 img: https://imgs.xkcd.com/comics/eclipse_path_maps_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 **Every eclipse path map**
 
 [A grey band representing the totality path of an eclipse travels along the map across several labels. Labels along the path from top to bottom:]

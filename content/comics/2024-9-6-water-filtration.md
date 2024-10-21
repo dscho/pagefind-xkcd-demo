@@ -6,8 +6,6 @@ alt: >-
   You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down.
 img: https://imgs.xkcd.com/comics/water_filtration_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Header:]
 
 How Water Filtration Works

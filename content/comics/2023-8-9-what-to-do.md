@@ -6,8 +6,6 @@ alt: >-
   FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs.
 img: https://imgs.xkcd.com/comics/what_to_do_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [The comic is laid out like a grid, with situations down the left-hand side (mountain lion / lightning / fire alarm / bleeding) and the solutions across the top (stand up straight, speak firmly, and slowly back away / run toward a building or hard-topped vehicle / calmly exit the building / apply firm pressure ). The grid illustrates the "match-ups", with a green square denoting a "correct" match-up and a red square denoting a bad idea.]
 
 [From the top left corner, going from left to right, top to bottom, with each first item being on its own line in the grid, the squares are as follows:]

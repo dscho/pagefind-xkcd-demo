@@ -6,8 +6,6 @@ alt: >-
   Running for office in Minnesota on the single-issue platform 'dig a permanent channel through the Traverse Gap because it will make this map more satisfying.'
 img: https://imgs.xkcd.com/comics/dubious_islands_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Title:] Dubious Islands of North America
 
 [Subtitle:] And the waterways that separate them

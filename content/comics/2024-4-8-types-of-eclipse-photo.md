@@ -6,7 +6,7 @@ alt: >-
   The most rare, top-tier eclipse photo would be the Solar Earth Eclipse, but the Apollo 12 crew's attempt to capture it was marred by camera shake. They said it looked spectacular, though.
 img: https://imgs.xkcd.com/comics/types_of_eclipse_photo_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+(The following is a description of 8 comic panels, arranged in 2x4 layout. Each panel has a small drawing of an 'Eclipse Photo' in it)
 
 <big>Types of Eclipse Photo</big>
 

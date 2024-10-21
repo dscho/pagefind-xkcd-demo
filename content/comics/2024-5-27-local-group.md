@@ -6,13 +6,11 @@ alt: >-
   Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter.
 img: https://imgs.xkcd.com/comics/local_group_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+[Two galaxies, positioned on the bottom left and top right sides of the panel, are each eating a single noodle of spaghetti, originating from a bowl of spaghetti in between them.]
 
-[Two galaxies, positioned on the left and right sides of the panel, are each eating a single noodle of spaghetti, originating from a bowl of spaghetti in between them.]
+[Bottom left galaxy:] *Sluuurp*
 
-[Left galaxy:] *Sluuurp*
-
-[Right galaxy:] *Sluuurp*
+[Top right galaxy:] *Sluuurp*
 
 [Caption below the panel:]
 

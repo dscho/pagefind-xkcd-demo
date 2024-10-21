@@ -22,7 +22,7 @@ Belonging and love
 
 Safety
 
-<font color="green">✔</font> Highly defensible
+<span style="color:green; font-size:1em;">✓</span> Highly defensible
 
 Physiological needs
 

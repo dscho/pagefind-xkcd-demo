@@ -6,8 +6,6 @@ alt: >-
   The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment.
 img: https://imgs.xkcd.com/comics/extinction_mechanisms_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A drawing of the Chicxulub meteor]
 
 Marking to the right: ≈ 500 km<sup>3</sup> (5 × 10<sup>14</sup> L)

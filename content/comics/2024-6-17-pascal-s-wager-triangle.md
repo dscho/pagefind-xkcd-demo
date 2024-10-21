@@ -6,8 +6,6 @@ alt: >-
   In contrast to Pascal's Wager Triangle, Pascal's Triangle Wager argues that maybe God wants you to draw a triangle of numbers where each one is the sum of the two numbers above it, so you probably should, just in case.
 img: https://imgs.xkcd.com/comics/pascals_wager_triangle_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Cueballs, each holding some document, are shown in a triangular arrangement, with arrows pointing from upper to lower Cueballs:]
 
 [At the top, row 1 has a Cueball, unnamed but described below as "C1", holding a piece of paper with a crossed-square shape possibly resembling a Punnet Square diagram and with a speech-bubble]

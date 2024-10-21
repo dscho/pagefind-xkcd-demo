@@ -6,73 +6,47 @@ alt: >-
   [Political pundit on the ScrabbleTV News channel] "After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim."
 img: https://imgs.xkcd.com/comics/vice_president_first_names_2x.png
 ---
-[A table is shown in a panel. Names of "Four letters or fewer" are shown in the comic on a yellow background (bolded in the table below).]
+[A table is shown in a panel.]
 
-{| class="wikitable"
+[To one side, there is a single 'key' square, shaded yellow, given a label:] "Four letters or fewer"
 
-! !! President !! VP
+[Table header has no 'first column' cell, leaving a bite out of it]
 
-|-
+[Second column cell:]President
 
-| 2024 ||? Kamala<br />? Donald || **Tim ?<br />JD ?**
+[Third column cell:]VP
 
-|-
+[Further rows are of the pattern of: years, presidential names and vp names]
 
-| 2020 || **Joe** || Kamala
+[Year:] 2024 [President (question mark then two rows of names):]? [name1:] Kamala [name2:] Donald [VP, shaded yellow (two rows of names then question mark):] [name1:] Tim [name2:] JD [question mark:] ?
 
-|-
+[Year:] 2020 [President, shaded yellow:] Joe [VP:] Kamala
 
-| 2016 || Donald‎ || **Mike**
+[Year:] 2016 [President:] Donald‎ [VP, shaded yellow:] Mike**
 
-|-
+[Year:] 2008 [President:] Barack‎ [VP, shaded yellow:] Joe**
 
-| 2008 || Barack‎ || **Joe**
+[Year:] 2000 [President:] George [VP, shaded yellow:] Dick**
 
-|-
+[Year:] 1992 [President, shaded yellow:] Bill** || **Al**
 
-| 2000 || George || **Dick**
+[Year:] 1988 [President:] George [VP, shaded yellow:] Dan**
 
-|-
+[Year:] 1980 [President:] Ronald‎ [VP:] George
 
-| 1992 || **Bill** || **Al**
+[Year:] 1976 [President:] Jimmy [VP:] Walter
 
-|-
+[Year:] 1974 [President:] Gerald [VP:] Nelson
 
-| 1988 || George || **Dan**
+[Year:] 1973 [President:] Richard [VP:] Gerald
 
-|-
+[Year:] 1968 [President:] Richard [VP:] Spiro
 
-| 1980 || Ronald‎ || George
+[Year:] 1964 [President:] Lyndon [VP:] Hubert
 
-|-
+[Year:] 1960 [President, shaded yellow:] John [VP:] Lyndon
 
-| 1976 || ‎Jimmy || Walter
-
-|-
-
-| 1974 || ‎Gerald || Nelson
-
-|-
-
-| 1973 || ‎Richard || Gerald
-
-|-
-
-| 1968 || ‎Richard || Spiro
-
-|-
-
-| 1964 || Lyndon || Hubert
-
-|-
-
-| 1960 || **John** || Lyndon
-
-|-
-
-| 1952 || Dwight || Richard
-
-|}
+[Year:] 1952 [President:] Dwight [VP:] Richard
 
 [Caption below the panel:]
 

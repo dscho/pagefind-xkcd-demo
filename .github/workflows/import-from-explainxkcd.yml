@@ -1,0 +1,80 @@
+name: Import from explainXKCD
+
+on:
+  workflow_dispatch:
+  schedule:
+    # XKCD is typically updated Mon, Wed & Fri, with explainXKCD following a day later
+    - cron: '11 11 * * 2,4,6'
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write # to deploy to GitHub Pages
+      id-token: write # to verify that the deployment source is legit
+      contents: write # to push updates
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: initialize Playwright setup
+        run: |
+          npm install @playwright/test
+      - name: export dump from explainXKCD
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { test, expect } = require('@playwright/test')
+            const { chromium } = require('playwright');
+
+            (async () => {
+              const browser = await chromium.launch({ channel: 'chrome' })
+              const page = await browser.newPage()
+
+              await page.goto('https://www.explainxkcd.com/wiki/index.php/Special:Export')
+              await page.getByLabel('Add pages from category:').fill('All_comics')
+              await page.getByRole('button', { name: 'Add' }).click()
+              await expect(page.getByLabel('Add pages manually:')).not.toBeEmpty()
+
+              const downloadPromise = page.waitForEvent('download')
+              await page.getByRole('button', { name: 'Export' }).click()
+              const download = await downloadPromise
+              await download.saveAs('explain-xkcd.xml')
+
+              await browser.close()
+            })().catch(e => {
+              process.stderr.write(`${e.stack}\n`)
+              process.exit(1)
+            })
+      - name: import dump, commit and push changes (if needed)
+        id: import
+        run: |
+          rm -rf content/comics/\* data/\* &&
+          node import-from-explainxkcd.js <explain-xkcd.xml &&
+          git add -A content/comics/ data/ || {
+            echo '::error:: could not import from explainXKCD!' >&2;
+            exit 1
+          }
+
+          git update-index --refresh &&
+          git diff-index --exit-code --quiet HEAD &&
+          exit 0 # no changes
+
+          git add -A content/comics/ data/ &&
+          timestamp=$(sed -n 's/.*<timestamp>\(.*\)<.*/\1/p' explain-xkcd.xml | sort | tail -n 1) &&
+          git -c user.email='${{ github.actor }}@noreply.github.com' -c user.name='${{ github.actor }}' \
+            commit -m "Re-import explainXKCD as of $timestamp" \
+            -m 'Updated via the `import-from-explainxkcd.yml` GitHub workflow.' &&
+          git push origin HEAD:${{ github.ref }} &&
+          echo "result=deploy-needed" >>$GITHUB_OUTPUT
+      - name: deploy to GitHub Pages (if needed)
+        if: steps.import.outputs.result == 'deploy-needed'
+        id: deploy
+        uses: ./.github/actions/deploy-to-github-pages

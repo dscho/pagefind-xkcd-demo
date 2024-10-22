@@ -6,8 +6,6 @@ alt: >-
   I pronounce the 'u' in 'pronunciation' like in 'putting' but the 'ou' in 'pronounce' like in 'wound'.
 img: https://imgs.xkcd.com/comics/pronunciation_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [The word "Tuesday", with each letter labeled by a box with an arrow:]
 
 T: As in buffe**t**

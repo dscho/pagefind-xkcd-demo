@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/search_history.png
 ---
 [In a slim panel at the top of the comic Randall (drawn as Cueball) stands to the left and his speech is written in the rest of the panel to his right.]
 
-Randall: In solidarity with the many AOL users whose often embarrassing web searches were released to the public, I offer a sample of my own search history:
+Randall: In solidarity with the many AOL users whose often embarassing web searches were released to the public, I offer a sample of my own search history:
 
 [The long panel beneath the first panel shows a screenshot of Google's front page. The Google logo is partly cut through the top third of the logo. It is in the typical Google color code. Beneath the logo are six links for where to search, one of them is black, because it is chosen, the others blue. One has a red super script indicating there are news there. Below is the search bar. To the right of this, there are three lines with links, for what type of search preferences etc.]
 

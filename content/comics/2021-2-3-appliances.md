@@ -22,7 +22,7 @@ img: https://imgs.xkcd.com/comics/appliances.png
 
 \***Make toast** with a **Dryer**: Red square, large pile of breadcrumbs.
 
-\***Wash dishes** with a **Toaster**: Red square, intact glass, somewhat bent fork, and slightly cracked and sooty plate.
+\***Wash dishes** with a **Toaster**: Red square, intact glass, somewhat bent fork with the tines melted into an irregular lump, and slightly cracked and sooty plate.
 
 \***Wash dishes** with a **Dishwasher**: Green square, clean glass, fork, and plate.
 

@@ -20,6 +20,8 @@ Friend: I know my plans—
 
 Friend: I just don't know when Christmas is.
 
+<!-- Panel without frame -->
+
 Cueball: Really? Why not look it up?
 
 Friend: Well, I'm also a physicist.

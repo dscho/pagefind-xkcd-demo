@@ -6,8 +6,6 @@ alt: >-
   Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can't back out, so just try to keep your finger away from the bottom of the phone.
 img: https://imgs.xkcd.com/comics/xkcd_phone_flip_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A rectangular phone with a touch screen. There is a small dark camera section at the top of the screen and a charging/connecting port may be shown on the lower casing edge. Lines on the left side of the phone lead from the general area of the image to feature descriptions down the leftmost edge of the frame.]
 
 Exfoliating screen

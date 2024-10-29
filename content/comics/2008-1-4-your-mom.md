@@ -6,7 +6,7 @@ alt: >-
   'It's either 'your mom' jokes or me' 'Then I, like so many men before me, must reluctantly choose your mom.'
 img: https://imgs.xkcd.com/comics/your_mom.png
 ---
-Cueball: Well, your <font size="+1"> <u>mom</u> </font> turns every conversation into a "your mom" joke and it's becoming unbearable.
+Cueball: Well, your <font size="+1"> <u>mom</u> </font> turns every conversation into a "your mom" joke and it's become unbearable.
 
 Megan: I'm serious; I can't take this anymore. I'm leaving.
 

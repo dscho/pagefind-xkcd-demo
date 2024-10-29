@@ -6,8 +6,6 @@ alt: >-
   After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume.
 img: https://imgs.xkcd.com/comics/drainage_basins_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Title, scribbled out in red:] <s>US Drainage Basins</s>
 
 [New title, in red, added below:] <span style="color:red">Where Alex Mack Will End Up</span>

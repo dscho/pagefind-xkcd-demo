@@ -6,11 +6,9 @@ alt: >-
   In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed.
 img: https://imgs.xkcd.com/comics/temperature_scales_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 Temperature Scales
 
-[A table with five columns, labelled: Unit, water freezing point, water boiling point, notes, cursedness. There are eleven rows below the labels.]
+[A table with five columns, labelled: Unit, Water freezing point, Water boiling point, Notes, and Cursedness. There are eleven rows below the labels.]
 
 [Row 1:] Celsius, 0, 100, Used in most of the world, 2/10
 

@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/stephen_and_me.png
 
 Beret Guy: I'm documenting my quest to meet with the CEO of Volvo.
 
-Megan: Get lost.
+Megan: Get lost
 
 Sign: Volvo <small>Cars</small>
 

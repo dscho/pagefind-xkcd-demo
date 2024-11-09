@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/the_history_of_unicode.png
 ---
 [1988:]
 
-[A bearded man holds a document labeled "Unicode". Most likely he represents Joe Becker.]
+[A bearded man holds a document labelled "Unicode". Most likely he represents Joe Becker.]
 
 Bearded man: My "Unicode" standard should help reduce problems caused by incompatible binary text encodings.
 

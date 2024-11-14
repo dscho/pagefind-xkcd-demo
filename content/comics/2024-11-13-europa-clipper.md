@@ -1,0 +1,15 @@
+---
+date: 2024-11-13
+title: "Europa Clipper"
+num: 3011
+alt: >-
+  They had BETTER make this a sample return mission.
+img: https://imgs.xkcd.com/comics/europa_clipper_2x.png
+---
+{{incomplete transcript|Do NOT delete this tag too soon.}}
+
+[A space probe with two rectangular solar panels, a circular dish of the front, and a massive spoon on the bottom, longer than the length of its solar panels]
+
+[Below the panel:]
+
+Good news: NASA's ***Europa Clipper*** is en route to Europa and has successfully deployed its crème brûlée spoon.

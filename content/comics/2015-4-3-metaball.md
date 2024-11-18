@@ -16,8 +16,8 @@ Ponytail (offscreen):***Out!***
 
 [Ponytail walks toward them consulting a piece of paper divided in sections:]
 
-[Megan (offscreen):] What do you *mean*, out?!
+Megan (offscreen): What do you *mean*, out?!
 
 Ponytail: The ball clipped the corner of the baseball zone. Infield fly rule.
 
-[Megan (offscreen):] Aw, *maaan*...
+Megan (offscreen): Aw, *maaan*...

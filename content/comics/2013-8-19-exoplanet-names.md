@@ -230,10 +230,10 @@ Hairbun: This is ***after*** the filter!
 
 |-
 
-|Kepler-3010||b||Feeeoooooooop
+|Kepler-3010||b||Feeeooooooooop
 
 |-
 
-|Kepler-442||b||Liz
+|Kepler-4742||b||Liz
 
 |}

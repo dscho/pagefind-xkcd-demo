@@ -6,8 +6,6 @@ alt: >-
   These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun.
 img: https://imgs.xkcd.com/comics/proterozoic_rocks_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Cueball is seen at a distance, walking amid a rocky landscape.]
 
 I love being near Proterozoic rocks.

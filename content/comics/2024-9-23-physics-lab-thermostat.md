@@ -6,8 +6,6 @@ alt: >-
   Hopefully the HVAC people set it to only affect the AIR in the room.
 img: https://imgs.xkcd.com/comics/physics_lab_thermostat_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A black circular dial is shown with a white indicator line at the upper right. The label above the dial, enclosed in a rectangular box, says:]
 
 Local Boltzmann Constant

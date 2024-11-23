@@ -6,8 +6,6 @@ alt: >-
   Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back.
 img: https://imgs.xkcd.com/comics/arizona_chess_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [White Hat and Cueball are sitting across from each other playing chess. The time, shown above them in white on a black screen, reads 6:35 for White Hat, and 0:28 for Cueball.]
 
 White Hat: It’s late, I’m up a pawn, and you’re out of time. It’s over.

@@ -96,7 +96,7 @@ Beef: You are pretty much going down
 
 [Silence 7. The view has panned so low that it is possible to see the waistband of Ray's underpants. Beef is looking even more down and has moved closer to Ray whose mouth is open again.]
 
-[Silence 8. Same view, but a little less waistband visible. Beef has moved back agai. His eyebrows are missing and his mouth is open, and Ray looks even more down than before, still mouth open.]
+[Silence 8. Same view, but a little less waistband visible. Beef has moved back again. His eyebrows are missing and his mouth is open, and Ray looks even more down than before, still mouth open.]
 
 [Silence 9. View panned so low that a large part of Ray's underpants can be seen. Beef is looking down, mouth closes with eyebrows, Ray standing more straight, still mouth open.]
 

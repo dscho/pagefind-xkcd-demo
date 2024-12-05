@@ -10,6 +10,6 @@ img: https://imgs.xkcd.com/comics/experimentation.png
 
 Megan: Oh, hey, it's twelve of the dudes from control group B!
 
-[Caption below the panel]:
+[Caption below the panel:]
 
 I'm cool with her past lesbian experimentation, but I wish she hadn't insisted the experiments be scientifically rigorous.

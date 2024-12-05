@@ -16,7 +16,7 @@ Judge: Sorry, no, that's a huge mood killer.
 
 Judge: <big>*Next!*</big>
 
-[Caption below the panel]
+[Caption below the panel:]
 
 Before I have a kid, I'm moving to Rogers Street in Cambridge, MA, and then getting a cat named "Mister"
 

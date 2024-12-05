@@ -6,7 +6,7 @@ alt: >-
   I just noticed CVS has started stocking homeopathic pills on the same shelves with--and labeled similarly to--their actual medicine. Telling someone who trusts you that you're giving them medicine, when you know you're not, because you want their money, isn't just lying--it's like an example you'd make up if you had to illustrate for a child why lying is wrong.
 img: https://imgs.xkcd.com/comics/alternative_literature.png
 ---
-[Cueball and a friend stand in front of Cueball's bookcase. His friend flips through a number of them.]
+[Cueball and a friend (who looks like Cueball) stand in front of Cueball's bookcase. His friend flips through a number of them.]
 
 Friend: All your books are full of blank pages.
 

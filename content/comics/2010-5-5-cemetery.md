@@ -10,6 +10,6 @@ img: https://imgs.xkcd.com/comics/cemetery.png
 
 Cueball: Frankly, you deserve this. You *knew* I wanted a sans-serif font, and you *ignored* me. So really, this is *your* fault.
 
-[Caption below the panel]
+[Caption below the panel:]
 
 I've discovered the worst place to wander while arguing on a hands-free headset.

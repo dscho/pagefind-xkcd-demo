@@ -10,4 +10,6 @@ img: https://imgs.xkcd.com/comics/debian_main.png
 
 Cueball: AAAAAAAA
 
-Caption below comic: My package made it into debian-main because it looked innocuous enough; no one noticed "locusts" in the dependency list.
+[Caption below panel:]
+
+My package made it into debian-main because it looked innocuous enough; no one noticed "locusts" in the dependency list.

@@ -24,6 +24,6 @@ Hairy: Sighhhh
 
 ContextBot: (He thought these grapes were seedless.)
 
-[Caption below the panel]
+[Caption below the panel:]
 
 Everyone stopped complaining about Google's data-gathering when they launched ContextBot, a system which replies to vague, enigmatic social network posts with context from the poster's life.

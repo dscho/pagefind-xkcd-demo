@@ -6,7 +6,7 @@ alt: >-
   And they choose Al Gore as Internet Secretary.
 img: https://imgs.xkcd.com/comics/secretary_part_5.png
 ---
-[The Senate. Black Hat sits before the committee at his hearing to become Internet Secretary.]
+[The Senate. Black Hat sits before the committee at his hearing to become Internet Secretary. The 4 senators from Part 3 are in front of him. To the left of the 4 senators are 4 rows of seats, with 3, 2, 1, and 1 Cueball(s) sitting at them. To the left of the second row are two more columns of two, with a Megan and Cueball at the first row of the first column and a Cueball with his face down, presumably resting at the first row of the second column. Behind Black Hat are 4 Cueballs sitting in chairs in front of 3 tables, with 2 Cueballs sitting next to each other in between the 2 other Cueballs. There are 2 more Cueballs sitting at different tables behind the 2nd and 3rd tables, and a final Cueball in the 2nd column that is slightly cut-off by the frame.]
 
 Chairman: We were convened here to review your nomination for the position of internet secretary.
 

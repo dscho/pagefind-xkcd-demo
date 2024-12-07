@@ -8,35 +8,37 @@ img: https://imgs.xkcd.com/comics/secretary_part_3.png
 ---
 [The confirmation hearings begin.]
 
-Senator: It appears you have quite an arrest record.
+[The senators are all Cueballs.]
 
-Senator: Is it true you completely disassembled someone's car outside a Starbucks?
+Senator 2: It appears you have quite an arrest record.
+
+Senator 2: Is it true you completely disassembled someone's car outside a Starbucks?
 
 Black Hat: It was parked across two spaces.
 
-Senator: You stole a red Fokker triplane and strafed the snoopy float at the Macy's Thanksgiving day parade?
+Senator 3: You stole a red Fokker triplane and strafed the snoopy float at the Macy's Thanksgiving day parade?
 
 Black Hat: Got three mimes, too.
 
-Senator: You disrupted a 9/11 truth meeting, insisting the Twin Towers never actually collapsed?
+Senator 2: You disrupted a 9/11 truth meeting, insisting the Twin Towers never actually collapsed?
 
 Black Hat: I have evidence! Don't trust the media! Wake up, sheeple!
 
-Senator: You were fired from Radio Shack after you built a death ray and vaporized a customer?
+Senator 4: You were fired from Radio Shack after you built a death ray and vaporized a customer?
 
 Black Hat: I was just testing it! Figures that'd be the one day there was a shopper in the aisle.
 
-Senator: And you were thrown out of Microsoft headquarters for... trying to feed a squirrel through a fax machine?
+Senator 4: And you were thrown out of Microsoft headquarters for... trying to feed a squirrel through a fax machine?
 
 Black Hat: I forgot about that! it was part of an argument with Steve Ballmer about Vista.
 
 Which I won, by the way.
 
-[Senators look down at their notes.]
+[All Senators look down at their notes.]
 
-Senator: This is the worst history of vandalism, gleeful mayhem, and general recalcitrance we've seen in a nominee since Ruth Bader Ginsburg.
+Senator 2: This is the worst history of vandalism, gleeful mayhem, and general recalcitrance we've seen in a nominee since Ruth Bader Ginsburg.
 
-Senator: And this-you stole a nuclear submarine?
+Senator 2: And this-you stole a nuclear submarine?
 
 Black Hat: I plead the third.
 

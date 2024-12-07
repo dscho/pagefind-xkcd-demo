@@ -20,4 +20,6 @@ Megan: Because we're grown-ups now, and it's our turn to decide what that means.
 
 [Cueball is seen from the side standing next to the open door. Megan cannot be seen, except her hands on the screen, but some of the colored balls can be seen through the door. A beat panel.]
 
-[Same view but both have entered into the apartment, with colored balls spilling out into the corridor so the screen is no longer shown. A big pink love heart drifts out the door.]
+[Same view but both have entered into the apartment, with colored balls spilling out into the corridor so that the screen, Cueball, and Megan are no longer shown.]
+
+Cueball and Megan: ♥

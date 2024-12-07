@@ -6,6 +6,8 @@ alt: >-
   James Cameron has said that he didn't know its song would be so beautiful. He didn't close the door in time. He's sorry.
 img: https://imgs.xkcd.com/comics/lakes_and_oceans.png
 ---
+{{incomplete transcript}}
+
 [A Map of lakes and oceans showing the depths of various lakes and ocean attributes.]
 
 Lakes and Oceans Depths and animal/ship/boat lengths are to scale; horizontal distance is not.

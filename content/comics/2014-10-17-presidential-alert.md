@@ -14,7 +14,9 @@ Screen reads: "E.A.S Incoming Presidential Alert"
 
 My fellow Americans. I, uhhh. Wow.
 
-Frankly, I didn't realize what this button did. I was just... I mean... I appear before you tonight to, um.
+Frankly, I didn't realize what this button did. I was just... I mean...
+
+I appear before you tonight to, um.
 
 Look, uhh...
 

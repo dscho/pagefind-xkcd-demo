@@ -34,7 +34,7 @@ Cueball (on the phone): Perfect. Can you put her on?
 
 Hairy: Sure.
 
-[The engineer, a woman with black hair in a ponytail, sits in an office chair at her desk typing on her lap top. She also has a headset. Behind her laptop sits a small penguin doll. Cueball talks to her over the phone indicated with zigzag lines.]
+[The engineer, a woman with black hair in a ponytail, sits in an office chair at her desk typing on her laptop. She also has a headset. Behind her laptop sits a small penguin doll. Cueball talks to her over the phone indicated with zigzag lines.]
 
 Cueball (on the phone): Hey, so sorry to bother you, but my connection—
 
@@ -46,7 +46,7 @@ Engineer: Should be fixed now.
 
 Cueball (on the phone): Thank you *so much.*
 
-[Zoom in on the engineers torso. The back of the chair and the top of her laptop just inside the panel.]
+[Zoom in on the engineer's head and torso. The back of the chair and the top of her laptop just inside the panel.]
 
 Engineer: No problem. Hey, in the future, if you're on any tech support call, you can say the code word "shibboleet" at any point and you'll be automatically transferred to someone who knows a minimum of two programming languages.
 

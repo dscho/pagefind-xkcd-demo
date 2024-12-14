@@ -39,3 +39,7 @@ Lunar mood
 [A superimposed graph of all the above waves. Different points on the graph are labelled: Harvest moon, Supermoon, Blue moon, Skinny Jeans popular, Super blood moon, Golden age of TV, Dire moon, Pork moon, Two week window in which astrology works, Total eclipse of the sea.]
 
 [[Category:Astronomy]]
+
+[[Category:Charts]]
+
+[[Category:Emoji]]

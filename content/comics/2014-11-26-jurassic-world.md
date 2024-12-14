@@ -24,4 +24,4 @@ White Hat: We took *Tyrannosaurus* and we *improved* it. Made it scarier, deadli
 
 White Hat: Look–there it is!
 
-[White Hat (drawn without his hat) and Megan are dwarfed in the bottom left corner as they stare up at a facsimile of the green T-Rex from *Dinosaur Comics*. They only reach T-Rex to it's knees.]
+[Cueball and Megan are dwarfed in the bottom left corner as they stare up at a facsimile of the green T-Rex from *Dinosaur Comics*. They only reach T-Rex to it's knees.]

@@ -12,7 +12,7 @@ img: https://imgs.xkcd.com/comics/dubious_islands_2x.png
 
 [A map of mainland North America, down to the Panama isthmus. It is internally separated by various waterways, given labels or otherwise.]
 
-[Separating land approximating Nunavut (with some Northern Territories) from neighbouring Canada:] Mackenzie Athabasca Churchill
+[Separating land approximating Nunavut (with some Northwest Territories) from neighbouring Canada:] Mackenzie Athabasca Churchill
 
 [Comprising the much of the remainder of Canada, much of the northern United States (including Alaska), additionally separated by:] Columbia Snake Madison Missouri Chicago [Unlabelled, some of the Great Lakes and the channel past Quebec]
 

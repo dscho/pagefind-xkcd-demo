@@ -8,7 +8,7 @@ img: https://imgs.xkcd.com/comics/making_tea_2x.png
 ---
 [A line chart is shown. Above the chart are, from top to bottom, a heading, a subheading, and an arrow pointing right with a label above. On the line there are four labeled tick marks, with the labels written beneath the line. A small curved line is going from each label to below their tick. The first two ticks are close together on the far left side of the graph, the third is approximately in the center, and the fourth is on the far right side of the graph.]
 
-<big>Ways of Making Tea</big>
+<big>Ways of making tea</big>
 
 By how angry British people get when Americans do them
 

@@ -6,8 +6,6 @@ alt: >-
   Of course you get an ice cream cone for the swimmer too! You're not a monster.
 img: https://imgs.xkcd.com/comics/path_minimization_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Cueball stands on the beach, with another person in the water. Ponytail stands on the beach in an ice cream stand in the top right corner.]
 
 Path that minimizes distance [A straight line from beach cueball to ocean cueball, bearing about 135]

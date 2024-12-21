@@ -6,15 +6,13 @@ alt: >-
   In addition to 'squishy', after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word 'supple' so often when describing Midwestern states.
 img: https://imgs.xkcd.com/comics/minnesota_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Hairy standing in front of Ponytail and Cueball, who are sitting behind a desk]
 
 Hairy: Does anyone have any other concerns?
 
 Cueball: I'm concerned that Minnesota is getting shorter.
 
-[A map of Minnesota beside Cueball, with arrows pointing from the northern and southern borders towards the middle]
+[A map of Minnesota beside Cueball, with arrows pointing from the northern and southern borders toward the middle]
 
 Cueball: Because of post-glacial crust rebound, the northern border is moving toward the southern border. It's less than an inch a decade, but I still don't like it.
 

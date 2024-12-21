@@ -16,9 +16,9 @@ Ponytail: I really wish we didn't have to do this.
 
 <u>Proxima Centauri</u>
 
-Distance: [in red, crossed out] <span style="color:red"><s>4.2493 ly</s></span>
+Distance: [in red, crossed out] <span style="color:red"><s>4.2493 LY</s></span>
 
-[in green] <span style="color:green">4.2377 ly</span>
+[in green] <span style="color:green">4.2377 LY</span>
 
 [Caption below the panel:]
 

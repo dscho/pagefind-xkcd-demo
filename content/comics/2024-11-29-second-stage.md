@@ -6,8 +6,6 @@ alt: >-
   Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time.
 img: https://imgs.xkcd.com/comics/second_stage_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [A multi-stage rocket, with a capsule on top, is lifting-off the ground from a launchpad, at least two rocket nozzles are visibly producing a flame, and the pad is surrounded with smoke and/or steam from the blast suppression system. A voice comes from the capsule at the top.]
 
 We have liftoff.

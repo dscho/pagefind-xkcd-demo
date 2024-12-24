@@ -6,13 +6,11 @@ alt: >-
   The number one rule of string manipulation is that youâ€™ve got to specify your encodings.
 img: https://imgs.xkcd.com/comics/sandwich_helix_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Cueball, with his palm out, is standing in front of a class and facing Ponytail and Hairy, who are sitting at their classroom desks.]
 
 Cueball: Always remember the #1 rule of communication:
 
-Cueball: *Sandwich Helix.*
+Cueball: ***Sandwich Helix.***
 
 Ponytail: What does that mean?
 

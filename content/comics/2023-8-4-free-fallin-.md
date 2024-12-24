@@ -6,8 +6,6 @@ alt: >-
   Their crash investigation team had some particularly harsh words for Dave Matthews.
 img: https://imgs.xkcd.com/comics/free_fallin_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [There is a map of San Fernando Valley, California, with a dotted line labeled “flight path” and several other features marked on and around the line. It must be assumed up is north, since there is no compass to indicate otherwise.]
 
 [The emblem and name of the National Transportation Safety Board (NTSB) are in the in top left.]

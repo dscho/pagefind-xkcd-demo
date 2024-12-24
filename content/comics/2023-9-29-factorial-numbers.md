@@ -30,7 +30,7 @@ img: https://imgs.xkcd.com/comics/factorial_numbers_2x.png
 
 [6th rightmost stack:] Base 7 [square:] 3
 
-[Leftmost stack has no obvious text, its square is cut across by the 'torn' edge of the diagram.]
+[Leftmost stack is cut across by the 'torn' edge of the diagram. Square seemingly contains a 0.]
 
 [Two column-pairs, with idential paired-headers, above (generally) a 'number', a linking dash and another 'number']
 

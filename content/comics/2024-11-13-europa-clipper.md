@@ -6,9 +6,7 @@ alt: >-
   They had BETTER make this a sample return mission.
 img: https://imgs.xkcd.com/comics/europa_clipper_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
-[A space probe with two rectangular solar panels, a circular dish of the front, and a very large spoon extending beneath, longer than the span of both solar panels]
+[A space probe with two rectangular solar panels, a circular dish on the front, and a very large spoon extending beneath, longer than the span of both solar panels]
 
 [Below the panel:]
 

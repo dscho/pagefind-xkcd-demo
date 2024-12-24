@@ -6,7 +6,7 @@ alt: >-
   Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way.
 img: https://imgs.xkcd.com/comics/exclusion_principle_2x.png
 ---
-[Inside panel:]
+[Inside the panel, there is an underlined header and a numbered list, with the fifth and last item in red:]
 
 <u>Fundamental Forces</u>
 
@@ -20,6 +20,6 @@ img: https://imgs.xkcd.com/comics/exclusion_principle_2x.png
 
 <span style="color:red">*5. Electrons are weird about each other*</span>
 
-[Caption below list:]
+[Caption below the panel:]
 
-Big news: Physicists have finally given up on trying to explain about the "exchange interaction" and agreed to just make the exclusion principle a force.
+Big news: Physicists have finally given up trying to explain about the "exchange interaction" and agreed to just make the exclusion principle a force.

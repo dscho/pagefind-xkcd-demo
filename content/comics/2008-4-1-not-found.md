@@ -6,9 +6,9 @@ alt: >-
   
 
 ---
-[Instead of the regular xkcd site layout, just a white page that states on top center:]
+[Instead of the regular xkcd site layout, there is only a white page that states the following on top center:]
 
-404 Not Found
+**404 Not Found**
 
 [Page-wide divider line]
 

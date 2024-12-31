@@ -6,11 +6,9 @@ alt: >-
   I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.
 img: https://imgs.xkcd.com/comics/lasering_incidents_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+[In a black panel there is a glowing green laser beam that starts in a green starburst at the lower right part and exits the panel near the upper left corner. Green text is written along the laser line and where the text ends a small green arrow is pointing to the starburst from where the laser light emanates.]
 
-[In a single comic panel that has a black background, there is a glowing green laser beam that starts in the upper left of the panel and ends near the lower right. An arrow in the label is pointing to a point that has spikes of green light glowing out. The label is in green and written alongside the laser beam.]
-
-<u>Someone is committing a federal crime right here→</u>
+<span style="color:#32CD32">Someone is committing a federal crime right here →</span>
 
 [Caption below the panel:]
 

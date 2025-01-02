@@ -6,16 +6,20 @@ alt: >-
   Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES.
 img: https://imgs.xkcd.com/comics/time_capsule_instructions_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+[Cueball and Megan are clinking wine glasses while Ponytail is digging with a shovel under a sign standing on two legs next to Ponytail. From the off-panel to the left several voices are shouting. On the sign are two large words above two lines of unreadable lines of text.]
 
-[A frame with a Time Capsule sign. Cueball and Megan are clinking wine glasses. Ponytail is digging with a shovel.]
+Off-panel voices: <big>*Happy New Year!*</big>
 
-Off-panel sound: *Happy New Year!*
+Sign: <big>Time</big> Capsule
 
-[A frame showing a soiled box labeled "DO NOT OPEN UNTIL 2025"]
+[A dirty box with a hasp closing it. There is a label on the lid:]
 
-[A frame where Ponytail opens the box while Cueball and Megan watch.]
+Do not open until 2025
+
+[Cueball and Megan, holding their wine glasses, look over Ponytail's shoulder as she crouches down in front of the box and opens it with an audible sound. The shovel is standing behind the box, dug into the ground.]
 
 Click
 
-[The box is revealed to contain a second box labeled "DO NOT OPEN AFTER 2024"]
+[The open box is shown revealing that it contains a second, pristine box with a similar label:]
+
+Do not open after 2024

@@ -14,7 +14,7 @@ Step 1.
 
 [A square sheet of paper shown folded in half, with a dashed line going across the middle, and an arrow pointing from one half to the other.]
 
-[In each step from Step 2. to Step 9., the paper is shown folded in half again and depicted in the same manner as Step 1.]
+[In each step from Step 2. to Step 9., the paper is shown folded in half again and depicted in the same manner as Step 1. The aspect ratio of the sides alternates between 2:1 and 1:1.]
 
 Step 2.
 
@@ -40,6 +40,6 @@ Fold paper in half another 180 or so times.
 
 Step 190.
 
-[A labeled arrow points to a dot]
+[A labeled arrow points to an apparently glowing black dot]
 
 Black hole!

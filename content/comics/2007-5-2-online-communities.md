@@ -6,7 +6,9 @@ alt: >-
   I'm waiting for the day when, if you tell someone 'I'm from the internet', instead of laughing they just ask 'oh, what part?'
 img: https://imgs.xkcd.com/comics/online_communities_small.png
 ---
-[Hand-drawn fantasy style map with land and sea areas representing populations of online communities. Each area or item is labeled.]
+[Hand-drawn fantasy style map with land and sea areas representing populations of online communities mostly using a sepia/old-vellum effect. Each area or item is labeled.]
+
+[Label in a box with a white-background and slightly irregular border, overlaid and barely fit within a convenient area of apparently featureless sea in a central upper region:]
 
 Map of Online Communities and related points of interest
 
@@ -187,6 +189,8 @@ Sea of Memes,
 The Wet Sea
 
 Item Labels: Shipwreck of the SS Howard Dean, Cory Doctrow's Balloon, Stallman's airship, Google's volcano fortress
+
+[Another label in a white box, set down in a convenient spot in the lower-left of the map:]
 
 (Not a complete survey. Sizes based on the best figures I could find but involved some guesswork. Do not use for navigation.)
 

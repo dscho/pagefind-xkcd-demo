@@ -14,24 +14,26 @@ Y axis label: How often it comes up in my adult life
 
 X axis label: How often I expected it to come up in my adult life
 
-[First row, comes up very often, from least to most expected:]
+[First row of items (comes up very often, from least to most expected):]
 
-Unexplained smells or noises, customer service, pocket radio communicators, bills, shopping
+Unexplained smells or noises; customer service; pocket radio communicators; bills; shopping
 
-Figuring out what to have for dinner, HVAC issues, secret passwords, laundry, cooking, taxes
+[Items row by row from the second row onwards:]
 
-Weather forecasts, batteries, video games, power tools
+Figuring out what to have for dinner; HVAC issues; secret passwords; laundry; cooking; taxes
 
-Cable management, dangerous driving situations, pizza, Star Wars, lasers, cool toys
+Weather forecasts; batteries; video games; power tools
 
-Adhesives, board games, tying knots
+Cable management; dangerous driving situations; pizza; Star Wars; lasers; cool toys
 
-Water damage, backpacks, my academic record
+Adhesives; board games; tying knots
 
-Flat tires, briefcases, martial arts
+Water damage; backpacks; my academic record
 
-Middle names, people offering free drugs, food fights, parachutes, twins switching places, barrels
+Flat tires; briefcases; martial arts
 
-[Last row, comes up very rarely, from least to most expected:]
+Middle names; people offering free drugs; food fights; parachutes; twins switching places; barrels
 
-Which fork you're supposed to use for what, car chases, lit fuses, shoving a stick in a crocodile's mouth to wedge it open, grappling hooks, quicksand
+[Last row (comes up very rarely, from least to most expected):]
+
+Which fork you're supposed to use for what; car chases; lit fuses; shoving a stick in a crocodile's mouth to wedge it open; grappling hooks; quicksand

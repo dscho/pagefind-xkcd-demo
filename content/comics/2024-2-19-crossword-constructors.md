@@ -12,18 +12,10 @@ Dear Ms. Swift, Mr. Sheeran, Ms. Minaj, Ms. Grande, and Mr. Weeknd,
 
 We are a group of crossword puzzle constructors, and we would like to suggest some titles for your future albums:
 
-\*Aete
+•Aete &nbsp; &nbsp; &nbsp; &nbsp;•Oine
 
-\*Eni
+•Eni &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;•Aen
 
-\*Oreta
+•Oreta &nbsp; &nbsp; &nbsp;•Enta
 
-\*Aroe
-
-\*Oine
-
-\*Aen
-
-\*Enta
-
-\*Aerae
+•Aroe &nbsp; &nbsp; &nbsp; &nbsp;•Aerae

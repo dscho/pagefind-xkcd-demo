@@ -182,4 +182,14 @@ Diagram showing IP ownership:
 
 224-239: Multicast
 
-240-255: <font color="green">Unallocated</font>
+240-255: <font color="green">Unallocated</font> \***Click** for a visual representation of the comic:
+
+<div class="mw-collapsible mw-collapsed leftAlign" style="width:100%">
+
+<br>
+
+???
+
+</div>
+
+<br>

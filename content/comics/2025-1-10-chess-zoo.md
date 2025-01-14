@@ -6,114 +6,22 @@ alt: >-
   The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity.
 img: https://imgs.xkcd.com/comics/chess_zoo_2x.png
 ---
-{{incomplete transcript|Needs a description of the layout. Do NOT delete this tag too soon.}}
+[A large panel is shown. It contains what appear to be a chessboard, but it is much larger than the usual 8x8=64 chess board squares. But it is divided into squares that are alternatingly white or gray. In the part shown 29x43 = 1247 squares are visible. Although for the outer rows and columns only less than half of each square there can be seen, so only 27x41 = 1107 squares are fully shown. On the "board" there are many details. Above the panel there is a large caption with a caption giving an explanation:]
 
-[Caption above a panel that contains a cut-off chessboard that is presumably at least 29x43 squares:]
+<big><big>Chess Zoo</big></big>
 
-Chess Zoo
+<big>Designed to give different types of pieces their own enclosures while letting them interact as much as possible without allowing captures</big>
 
-Designed to give different types of pieces their own enclosures while letting them interact as much as possible without allowing captures
+[Upon the board there has been drawn an enclosure by drawing black squares on the white/gray squares. These black squares are smaller than the underlying squares but centered on the middle of their square. The outer parts of this enclosure covers 25x39 = 975 squares. It is not an entire rectangle of the black squares, but the top, the right side and bottom is a full line of 25, 39 and 25 black squares. The left line is only a normal line for the top and bottom 6 squares. Then for the next 12 rows (top or bottom), the "solid" line is moved one step in (to the right) and only on every second row is here a black square on the outer line. Above this there is a gap of 5 squares without black squares on either of the two left most squares (and 7 rows in a row with no black squares on the outer most line). This created a section inside the enclosure connected directly to the outside, but this part is still closed off, with black squares forming walls on this inner section, that closes it off from the rest of the enclosure.]
 
-[A large picture with alternating black and white squares. Some squares have smaller black squares imposed on them. Other squares may have chess pieces or characters on them.]
+[Inside this enclosure there are many other squares that have the black squares on top forming several rooms that are either closed of from other rooms or connected in some places. And on the white and gray squares that do not have black squares in top, there may bee drawn chess pieces or humans on them.]
 
-[Banner above black squares on the top right:]
+[The top part of the image has enclosures for black chess pieces and the bottom for white ones. Smaller black squares form enclosures around the chess pieces while the characters are outside of them. In the middle of the image, to the right, there are black and white bishops next to each other on squares of opposite colors. Humans are only on the outside of the enclosure, mainly above (eight) and below (six) with only three to the right. The the left people can stand either outside normal (three), or inside one of the indentations (two). But they can also walk into the open part and there are nine inside like this.]
+
+[Banner on top of smaller black squares on the top right, above an enclosure with a knight and four pawns:]
 
 Banner: *Shh! Pawns promoting.*
 
 [Jill near the center, standing in front of Blondie and pointing forward:]
 
 Jill: Look, mommy! Bishops!
-
-\***Click** for a visual representation of the comic:
-
-<div class="mw-collapsible mw-collapsed leftAlign" style="width:100%">
-
-<br>
-
-[Layout (H is human; # is a smaller black square; chess pieces on the top half are black and below that white, unless otherwise noted):]
-
-      HH H     HH   H HH
-
-  #########################
-
-  #         #     #########
-
-  #  K  K   # R   ##     ##
-
-  #      Q  #    R##P   P##
-
- H# #K#    R##### ## P   ##
-
-  ### ###       #R##  P  ##
-
-   ## ######    # ##   N ##
-
-  ### # #####   # #########
-
-  H# K  #  #### #  ########
-
-  ###  N#   #####     #   #
-
-   #    #  R      B   #   #
-
-  #######   ####     # B B#H
-
- H #    # N N##   B R#    #
-
-  ### N #    ##      B# B #
-
-   #    #    ## #  #  #   #
-
-  ### # #N# ### ###B## ####
-
-   ###########  #   B#   B#
-
-    #H# # # # #R#    #    #
-
-               ##B   #  B #  [White bishops]
-
-      H     HH     B #  B #  [Black bishops]
-
-    HH        H##  B # B  #  [Left bishop: white, right bishop: black]
-
-    # #H# #H# # # B  # B B#
-
-   ########### R#    #    #
-
-  ### # # # ### ## #### ###
-
-   #   N#    ## # #B   #  #
-
-  ###   #    ##R    R  #B #H
-
-   #    #    ##   R B #   #H
-
-  #######  R####      # B #
-
-   #    #          BB#    #
-
-  ###KN # N ##### B  #    #
-
-   #    #  #### #  ########
-
-  ### # #####   # #########
-
-  H## ######    # ##     ##
-
-  ### ###       # ##P    ##
-
-  # # #     #####R##     ##
-
-  #      Q K#     ## P  P##
-
- H# K       #  RR ##     ##
-
-  #  K      # R   #########
-
-  #########################
-
-      H       HHHH     H
-
-</div>
-
-<br>

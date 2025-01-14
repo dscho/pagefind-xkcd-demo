@@ -6,8 +6,6 @@ alt: >-
   C'mon, ESA Solar Orbiter team, just give the Parker probe a LITTLE nudge at aphelion. Crash it into the sun. Fulfill the dream of Icarus. It is your destiny.
 img: https://imgs.xkcd.com/comics/sun_avoidance_2x.png
 ---
-{{incomplete transcript|Do NOT delete this tag too soon.}}
-
 [Header:] Sun Avoidance Skill Leaderboard
 
 [A table with three columns, all with underlined headers.]

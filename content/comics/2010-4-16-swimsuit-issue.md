@@ -14,6 +14,6 @@ Father: Oh! That's daddy's *Sports Illustrated* Swimsuit Issue! It's not appropr
 
 Child: Wow! They look just like the ladies who get double-penetrated in the popup ads!
 
-Child But with clothes on!
+Child: But with clothes on!
 
 Child: Gosh!

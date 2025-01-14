@@ -114,7 +114,7 @@ Bottom Mid-Right
 
 Bulging lithium battery, puncture and slurp: [red]
 
-[An explosion bordered by 4 skull and crossbones.]
+[Same as Bottom Left]
 
 Bottom Right
 

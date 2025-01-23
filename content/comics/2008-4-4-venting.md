@@ -10,7 +10,7 @@ img: https://imgs.xkcd.com/comics/venting.png
 
 [Cueball is sitting at a desk, typing in front of a monitor. A curved line leads up from his hands to the text above.]
 
-In conclusion, on examining the above post by CrackMonkey74, after carefully working my way through the haze of spelling errors (documented in section 3), abuse of capitalization (section 4), and general crimes against grammar and syntax (sections 7-8), I have demonstrated that, beneath it all, the work betrays the author's staggering ignorance of the history and the workings of our electoral system. While the author's wildly swerving train of thought did at one point flirt with coherence, this brief encounter was more likely a chance event (see statistical analysis in table 5) than a result of even rudimentary lucidity.
+...In conclusion, on examining the above post by CrackMonkey74, after carefully working my way through the haze of spelling errors (documented in section 3), abuse of capitalization (section 4), and general crimes against grammar and syntax (sections 7-8), I have demonstrated that, beneath it all, the work betrays the author's staggering ignorance of the history and the workings of our electoral system. While the author's wildly swerving train of thought did at one point flirt with coherence, this brief encounter was more likely a chance event (see statistical analysis in table 5) than a result of even rudimentary lucidity.
 
 -Summer Glau
 

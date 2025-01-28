@@ -28,7 +28,7 @@ Extinction
 
 [The graph shows three animals positioned from the top left, to the middle to the bottom right of the graph.]
 
-[The first animal is a regular dinosaur walking on it's hind legs, with fairly long front legs. It is positioned at 4 limbs and 150 million years ago. A label is written above and right of it:]
+[The first animal is a regular dinosaur walking on its hind legs, with fairly long front legs. It is positioned at 4 limbs and 150 million years ago. A label is written above and right of it:]
 
 4 normal limbs
 
@@ -44,6 +44,6 @@ Barely more than 2
 
 [Caption below the panel:]
 
-If T. Rex hadn't gone extinct
+If T. rex hadn't gone extinct
 
 (Linear extrapolation)

@@ -72,7 +72,7 @@ Mars rover: Haha, no. It’s cold and I’d die.
 
 3. (1) Don't harm humans:
 
-[Exactly the same picture as in row 3.]
+[Two robots are fighting. The one to the left has six wheels, a tall neck on top of the body, with a head with what could be a camera facing right. It has something pointing forward on the body, which could be a weapon. The robot to the right, seems to be further away into the picture. (it is smaller with less detail). It is human shapes, but made op of square structures. It has two legs and two arms, a torso and a head. It clearly shoots something out of it’s right “hand”. This shot seems to create an explosion a third of the way towards the left robot. There are two mushroom clouds from explosions behind both robots (left and right). Between them there are one more explosion up in the air close to the left robot, and what looks like a fire on the ground right between them. Furthermore there are two missiles in the air, one above the head of each robot. Lines indicate their trajectory. There is not text.]
 
 <font color="red">**Killbot hellscape**</font>
 
@@ -98,6 +98,6 @@ Car factory robot: I'll make cars for you, but try to unplug me and I’ll vapor
 
 3. (1) Don't harm humans:
 
-[Exactly the same picture as in row 3 and 4.]
+[Two robots are fighting. The one to the left has six wheels, a tall neck on top of the body, with a head with what could be a camera facing right. It has something pointing forward on the body, which could be a weapon. The robot to the right, seems to be further away into the picture. (it is smaller with less detail). It is human shapes, but made op of square structures. It has two legs and two arms, a torso and a head. It clearly shoots something out of it’s right “hand”. This shot seems to create an explosion a third of the way towards the left robot. There are two mushroom clouds from explosions behind both robots (left and right). Between them there are one more explosion up in the air close to the left robot, and what looks like a fire on the ground right between them. Furthermore there are two missiles in the air, one above the head of each robot. Lines indicate their trajectory. There is not text.]
 
 <font color="red">**Killbot hellscape**</font>
